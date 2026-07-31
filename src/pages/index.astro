@@ -4,18 +4,19 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import GameCard from '../components/GameCard.astro';
 import SearchBox from '../components/SearchBox.astro';
-import { activeCodeCount, getFeaturedGames } from '../lib/games';
+import { activeCodeCount, getPopularGames, getRecentlyUpdatedGames } from '../lib/games';
 import { getCollection } from 'astro:content';
 import { SITE_DESC } from '../lib/seo';
 import outfitWoff2 from '@fontsource/outfit/files/outfit-latin-700-normal.woff2?url';
 
-const featured = await getFeaturedGames(8);
+const popular = await getPopularGames(8);
+const recentlyUpdated = await getRecentlyUpdatedGames(6);
 const posts = (await getCollection('blog'))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 6);
+  .slice(0, 3);
 const homeModified =
-  featured.length > 0
-    ? new Date(Math.max(...featured.map((g) => g.data.updatedAt.valueOf()))).toISOString()
+  popular.length > 0
+    ? new Date(Math.max(...popular.map((g) => g.data.updatedAt.valueOf()))).toISOString()
     : new Date().toISOString();
 ---
 
@@ -72,14 +73,16 @@ const homeModified =
   <section class="relative z-0 mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
     <div class="flex items-baseline justify-between gap-4">
       <div>
-        <h2 class="font-display text-lg font-bold text-ink sm:text-xl">Featured games</h2>
-        <p class="mt-0.5 text-xs text-muted sm:text-sm">Official Roblox icons. Fresh codes.</p>
+        <h2 class="font-display text-lg font-bold text-ink sm:text-xl">Popular Roblox codes</h2>
+        <p class="mt-0.5 text-xs text-muted sm:text-sm">Most-searched games. Fresh active lists.</p>
       </div>
-      <a href="/codes" class="shrink-0 text-xs font-semibold text-muted hover:text-signal">View all →</a>
+      <a href="/codes/popular" class="shrink-0 text-xs font-semibold text-muted hover:text-signal"
+        >View popular →</a
+      >
     </div>
     <div class="mt-4 grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-2">
       {
-        featured.map((game) => (
+        popular.map((game) => (
           <GameCard
             href={`/codes/${game.id}`}
             gameName={game.data.gameName}
@@ -91,39 +94,62 @@ const homeModified =
         ))
       }
     </div>
+    <div class="mt-4 flex flex-wrap gap-3 text-xs font-semibold">
+      <a href="/codes/updated" class="text-teal hover:text-signal">Recently updated →</a>
+      <a href="/codes" class="text-muted hover:text-signal">All games →</a>
+    </div>
   </section>
 
   <section class="border-y border-line bg-paper/50">
     <div class="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
       <div class="flex items-baseline justify-between gap-4">
         <div>
-          <h2 class="font-display text-lg font-bold text-ink sm:text-xl">From the blog</h2>
-          <p class="mt-0.5 text-xs text-muted sm:text-sm">Guides that help you redeem faster.</p>
+          <h2 class="font-display text-lg font-bold text-ink sm:text-xl">Just updated</h2>
+          <p class="mt-0.5 text-xs text-muted sm:text-sm">Code lists that changed most recently.</p>
         </div>
-        <a href="/blog" class="shrink-0 text-xs font-semibold text-muted hover:text-signal">View all →</a>
+        <a href="/codes/updated" class="shrink-0 text-xs font-semibold text-muted hover:text-signal"
+          >See all →</a
+        >
       </div>
       <div class="mt-4 grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-3">
         {
-          posts.map((post) => (
-            <a
-              href={`/blog/${post.id}`}
-              class="group rounded-lg border border-line bg-white px-3 py-2.5 transition hover:border-signal/40"
-            >
-              <p class="text-[10px] font-bold uppercase tracking-[0.12em] text-muted">
-                {post.data.pubDate.toLocaleDateString('en-US', {
-                  month: 'short',
-                  day: 'numeric',
-                  year: 'numeric',
-                })}
-              </p>
-              <h3 class="mt-1 font-display text-sm font-bold leading-snug text-ink transition group-hover:text-signal">
-                {post.data.title}
-              </h3>
-              <p class="mt-0.5 line-clamp-1 text-xs text-muted">{post.data.description}</p>
-            </a>
+          recentlyUpdated.map((game) => (
+            <GameCard
+              href={`/codes/${game.id}`}
+              gameName={game.data.gameName}
+              description={game.data.description}
+              updatedAt={game.data.updatedAt}
+              activeCount={activeCodeCount(game)}
+              cover={game.data.cover}
+            />
           ))
         }
       </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
+    <div class="flex items-baseline justify-between gap-4">
+      <div>
+        <h2 class="font-display text-lg font-bold text-ink sm:text-xl">Guides</h2>
+        <p class="mt-0.5 text-xs text-muted sm:text-sm">Account &amp; safety how-tos.</p>
+      </div>
+      <a href="/blog" class="shrink-0 text-xs font-semibold text-muted hover:text-signal">Blog →</a>
+    </div>
+    <div class="mt-4 grid grid-cols-1 gap-2 sm:grid-cols-3">
+      {
+        posts.map((post) => (
+          <a
+            href={`/blog/${post.id}`}
+            class="group rounded-lg border border-line bg-white px-3 py-2.5 transition hover:border-signal/40"
+          >
+            <h3 class="font-display text-sm font-bold leading-snug text-ink transition group-hover:text-signal">
+              {post.data.title}
+            </h3>
+            <p class="mt-0.5 line-clamp-1 text-xs text-muted">{post.data.description}</p>
+          </a>
+        ))
+      }
     </div>
   </section>
 
