@@ -29,13 +29,183 @@
   ],
   "codes": [
     {
-      "code": "YEETLEGEND",
-      "reward": "5x Free Energy Boost, Power Boost, and Luck Boost ( )",
+      "code": "AFK",
+      "reward": "2x Luck Boost",
+      "status": "active"
+    },
+    {
+      "code": "Aztec",
+      "reward": "3x Wheel Spins",
+      "status": "active"
+    },
+    {
+      "code": "BOMBARDINO",
+      "reward": "1x Mythic Slime Pet",
+      "status": "active"
+    },
+    {
+      "code": "Camp",
+      "reward": "1x Magneto Boost",
+      "status": "active"
+    },
+    {
+      "code": "CHRISTMAS",
+      "reward": "10K Stars",
+      "status": "active"
+    },
+    {
+      "code": "Collector",
+      "reward": "10K Stars",
+      "status": "active"
+    },
+    {
+      "code": "Dimension",
+      "reward": "2x Power Boost",
+      "status": "active"
+    },
+    {
+      "code": "DIMENSIONBOOST",
+      "reward": "2x Energy Boost",
+      "status": "active"
+    },
+    {
+      "code": "EASYEET",
+      "reward": "2x Power Boost",
+      "status": "active"
+    },
+    {
+      "code": "Enchanted",
+      "reward": "5K Stars",
+      "status": "active"
+    },
+    {
+      "code": "FreePower",
+      "reward": "1x Power Boost",
+      "status": "active"
+    },
+    {
+      "code": "FreeStars",
+      "reward": "750 Gems",
+      "status": "active"
+    },
+    {
+      "code": "GIFTING",
+      "reward": "5x Wheel Spins",
+      "status": "active"
+    },
+    {
+      "code": "Glacier",
+      "reward": "10K Stars",
+      "status": "active"
+    },
+    {
+      "code": "GOTHICSCHOOL",
+      "reward": "3x Energy Boost, 3x Power Boost, and 3x Luck Boost",
+      "status": "active"
+    },
+    {
+      "code": "GRAFFITI",
+      "reward": "3x Energy Boost, 3x Power Boost, and 3x Luck Boost",
+      "status": "active"
+    },
+    {
+      "code": "GYMSTAR",
+      "reward": "7.77K Stars",
+      "status": "active"
+    },
+    {
+      "code": "Halloween",
+      "reward": "50K Stars",
+      "status": "active"
+    },
+    {
+      "code": "Happy2024",
+      "reward": "50K Stars",
+      "status": "active"
+    },
+    {
+      "code": "iLoveYeeting",
+      "reward": "1x Legendary Slime Pet",
+      "status": "active"
+    },
+    {
+      "code": "IPLAYEVERYDAY",
+      "reward": "1x Legendary Slime Pet",
+      "status": "active"
+    },
+    {
+      "code": "Junk",
+      "reward": "3x Power Boost",
+      "status": "active"
+    },
+    {
+      "code": "Magic",
+      "reward": "3x Energy Boost",
+      "status": "active"
+    },
+    {
+      "code": "NYCOUNTDOWN",
+      "reward": "300 Party Balloons",
+      "status": "active"
+    },
+    {
+      "code": "Octopus",
+      "reward": "3x Energy Boost, 3x Power Boost, and 3x Luck Boost",
+      "status": "active"
+    },
+    {
+      "code": "OLYMP",
+      "reward": "1x Mythic Slime Pet",
+      "status": "active"
+    },
+    {
+      "code": "Reap",
+      "reward": "10K Stars",
+      "status": "active"
+    },
+    {
+      "code": "StarShopper",
+      "reward": "5K Stars",
+      "status": "active"
+    },
+    {
+      "code": "SUPERCAR",
+      "reward": "3x Wheel Spins",
+      "status": "active"
+    },
+    {
+      "code": "Teleporter",
+      "reward": "5K Stars",
       "status": "active"
     },
     {
       "code": "TOPYEET",
       "reward": "10K Stars",
+      "status": "active"
+    },
+    {
+      "code": "TURKEYEET",
+      "reward": "3x Energy Boost, 3x Power Boost, and 3x Luck Boost",
+      "status": "active"
+    },
+    {
+      "code": "VALENTINE",
+      "reward": "3x Energy Boost, 3x Power Boost, and 3x Luck Boost",
+      "status": "active"
+    },
+    {
+      "code": "XMAS24",
+      "reward": "30K Stars",
+      "status": "active"
+    },
+    {
+      "code": "YAFTOBER",
+      "reward": "3x Energy Boost, 3x Power Boost, and 3x Luck Boost",
+      "status": "active"
+    },
+    {
+      "code": "YeetCartoon",
+      "reward": "2x Power Boost",
       "status": "active"
     },
     {
@@ -49,187 +219,62 @@
       "status": "active"
     },
     {
+      "code": "YEETLEGEND",
+      "reward": "5x Free Energy Boost, Power Boost, and Luck Boost ( )",
+      "status": "active"
+    },
+    {
       "code": "YEETOLYMPICS",
       "reward": "10K Stars",
       "status": "active"
     },
     {
-      "code": "NYCOUNTDOWN",
-      "reward": "300 Party Balloons",
-      "status": "active"
+      "code": "8217",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
-      "code": "TURKEYEET",
-      "reward": "3x Energy Boost, 3x Power Boost, and 3x Luck Boost",
-      "status": "active"
+      "code": "8220",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
-      "code": "YAFTOBER",
-      "reward": "3x Energy Boost, 3x Power Boost, and 3x Luck Boost",
-      "status": "active"
+      "code": "8221",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
-      "code": "GRAFFITI",
-      "reward": "3x Energy Boost, 3x Power Boost, and 3x Luck Boost",
-      "status": "active"
+      "code": "Alien",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
-      "code": "GOTHICSCHOOL",
-      "reward": "3x Energy Boost, 3x Power Boost, and 3x Luck Boost",
-      "status": "active"
+      "code": "Articles",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
-      "code": "Camp",
-      "reward": "1x Magneto Boost",
-      "status": "active"
+      "code": "Atlantis",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
-      "code": "Octopus",
-      "reward": "3x Energy Boost, 3x Power Boost, and 3x Luck Boost",
-      "status": "active"
+      "code": "AtomicReward",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
-      "code": "BOMBARDINO",
-      "reward": "1x Mythic Slime Pet",
-      "status": "active"
+      "code": "bookmarking",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
-      "code": "GYMSTAR",
-      "reward": "7.77K Stars",
-      "status": "active"
+      "code": "ENTER",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
-      "code": "SUPERCAR",
-      "reward": "3x Wheel Spins",
-      "status": "active"
-    },
-    {
-      "code": "VALENTINE",
-      "reward": "3x Energy Boost, 3x Power Boost, and 3x Luck Boost",
-      "status": "active"
-    },
-    {
-      "code": "OLYMP",
-      "reward": "1x Mythic Slime Pet",
-      "status": "active"
-    },
-    {
-      "code": "IPLAYEVERYDAY",
-      "reward": "1x Legendary Slime Pet",
-      "status": "active"
-    },
-    {
-      "code": "XMAS24",
-      "reward": "30K Stars",
-      "status": "active"
-    },
-    {
-      "code": "Halloween",
-      "reward": "50K Stars",
-      "status": "active"
-    },
-    {
-      "code": "DIMENSIONBOOST",
-      "reward": "2x Energy Boost",
-      "status": "active"
-    },
-    {
-      "code": "Reap",
-      "reward": "10K Stars",
-      "status": "active"
-    },
-    {
-      "code": "Junk",
-      "reward": "3x Power Boost",
-      "status": "active"
-    },
-    {
-      "code": "Aztec",
-      "reward": "3x Wheel Spins",
-      "status": "active"
-    },
-    {
-      "code": "Magic",
-      "reward": "3x Energy Boost",
-      "status": "active"
-    },
-    {
-      "code": "Dimension",
-      "reward": "2x Power Boost",
-      "status": "active"
-    },
-    {
-      "code": "Collector",
-      "reward": "10K Stars",
-      "status": "active"
-    },
-    {
-      "code": "StarShopper",
-      "reward": "5K Stars",
-      "status": "active"
-    },
-    {
-      "code": "FreeStars",
-      "reward": "750 Gems",
-      "status": "active"
-    },
-    {
-      "code": "FreePower",
-      "reward": "1x Power Boost",
-      "status": "active"
-    },
-    {
-      "code": "GIFTING",
-      "reward": "5x Wheel Spins",
-      "status": "active"
-    },
-    {
-      "code": "Happy2024",
-      "reward": "50K Stars",
-      "status": "active"
-    },
-    {
-      "code": "EASYEET",
-      "reward": "2x Power Boost",
-      "status": "active"
-    },
-    {
-      "code": "CHRISTMAS",
-      "reward": "10K Stars",
-      "status": "active"
-    },
-    {
-      "code": "AFK",
-      "reward": "2x Luck Boost",
-      "status": "active"
-    },
-    {
-      "code": "Glacier",
-      "reward": "10K Stars",
-      "status": "active"
-    },
-    {
-      "code": "Enchanted",
-      "reward": "5K Stars",
-      "status": "active"
-    },
-    {
-      "code": "Teleporter",
-      "reward": "5K Stars",
-      "status": "active"
-    },
-    {
-      "code": "YeetCartoon",
-      "reward": "2x Power Boost",
-      "status": "active"
-    },
-    {
-      "code": "iLoveYeeting",
-      "reward": "1x Legendary Slime Pet",
-      "status": "active"
-    },
-    {
-      "code": "Yeet",
+      "code": "Follow",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -239,12 +284,7 @@
       "status": "expired"
     },
     {
-      "code": "JackoLantern",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SuperRebirths",
+      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -254,7 +294,42 @@
       "status": "expired"
     },
     {
-      "code": "Sewer",
+      "code": "Halloween2023",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "However",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Input",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "JackoLantern",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "King",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Launch",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Legacy",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Library",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -264,7 +339,7 @@
       "status": "expired"
     },
     {
-      "code": "PetIndex",
+      "code": "MoneyUpdate",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -279,127 +354,12 @@
       "status": "expired"
     },
     {
-      "code": "Sunglasses",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Halloween2023",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "YeetA250k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "AtomicReward",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Library",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MoneyUpdate",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Alien",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Yarrr",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Trading",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Atlantis",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "OneThousandLikes",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "King",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legacy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Stand",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Input",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8220",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ENTER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8221",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thirstier",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
+      "code": "PetIndex",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -409,22 +369,62 @@
       "status": "expired"
     },
     {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Related",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Articles",
+      "code": "Sewer",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Stand",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Sunglasses",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SuperRebirths",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thirstier",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Tower",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Trading",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Yarrr",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Yeet",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "YeetA250k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

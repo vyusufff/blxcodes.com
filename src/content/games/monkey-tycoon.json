@@ -29,77 +29,7 @@
   ],
   "codes": [
     {
-      "code": "HughMungus",
-      "reward": "One million monkeys",
-      "status": "active"
-    },
-    {
-      "code": "Arboreal",
-      "reward": "Free rewards",
-      "status": "active"
-    },
-    {
-      "code": "Baboon",
-      "reward": "Free reward",
-      "status": "active"
-    },
-    {
-      "code": "Gorilla",
-      "reward": "Free reward",
-      "status": "active"
-    },
-    {
-      "code": "Orangutan",
-      "reward": "Free reward",
-      "status": "active"
-    },
-    {
-      "code": "Primate",
-      "reward": "Free reward",
-      "status": "active"
-    },
-    {
-      "code": "Simian",
-      "reward": "Free reward",
-      "status": "active"
-    },
-    {
-      "code": "bugfixing",
-      "reward": "Five sacrifices",
-      "status": "active"
-    },
-    {
-      "code": "Thanks",
-      "reward": "1 million monkeys",
-      "status": "active"
-    },
-    {
-      "code": "Nevergonnagiveyouup",
-      "reward": "1 million monkeys",
-      "status": "active"
-    },
-    {
-      "code": "Nevergonnaletyoudown",
-      "reward": "1 million monkeys",
-      "status": "active"
-    },
-    {
-      "code": "Nevergonnarunaroundanddesertyou",
-      "reward": "1 million monkeys",
-      "status": "active"
-    },
-    {
-      "code": "Nevergonnamakeyoucry",
-      "reward": "1 million monkeys",
-      "status": "active"
-    },
-    {
-      "code": "Nevergonnasaygoodbye",
-      "reward": "1 million monkeys",
-      "status": "active"
-    },
-    {
-      "code": "Nevergonnatellalieandhurtyou",
+      "code": "142496",
       "reward": "1 million monkeys",
       "status": "active"
     },
@@ -109,12 +39,22 @@
       "status": "active"
     },
     {
-      "code": "Bakery",
-      "reward": "1 million monkeys",
+      "code": "Arboreal",
+      "reward": "Free rewards",
       "status": "active"
     },
     {
-      "code": "Tarantula",
+      "code": "Asteroid",
+      "reward": "Four sacrifices",
+      "status": "active"
+    },
+    {
+      "code": "Baboon",
+      "reward": "Free reward",
+      "status": "active"
+    },
+    {
+      "code": "Bakery",
       "reward": "1 million monkeys",
       "status": "active"
     },
@@ -129,63 +69,18 @@
       "status": "active"
     },
     {
+      "code": "Boostmeup",
+      "reward": "3x time boost",
+      "status": "active"
+    },
+    {
       "code": "bottle",
       "reward": "Three sacrifices",
       "status": "active"
     },
     {
-      "code": "statues",
-      "reward": "4.8 million monkeys",
-      "status": "active"
-    },
-    {
-      "code": "Asteroid",
-      "reward": "Four sacrifices",
-      "status": "active"
-    },
-    {
-      "code": "RollTheDice",
-      "reward": "Random amount of monkeys",
-      "status": "active"
-    },
-    {
-      "code": "PlayStreetWars",
-      "reward": "Two sacrifices",
-      "status": "active"
-    },
-    {
-      "code": "142496",
-      "reward": "1 million monkeys",
-      "status": "active"
-    },
-    {
-      "code": "Hot",
-      "reward": "Set yourself on fire",
-      "status": "active"
-    },
-    {
-      "code": "Nothing",
-      "reward": "1 million monkeys",
-      "status": "active"
-    },
-    {
-      "code": "Freeslimemonkey",
-      "reward": "Get a surprise",
-      "status": "active"
-    },
-    {
-      "code": "RIGVSQERGIV",
-      "reward": "4.8 million monkeys",
-      "status": "active"
-    },
-    {
-      "code": "MonkeyTycoonForever",
-      "reward": "4.8 million monkeys",
-      "status": "active"
-    },
-    {
-      "code": "MichaelsaJoestar",
-      "reward": "10,000 monkeys",
+      "code": "bugfixing",
+      "reward": "Five sacrifices",
       "status": "active"
     },
     {
@@ -194,18 +89,8 @@
       "status": "active"
     },
     {
-      "code": "Boostmeup",
-      "reward": "3x time boost",
-      "status": "active"
-    },
-    {
-      "code": "Murder",
-      "reward": "Get a sword for a limited time",
-      "status": "active"
-    },
-    {
-      "code": "IHopeNothingBadHappens",
-      "reward": "Instantly die",
+      "code": "Freeslimemonkey",
+      "reward": "Get a surprise",
       "status": "active"
     },
     {
@@ -214,23 +99,23 @@
       "status": "active"
     },
     {
-      "code": "Nirvana",
-      "reward": "Get two nukes",
+      "code": "Gorilla",
+      "reward": "Free reward",
       "status": "active"
     },
     {
-      "code": "RADIATION",
-      "reward": "Free nuclear monkey",
+      "code": "Hot",
+      "reward": "Set yourself on fire",
       "status": "active"
     },
     {
-      "code": "monkey",
-      "reward": "Free monkeys",
+      "code": "HughMungus",
+      "reward": "One million monkeys",
       "status": "active"
     },
     {
-      "code": "Nuclear",
-      "reward": "Free high-tier monkeys",
+      "code": "IHopeNothingBadHappens",
+      "reward": "Instantly die",
       "status": "active"
     },
     {
@@ -239,97 +124,122 @@
       "status": "active"
     },
     {
-      "code": "BIGBOI",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "MichaelsaJoestar",
+      "reward": "10,000 monkeys",
+      "status": "active"
     },
     {
-      "code": "codelist",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "monkey",
+      "reward": "Free monkeys",
+      "status": "active"
     },
     {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "MonkeyTycoonForever",
+      "reward": "4.8 million monkeys",
+      "status": "active"
     },
     {
-      "code": "Tired",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "Murder",
+      "reward": "Get a sword for a limited time",
+      "status": "active"
     },
     {
-      "code": "maintaining",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "Nevergonnagiveyouup",
+      "reward": "1 million monkeys",
+      "status": "active"
     },
     {
-      "code": "Restaurant",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "Nevergonnaletyoudown",
+      "reward": "1 million monkeys",
+      "status": "active"
     },
     {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "Nevergonnamakeyoucry",
+      "reward": "1 million monkeys",
+      "status": "active"
     },
     {
-      "code": "Car",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "Nevergonnarunaroundanddesertyou",
+      "reward": "1 million monkeys",
+      "status": "active"
     },
     {
-      "code": "Dealership",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "Nevergonnasaygoodbye",
+      "reward": "1 million monkeys",
+      "status": "active"
     },
     {
-      "code": "Monkey",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "Nevergonnatellalieandhurtyou",
+      "reward": "1 million monkeys",
+      "status": "active"
     },
     {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "Nirvana",
+      "reward": "Get two nukes",
+      "status": "active"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "Nothing",
+      "reward": "1 million monkeys",
+      "status": "active"
     },
     {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "Nuclear",
+      "reward": "Free high-tier monkeys",
+      "status": "active"
     },
     {
-      "code": "APPLY",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "Orangutan",
+      "reward": "Free reward",
+      "status": "active"
     },
     {
-      "code": "Think",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "PlayStreetWars",
+      "reward": "Two sacrifices",
+      "status": "active"
     },
     {
-      "code": "Tell",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "Primate",
+      "reward": "Free reward",
+      "status": "active"
     },
     {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "RADIATION",
+      "reward": "Free nuclear monkey",
+      "status": "active"
     },
     {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "RIGVSQERGIV",
+      "reward": "4.8 million monkeys",
+      "status": "active"
     },
     {
-      "code": "Articles",
+      "code": "RollTheDice",
+      "reward": "Random amount of monkeys",
+      "status": "active"
+    },
+    {
+      "code": "Simian",
+      "reward": "Free reward",
+      "status": "active"
+    },
+    {
+      "code": "statues",
+      "reward": "4.8 million monkeys",
+      "status": "active"
+    },
+    {
+      "code": "Tarantula",
+      "reward": "1 million monkeys",
+      "status": "active"
+    },
+    {
+      "code": "Thanks",
+      "reward": "1 million monkeys",
+      "status": "active"
+    },
+    {
+      "code": "2024",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -339,7 +249,7 @@
       "status": "expired"
     },
     {
-      "code": "Ishan",
+      "code": "Add",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -349,12 +259,17 @@
       "status": "expired"
     },
     {
-      "code": "Aug",
+      "code": "APPLY",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "2024",
+      "code": "Articles",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Aug",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -364,67 +279,7 @@
       "status": "expired"
     },
     {
-      "code": "Swarm",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sanmay",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Chakrabarti",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "War",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jan",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tags",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Spending",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Leave",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Reply",
+      "code": "BIGBOI",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -434,7 +289,152 @@
       "status": "expired"
     },
     {
-      "code": "Add",
+      "code": "Car",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Chakrabarti",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "codelist",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "comments",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Comments",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Dealership",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Enter",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "experiences",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Ishan",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Jan",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Leave",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "maintaining",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Monkey",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Once",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Open",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Related",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Reply",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Restaurant",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Sanmay",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Sep",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Simulator",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Spending",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Swarm",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Tags",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Tell",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Think",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Tired",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Tycoon",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Type",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "War",
       "reward": "Expired reward",
       "status": "expired"
     }

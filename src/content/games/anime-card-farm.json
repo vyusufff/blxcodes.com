@@ -29,11 +29,6 @@
   ],
   "codes": [
     {
-      "code": "PRODUCTION!",
-      "reward": "3x Production Potions ( )",
-      "status": "active"
-    },
-    {
       "code": "BRUTALCOMEBACK!",
       "reward": "3x Time Potion, 3x Cash Potion, 3x Luck Potion, 200x Trait Gems, and 200 Gems",
       "status": "active"
@@ -44,27 +39,17 @@
       "status": "active"
     },
     {
+      "code": "PRODUCTION!",
+      "reward": "3x Production Potions ( )",
+      "status": "active"
+    },
+    {
       "code": "TRAITS!",
       "reward": "1x Time II Potion, 100x Trait Gems",
       "status": "active"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Card",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Farm",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "CARDRANKING!",
+      "code": "8217",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -74,17 +59,7 @@
       "status": "expired"
     },
     {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Clash",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Battle",
+      "code": "Additionally",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -94,72 +69,12 @@
       "status": "expired"
     },
     {
-      "code": "8217",
+      "code": "alongside",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ourselves",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
+      "code": "Anime",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -169,7 +84,37 @@
       "status": "expired"
     },
     {
-      "code": "Lastly",
+      "code": "Are",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Battle",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "bookmark",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Card",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CARDRANKING!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "checking",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Clash",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -179,42 +124,17 @@
       "status": "expired"
     },
     {
-      "code": "exclusive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "incorrect",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Make",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "cross-checked",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "spelling",
+      "code": "developers",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Each",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -224,17 +144,62 @@
       "status": "expired"
     },
     {
-      "code": "alongside",
+      "code": "exclusive",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Additionally",
+      "code": "experiences",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "redeemed",
+      "code": "Farm",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "frequently",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Get",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "incorrect",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Lastly",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Launch",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Make",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Not",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Other",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ourselves",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -244,7 +209,42 @@
       "status": "expired"
     },
     {
-      "code": "Each",
+      "code": "redeemed",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Redeeming",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Scroll",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Shop",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Since",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "spelling",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Why",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }
