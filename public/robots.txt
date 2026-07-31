@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
 
-# JSON search index is for the on-site search UI, not for Google.
-Disallow: /search-index.json
-
 Sitemap: https://blxcodes.com/sitemap-index.xml
