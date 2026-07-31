@@ -34,6 +34,11 @@
       "status": "active"
     },
     {
+      "code": "Cthulhu",
+      "reward": "50 Bones ( )",
+      "status": "active"
+    },
+    {
       "code": "8217",
       "reward": "Expired reward",
       "status": "expired"

@@ -64,6 +64,11 @@
       "status": "active"
     },
     {
+      "code": "IRONSOULWEEKEND18",
+      "reward": "Free Rewards ( )",
+      "status": "active"
+    },
+    {
       "code": "NEWMAP",
       "reward": "5 Crystal Flake, 3 Crystal Prism, and 2 Race Reroll ( )",
       "status": "active"
@@ -76,6 +81,11 @@
     {
       "code": "SCYTHEWEAPON",
       "reward": "200 Origin Shards and 2 Race Reroll ( )",
+      "status": "active"
+    },
+    {
+      "code": "SEASON2ENDING",
+      "reward": "Free Rewards ( )",
       "status": "active"
     },
     {

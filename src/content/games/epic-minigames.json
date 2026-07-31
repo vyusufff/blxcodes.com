@@ -2,7 +2,7 @@
   "title": "Epic Minigames Codes (July 2026)",
   "gameName": "Epic Minigames",
   "description": "Working Epic Minigames codes for free pets, effects, titles, gear, and other rewards.",
-  "updatedAt": "2026-07-30",
+  "updatedAt": "2026-07-31",
   "featured": true,
   "cover": "/images/games/card/epic-minigames.webp",
   "placeId": 277751860,
@@ -48,6 +48,11 @@
       "status": "active"
     },
     {
+      "code": "maplesyrup",
+      "reward": "Maple Leaves effect ( )",
+      "status": "active"
+    },
+    {
       "code": "MerryEpicmas",
       "reward": "Santa Paws pet",
       "status": "active"
@@ -55,6 +60,11 @@
     {
       "code": "Spooky25",
       "reward": "1 Free Pet",
+      "status": "active"
+    },
+    {
+      "code": "sunnycitrus",
+      "reward": "Orange Sunrise effect ( )",
       "status": "active"
     },
     {
