@@ -12,10 +12,14 @@
     ]
   },
   "evomon": {
-    "sources": ["https://www.eurogamer.net/evomon-codes"]
+    "sources": [
+      "https://www.eurogamer.net/evomon-codes"
+    ]
   },
   "throw-a-coin": {
-    "sources": ["https://www.eurogamer.net/roblox-throw-a-coin-codes"]
+    "sources": [
+      "https://www.eurogamer.net/roblox-throw-a-coin-codes"
+    ]
   },
   "attack-on-titan-revolution": {
     "sources": [
@@ -24,33 +28,78 @@
     ]
   },
   "epic-minigames": {
-    "sources": ["https://beebom.com/epic-minigames-codes/"]
+    "sources": [
+      "https://beebom.com/epic-minigames-codes/"
+    ]
   },
   "speed-keyboard-escape": {
-    "sources": ["https://www.eurogamer.net/roblox-speed-keyboard-escape-codes"]
+    "sources": [
+      "https://www.eurogamer.net/roblox-speed-keyboard-escape-codes"
+    ]
   },
   "steal-a-brainrot": {
-    "sources": ["https://www.theclick.gg/steal-a-brainrot-codes/"]
+    "sources": [
+      "https://www.theclick.gg/steal-a-brainrot-codes/"
+    ]
   },
   "gakuran": {
-    "sources": ["https://www.eurogamer.net/gakuran-codes"]
+    "sources": [
+      "https://www.eurogamer.net/gakuran-codes"
+    ]
   },
   "knockout": {
-    "sources": ["https://www.eurogamer.net/knockout-codes"]
+    "sources": [
+      "https://www.eurogamer.net/knockout-codes"
+    ]
   },
   "grow-a-garden-2": {
-    "sources": ["https://www.eurogamer.net/grow-a-garden-2-codes"]
+    "sources": [
+      "https://www.eurogamer.net/grow-a-garden-2-codes"
+    ]
   },
   "volleyball-legends": {
-    "sources": ["https://www.eurogamer.net/volleyball-legends-codes"]
+    "sources": [
+      "https://www.eurogamer.net/volleyball-legends-codes"
+    ]
   },
   "anime-expeditions": {
-    "sources": ["https://www.eurogamer.net/anime-expeditions-codes"]
+    "sources": [
+      "https://www.eurogamer.net/anime-expeditions-codes"
+    ]
   },
   "adopt-me": {
-    "sources": ["https://beebom.com/roblox-adopt-me-codes/"]
+    "sources": [
+      "https://beebom.com/roblox-adopt-me-codes/"
+    ]
   },
   "murder-mystery-2": {
-    "sources": ["https://www.eurogamer.net/murder-mystery-2-codes"]
+    "sources": [
+      "https://www.eurogamer.net/murder-mystery-2-codes"
+    ]
+  },
+  "card-chronicles": {
+    "sources": [
+      "https://beebom.com/card-chronicles-codes/"
+    ]
+  },
+  "mini-war": {
+    "sources": [
+      "https://beebom.com/mini-war-codes/"
+    ]
+  },
+  "anime-card-collection": {
+    "sources": [
+      "https://beebom.com/anime-card-collection-codes/"
+    ]
+  },
+  "build-a-soccer-squad": {
+    "sources": [
+      "https://beebom.com/build-a-soccer-squad-codes/"
+    ]
+  },
+  "anime-defense-rng": {
+    "sources": [
+      "https://beebom.com/anime-defense-rng-codes/"
+    ]
   }
 }
