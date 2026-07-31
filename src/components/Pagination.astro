@@ -23,7 +23,7 @@ const { page, totalPages, total } = Astro.props;
         {page > 1 ? (
           <a
             href={codesHref(page - 1)}
-            class="rounded-md border border-line bg-mist px-4 py-2 text-sm font-bold text-ink hover:border-ink/30"
+            class="rounded-md border border-line bg-white px-4 py-2 text-sm font-bold text-ink hover:border-signal hover:text-signal"
           >
             Previous
           </a>
@@ -35,7 +35,7 @@ const { page, totalPages, total } = Astro.props;
         {page < totalPages ? (
           <a
             href={codesHref(page + 1)}
-            class="rounded-md bg-ink px-4 py-2 text-sm font-bold text-mist hover:bg-signal"
+            class="rounded-md border border-line bg-white px-4 py-2 text-sm font-bold text-ink hover:border-signal hover:text-signal"
           >
             Next
           </a>
