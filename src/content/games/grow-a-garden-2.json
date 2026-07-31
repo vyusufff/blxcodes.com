@@ -27,8 +27,21 @@
     }
   ],
   "codes": [
-    { "code": "WATERYOPLANTS", "reward": "10x Common Watering Cans", "status": "active" },
-    { "code": "REMEMBERTODRINKWATER", "reward": "1x Common Watering Can", "status": "active" },
-    { "code": "TEAMGREENBEAN", "reward": "3x Green Bean Seeds", "status": "active" }
-  ]
+    {
+      "code": "REMEMBERTODRINKWATER",
+      "reward": "1x Common Watering Can",
+      "status": "active"
+    },
+    {
+      "code": "TEAMGREENBEAN",
+      "reward": "3x Green Bean Seeds",
+      "status": "active"
+    },
+    {
+      "code": "WATERYOPLANTS",
+      "reward": "10x Common Watering Cans",
+      "status": "active"
+    }
+  ],
+  "checkedAt": "2026-07-31"
 }

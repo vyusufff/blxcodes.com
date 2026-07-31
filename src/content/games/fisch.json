@@ -27,115 +27,556 @@
     }
   ],
   "codes": [
-    { "code": "SorryForShopShenanigans", "reward": "150 Shady Scrips and 1x Rainbow Totem", "status": "active" },
-    { "code": "HarpoonGunsNextWeek", "reward": "1000 Coins, Grandpa Horseshoe Crab, 5x Coral Pearl, 5x Icy Fish'n Dots, 5x Cotton Candy Pieces, 5x Tropical Fruit Mix, and a random item", "status": "active" },
-    { "code": "scarlet", "reward": "Scarlet skin for Nate's Blade", "status": "active" },
-    { "code": "TemporarySubmarine", "reward": "Submarine parts", "status": "active" },
-    { "code": "CARBON", "reward": "Free Carbon bobber", "status": "active" },
-    { "code": "RoamingFishAndWaterPark", "reward": "Event reward", "status": "expired" },
-    { "code": "Fischfest2026", "reward": "Event reward", "status": "expired" },
-    { "code": "DrylandsIsFire", "reward": "Event reward", "status": "expired" },
-    { "code": "HAPPY4TH", "reward": "Event reward", "status": "expired" },
-    { "code": "KingCrabstle", "reward": "Event reward", "status": "expired" },
-    { "code": "NickNate049492SnoStage105", "reward": "Event reward", "status": "expired" },
-    { "code": "FischIsTheBest", "reward": "Event reward", "status": "expired" },
-    { "code": "049andNickneedatan", "reward": "Event reward", "status": "expired" },
-    { "code": "AquariumCustomization", "reward": "Event reward", "status": "expired" },
-    { "code": "TheDeepAwaitsForYou", "reward": "Event reward", "status": "expired" },
-    { "code": "Crews", "reward": "Event reward", "status": "expired" },
-    { "code": "LivyatanAndCompanions", "reward": "Event reward", "status": "expired" },
-    { "code": "ShadySorry", "reward": "Event reward", "status": "expired" },
-    { "code": "Shady", "reward": "Event reward", "status": "expired" },
-    { "code": "HumpbackAndMegamouth", "reward": "Event reward", "status": "expired" },
-    { "code": "Sovereign", "reward": "Event reward", "status": "expired" },
-    { "code": "VenueTakeover", "reward": "Event reward", "status": "expired" },
-    { "code": "SLOPSKINSFORMIGUROD", "reward": "Event reward", "status": "expired" },
-    { "code": "Companions", "reward": "Event reward", "status": "expired" },
-    { "code": "MermaidCove", "reward": "Event reward", "status": "expired" },
-    { "code": "WRATHOFOLYMPUS", "reward": "Event reward", "status": "expired" },
-    { "code": "Easter2026", "reward": "Event reward", "status": "expired" },
-    { "code": "EverturnForest", "reward": "Event reward", "status": "expired" },
-    { "code": "NewIslandSoon", "reward": "Event reward", "status": "expired" },
-    { "code": "StPatricks", "reward": "Event reward", "status": "expired" },
-    { "code": "SeventhOfMarch!", "reward": "Event reward", "status": "expired" },
-    { "code": "JungleExpansion", "reward": "Event reward", "status": "expired" },
-    { "code": "JungleExpansionSOON", "reward": "Event reward", "status": "expired" },
-    { "code": "JOUNCE", "reward": "Event reward", "status": "expired" },
-    { "code": "BIGGLE", "reward": "Event reward", "status": "expired" },
-    { "code": "Brinestorm", "reward": "Event reward", "status": "expired" },
-    { "code": "Tidefall", "reward": "Event reward", "status": "expired" },
-    { "code": "Astraeus", "reward": "Event reward", "status": "expired" },
-    { "code": "ValentinesOver", "reward": "Event reward", "status": "expired" },
-    { "code": "LunarNewYear", "reward": "Event reward", "status": "expired" },
-    { "code": "ValentinesDay", "reward": "Event reward", "status": "expired" },
-    { "code": "Valentides", "reward": "Event reward", "status": "expired" },
-    { "code": "ValentinesSoon", "reward": "Event reward", "status": "expired" },
-    { "code": "TradePlazaRevamp", "reward": "Event reward", "status": "expired" },
-    { "code": "TradeRevampSoon", "reward": "Event reward", "status": "expired" },
-    { "code": "NewYears", "reward": "Event reward", "status": "expired" },
-    { "code": "MerryFischmas2", "reward": "Event reward", "status": "expired" },
-    { "code": "BorealPines", "reward": "Event reward", "status": "expired" },
-    { "code": "FORAREASON", "reward": "Event reward", "status": "expired" },
-    { "code": "ECLIPSEBLADE", "reward": "Event reward", "status": "expired" },
-    { "code": "isitreallyyou?", "reward": "Event reward", "status": "expired" },
-    { "code": "ALIENS", "reward": "Event reward", "status": "expired" },
-    { "code": "DEVSLOPSKINS", "reward": "Event reward", "status": "expired" },
-    { "code": "FischmasSoon", "reward": "Event reward", "status": "expired" },
-    { "code": "Fischgiving", "reward": "Event reward", "status": "expired" },
-    { "code": "ThanksgivingSoon", "reward": "Event reward", "status": "expired" },
-    { "code": "CultistLair", "reward": "Event reward", "status": "expired" },
-    { "code": "BigUpdateSoon", "reward": "Event reward", "status": "expired" },
-    { "code": "FischFrightPart2", "reward": "Event reward", "status": "expired" },
-    { "code": "FischFright2025", "reward": "Event reward", "status": "expired" },
-    { "code": "MerlinMystery", "reward": "Event reward", "status": "expired" },
-    { "code": "FISCHFRIGHTSOON", "reward": "Event reward", "status": "expired" },
-    { "code": "LOSTJUNGLE", "reward": "Event reward", "status": "expired" },
-    { "code": "LOSTJUNGLESOON", "reward": "Event reward", "status": "expired" },
-    { "code": "CAVERN", "reward": "Event reward", "status": "expired" },
-    { "code": "SNOWBURROW", "reward": "Event reward", "status": "expired" },
-    { "code": "SUPPORTERDESTINY", "reward": "Event reward", "status": "expired" },
-    { "code": "METEOR", "reward": "Event reward", "status": "expired" },
-    { "code": "FISCHFEST", "reward": "Event reward", "status": "expired" },
-    { "code": "OGNOLIFE", "reward": "Event reward", "status": "expired" },
-    { "code": "SECONDARYENCHANT", "reward": "Event reward", "status": "expired" },
-    { "code": "PERSONALAQUARIUMS", "reward": "Event reward", "status": "expired" },
-    { "code": "SORRY", "reward": "Event reward", "status": "expired" },
-    { "code": "ROSES", "reward": "Event reward", "status": "expired" },
-    { "code": "DAILYSHOP", "reward": "Event reward", "status": "expired" },
-    { "code": "DARKHEART", "reward": "Event reward", "status": "expired" },
-    { "code": "FRIENDXP", "reward": "Event reward", "status": "expired" },
-    { "code": "4THOFJULY", "reward": "Event reward", "status": "expired" },
-    { "code": "ChangesComing", "reward": "Event reward", "status": "expired" },
-    { "code": "Legomy", "reward": "Event reward", "status": "expired" },
-    { "code": "SorryReward", "reward": "Event reward", "status": "expired" },
-    { "code": "THEKRAKEN", "reward": "Event reward", "status": "expired" },
-    { "code": "SORRYGUYS", "reward": "Event reward", "status": "expired" },
-    { "code": "ATLANTEANSTORM", "reward": "Event reward", "status": "expired" },
-    { "code": "GOLDENTIDE", "reward": "Event reward", "status": "expired" },
-    { "code": "NewYear", "reward": "Event reward", "status": "expired" },
-    { "code": "NorthernExpedition", "reward": "Event reward", "status": "expired" },
-    { "code": "FISCHANNIVERSARY", "reward": "Event reward", "status": "expired" },
-    { "code": "ThankYou", "reward": "Event reward", "status": "expired" },
-    { "code": "Brother", "reward": "Event reward", "status": "expired" },
-    { "code": "FISCHMASDAY", "reward": "Event reward", "status": "expired" },
-    { "code": "MERRYFISCHMAS", "reward": "Event reward", "status": "expired" },
-    { "code": "RFG", "reward": "Event reward", "status": "expired" },
-    { "code": "NewBeginnings", "reward": "Event reward", "status": "expired" },
-    { "code": "1BVisits", "reward": "Event reward", "status": "expired" },
-    { "code": "GOODBYEFISCHMAS", "reward": "Event reward", "status": "expired" },
-    { "code": "ThankYouFollowers3", "reward": "Event reward", "status": "expired" },
-    { "code": "ThankYouFollowers2", "reward": "Event reward", "status": "expired" },
-    { "code": "Advent", "reward": "Event reward", "status": "expired" },
-    { "code": "ThankYouFollowers", "reward": "Event reward", "status": "expired" },
-    { "code": "AncientIsle", "reward": "Event reward", "status": "expired" },
-    { "code": "Prehistoric", "reward": "Event reward", "status": "expired" },
-    { "code": "TheDepths", "reward": "Event reward", "status": "expired" },
-    { "code": "100M", "reward": "Event reward", "status": "expired" },
-    { "code": "200K", "reward": "Event reward", "status": "expired" },
-    { "code": "SorryForDowntime", "reward": "Event reward", "status": "expired" },
-    { "code": "Scubaaaa", "reward": "Event reward", "status": "expired" },
-    { "code": "ThanksFor10Mil", "reward": "Event reward", "status": "expired" },
-    { "code": "FischFright2024", "reward": "Event reward", "status": "expired" },
-    { "code": "SorryforShutdown", "reward": "Event reward", "status": "expired" }
-  ]
+    {
+      "code": "CARBON",
+      "reward": "Free Carbon bobber",
+      "status": "active"
+    },
+    {
+      "code": "HarpoonGunsNextWeek",
+      "reward": "1000 Coins, Grandpa Horseshoe Crab, 5x Coral Pearl, 5x Icy Fish'n Dots, 5x Cotton Candy Pieces, 5x Tropical Fruit Mix, and a random item",
+      "status": "active"
+    },
+    {
+      "code": "scarlet",
+      "reward": "Scarlet skin for Nate's Blade",
+      "status": "active"
+    },
+    {
+      "code": "SorryForShopShenanigans",
+      "reward": "150 Shady Scrips and 1x Rainbow Totem",
+      "status": "active"
+    },
+    {
+      "code": "TemporarySubmarine",
+      "reward": "Submarine parts",
+      "status": "active"
+    },
+    {
+      "code": "049andNickneedatan",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "100M",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "1BVisits",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "200K",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "4THOFJULY",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Advent",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ALIENS",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "AncientIsle",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "AquariumCustomization",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Astraeus",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ATLANTEANSTORM",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "BIGGLE",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "BigUpdateSoon",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "BorealPines",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Brinestorm",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Brother",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "CAVERN",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ChangesComing",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Companions",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Crews",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "CultistLair",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "DAILYSHOP",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "DARKHEART",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "DEVSLOPSKINS",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "DrylandsIsFire",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Easter2026",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ECLIPSEBLADE",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "EverturnForest",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "FISCHANNIVERSARY",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "FISCHFEST",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Fischfest2026",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "FischFright2024",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "FischFright2025",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "FischFrightPart2",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "FISCHFRIGHTSOON",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Fischgiving",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "FischIsTheBest",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "FISCHMASDAY",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "FischmasSoon",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "FORAREASON",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "FRIENDXP",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "GOLDENTIDE",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "GOODBYEFISCHMAS",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY4TH",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "HumpbackAndMegamouth",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "isitreallyyou?",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "JOUNCE",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "JungleExpansion",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "JungleExpansionSOON",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "KingCrabstle",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Legomy",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "LivyatanAndCompanions",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "LOSTJUNGLE",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "LOSTJUNGLESOON",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "LunarNewYear",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "MerlinMystery",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "MermaidCove",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "MERRYFISCHMAS",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "MerryFischmas2",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "METEOR",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "NewBeginnings",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "NewIslandSoon",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "NewYear",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "NewYears",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "NickNate049492SnoStage105",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "NorthernExpedition",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "OGNOLIFE",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "PERSONALAQUARIUMS",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Prehistoric",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "RFG",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "RoamingFishAndWaterPark",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ROSES",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Scubaaaa",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "SECONDARYENCHANT",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "SeventhOfMarch!",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Shady",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ShadySorry",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "SLOPSKINSFORMIGUROD",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "SNOWBURROW",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "SorryForDowntime",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "SorryforShutdown",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYGUYS",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "SorryReward",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Sovereign",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "StPatricks",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "SUPPORTERDESTINY",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor10Mil",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksgivingSoon",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThankYou",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThankYouFollowers",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThankYouFollowers2",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThankYouFollowers3",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "TheDeepAwaitsForYou",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "TheDepths",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "THEKRAKEN",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Tidefall",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "TradePlazaRevamp",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "TradeRevampSoon",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "Valentides",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ValentinesDay",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ValentinesOver",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "ValentinesSoon",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "VenueTakeover",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "WRATHOFOLYMPUS",
+      "reward": "Event reward",
+      "status": "expired"
+    }
+  ],
+  "checkedAt": "2026-07-31"
 }

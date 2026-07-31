@@ -2,7 +2,7 @@
   "title": "Blox Fruits Codes (July 2026)",
   "gameName": "Blox Fruits",
   "description": "Active Blox Fruits codes for free resets, money, XP, and boosts. Updated regularly.",
-  "updatedAt": "2026-07-29",
+  "updatedAt": "2026-07-31",
   "featured": true,
   "cover": "/images/games/card/blox-fruits.webp",
   "placeId": 2753915549,
@@ -27,79 +27,416 @@
     }
   ],
   "codes": [
-    { "code": "EASTEREXP", "reward": "20 minutes of 2x Experience (released March 28, 2026)", "status": "active" },
-    { "code": "fudd10", "reward": "$1", "status": "active" },
-    { "code": "fudd10_V2", "reward": "$2", "status": "active" },
-    { "code": "Chandler", "reward": "$0", "status": "active" },
-    { "code": "BIGNEWS", "reward": "Unlocks the Big News title (granted on first Second Sea entry; redeemable in First Sea)", "status": "active" },
-    { "code": "KITT_RESET", "reward": "Free Stat Reset", "status": "active" },
-    { "code": "Sub2UncleKizaru", "reward": "Free Stat Reset", "status": "active" },
-    { "code": "SUB2GAMERROBOT_RESET1", "reward": "Free Stat Reset", "status": "active" },
-    { "code": "Sub2Fer999", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "Enyu_is_Pro", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "JCWK", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "StarcodeHEO", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "MagicBUS", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "KittGaming", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "Sub2CaptainMaui", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "Sub2OfficialNoobie", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "TheGreatAce", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "Sub2NoobMaster123", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "Sub2Daigrock", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "Axiore", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "StrawHatMaine", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "TantaiGaming", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "Bluxxy", "reward": "20 minutes of 2x Experience", "status": "active" },
-    { "code": "SUB2GAMERROBOT_EXP1", "reward": "30 minutes of 2x Experience", "status": "active" },
-    { "code": "ADMINFIGHT", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "GIFTING_HOURS", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "EARN_FRUITS", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "FIGHT4FRUIT", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "NOEXPLOITER", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "ADMINHACKED", "reward": "Free Stat Reset", "status": "expired" },
-    { "code": "NOOB2ADMIN", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "CODESLIDE", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "ADMINDARES", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "fruitconcepts", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "krazydares", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "TRIPLEABUSE", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "SEATROLLING", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "24NOADMIN", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "REWARDFUN", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "NEWTROLL", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "SECRET_ADMIN", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "ADMIN_TROLL", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "youtuber_shipbattle", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "STAFFBATTLE", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "ADMIN_STRENGTH", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "JULYUPDATE_RESET", "reward": "Free Stat Reset", "status": "expired" },
-    { "code": "DRAGONABUSE", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "NOOB2PRO", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "CINCODEMAYO_BOOST", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "Noob_Refund", "reward": "Free Stat Reset", "status": "expired" },
-    { "code": "CODE_SERVICIO", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "DEVSCOOKING", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "TY_FOR_WATCHING", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "GAMERROBOT_YT", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "GAMER_ROBOT_1M", "reward": "1 hour and 30 minutes of 2x Experience", "status": "expired" },
-    { "code": "EXP_5B", "reward": "30 minutes of 2x Experience", "status": "expired" },
-    { "code": "RESET_5B", "reward": "Free Stat Reset", "status": "expired" },
-    { "code": "1MLIKES_RESET", "reward": "Free Stat Reset", "status": "expired" },
-    { "code": "THIRDSEA", "reward": "Free Stat Reset", "status": "expired" },
-    { "code": "1BILLION", "reward": "2 hours of 2x Experience", "status": "expired" },
-    { "code": "2BILLION", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "3BVISITS", "reward": "30 minutes of 2x Experience", "status": "expired" },
-    { "code": "Update10", "reward": "Free Stat Reset", "status": "expired" },
-    { "code": "Update11", "reward": "30 minutes of 2x Experience", "status": "expired" },
-    { "code": "UPD14", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "UPD15", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "UPD16", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "ShutDownFix2", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "XmasExp", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "XmasReset", "reward": "Free Stat Reset", "status": "expired" },
-    { "code": "PointsReset", "reward": "Free Stat Reset", "status": "expired" },
-    { "code": "Control", "reward": "15 minutes of 2x Experience", "status": "expired" },
-    { "code": "NOMOREHACK", "reward": "20 minutes of 2x Experience", "status": "expired" },
-    { "code": "BANEXPLOIT", "reward": "20 minutes of 2x Experience", "status": "expired" }
-  ]
+    {
+      "code": "Axiore",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "Bignews",
+      "reward": "In game Title &#8220;Big News&#8221;",
+      "status": "active"
+    },
+    {
+      "code": "Bluxxy",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "CHANDLER",
+      "reward": "Redeem for $0 (simply a joke)",
+      "status": "active"
+    },
+    {
+      "code": "EASTEREXP",
+      "reward": "20 minutes of 2x Experience (released March 28, 2026)",
+      "status": "active"
+    },
+    {
+      "code": "Enyu_is_Pro",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "fudd10",
+      "reward": "$1",
+      "status": "active"
+    },
+    {
+      "code": "Fudd10",
+      "reward": "Redeem for $1",
+      "status": "active"
+    },
+    {
+      "code": "fudd10_v2",
+      "reward": "Redeem for $2",
+      "status": "active"
+    },
+    {
+      "code": "fudd10_V2",
+      "reward": "$2",
+      "status": "active"
+    },
+    {
+      "code": "JCWK",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "KITT_RESET",
+      "reward": "Free Stat Reset",
+      "status": "active"
+    },
+    {
+      "code": "kittgaming",
+      "reward": "2x EXP for 20 minutes",
+      "status": "active"
+    },
+    {
+      "code": "KittGaming",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "Magicbus",
+      "reward": "2x EXP for 20 minutes",
+      "status": "active"
+    },
+    {
+      "code": "MagicBUS",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "Starcodeheo",
+      "reward": "2x EXP for 20 minutes",
+      "status": "active"
+    },
+    {
+      "code": "StarcodeHEO",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "StrawHatMaine",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "SUB2CAPTAINMAUI",
+      "reward": "2x EXP for 20 minutes",
+      "status": "active"
+    },
+    {
+      "code": "Sub2Daigrock",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "Sub2Fer999",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "SUB2GAMERROBOT_EXP1",
+      "reward": "30 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "SUB2GAMERROBOT_RESET1",
+      "reward": "Free Stat Reset",
+      "status": "active"
+    },
+    {
+      "code": "Sub2NoobMaster123",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "Sub2OfficialNoobie",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "Sub2UncleKizaru",
+      "reward": "Free Stat Reset",
+      "status": "active"
+    },
+    {
+      "code": "TantaiGaming",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "TheGreatAce",
+      "reward": "20 minutes of 2x Experience",
+      "status": "active"
+    },
+    {
+      "code": "1BILLION",
+      "reward": "2 hours of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "1MLIKES_RESET",
+      "reward": "Free Stat Reset",
+      "status": "expired"
+    },
+    {
+      "code": "24NOADMIN",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "2BILLION",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "3BVISITS",
+      "reward": "30 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "ADMIN_STRENGTH",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "ADMIN_TROLL",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "ADMINDARES",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "ADMINFIGHT",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "ADMINHACKED",
+      "reward": "Free Stat Reset",
+      "status": "expired"
+    },
+    {
+      "code": "BANEXPLOIT",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "BIGNEWS",
+      "reward": "Unlocks the Big News title (granted on first Second Sea entry; redeemable in First Sea)",
+      "status": "expired"
+    },
+    {
+      "code": "Chandler",
+      "reward": "$0",
+      "status": "expired"
+    },
+    {
+      "code": "CINCODEMAYO_BOOST",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "CODE_SERVICIO",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "CODESLIDE",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "Control",
+      "reward": "15 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "DEVSCOOKING",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "DRAGONABUSE",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "EARN_FRUITS",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "EXP_5B",
+      "reward": "30 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "FIGHT4FRUIT",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "fruitconcepts",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "GAMER_ROBOT_1M",
+      "reward": "1 hour and 30 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "GAMERROBOT_YT",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "GIFTING_HOURS",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "JULYUPDATE_RESET",
+      "reward": "Free Stat Reset",
+      "status": "expired"
+    },
+    {
+      "code": "krazydares",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "NEWTROLL",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "NOEXPLOITER",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "NOMOREHACK",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "Noob_Refund",
+      "reward": "Free Stat Reset",
+      "status": "expired"
+    },
+    {
+      "code": "NOOB2ADMIN",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "NOOB2PRO",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "PointsReset",
+      "reward": "Free Stat Reset",
+      "status": "expired"
+    },
+    {
+      "code": "RESET_5B",
+      "reward": "Free Stat Reset",
+      "status": "expired"
+    },
+    {
+      "code": "REWARDFUN",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "SEATROLLING",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "SECRET_ADMIN",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "ShutDownFix2",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "STAFFBATTLE",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "Sub2CaptainMaui",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "THIRDSEA",
+      "reward": "Free Stat Reset",
+      "status": "expired"
+    },
+    {
+      "code": "TRIPLEABUSE",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "TY_FOR_WATCHING",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "UPD14",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "UPD15",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "UPD16",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "Update10",
+      "reward": "Free Stat Reset",
+      "status": "expired"
+    },
+    {
+      "code": "Update11",
+      "reward": "30 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "XmasExp",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    },
+    {
+      "code": "XmasReset",
+      "reward": "Free Stat Reset",
+      "status": "expired"
+    },
+    {
+      "code": "youtuber_shipbattle",
+      "reward": "20 minutes of 2x Experience",
+      "status": "expired"
+    }
+  ],
+  "checkedAt": "2026-07-31"
 }
