@@ -29,42 +29,7 @@
   ],
   "codes": [
     {
-      "code": "Update57",
-      "reward": "Free Rewards ( )",
-      "status": "active"
-    },
-    {
-      "code": "Update56ProgFix",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "Update56P2",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "Update56Delay",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "Update56",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "Update55P2Restart",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "Update55P2",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "Update55Delay",
+      "code": "Update54P2",
       "reward": "Free Rewards",
       "status": "active"
     },
@@ -74,12 +39,72 @@
       "status": "active"
     },
     {
-      "code": "Update54P2",
+      "code": "Update55Delay",
       "reward": "Free Rewards",
       "status": "active"
     },
     {
+      "code": "Update55P2",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "Update55P2Restart",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "Update56",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "Update56Delay",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "Update56P2",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "Update56ProgFix",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "Update57",
+      "reward": "Free Rewards ( )",
+      "status": "active"
+    },
+    {
+      "code": "AllCodesInOneUpdate43",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "Anime",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "EasterCode",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "EasterCode6",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "EasterCode8",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "EasterCode9",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -89,17 +114,137 @@
       "status": "expired"
     },
     {
-      "code": "Update54",
+      "code": "MemorialDay",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Update54Delay",
+      "code": "Update42P2AllCodesInOne",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Update53P3",
+      "code": "Update43P2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update44",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update45",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update45P2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update46",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update47",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update47P2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update48",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update48P2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update48P3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update49",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update49Delay",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update49P2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update50",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update50Bug",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update50Late",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update50MiniUpdate",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update50P2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update51",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update51Late",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update51P2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update52",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update52P2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update52P3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update53",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,162 +264,17 @@
       "status": "expired"
     },
     {
-      "code": "Update53",
+      "code": "Update53P3",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Update52P3",
+      "code": "Update54",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Update52P2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MemorialDay",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update52",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update51P2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update51",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update51Late",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update50MiniUpdate",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update50P2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update50Bug",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update50",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update50Late",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update49P2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update49Delay",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update49",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update48P3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "EasterCode9",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update48P2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "EasterCode8",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update48",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update47P2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "EasterCode6",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update47",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update46",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update45P2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "EasterCode",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update45",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update44",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update43P2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "AllCodesInOneUpdate43",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Update42P2AllCodesInOne",
+      "code": "Update54Delay",
       "reward": "Expired reward",
       "status": "expired"
     }

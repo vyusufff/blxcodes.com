@@ -29,84 +29,19 @@
   ],
   "codes": [
     {
-      "code": "SomeSpeedUps",
-      "reward": "10 speed-ups worth 5 minutes each ( )",
+      "code": "2ndUpdateLesgooo!!!",
+      "reward": "1 OP Dice (requires Godly Zone)",
       "status": "active"
     },
     {
-      "code": "2ndUpdateLesgooo!!!",
-      "reward": "1 OP Dice (requires Godly Zone)",
+      "code": "SomeSpeedUps",
+      "reward": "10 speed-ups worth 5 minutes each ( )",
       "status": "active"
     },
     {
       "code": "UseThisForGalaxies",
       "reward": "5 minutes worth of 2x Luck",
       "status": "active"
-    },
-    {
-      "code": "Cut",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grass",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Characters",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NewUpdate!!!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NewPlayersOnly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enjoyed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sailor",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Piece",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Below",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
     },
     {
       "code": "8216",
@@ -119,77 +54,12 @@
       "status": "expired"
     },
     {
-      "code": "Hit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Curseddd",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "separate",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "dedicated",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "difficult",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "distinguish",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "recommended",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "actively",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "removing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
+      "code": "Anime",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,27 +69,32 @@
       "status": "expired"
     },
     {
-      "code": "Not",
+      "code": "Below",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Even",
+      "code": "Characters",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "redemption",
+      "code": "Curseddd",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "possibility",
+      "code": "Cut",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "focusing",
+      "code": "dedicated",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "difficult",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -229,7 +104,77 @@
       "status": "expired"
     },
     {
-      "code": "Sometimes",
+      "code": "distinguish",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Enjoyed",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Enter",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Even",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "focusing",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "following",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Get",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Grass",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Hit",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "However",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Launch",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "new/private",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NewPlayersOnly",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NewUpdate!!!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Not",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -239,7 +184,62 @@
       "status": "expired"
     },
     {
-      "code": "new/private",
+      "code": "Piece",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "possibility",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "recommend",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "recommended",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "redemption",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "released",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "removing",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Sailor",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "separate",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Sometimes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "That",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

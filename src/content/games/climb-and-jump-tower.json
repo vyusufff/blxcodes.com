@@ -34,18 +34,13 @@
       "status": "active"
     },
     {
-      "code": "JUMPHIGH",
-      "reward": "Jump Boost for 30 min",
-      "status": "active"
-    },
-    {
-      "code": "TOWERFREE",
-      "reward": "300 Coins",
-      "status": "active"
-    },
-    {
       "code": "JULY4TH",
       "reward": "Speed Boost and 200 Coins",
+      "status": "active"
+    },
+    {
+      "code": "JUMPHIGH",
+      "reward": "Jump Boost for 30 min",
       "status": "active"
     },
     {
@@ -54,97 +49,12 @@
       "status": "active"
     },
     {
-      "code": "Climb",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "TOWERFREE",
+      "reward": "300 Coins",
+      "status": "active"
     },
     {
-      "code": "Jump",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "IRONMAN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "STPATRICKS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FALLENSTAR",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BALI",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "THANKSGIVING",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MOUNTRUSHMORE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SYDNEY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HALLOWEEN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "LUXURY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SPOOKY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "TAIWAN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ADMIN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SHANGHAI",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ATLANTIS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BRAZIL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ALIEN",
+      "code": "40MVISIT",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -154,82 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "SPACE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "TORONTO",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ANGEL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "DEMON",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "EVEREST",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "TITAN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "GIANT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "PIXEL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "70MVISIT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "40MVISIT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Horse",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Race",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dodgeball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "favorite",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -239,7 +74,12 @@
       "status": "expired"
     },
     {
-      "code": "RNG-based",
+      "code": "ADMIN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ALIEN",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -249,7 +89,167 @@
       "status": "expired"
     },
     {
+      "code": "ANGEL",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ATLANTIS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BALI",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BRAZIL",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Climb",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DEMON",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Dodgeball",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "EVEREST",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FALLENSTAR",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "favorite",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "following",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GIANT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HALLOWEEN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Horse",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "However",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "IRONMAN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Jump",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Legends",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LUXURY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MOUNTRUSHMORE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PIXEL",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Race",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RNG-based",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SHANGHAI",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SPACE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SPOOKY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "STPATRICKS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SYDNEY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TAIWAN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THANKSGIVING",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TITAN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TORONTO",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Tower",
       "reward": "Expired reward",
       "status": "expired"
     }

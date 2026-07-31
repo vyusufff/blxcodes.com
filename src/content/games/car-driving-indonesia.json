@@ -29,82 +29,17 @@
   ],
   "codes": [
     {
-      "code": "NOSTALGIA",
-      "reward": "550 Million RP ( )",
-      "status": "active"
-    },
-    {
       "code": "CDIDV5",
       "reward": "550 Million RP ( )",
       "status": "active"
     },
     {
-      "code": "CDID",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "NOSTALGIA",
+      "reward": "550 Million RP ( )",
+      "status": "active"
     },
     {
-      "code": "IDULADHA2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "WEHEARYOU",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RAMADHAN2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MOHONMAAFLAHIRDANBATIN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "GONGXIFACAI2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "CNY2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HAPPYNEWYEAR",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRYFORTHEDELAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MERRYCHRISTMAS2025",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "WELCOMETOBANDALAM",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SNOWY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "INDONESIARAYA",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HIDUPROBLOX",
+      "code": "100MVISITS",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -114,107 +49,7 @@
       "status": "expired"
     },
     {
-      "code": "MISTEROLIMOBIL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BACKTOSCHOOL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MANCINGMANIA",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RAMADHAN2025",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HATI2BAGIYANGMUDIK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "GONGXIFACAI2025",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ULAR",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "CNY2025",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MERRYCHRISTMAS2024",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HAPPYNEWYEAR2025",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HOHOHOHOHOHOHOHO",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "THEPALIMANANCURSE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SEMUASALAHKEVIN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ADAGAMEPASSBARU",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "190MILPLAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HBDSHADARDIANJU",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BSDREWORK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HBDJULKEVIN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRYFORSHUTDOWNS5",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "GWSSHAD",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RAMADHAN2024",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -224,7 +59,52 @@
       "status": "expired"
     },
     {
-      "code": "100MVISITS",
+      "code": "ADAGAMEPASSBARU",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BACKTOSCHOOL",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BATIK!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BSDREWORK",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CDID",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CNY2025",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CNY2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GONGXIFACAI2025",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GONGXIFACAI2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GWSSHAD",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,7 +114,127 @@
       "status": "expired"
     },
     {
-      "code": "BATIK!",
+      "code": "HAPPYNEWYEAR",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPYNEWYEAR2025",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HATI2BAGIYANGMUDIK",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HBDJULKEVIN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HBDSHADARDIANJU",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HIDUPROBLOX",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HOHOHOHOHOHOHOHO",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "IDULADHA2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "INDONESIARAYA",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MANCINGMANIA",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MERRYCHRISTMAS2024",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MERRYCHRISTMAS2025",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MISTEROLIMOBIL",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MOHONMAAFLAHIRDANBATIN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RAMADHAN2024",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RAMADHAN2025",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RAMADHAN2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SEMUASALAHKEVIN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SNOWY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFORSHUTDOWNS5",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFORTHEDELAY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THEPALIMANANCURSE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ULAR",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WEHEARYOU",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WELCOMETOBANDALAM",
       "reward": "Expired reward",
       "status": "expired"
     }

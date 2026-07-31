@@ -29,54 +29,14 @@
   ],
   "codes": [
     {
-      "code": "RecodeRelease!",
-      "reward": "5k Amber, 1x Melanistic Egg, and 1x Leucistic Egg ( )",
-      "status": "active"
-    },
-    {
       "code": "HaveSomeEggs!",
       "reward": "2x Melanistic Eggs, 2x Leucistic Eggs, 2x Garden Eggs, and 2x Retro Eggs ( )",
       "status": "active"
     },
     {
-      "code": "Prior",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Extinction",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "WelcomeBack!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Welcome26",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "LunarFixes!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "LovelyValentinesGift2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FirstCode2026!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HallowenEggs!",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "RecodeRelease!",
+      "reward": "5k Amber, 1x Melanistic Egg, and 1x Leucistic Egg ( )",
+      "status": "active"
     },
     {
       "code": "8217",
@@ -89,112 +49,7 @@
       "status": "expired"
     },
     {
-      "code": "prehistoric",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dino",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Collect",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dinos",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Park",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "complete",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "discover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Choose",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Survival",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Use",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jacys",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Studios",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
+      "code": "Are",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,27 +59,27 @@
       "status": "expired"
     },
     {
-      "code": "whenever",
+      "code": "channels",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "releases",
+      "code": "Choose",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Why",
+      "code": "Collect",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Are",
+      "code": "community",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Not",
+      "code": "complete",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,7 +89,152 @@
       "status": "expired"
     },
     {
+      "code": "developers",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Dino",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Dinos",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "discover",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Enter",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "Even",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Extinction",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FirstCode2026!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "frequently",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Get",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HallowenEggs!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Jacys",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Launch",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LovelyValentinesGift2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LunarFixes!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Not",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Park",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "pop-up",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "prehistoric",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Prior",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "recommend",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "releases",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Since",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Studios",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Survival",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Use",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Welcome26",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WelcomeBack!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "whenever",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

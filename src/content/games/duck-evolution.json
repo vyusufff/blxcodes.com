@@ -29,8 +29,8 @@
   ],
   "codes": [
     {
-      "code": "Samurai",
-      "reward": "EXP Potions ( )",
+      "code": "Dalaxy",
+      "reward": "EXP Potions",
       "status": "active"
     },
     {
@@ -39,9 +39,64 @@
       "status": "active"
     },
     {
-      "code": "Dalaxy",
-      "reward": "EXP Potions",
+      "code": "Samurai",
+      "reward": "EXP Potions ( )",
       "status": "active"
+    },
+    {
+      "code": "8216",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "8217",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Anime",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "announcements",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Blue",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "bookmark",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Caps",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Capuccino",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Check",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Currently",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Defense",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
       "code": "Duck",
@@ -54,32 +109,12 @@
       "status": "expired"
     },
     {
-      "code": "Currently",
+      "code": "extremely",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Start",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grow",
+      "code": "freebies",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -89,7 +124,42 @@
       "status": "expired"
     },
     {
-      "code": "extremely",
+      "code": "Get",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Grow",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "However",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Keeping",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Last",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Launch",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Like",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Lock",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -99,12 +169,42 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
+      "code": "old-fashioned",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Last",
+      "code": "Press",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "redeeming",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "redemption",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "regularly",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Rivals",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "sensitive",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Shop",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,72 +219,7 @@
       "status": "expired"
     },
     {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defense",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "old-fashioned",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Like",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Press",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Verify",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Keeping",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
+      "code": "Start",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -194,52 +229,17 @@
       "status": "expired"
     },
     {
-      "code": "bookmark",
+      "code": "Tower",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "However",
+      "code": "Verify",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "yourself",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Caps",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "sensitive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Capuccino",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -29,8 +29,8 @@
   ],
   "codes": [
     {
-      "code": "nocheaters",
-      "reward": "Free Rewards ( )",
+      "code": "firstswarm",
+      "reward": "3 Wooden Chests",
       "status": "active"
     },
     {
@@ -44,8 +44,8 @@
       "status": "active"
     },
     {
-      "code": "Update1",
-      "reward": "100 Keys, 5 Rare Chests, and 1 Epic Chest ( )",
+      "code": "nocheaters",
+      "reward": "Free Rewards ( )",
       "status": "active"
     },
     {
@@ -54,57 +54,12 @@
       "status": "active"
     },
     {
-      "code": "firstswarm",
-      "reward": "3 Wooden Chests",
+      "code": "Update1",
+      "reward": "100 Keys, 5 Rare Chests, and 1 Epic Chest ( )",
       "status": "active"
     },
     {
-      "code": "Final",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Swarm",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Currently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "shortage",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Try",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Voxel",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fighters",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Slayerbound",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Forge",
+      "code": "8216",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -114,62 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Every",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
+      "code": "Are",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -184,7 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "yourself",
+      "code": "Claim",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -194,12 +94,52 @@
       "status": "expired"
     },
     {
+      "code": "Currently",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "developers",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Enter",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Every",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "Evolution",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Studios",
+      "code": "Fighters",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Final",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Forge",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Get",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,37 +149,7 @@
       "status": "expired"
     },
     {
-      "code": "strategies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "upcoming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "spelling",
+      "code": "Make",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -249,12 +159,102 @@
       "status": "expired"
     },
     {
-      "code": "Make",
+      "code": "Not",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Once",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Other",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "released",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Scroll",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Shop",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "shortage",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Slayerbound",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "spelling",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "strategies",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Studios",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Swarm",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "There",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Try",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "tutorial",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Type",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "upcoming",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Voxel",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Why",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }
