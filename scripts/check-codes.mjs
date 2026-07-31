@@ -14,6 +14,7 @@ const SOURCES_PATH = path.join(ROOT, 'scripts/sources.json');
 const WRITE = process.argv.includes('--write');
 const TODAY = new Date().toISOString().slice(0, 10);
 const MAX_NEW_GAMES = Number(process.env.MAX_NEW_GAMES || 5);
+const MAX_SCAN = Number(process.env.MAX_SCAN || Math.max(MAX_NEW_GAMES * 8, 40));
 const MIN_PLAYING = Number(process.env.MIN_PLAYING || 50);
 const BEEBOM_HUB = 'https://beebom.com/roblox-games-codes-list/';
 
@@ -508,7 +509,7 @@ async function discoverNew(sources, report) {
   for (const [slug, meta] of candidates) {
     if (added >= MAX_NEW_GAMES) break;
     // Don't burn the whole hub every run — sample a limited window
-    if (scanned >= MAX_NEW_GAMES * 8) break;
+    if (scanned >= MAX_SCAN) break;
     scanned += 1;
 
     let activeMap = new Map();
@@ -643,7 +644,7 @@ async function main() {
 
   console.log(report.join('\n'));
   console.log(
-    `\nMode: ${WRITE ? 'WRITE' : 'DRY-RUN'} | changed/new: ${changed} | maxNew/run: ${MAX_NEW_GAMES} | minPlaying: ${MIN_PLAYING}`,
+    `\nMode: ${WRITE ? 'WRITE' : 'DRY-RUN'} | changed/new: ${changed} | maxNew/run: ${MAX_NEW_GAMES} | maxScan: ${MAX_SCAN} | minPlaying: ${MIN_PLAYING}`,
   );
   if (!WRITE && changed > 0) console.log('Re-run with --write to apply.');
 }
