@@ -2,6 +2,7 @@
 title: "How to Redeem a Roblox Gift Card"
 description: "Redeem Roblox gift cards on web and mobile, fix common pin errors, and keep the Robux on the right account."
 pubDate: 2026-07-31
+cover: "/images/blog/card/redeem-gift-card.webp"
 ---
 
 Gift cards are the safest way someone else can buy you Robux. Redeem on the **correct account** — Robux do not move between users after redeem.

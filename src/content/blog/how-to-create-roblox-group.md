@@ -2,6 +2,7 @@
 title: "How to Create a Roblox Group"
 description: "Create a Roblox group, set roles and ranks, upload an icon, and use groups for friends or game communities."
 pubDate: 2026-07-31
+cover: "/images/blog/card/create-group.webp"
 ---
 
 Groups are how clans, studios, and friend circles organize on Roblox. Creating one is straightforward; running one well takes a bit of setup.

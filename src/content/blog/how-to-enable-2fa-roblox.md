@@ -2,6 +2,7 @@
 title: "How to Enable 2-Step Verification on Roblox"
 description: "Turn on Roblox 2FA with an authenticator app, backup codes, and what to do if you lose your phone."
 pubDate: 2026-07-31
+cover: "/images/blog/card/enable-2fa.webp"
 ---
 
 Two-step verification (2FA) is the highest-impact security setting on Roblox. If someone steals your password, they still need a code from your phone.

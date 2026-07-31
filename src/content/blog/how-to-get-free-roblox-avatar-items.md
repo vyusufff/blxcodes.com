@@ -2,6 +2,7 @@
 title: "How to Get Free Roblox Avatar Items"
 description: "Find free catalog items, redeem official promo codes, and join events — without fake free Robux sites."
 pubDate: 2026-07-31
+cover: "/images/blog/card/free-avatar-items.webp"
 ---
 
 You can dress an avatar for **0 Robux** if you know where Roblox hides freebies. What you cannot do is download a “generator” for free Robux — those are scams.

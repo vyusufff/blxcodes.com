@@ -2,6 +2,7 @@
 title: "How to Customize Your Roblox Avatar"
 description: "Use the avatar editor, layered clothing, classic vs R15, and free catalog filters to build a better look."
 pubDate: 2026-07-31
+cover: "/images/blog/card/make-avatar.webp"
 ---
 
 Your avatar is the first thing people see in experiences. You don’t need a huge Robux budget to look intentional.

@@ -2,6 +2,7 @@
 title: "Is Roblox Premium Worth It in 2026?"
 description: "What Roblox Premium includes, stipend tiers, trading perks, and when free accounts should skip it."
 pubDate: 2026-07-31
+cover: "/images/blog/card/premium-worth-it.webp"
 ---
 
 Roblox Premium is a monthly subscription. You pay real money; Roblox pays back a **Robux stipend** and unlocks features free accounts don’t get.
