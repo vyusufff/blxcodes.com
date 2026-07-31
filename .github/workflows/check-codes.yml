@@ -2,12 +2,12 @@ name: Auto sync codes
 
 on:
   schedule:
-    # Every 2 hours
-    - cron: '0 */2 * * *'
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+  actions: read
 
 jobs:
   sync-and-deploy:
@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: "22"
           cache: npm
 
       - name: Install
