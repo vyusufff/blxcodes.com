@@ -29,204 +29,274 @@
   ],
   "codes": [
     {
+      "code": "2XWEEKEND",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "2XWKND",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "ADMINABUSE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "ANTICHEAT",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "AUGUST25",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "BRAINROT",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "CHAMPIONSUNDAY",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "CHRISTMAS2025",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "CHRISTMASEVENT",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "CLXRSAVESTHEDAY",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "EASTER26",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "ENDZONE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "FIRSTDOWN",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "FLAGCHAMPS",
+      "reward": "Free Rewards ( )",
+      "status": "active"
+    },
+    {
+      "code": "FLAGSOON",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "FRESHPACK",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "GOTRADE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "HALLOWEEN25",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYHALLOWEEN",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYTHANKSGIVING25",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "HBCU",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "HEATINGUP",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "MARCHMADNESS",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "MIXTAPE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "MYTHS",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "NEWSTADIUMS",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "NEWYEAR25",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "NFLFLAG",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "NFLHYPE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "ONEHAND",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "ONEMOREWEEK",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "PACKS",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "PRESIDENTS26",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "RANKED",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "REDZONE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SEACHAMPIONS",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SEASON17",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SEASON2",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SEASON3",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SEASONONE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SKILLBASED",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SPRINGISHERE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "STADIUMS",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SUBSCRIPTIONS",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SUMMER26",
+      "reward": "Free Rewards ( )",
+      "status": "active"
+    },
+    {
+      "code": "SZN4",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SZN6",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "THANKSGIVING25",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "TRADEHUB",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "TSUNAMI",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "UNIFORMS26",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "100KLIKES",
       "reward": "10,000 Coins",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "110KLIKES",
       "reward": "10,000 Coins",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "2025",
       "reward": "Limited Cosmetic Item",
-      "status": "active"
-    },
-    {
-      "code": "50KLIKES",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "50KMRS",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "70KLIKES",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "80KLIKES",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "85KLIKES",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "90KLIKES",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "95KLIKES",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "AUCTIONSONLINE",
-      "reward": "Limited Cosmetic Item",
-      "status": "active"
-    },
-    {
-      "code": "CHRISTMAS2024",
-      "reward": "Limited Cosmetic Item",
-      "status": "active"
-    },
-    {
-      "code": "CYBERMONDAY2023",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "EASTER2024",
-      "reward": "5k eggs",
-      "status": "active"
-    },
-    {
-      "code": "EPICSOTM",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "EXTRAPUMPKINS",
-      "reward": "Limited Cosmetic Item",
-      "status": "active"
-    },
-    {
-      "code": "FEBNEWSLETTER",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "FIREWORKS2024",
-      "reward": "5K ribbons",
-      "status": "active"
-    },
-    {
-      "code": "FREESLICES",
-      "reward": "5,000 Slices",
-      "status": "active"
-    },
-    {
-      "code": "HALLOWEEN2024",
-      "reward": "Limited Cosmetic Item",
-      "status": "active"
-    },
-    {
-      "code": "HOLIDAY2023",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "JanuaryNewsletter",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "MATCHMAKING",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "Nickglush",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "NovemberNewsletter",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "PARKIMPROVEMENTS",
-      "reward": "Limited Cosmetic Item",
-      "status": "active"
-    },
-    {
-      "code": "SEASON4",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "SEASON5",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "SEASON7",
-      "reward": "10k coins",
-      "status": "active"
-    },
-    {
-      "code": "SEASON8",
-      "reward": "rewards",
-      "status": "active"
-    },
-    {
-      "code": "SEASON9",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "SNOWMAN2024",
-      "reward": "Limited Cosmetic Item",
-      "status": "active"
-    },
-    {
-      "code": "StarterCoins",
-      "reward": "5,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "SuperBowlLVIII",
-      "reward": "10k coins",
-      "status": "active"
-    },
-    {
-      "code": "TEAMDANCES",
-      "reward": "10K Coins",
-      "status": "active"
-    },
-    {
-      "code": "THANKSGIVING2023",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "THANKSGIVING2024",
-      "reward": "Limited Cosmetic Item",
-      "status": "active"
-    },
-    {
-      "code": "UF200K",
-      "reward": "10,000 Coins",
-      "status": "active"
-    },
-    {
-      "code": "UNIVERSEFOOTBALL2024",
-      "reward": "Limited Cosmetic Item",
-      "status": "active"
-    },
-    {
-      "code": "VETERANSDAY2024",
-      "reward": "Limited Cosmetic Item",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "25k",
@@ -239,13 +309,48 @@
       "status": "expired"
     },
     {
+      "code": "50KLIKES",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
+      "code": "50KMRS",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
+      "code": "70KLIKES",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
+      "code": "80KLIKES",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
       "code": "8217",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
+      "code": "85KLIKES",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
       "code": "8KCCU",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "90KLIKES",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
+      "code": "95KLIKES",
+      "reward": "10,000 Coins",
       "status": "expired"
     },
     {
@@ -264,13 +369,53 @@
       "status": "expired"
     },
     {
+      "code": "AUCTIONSONLINE",
+      "reward": "Limited Cosmetic Item",
+      "status": "expired"
+    },
+    {
       "code": "bookmark",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
+      "code": "CHRISTMAS2024",
+      "reward": "Limited Cosmetic Item",
+      "status": "expired"
+    },
+    {
+      "code": "CYBERMONDAY2023",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
       "code": "difficult",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "EASTER2024",
+      "reward": "5k eggs",
+      "status": "expired"
+    },
+    {
+      "code": "EPICSOTM",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
+      "code": "EXTRAPUMPKINS",
+      "reward": "Limited Cosmetic Item",
+      "status": "expired"
+    },
+    {
+      "code": "FEBNEWSLETTER",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
+      "code": "FIREWORKS2024",
+      "reward": "5K ribbons",
       "status": "expired"
     },
     {
@@ -284,6 +429,11 @@
       "status": "expired"
     },
     {
+      "code": "FREESLICES",
+      "reward": "5,000 Slices",
+      "status": "expired"
+    },
+    {
       "code": "frequently",
       "reward": "Expired reward",
       "status": "expired"
@@ -294,8 +444,23 @@
       "status": "expired"
     },
     {
+      "code": "HALLOWEEN2024",
+      "reward": "Limited Cosmetic Item",
+      "status": "expired"
+    },
+    {
+      "code": "HOLIDAY2023",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
       "code": "information",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "JanuaryNewsletter",
+      "reward": "10,000 Coins",
       "status": "expired"
     },
     {
@@ -319,6 +484,11 @@
       "status": "expired"
     },
     {
+      "code": "MATCHMAKING",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
       "code": "NFL",
       "reward": "Expired reward",
       "status": "expired"
@@ -334,8 +504,18 @@
       "status": "expired"
     },
     {
+      "code": "Nickglush",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
       "code": "Not",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NovemberNewsletter",
+      "reward": "10,000 Coins",
       "status": "expired"
     },
     {
@@ -346,6 +526,11 @@
     {
       "code": "occasionally",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PARKIMPROVEMENTS",
+      "reward": "Limited Cosmetic Item",
       "status": "expired"
     },
     {
@@ -369,6 +554,31 @@
       "status": "expired"
     },
     {
+      "code": "SEASON4",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
+      "code": "SEASON5",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
+      "code": "SEASON7",
+      "reward": "10k coins",
+      "status": "expired"
+    },
+    {
+      "code": "SEASON8",
+      "reward": "rewards",
+      "status": "expired"
+    },
+    {
+      "code": "SEASON9",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
       "code": "Select",
       "reward": "Expired reward",
       "status": "expired"
@@ -379,8 +589,18 @@
       "status": "expired"
     },
     {
+      "code": "SNOWMAN2024",
+      "reward": "Limited Cosmetic Item",
+      "status": "expired"
+    },
+    {
       "code": "SportsEquinox",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "StarterCoins",
+      "reward": "5,000 Coins",
       "status": "expired"
     },
     {
@@ -394,8 +614,28 @@
       "status": "expired"
     },
     {
+      "code": "SuperBowlLVIII",
+      "reward": "10k coins",
+      "status": "expired"
+    },
+    {
       "code": "tackling",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TEAMDANCES",
+      "reward": "10K Coins",
+      "status": "expired"
+    },
+    {
+      "code": "THANKSGIVING2023",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
+      "code": "THANKSGIVING2024",
+      "reward": "Limited Cosmetic Item",
       "status": "expired"
     },
     {
@@ -414,8 +654,23 @@
       "status": "expired"
     },
     {
+      "code": "UF200K",
+      "reward": "10,000 Coins",
+      "status": "expired"
+    },
+    {
       "code": "Universe",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UNIVERSEFOOTBALL2024",
+      "reward": "Limited Cosmetic Item",
+      "status": "expired"
+    },
+    {
+      "code": "VETERANSDAY2024",
+      "reward": "Limited Cosmetic Item",
       "status": "expired"
     },
     {

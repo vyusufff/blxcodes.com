@@ -29,6 +29,16 @@
   ],
   "codes": [
     {
+      "code": "!update1",
+      "reward": "Sabito Haori",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE6",
+      "reward": "Sabito Haori ( )",
+      "status": "active"
+    },
+    {
       "code": "WeAreSoBACK!",
       "reward": "Sabito Haori ( )",
       "status": "active"

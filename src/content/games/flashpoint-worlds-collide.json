@@ -69,11 +69,6 @@
       "status": "active"
     },
     {
-      "code": "yippeeupdatedsuggestionchannel!",
-      "reward": "50K EXP and 10 V-X ( )",
-      "status": "active"
-    },
-    {
       "code": "15kinterestedwooooo",
       "reward": "Expired reward",
       "status": "expired"
@@ -261,6 +256,11 @@
     {
       "code": "yayspring!!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "yippeeupdatedsuggestionchannel!",
+      "reward": "50K EXP and 10 V-X ( )",
       "status": "expired"
     },
     {

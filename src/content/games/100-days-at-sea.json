@@ -44,6 +44,11 @@
       "status": "active"
     },
     {
+      "code": "POTION",
+      "reward": "+20 Pearls ( )",
+      "status": "active"
+    },
+    {
       "code": "100",
       "reward": "Expired reward",
       "status": "expired"

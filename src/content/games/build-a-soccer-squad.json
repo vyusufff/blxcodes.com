@@ -32,6 +32,11 @@
       "status": "active"
     },
     {
+      "code": "FUTURE",
+      "reward": "25 Rerolls, and 25 Refreshes ( )",
+      "status": "active"
+    },
+    {
       "code": "LIMITBREAKER",
       "reward": "25 Rerolls, and 25 Refreshes",
       "status": "active"

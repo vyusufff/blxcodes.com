@@ -29,48 +29,48 @@
   ],
   "codes": [
     {
+      "code": "BIGDILL",
+      "reward": "124150 Cash ( )",
+      "status": "active"
+    },
+    {
+      "code": "CONCRABULATIONS",
+      "reward": "3450 Cash ( )",
+      "status": "active"
+    },
+    {
       "code": "CRABCAKES",
       "reward": "25650 Cash ( )",
       "status": "active"
     },
     {
-      "code": "MOLTMANIA",
-      "reward": "24200 Cash",
+      "code": "DUNEDIGGER",
+      "reward": "23210 Cash ( )",
       "status": "active"
     },
     {
-      "code": "PEARLDIVER",
-      "reward": "17790 Cash",
+      "code": "PINCHPERFECT",
+      "reward": "12720 Cash ( )",
       "status": "active"
     },
     {
-      "code": "PETPALS",
+      "code": "RIPTIDE",
+      "reward": "6430 Cash ( )",
+      "status": "active"
+    },
+    {
+      "code": "SHELLABALOO",
+      "reward": "31210 Cash ( )",
+      "status": "active"
+    },
+    {
+      "code": "SHELLO",
       "reward": "25650 Cash ( )",
       "status": "active"
     },
     {
-      "code": "REEFRIOT",
-      "reward": "17790 Cash",
-      "status": "active"
-    },
-    {
-      "code": "SANDDOLLAR",
-      "reward": "8849 Cash",
-      "status": "active"
-    },
-    {
-      "code": "SHELLFIE",
-      "reward": "24850 Cash",
-      "status": "active"
-    },
-    {
-      "code": "SHELLMATE",
-      "reward": "35580 Cash",
-      "status": "active"
-    },
-    {
-      "code": "WAVERIDER",
-      "reward": "22000 Cash",
+      "code": "TIDEPOOL",
+      "reward": "24550 Cash ( )",
       "status": "active"
     },
     {
@@ -184,6 +184,11 @@
       "status": "expired"
     },
     {
+      "code": "MOLTMANIA",
+      "reward": "24200 Cash",
+      "status": "expired"
+    },
+    {
       "code": "Moreover",
       "reward": "Expired reward",
       "status": "expired"
@@ -204,8 +209,23 @@
       "status": "expired"
     },
     {
+      "code": "PEARLDIVER",
+      "reward": "17790 Cash",
+      "status": "expired"
+    },
+    {
+      "code": "PETPALS",
+      "reward": "25650 Cash ( )",
+      "status": "expired"
+    },
+    {
       "code": "Redeeming",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "REEFRIOT",
+      "reward": "17790 Cash",
       "status": "expired"
     },
     {
@@ -221,6 +241,21 @@
     {
       "code": "SANDCASTLE",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SANDDOLLAR",
+      "reward": "8849 Cash",
+      "status": "expired"
+    },
+    {
+      "code": "SHELLFIE",
+      "reward": "24850 Cash",
+      "status": "expired"
+    },
+    {
+      "code": "SHELLMATE",
+      "reward": "35580 Cash",
       "status": "expired"
     },
     {
@@ -261,6 +296,11 @@
     {
       "code": "Type",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WAVERIDER",
+      "reward": "22000 Cash",
       "status": "expired"
     },
     {

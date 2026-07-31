@@ -34,11 +34,6 @@
       "status": "active"
     },
     {
-      "code": "DA7THBIRTHDAY2",
-      "reward": "Sonar Studios Party Hat accessory, Party Cosmetic Trait Potion, and 100 Alchemy Elixir ( )",
-      "status": "active"
-    },
-    {
       "code": "FLUFFY",
       "reward": "1x FluffyTSG Preset Potion",
       "status": "active"
@@ -111,6 +106,11 @@
     {
       "code": "challenging",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DA7THBIRTHDAY2",
+      "reward": "Sonar Studios Party Hat accessory, Party Cosmetic Trait Potion, and 100 Alchemy Elixir ( )",
       "status": "expired"
     },
     {
