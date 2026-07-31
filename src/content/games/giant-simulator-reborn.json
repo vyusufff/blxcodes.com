@@ -29,38 +29,8 @@
   ],
   "codes": [
     {
-      "code": "Azadpets",
-      "reward": "Get 2500 Gold",
-      "status": "active"
-    },
-    {
-      "code": "Demonking",
-      "reward": "Get 20,000 Gold ( )",
-      "status": "active"
-    },
-    {
-      "code": "Freegold",
-      "reward": "Get 1 Gold",
-      "status": "active"
-    },
-    {
-      "code": "Gianttofuu",
-      "reward": "Get 10,000 Gold ( )",
-      "status": "active"
-    },
-    {
-      "code": "Pets",
-      "reward": "Get 10,000 Gold",
-      "status": "active"
-    },
-    {
-      "code": "Planetmilopets",
-      "reward": "Get 2500 Gold",
-      "status": "active"
-    },
-    {
-      "code": "Razorfishpets",
-      "reward": "Get 5000 Gold ( )",
+      "code": "SUMMERGEM",
+      "reward": "Soul Gem Potion 2 ( )",
       "status": "active"
     },
     {
@@ -91,6 +61,11 @@
     {
       "code": "available",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Azadpets",
+      "reward": "Get 2500 Gold",
       "status": "expired"
     },
     {
@@ -144,6 +119,11 @@
       "status": "expired"
     },
     {
+      "code": "Demonking",
+      "reward": "Get 20,000 Gold ( )",
+      "status": "expired"
+    },
+    {
       "code": "elsewhere",
       "reward": "Expired reward",
       "status": "expired"
@@ -159,6 +139,11 @@
       "status": "expired"
     },
     {
+      "code": "Freegold",
+      "reward": "Get 1 Gold",
+      "status": "expired"
+    },
+    {
       "code": "frequently",
       "reward": "Expired reward",
       "status": "expired"
@@ -171,6 +156,11 @@
     {
       "code": "Giant",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Gianttofuu",
+      "reward": "Get 10,000 Gold ( )",
       "status": "expired"
     },
     {
@@ -201,6 +191,21 @@
     {
       "code": "Other",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Pets",
+      "reward": "Get 10,000 Gold",
+      "status": "expired"
+    },
+    {
+      "code": "Planetmilopets",
+      "reward": "Get 2500 Gold",
+      "status": "expired"
+    },
+    {
+      "code": "Razorfishpets",
+      "reward": "Get 5000 Gold ( )",
       "status": "expired"
     },
     {

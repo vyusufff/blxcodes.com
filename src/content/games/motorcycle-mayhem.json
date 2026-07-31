@@ -29,12 +29,12 @@
   ],
   "codes": [
     {
-      "code": "EPIC140K",
-      "reward": "Redeem for 1k Gears",
+      "code": "CRAZY310K",
+      "reward": "Redeem for 1k Gears ( )",
       "status": "active"
     },
     {
-      "code": "HYPE160K",
+      "code": "EPIC140K",
       "reward": "Redeem for 1k Gears",
       "status": "active"
     },
@@ -49,13 +49,18 @@
       "status": "active"
     },
     {
+      "code": "VICTORY290K",
+      "reward": "Redeem for 1k Gears ( )",
+      "status": "active"
+    },
+    {
       "code": "WOW130K",
       "reward": "Redeem for 1k Gears",
       "status": "active"
     },
     {
-      "code": "YES170K",
-      "reward": "Redeem for 1k Gears",
+      "code": "YAY300K",
+      "reward": "Redeem for 1k Gears ( )",
       "status": "active"
     },
     {
@@ -164,6 +169,11 @@
       "status": "expired"
     },
     {
+      "code": "HYPE160K",
+      "reward": "Redeem for 1k Gears",
+      "status": "expired"
+    },
+    {
       "code": "Input",
       "reward": "Expired reward",
       "status": "expired"
@@ -251,6 +261,11 @@
     {
       "code": "yay120k",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "YES170K",
+      "reward": "Redeem for 1k Gears",
       "status": "expired"
     },
     {

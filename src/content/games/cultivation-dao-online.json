@@ -29,6 +29,16 @@
   ],
   "codes": [
     {
+      "code": "100KFavorites",
+      "reward": "Redeem for 5 Spirit Root Spins, 5 Body Constitution Spins, 2 Instant Health, and 2 Instant Qi",
+      "status": "active"
+    },
+    {
+      "code": "10KLikes",
+      "reward": "Redeem for 7 Spirit Root Spins and 7 Body Constitution Spins",
+      "status": "active"
+    },
+    {
       "code": "150KCommunityMembers",
       "reward": "3x Instant Health, 3x Instant Qi, 5x Common Chest, 10x Spirit Root Spins, 10x Body Constitution Spins, 2000 Spirit Stone",
       "status": "active"
@@ -41,6 +51,11 @@
     {
       "code": "3000ccu",
       "reward": "5x Instant Health, 5x Instant Qi, 5x Common Chest, 10x Spirit Root Spins, 10x Body Constitution Spins",
+      "status": "active"
+    },
+    {
+      "code": "3MVisits",
+      "reward": "Redeem for 5 Spirit Root Spins, 5 Body Constitution Spins, 2 Instant Health, and 2 Instant Qi",
       "status": "active"
     },
     {
@@ -64,6 +79,16 @@
       "status": "active"
     },
     {
+      "code": "Locks",
+      "reward": "Redeem for 5 Body Constitution Locks and 5 Spirit Root Locks",
+      "status": "active"
+    },
+    {
+      "code": "MerchantBugFix",
+      "reward": "Redeem for 5 Spirit Root Spins and 5 Body Constitution Spins ( )",
+      "status": "active"
+    },
+    {
       "code": "NewSet",
       "reward": "4 Instant Qi, 4000 Spirit Stone, and 5 Common Chest",
       "status": "active"
@@ -79,8 +104,33 @@
       "status": "active"
     },
     {
+      "code": "SectResearch",
+      "reward": "Redeem for 5 Spirit Root Spins, 5 Body Constitution Spins, and Titles and Sect over your head",
+      "status": "active"
+    },
+    {
+      "code": "SectShop",
+      "reward": "Redeem for 5 Spirit Root Spins and 5 Body Constitution Spins",
+      "status": "active"
+    },
+    {
+      "code": "Titles",
+      "reward": "Redeem for 3 Instant Health and 4 Instant Qi",
+      "status": "active"
+    },
+    {
       "code": "TyForPlaying",
       "reward": "2x Instant Health, 2x Instant Qi, 2x Pure Qi, 2x Perfected Training",
+      "status": "active"
+    },
+    {
+      "code": "UpdateV2",
+      "reward": "Redeem for 5 Spirit Root Spins, 5 Body Constitution Spins, 2 Instant Health, and 2 Instant Qi",
+      "status": "active"
+    },
+    {
+      "code": "WAutoclaim",
+      "reward": "Redeem for 5 Spirit Root Spins, 5 Body Constitution Spins, 5 Body Constitution Locks, and 5 Spirit Root Locks",
       "status": "active"
     },
     {

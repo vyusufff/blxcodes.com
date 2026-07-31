@@ -44,6 +44,11 @@
       "status": "active"
     },
     {
+      "code": "AmbushFix",
+      "reward": "Get 3000x Dungeon Tokens, 5x of each Potion, 500x Gems",
+      "status": "active"
+    },
+    {
       "code": "BUGFIXES",
       "reward": "Get 500x gems, 2x of each potion, 5,000x Dungeon Tokens",
       "status": "active"
@@ -59,6 +64,11 @@
       "status": "active"
     },
     {
+      "code": "HXHUPD",
+      "reward": "Get 150x Gems, 2 Keys",
+      "status": "active"
+    },
+    {
       "code": "MiniUpdate",
       "reward": "Get 1x Clover Defense Key, 150x Gems, 100x Sword Token, 100x Elemental Tokens",
       "status": "active"
@@ -69,8 +79,18 @@
       "status": "active"
     },
     {
+      "code": "SHADOWS",
+      "reward": "Get 10x of each key, 5000 exchange tokens ( )",
+      "status": "active"
+    },
+    {
       "code": "SHUTDOWN",
       "reward": "Get 1x Clover Defense Key, 200x Gems",
+      "status": "active"
+    },
+    {
+      "code": "SOLO",
+      "reward": "Get 100 gems, 10x each potion ( )",
       "status": "active"
     },
     {

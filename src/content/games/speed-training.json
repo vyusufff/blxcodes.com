@@ -29,6 +29,21 @@
   ],
   "codes": [
     {
+      "code": "likes100",
+      "reward": "1x speed potion, 1x win potion ( )",
+      "status": "active"
+    },
+    {
+      "code": "omg1000likes",
+      "reward": "1x speed potion, 1x luck potion, 1x win potion ( )",
+      "status": "active"
+    },
+    {
+      "code": "thanks500",
+      "reward": "1x speed potion, 1x win potion ( )",
+      "status": "active"
+    },
+    {
       "code": "update1",
       "reward": "1x speed potion, 1x luck potion, 1x win potion",
       "status": "active"
