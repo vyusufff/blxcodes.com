@@ -85,17 +85,35 @@ jobs:
         run: npm run build
 
       - name: Deploy to Cloudflare Pages
+        id: deploy
+        continue-on-error: true
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy dist --project-name=blxcodes
-        # Cloudflare asset upload occasionally returns 525 / malformed HTML
-        continue-on-error: true
-        id: deploy
+
+      # Cloudflare API sometimes returns 522/525 HTML instead of JSON during big uploads
+      - name: Wait before deploy retry
+        if: steps.deploy.outcome == 'failure'
+        run: sleep 45
 
       - name: Retry Cloudflare deploy
+        id: deploy2
         if: steps.deploy.outcome == 'failure'
+        continue-on-error: true
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=blxcodes
+
+      - name: Wait before second deploy retry
+        if: steps.deploy.outcome == 'failure' && steps.deploy2.outcome == 'failure'
+        run: sleep 90
+
+      - name: Retry Cloudflare deploy again
+        if: steps.deploy.outcome == 'failure' && steps.deploy2.outcome == 'failure'
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
