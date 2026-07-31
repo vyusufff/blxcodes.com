@@ -22,6 +22,10 @@ permissions:
   contents: write
   actions: read
 
+concurrency:
+  group: auto-sync-codes
+  cancel-in-progress: false
+
 jobs:
   sync-and-deploy:
     runs-on: ubuntu-latest
@@ -49,6 +53,7 @@ jobs:
       - name: Commit changes if any
         id: commit
         run: |
+          set -e
           git config user.name "blxcodes-bot"
           git config user.email "bot@blxcodes.com"
           git add src/content/games scripts/sources.json public/images/games || true
@@ -57,8 +62,21 @@ jobs:
             echo "No content changes."
           else
             git commit -m "chore: auto-sync codes and new games $(date -u +%Y-%m-%dT%H:%MZ)"
-            # Avoid losing catch-up when another push landed mid-run
-            git pull --rebase origin main
+            git fetch origin main
+            if ! git rebase origin/main; then
+              # Prefer catch-up game files; deep-merge sources.json
+              git checkout --theirs -- src/content/games public/images/games 2>/dev/null || true
+              if [ -f scripts/sources.json ]; then
+                node -e "
+                  const fs=require('fs'); const {execSync}=require('child_process');
+                  function read(stage){try{return JSON.parse(execSync('git show :'+stage+':scripts/sources.json',{encoding:'utf8'}));}catch{return{}}}
+                  const merged={...read(2),...read(3)};
+                  fs.writeFileSync('scripts/sources.json', JSON.stringify(merged,null,2)+'\n');
+                "
+              fi
+              git add src/content/games scripts/sources.json public/images/games
+              GIT_EDITOR=true git rebase --continue
+            fi
             git push origin HEAD:main
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
