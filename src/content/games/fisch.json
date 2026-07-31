@@ -203,16 +203,6 @@
       "status": "expired"
     },
     {
-      "code": "FISCHFRIGHTSOON",
-      "reward": "Event reward",
-      "status": "expired"
-    },
-    {
-      "code": "FISCHMASDAY",
-      "reward": "Event reward",
-      "status": "expired"
-    },
-    {
       "code": "Fischfest2026",
       "reward": "Event reward",
       "status": "expired"
@@ -233,12 +223,22 @@
       "status": "expired"
     },
     {
+      "code": "FISCHFRIGHTSOON",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
       "code": "Fischgiving",
       "reward": "Event reward",
       "status": "expired"
     },
     {
       "code": "FischIsTheBest",
+      "reward": "Event reward",
+      "status": "expired"
+    },
+    {
+      "code": "FISCHMASDAY",
       "reward": "Event reward",
       "status": "expired"
     },
