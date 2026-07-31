@@ -2,7 +2,7 @@
 title: "How to Play Roblox on PC, Phone, and Console"
 description: "Install Roblox on Windows, Mac, iOS, Android, and supported consoles — plus which platform is best for what."
 pubDate: 2026-07-31
-cover: "/images/blog/card/play-anywhere.webp"
+cover: "/images/blog/card/play-anywhere-v2.webp"
 ---
 
 Roblox is cross-platform: start on a phone, continue on a PC with the same account. Performance and controls differ.

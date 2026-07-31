@@ -2,7 +2,7 @@
 title: "How to Trade on Roblox (Limited Items)"
 description: "Premium requirements, how to send a trade, Limited vs Limited U, and how not to get scammed while trading."
 pubDate: 2026-07-31
-cover: "/images/blog/card/trade-roblox.webp"
+cover: "/images/blog/card/trade-roblox-v2.webp"
 ---
 
 Roblox trading is only for **Limited** and **Limited U** items — not normal clothing you bought yesterday. Both sides usually need **Roblox Premium**, a qualifying account age, and trading turned on.

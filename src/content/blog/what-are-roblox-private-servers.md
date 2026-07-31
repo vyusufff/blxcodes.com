@@ -2,7 +2,7 @@
 title: "What Are Roblox Private Servers?"
 description: "How private servers work, who can join, why games charge for them, and when a free public server is enough."
 pubDate: 2026-07-31
-cover: "/images/blog/card/private-servers.webp"
+cover: "/images/blog/card/private-servers-v2.webp"
 ---
 
 A **private server** (sometimes called VIP server) is a locked instance of an experience. You control who gets in — friends, clanmates, or just you.

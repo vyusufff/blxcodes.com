@@ -2,7 +2,7 @@
 title: "How to Report a Player on Roblox"
 description: "Report chat abuse, scams, and inappropriate content the right way — and what Roblox can (and can’t) do next."
 pubDate: 2026-07-31
-cover: "/images/blog/card/report-players.webp"
+cover: "/images/blog/card/report-players-v2.webp"
 ---
 
 Reporting works best when you give Roblox a clear category and evidence. Rage-reporting after a fair death in a fighting game usually goes nowhere.

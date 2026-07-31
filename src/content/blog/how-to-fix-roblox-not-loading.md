@@ -2,7 +2,7 @@
 title: "How to Fix Roblox Not Loading or Not Opening"
 description: "Fix black screen, stuck on loading, error codes, and install issues on PC, mobile, and browser."
 pubDate: 2026-07-31
-cover: "/images/blog/card/fix-not-loading.webp"
+cover: "/images/blog/card/fix-not-loading-v2.webp"
 ---
 
 Roblox failing to open is usually client cache, network, or an outdated app — not a banned account. Work top to bottom.
