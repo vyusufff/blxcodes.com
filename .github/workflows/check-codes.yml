@@ -72,6 +72,17 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy dist --project-name=blxcodes
+        # Cloudflare asset upload occasionally returns 525 / malformed HTML
+        continue-on-error: true
+        id: deploy
+
+      - name: Retry Cloudflare deploy
+        if: steps.deploy.outcome == 'failure'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=blxcodes
 
       - name: IndexNow ping
         if: steps.commit.outputs.changed == 'true'
