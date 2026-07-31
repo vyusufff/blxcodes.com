@@ -511,15 +511,10 @@ async function syncOne(slug, urls, report) {
     if (WRITE) fs.writeFileSync(game.file, JSON.stringify(game.data, null, 2) + '\n');
     return true;
   }
-  if (WRITE && activeMap.size > 0) {
-    game.data.checkedAt = TODAY;
-    fs.writeFileSync(game.file, JSON.stringify(game.data, null, 2) + '\n');
-    report.push(`= ${slug}: checked ${TODAY} (${activeMap.size} active)`);
-  } else {
-    report.push(
-      `= ${slug}: no diff (${activeMap.size} active${blocked ? `, ${blocked} blocked` : ''})`,
-    );
-  }
+  // Do NOT rewrite JSON just to bump checkedAt — that forces a 500+ file deploy every run.
+  report.push(
+    `= ${slug}: no diff (${activeMap.size} active${blocked ? `, ${blocked} blocked` : ''})`,
+  );
   return false;
 }
 
@@ -679,6 +674,7 @@ async function main() {
     if (!cfg.sources?.length) continue;
     const did = await syncOne(slug, cfg.sources, report);
     if (did) changed += 1;
+    await sleep(80);
   }
 
   // 2) Then discover new games (this-week first, skip dead/low CCU)

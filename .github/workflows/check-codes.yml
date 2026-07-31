@@ -1,18 +1,19 @@
 name: Auto sync codes
 
+# Every 2 hours: update existing codes, add a few new live games, deploy only if changed.
 on:
   schedule:
     - cron: "0 */2 * * *"
   workflow_dispatch:
     inputs:
       max_new_games:
-        description: "Max new games to add this run (catch-up: 200)"
+        description: "Max new games this run (default 5; catch-up e.g. 200)"
         required: false
         default: "5"
       max_scan:
-        description: "Max hub candidates to scan"
+        description: "Max hub candidates to scan for new games"
         required: false
-        default: "40"
+        default: "80"
       min_playing:
         description: "Skip new games below this CCU"
         required: false
@@ -43,11 +44,11 @@ jobs:
       - name: Install
         run: npm ci
 
-      - name: Sync codes from sources
+      - name: Sync existing + discover new
         env:
-          MAX_NEW_GAMES: ${{ github.event.inputs.max_new_games || '5' }}
-          MAX_SCAN: ${{ github.event.inputs.max_scan || '40' }}
-          MIN_PLAYING: ${{ github.event.inputs.min_playing || '50' }}
+          MAX_NEW_GAMES: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.max_new_games || '5' }}
+          MAX_SCAN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.max_scan || '80' }}
+          MIN_PLAYING: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.min_playing || '50' }}
         run: node scripts/check-codes.mjs --write
 
       - name: Commit changes if any
@@ -64,7 +65,6 @@ jobs:
             git commit -m "chore: auto-sync codes and new games $(date -u +%Y-%m-%dT%H:%MZ)"
             git fetch origin main
             if ! git rebase origin/main; then
-              # Prefer catch-up game files; deep-merge sources.json
               git checkout --theirs -- src/content/games public/images/games 2>/dev/null || true
               if [ -f scripts/sources.json ]; then
                 node -e "
@@ -82,10 +82,12 @@ jobs:
           fi
 
       - name: Build
+        if: steps.commit.outputs.changed == 'true'
         run: npm run build
 
       - name: Deploy to Cloudflare Pages
         id: deploy
+        if: steps.commit.outputs.changed == 'true'
         continue-on-error: true
         uses: cloudflare/wrangler-action@v3
         with:
@@ -93,14 +95,13 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy dist --project-name=blxcodes
 
-      # Cloudflare API sometimes returns 522/525 HTML instead of JSON during big uploads
       - name: Wait before deploy retry
-        if: steps.deploy.outcome == 'failure'
+        if: steps.commit.outputs.changed == 'true' && steps.deploy.outcome == 'failure'
         run: sleep 45
 
       - name: Retry Cloudflare deploy
         id: deploy2
-        if: steps.deploy.outcome == 'failure'
+        if: steps.commit.outputs.changed == 'true' && steps.deploy.outcome == 'failure'
         continue-on-error: true
         uses: cloudflare/wrangler-action@v3
         with:
@@ -109,11 +110,11 @@ jobs:
           command: pages deploy dist --project-name=blxcodes
 
       - name: Wait before second deploy retry
-        if: steps.deploy.outcome == 'failure' && steps.deploy2.outcome == 'failure'
+        if: steps.commit.outputs.changed == 'true' && steps.deploy.outcome == 'failure' && steps.deploy2.outcome == 'failure'
         run: sleep 90
 
       - name: Retry Cloudflare deploy again
-        if: steps.deploy.outcome == 'failure' && steps.deploy2.outcome == 'failure'
+        if: steps.commit.outputs.changed == 'true' && steps.deploy.outcome == 'failure' && steps.deploy2.outcome == 'failure'
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
