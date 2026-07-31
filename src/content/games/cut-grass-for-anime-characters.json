@@ -29,19 +29,49 @@
   ],
   "codes": [
     {
+      "code": "AllianceGrind40K",
+      "reward": "40,000 Alliance Points",
+      "status": "active"
+    },
+    {
+      "code": "BigUpdate",
+      "reward": "3x 24-hour Speed-ups",
+      "status": "active"
+    },
+    {
+      "code": "ImperialSpeedUps",
+      "reward": "5x 24-hour Speed-ups ( )",
+      "status": "active"
+    },
+    {
+      "code": "OPCode2026",
+      "reward": "5x 24-hour Speed-ups",
+      "status": "active"
+    },
+    {
+      "code": "SHOPSTOCK!!!",
+      "reward": "3x Big Blue Shard",
+      "status": "active"
+    },
+    {
+      "code": "SummerVibes2026",
+      "reward": "2x 24-hour Speed-ups",
+      "status": "active"
+    },
+    {
+      "code": "SwordsOnline2020!",
+      "reward": "3x 24-hour Speed-ups",
+      "status": "active"
+    },
+    {
+      "code": "WhatsThisCode",
+      "reward": "1x 24-hour Speed-ups",
+      "status": "active"
+    },
+    {
       "code": "2ndUpdateLesgooo!!!",
       "reward": "1 OP Dice (requires Godly Zone)",
-      "status": "active"
-    },
-    {
-      "code": "SomeSpeedUps",
-      "reward": "10 speed-ups worth 5 minutes each ( )",
-      "status": "active"
-    },
-    {
-      "code": "UseThisForGalaxies",
-      "reward": "5 minutes worth of 2x Luck",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "8216",
@@ -229,6 +259,11 @@
       "status": "expired"
     },
     {
+      "code": "SomeSpeedUps",
+      "reward": "10 speed-ups worth 5 minutes each ( )",
+      "status": "expired"
+    },
+    {
       "code": "Sometimes",
       "reward": "Expired reward",
       "status": "expired"
@@ -236,6 +271,11 @@
     {
       "code": "That",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UseThisForGalaxies",
+      "reward": "5 minutes worth of 2x Luck",
       "status": "expired"
     },
     {

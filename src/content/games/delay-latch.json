@@ -44,11 +44,6 @@
       "status": "active"
     },
     {
-      "code": "WOWTHISSUCKSIMSORRY",
-      "reward": "22.5k Cash ( )",
-      "status": "active"
-    },
-    {
       "code": "ADDITIONALTIME",
       "reward": "Expired reward",
       "status": "expired"
@@ -246,6 +241,11 @@
     {
       "code": "WINTERUPDATE2025",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WOWTHISSUCKSIMSORRY",
+      "reward": "22.5k Cash ( )",
       "status": "expired"
     }
   ]

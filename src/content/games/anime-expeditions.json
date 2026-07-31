@@ -38,6 +38,11 @@
       "status": "active"
     },
     {
+      "code": "400mvisits",
+      "reward": "50 Trait Crystals, 30 Equipment Rerolls, 30 Stat Rerolls",
+      "status": "active"
+    },
+    {
       "code": "100K!",
       "reward": "Expired reward",
       "status": "expired"

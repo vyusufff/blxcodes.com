@@ -29,6 +29,11 @@
   ],
   "codes": [
     {
+      "code": "CRABCAKES",
+      "reward": "25650 Cash ( )",
+      "status": "active"
+    },
+    {
       "code": "MOLTMANIA",
       "reward": "24200 Cash",
       "status": "active"

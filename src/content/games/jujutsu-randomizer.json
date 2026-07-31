@@ -29,24 +29,19 @@
   ],
   "codes": [
     {
+      "code": "10MVISITS",
+      "reward": "400 Yen ( )",
+      "status": "active"
+    },
+    {
+      "code": "SEEYOUNEXTMONTH",
+      "reward": "150 Yen ( )",
+      "status": "active"
+    },
+    {
       "code": "130KLIKES",
       "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "JANEJULIET",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "MASSGIRLBALANCE",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "SUNNY",
-      "reward": "Free Rewards",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "5MILLIONSVISITSYAY",
@@ -124,6 +119,11 @@
       "status": "expired"
     },
     {
+      "code": "JANEJULIET",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "Jujutsu",
       "reward": "Expired reward",
       "status": "expired"
@@ -151,6 +151,11 @@
     {
       "code": "MAHORAGAHELPME!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MASSGIRLBALANCE",
+      "reward": "Free Rewards",
       "status": "expired"
     },
     {
@@ -191,6 +196,11 @@
     {
       "code": "STORMWARRIOR",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SUNNY",
+      "reward": "Free Rewards",
       "status": "expired"
     },
     {
