@@ -33,12 +33,12 @@ jobs:
         run: |
           git config user.name "blxcodes-bot"
           git config user.email "bot@blxcodes.com"
-          git add src/content/games
+          git add src/content/games scripts/sources.json public/images/games || true
           if git diff --staged --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "No code JSON changes."
+            echo "No content changes."
           else
-            git commit -m "chore: auto-sync codes $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "chore: auto-sync codes and new games $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
