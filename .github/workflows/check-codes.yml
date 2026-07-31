@@ -57,7 +57,9 @@ jobs:
             echo "No content changes."
           else
             git commit -m "chore: auto-sync codes and new games $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            # Avoid losing catch-up when another push landed mid-run
+            git pull --rebase origin main
+            git push origin HEAD:main
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
