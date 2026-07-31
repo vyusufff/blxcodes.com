@@ -7,6 +7,7 @@
  */
 import fs from 'fs';
 import path from 'path';
+import { execFileSync } from 'child_process';
 
 const ROOT = process.cwd();
 const GAMES_DIR = path.join(ROOT, 'src/content/games');
@@ -16,6 +17,26 @@ const TODAY = new Date().toISOString().slice(0, 10);
 const MAX_NEW_GAMES = Number(process.env.MAX_NEW_GAMES || 5);
 const MAX_SCAN = Number(process.env.MAX_SCAN || Math.max(MAX_NEW_GAMES * 8, 40));
 const MIN_PLAYING = Number(process.env.MIN_PLAYING || 50);
+/** Catch-up: if Roblox CCU API flakes, still add games that have placeId + active codes */
+const ALLOW_UNKNOWN_CCU =
+  process.env.ALLOW_UNKNOWN_CCU === '1' || Number(process.env.MAX_NEW_GAMES || 5) >= 50;
+
+function sleep(ms) {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
+function curlJson(url) {
+  try {
+    const raw = execFileSync(
+      process.platform === 'win32' ? 'curl.exe' : 'curl',
+      ['-ksL4', url, '--max-time', '20', '-H', `user-agent: ${UA}`],
+      { encoding: 'utf8' },
+    );
+    return JSON.parse(raw);
+  } catch {
+    return null;
+  }
+}
 const BEEBOM_HUB = 'https://beebom.com/roblox-games-codes-list/';
 
 const UA =
@@ -215,25 +236,49 @@ function discoverBeebomLinks(html) {
 
 async function getPlayingCount(placeId) {
   if (!placeId) return null;
-  try {
-    const uniRes = await fetch(`https://apis.roblox.com/universes/v1/places/${placeId}/universe`, {
-      headers: { 'user-agent': UA },
-      signal: AbortSignal.timeout(12000),
-    });
-    if (!uniRes.ok) return null;
-    const { universeId } = await uniRes.json();
-    if (!universeId) return null;
-    const gRes = await fetch(`https://games.roblox.com/v1/games?universeIds=${universeId}`, {
-      headers: { 'user-agent': UA },
-      signal: AbortSignal.timeout(12000),
-    });
-    if (!gRes.ok) return null;
-    const json = await gRes.json();
-    const playing = json?.data?.[0]?.playing;
-    return typeof playing === 'number' ? playing : null;
-  } catch {
-    return null;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      if (attempt > 0) await sleep(400 * attempt);
+      let universeId = null;
+      try {
+        const uniRes = await fetch(`https://apis.roblox.com/universes/v1/places/${placeId}/universe`, {
+          headers: { 'user-agent': UA },
+          signal: AbortSignal.timeout(12000),
+        });
+        if (uniRes.ok) universeId = (await uniRes.json())?.universeId;
+      } catch {
+        /* curl fallback below */
+      }
+      if (!universeId) {
+        universeId = curlJson(
+          `https://apis.roblox.com/universes/v1/places/${placeId}/universe`,
+        )?.universeId;
+      }
+      if (!universeId) continue;
+
+      let playing = null;
+      try {
+        const gRes = await fetch(`https://games.roblox.com/v1/games?universeIds=${universeId}`, {
+          headers: { 'user-agent': UA },
+          signal: AbortSignal.timeout(12000),
+        });
+        if (gRes.ok) {
+          const json = await gRes.json();
+          playing = json?.data?.[0]?.playing;
+        }
+      } catch {
+        /* curl fallback below */
+      }
+      if (typeof playing !== 'number') {
+        playing = curlJson(`https://games.roblox.com/v1/games?universeIds=${universeId}`)?.data?.[0]
+          ?.playing;
+      }
+      if (typeof playing === 'number') return playing;
+    } catch {
+      /* retry */
+    }
   }
+  return null;
 }
 
 function loadGame(slug) {
@@ -324,7 +369,6 @@ async function resolvePlaceId(gameName) {
 async function saveIcon(slug, placeId) {
   try {
     const sharp = (await import('sharp')).default;
-    const { execFileSync } = await import('child_process');
     const api = `https://thumbnails.roblox.com/v1/places/gameicons?placeIds=${placeId}&returnPolicy=PlaceHolder&size=512x512&format=Png&isCircular=false`;
 
     let imageUrl = null;
@@ -541,15 +585,19 @@ async function discoverNew(sources, report) {
       continue;
     }
 
+    await sleep(120);
     const playing = await getPlayingCount(placeId);
     if (playing !== null && playing < MIN_PLAYING) {
       report.push(`skip new ${slug}: ${playing} playing (< ${MIN_PLAYING})`);
       continue;
     }
-    if (playing === null && !meta.fresh) {
-      // Without CCU signal, only allow "this week" discoveries
+    if (playing === null && !meta.fresh && !ALLOW_UNKNOWN_CCU) {
+      // Without CCU signal, only allow "this week" (or catch-up mode)
       report.push(`skip new ${slug}: unknown players + not in this-week`);
       continue;
+    }
+    if (playing === null && ALLOW_UNKNOWN_CCU) {
+      report.push(`warn new ${slug}: CCU unknown — adding (catch-up, has active codes)`);
     }
 
     let cover = null;
@@ -644,7 +692,7 @@ async function main() {
 
   console.log(report.join('\n'));
   console.log(
-    `\nMode: ${WRITE ? 'WRITE' : 'DRY-RUN'} | changed/new: ${changed} | maxNew/run: ${MAX_NEW_GAMES} | maxScan: ${MAX_SCAN} | minPlaying: ${MIN_PLAYING}`,
+    `\nMode: ${WRITE ? 'WRITE' : 'DRY-RUN'} | changed/new: ${changed} | maxNew/run: ${MAX_NEW_GAMES} | maxScan: ${MAX_SCAN} | minPlaying: ${MIN_PLAYING} | allowUnknownCcu: ${ALLOW_UNKNOWN_CCU}`,
   );
   if (!WRITE && changed > 0) console.log('Re-run with --write to apply.');
 }
