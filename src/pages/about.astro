@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<BaseLayout
+  title="About BLX Codes"
+  description="BLX Codes is a Roblox codes site focused on fast, accurate, game-by-game code lists."
+>
+  <Header slot="header" />
+
+  <section class="mx-auto max-w-3xl px-4 py-12 sm:px-6 sm:py-16">
+    <h1 class="font-display text-4xl font-extrabold tracking-tight text-ink sm:text-5xl">About</h1>
+    <div class="mt-6 space-y-4 text-base leading-relaxed text-ink-soft">
+      <p>
+        <strong class="text-ink">BLX Codes</strong> exists for one job: help players find working Roblox
+        codes without wading through unrelated gaming news.
+      </p>
+      <p>
+        We publish per-game pages with active codes first, expired codes clearly marked, and one-click
+        copy so redeeming takes seconds.
+      </p>
+      <p>
+        BLX Codes is an independent site and is not affiliated with Roblox Corporation.
+      </p>
+    </div>
+  </section>
+
+  <Footer slot="footer" />
+</BaseLayout>

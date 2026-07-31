@@ -1,0 +1,85 @@
+---
+import '../styles/global.css';
+import JsonLd from '../components/JsonLd.astro';
+import { DEFAULT_OG, organizationJsonLd, SITE_DESC, SITE_NAME, websiteJsonLd } from '../lib/seo';
+
+interface Props {
+  title: string;
+  description?: string;
+  ogType?: string;
+  ogImage?: string;
+  noindex?: boolean;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+}
+
+const {
+  title,
+  description = SITE_DESC,
+  ogType = 'website',
+  ogImage = DEFAULT_OG,
+  noindex = false,
+  jsonLd = [],
+} = Astro.props;
+
+const canonical = new URL(Astro.url.pathname, Astro.site).toString();
+const fullTitle =
+  title.includes('BLXCodes') || title.includes('BLX Codes') ? title : `${title} | ${SITE_NAME}`;
+
+const extraLd = Array.isArray(jsonLd) ? jsonLd : [jsonLd];
+const baseLd = [organizationJsonLd(), websiteJsonLd(), ...extraLd.filter(Boolean)];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#10141c" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="canonical" href={canonical} />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta
+      name="robots"
+      content={noindex
+        ? 'noindex, nofollow'
+        : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+    />
+    <meta name="author" content={SITE_NAME} />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+    <link rel="alternate" type="application/rss+xml" title={`${SITE_NAME} Blog`} href="/rss.xml" />
+    <style is:inline>
+      /* FOUC shield: keep first paint sane before hashed CSS arrives. */
+      html{background:#f5f7fa}
+      body{margin:0;min-height:100vh;font-family:system-ui,sans-serif;background:#f5f7fa;color:#10141c}
+      a{color:inherit;text-decoration:none}
+      a.bg-paper,a[class*="bg-paper"]{color:#10141c}
+      img[src="/favicon.svg"]{display:inline-block;width:1.75rem;height:1.75rem;flex-shrink:0}
+      header svg{width:16px;height:16px}
+    </style>
+    <JsonLd data={baseLd} />
+    <slot name="head" />
+  </head>
+  <body class="min-h-screen flex flex-col">
+    <slot name="header" />
+    <main class="flex-1">
+      <slot />
+    </main>
+    <slot name="footer" />
+  </body>
+</html>

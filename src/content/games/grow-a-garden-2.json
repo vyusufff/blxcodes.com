@@ -1,0 +1,34 @@
+{
+  "title": "Grow a Garden 2 Codes (July 2026)",
+  "gameName": "Grow a Garden 2",
+  "description": "Working Grow a Garden 2 (GaG 2) codes for watering cans, seeds, and free gardening rewards.",
+  "updatedAt": "2026-07-29",
+  "featured": true,
+  "cover": "/images/games/card/grow-a-garden-2.webp",
+  "placeId": 97598239454123,
+  "howTo": [
+    "Open Grow a Garden 2 on Roblox.",
+    "Open Settings (gear icon or L key).",
+    "Paste a working code into the code box.",
+    "Press Enter or Claim to receive your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Grow a Garden 2 codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a GaG 2 code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Grow a Garden 2 codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the updated date above."
+    }
+  ],
+  "codes": [
+    { "code": "WATERYOPLANTS", "reward": "10x Common Watering Cans", "status": "active" },
+    { "code": "REMEMBERTODRINKWATER", "reward": "1x Common Watering Can", "status": "active" },
+    { "code": "TEAMGREENBEAN", "reward": "3x Green Bean Seeds", "status": "active" }
+  ]
+}

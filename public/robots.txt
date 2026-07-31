@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blxcodes.com/sitemap-index.xml

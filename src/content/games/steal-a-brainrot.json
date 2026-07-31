@@ -1,0 +1,51 @@
+{
+  "title": "Steal a Brainrot Codes (July 2026)",
+  "gameName": "Steal a Brainrot",
+  "description": "Working Steal a Brainrot (SAB) codes for brainrots, luck boosts, and limited rewards.",
+  "updatedAt": "2026-07-29",
+  "featured": true,
+  "cover": "/images/games/card/steal-a-brainrot.webp",
+  "placeId": 109983668079237,
+  "howTo": [
+    "Open Steal a Brainrot on Roblox and wait for your base to load.",
+    "Open the Codes button on the side of the screen.",
+    "Enter a code exactly as shown (codes are case-sensitive).",
+    "For spawn codes like BESTBRAINROTEVER, go near the Red Carpet and make sure you have enough cash to buy the brainrot."
+  ],
+  "faq": [
+    {
+      "q": "Are these Steal a Brainrot codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active. Some codes have limited stock."
+    },
+    {
+      "q": "Why did a Steal a Brainrot code not work?",
+      "a": "It may be expired, out of stock, mistyped, or already redeemed. Random/toy codes are unique and cannot be shared."
+    },
+    {
+      "q": "How often are Steal a Brainrot codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the updated date above."
+    }
+  ],
+  "codes": [
+    { "code": "BESTBRAINROTEVER", "reward": "La Vacca Saturno Saturnita (spawns near Red Carpet — bring cash)", "status": "active" },
+    { "code": "MAYMEOWLJANDEL", "reward": "Meowl (riddle / limited stock)", "status": "active" },
+    { "code": "CANDY24SAMMY", "reward": "Strawberry Elephant (riddle / limited stock)", "status": "active" },
+    { "code": "DIVINECURSED", "reward": "Strawberry Elephant (riddle / limited stock)", "status": "active" },
+    { "code": "ILOVEFOOD123", "reward": "Kraken (limited stock — exclusive)", "status": "expired" },
+    { "code": "SUMMERUPD3", "reward": "Rocketini Frostini (75%) / Frullato Framingo (25%) — limited stock", "status": "expired" },
+    { "code": "NEEDTHIS4CRAFT333", "reward": "Chicleteira Surfeiteira (limited stock)", "status": "expired" },
+    { "code": "OCTOBLOCK555", "reward": "Octo Lucky Block (limited stock)", "status": "expired" },
+    { "code": "FREEOCTOBLOCK777", "reward": "Octo Lucky Block (limited stock)", "status": "expired" },
+    { "code": "FREEOCTO555", "reward": "Octo Lucky Block (limited stock)", "status": "expired" },
+    { "code": "FREEPREMIUMOCTO777", "reward": "Premium Octo Lucky Block (limited stock)", "status": "expired" },
+    { "code": "WSUMMERUPD1", "reward": "Premium Octo Lucky Block (limited stock)", "status": "expired" },
+    { "code": "FREEOCTOBASE333W", "reward": "Octo Base (limited stock)", "status": "expired" },
+    { "code": "WAVERIDER4FREELOL", "reward": "Waverider (limited stock)", "status": "expired" },
+    { "code": "FREE500DRAGS", "reward": "Dragon Cannelloni (limited stock)", "status": "expired" },
+    { "code": "JOHNPORKDAPIGGY", "reward": "John Pork (limited stock)", "status": "expired" },
+    { "code": "CODESAREREAL321", "reward": "John Pork (limited stock)", "status": "expired" },
+    { "code": "L2EXPLOITERS", "reward": "John Pork (limited stock)", "status": "expired" },
+    { "code": "IMANEGG", "reward": "Strawberry Elephant (limited stock)", "status": "expired" },
+    { "code": "PIZZAISYUM", "reward": "Pizza And Ranch (limited stock)", "status": "expired" }
+  ]
+}

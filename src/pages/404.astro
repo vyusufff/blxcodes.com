@@ -1,0 +1,23 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<BaseLayout title="Page not found" description="This page does not exist on BLXCodes." noindex={true}>
+  <Header slot="header" />
+  <section class="mx-auto max-w-3xl px-4 py-16 sm:px-6">
+    <p class="text-sm font-bold uppercase tracking-[0.14em] text-signal-deep">404</p>
+    <h1 class="mt-2 font-display text-4xl font-bold tracking-tight text-ink">Page not found</h1>
+    <p class="mt-3 text-muted">The page you requested does not exist or was moved.</p>
+    <div class="mt-8 flex flex-wrap gap-3">
+      <a href="/" class="rounded-md bg-signal-deep px-4 py-2.5 text-sm font-bold text-white hover:bg-signal">
+        Go home
+      </a>
+      <a href="/codes" class="rounded-md border border-line px-4 py-2.5 text-sm font-bold text-ink hover:border-signal/40">
+        Browse codes
+      </a>
+    </div>
+  </section>
+  <Footer slot="footer" />
+</BaseLayout>

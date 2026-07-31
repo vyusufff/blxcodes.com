@@ -1,0 +1,56 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import GameCard from '../../../components/GameCard.astro';
+import Pagination from '../../../components/Pagination.astro';
+import { activeCodeCount, getAllGames, paginateGames } from '../../../lib/games';
+
+export async function getStaticPaths() {
+  const allGames = await getAllGames();
+  const { totalPages } = paginateGames(allGames, 1);
+  if (totalPages <= 1) return [];
+  return Array.from({ length: totalPages - 1 }, (_, i) => ({
+    params: { page: String(i + 2) },
+  }));
+}
+
+const pageNum = Number(Astro.params.page);
+const allGames = await getAllGames();
+const { items, page, totalPages, total } = paginateGames(allGames, pageNum);
+
+if (pageNum < 2 || pageNum > totalPages) {
+  return Astro.redirect('/codes');
+}
+---
+
+<BaseLayout
+  title={`Roblox Codes — Page ${page}`}
+  description={`Browse working Roblox codes by game. Page ${page} of ${totalPages}.`}
+>
+  <Header slot="header" />
+
+  <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
+    <h1 class="font-display text-2xl font-bold text-ink sm:text-3xl">Roblox codes</h1>
+    <p class="mt-1.5 max-w-2xl text-sm text-muted">Page {page} of the game catalog.</p>
+
+    <div class="mt-5 grid grid-cols-1 gap-2 sm:grid-cols-2">
+      {
+        items.map((game) => (
+          <GameCard
+            href={`/codes/${game.id}`}
+            gameName={game.data.gameName}
+            description={game.data.description}
+            updatedAt={game.data.updatedAt}
+            activeCount={activeCodeCount(game)}
+            cover={game.data.cover}
+          />
+        ))
+      }
+    </div>
+
+    <Pagination page={page} totalPages={totalPages} total={total} />
+  </section>
+
+  <Footer slot="footer" />
+</BaseLayout>

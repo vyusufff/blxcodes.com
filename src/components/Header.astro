@@ -1,0 +1,68 @@
+---
+import SearchBox from './SearchBox.astro';
+
+const pathname = Astro.url.pathname;
+const q = Astro.url.searchParams.get('q') ?? '';
+
+const links = [
+  { href: '/codes', label: 'Codes' },
+  { href: '/blog', label: 'Blog' },
+  { href: '/about', label: 'About' },
+];
+
+function isActive(href: string) {
+  if (href === '/') return pathname === '/';
+  return pathname === href || pathname.startsWith(`${href}/`);
+}
+---
+
+<header class="sticky top-0 z-[60] border-b border-line/80 bg-mist/90 backdrop-blur-md">
+  <div class="mx-auto flex max-w-6xl flex-col gap-2.5 px-4 py-2.5 sm:px-6 lg:flex-row lg:items-center lg:gap-5">
+    <div class="flex items-center justify-between gap-3">
+      <a
+        href="/"
+        class="inline-flex items-center gap-1.5 font-display text-xl font-bold tracking-tighter text-ink sm:text-2xl"
+        aria-label="BLXCodes home"
+      >
+        <img src="/favicon.svg" alt="BLXCodes" width="28" height="28" style="width:28px;height:28px" class="h-7 w-7 shrink-0" /><span class="tracking-tighter" set:html={'BLX<span class="text-signal-deep">Codes</span>'} />
+      </a>
+      <nav class="flex items-center gap-1 lg:hidden" aria-label="Primary mobile">
+        {
+          links.map((link) => (
+            <a
+              href={link.href}
+              class:list={[
+                'rounded-md px-2.5 py-2 text-sm font-semibold transition-colors',
+                isActive(link.href)
+                  ? 'bg-paper text-ink ring-1 ring-line'
+                  : 'text-ink-soft hover:bg-paper/80 hover:text-ink',
+              ]}
+            >
+              {link.label}
+            </a>
+          ))
+        }
+      </nav>
+    </div>
+
+    <SearchBox id="site-search" value={q} size="header" />
+
+    <nav class="hidden items-center gap-1 lg:flex" aria-label="Primary">
+      {
+        links.map((link) => (
+          <a
+            href={link.href}
+            class:list={[
+              'rounded-md px-3 py-2 text-sm font-semibold transition-colors',
+              isActive(link.href)
+                ? 'bg-paper text-ink ring-1 ring-line'
+                : 'text-ink-soft hover:bg-paper hover:text-ink',
+            ]}
+          >
+            {link.label}
+          </a>
+        ))
+      }
+    </nav>
+  </div>
+</header>

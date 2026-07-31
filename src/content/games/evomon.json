@@ -1,0 +1,51 @@
+{
+  "title": "Evomon Codes (July 2026)",
+  "gameName": "Evomon",
+  "description": "Working Evomon codes for summon tickets, EXP fruits, coins, Advanced Balls, and reroll potions.",
+  "updatedAt": "2026-07-29",
+  "featured": true,
+  "cover": "/images/games/card/evomon.webp",
+  "placeId": 134381727982611,
+  "howTo": [
+    "Launch Evomon on Roblox.",
+    "Open Settings (gear icon, top left).",
+    "Paste a code into the Enter code field.",
+    "Press OK and claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Evomon codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did an Evomon code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Evomon codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the updated date above."
+    }
+  ],
+  "codes": [
+    { "code": "240evoRISE", "reward": "5x Summon Ticket, 3x Trait Reroll Potion", "status": "active" },
+    { "code": "100DCUNITY", "reward": "3x Nature Reroll Potion, 3x Trait Reroll Potion, 3x Talent Vector Potion", "status": "active" },
+    { "code": "EVO120HYPE", "reward": "3x Summon Ticket, 2x Trait Reroll Potion", "status": "active" },
+    { "code": "D50CREW", "reward": "10x Evolution Stone, 10x Omni-Stone", "status": "active" },
+    { "code": "EVO60SPARK", "reward": "3x Summon Ticket, 2x Trait Reroll Potion", "status": "active" },
+    { "code": "SeasonComing", "reward": "3x Summon Ticket, 10x Advanced Ball", "status": "active" },
+    { "code": "20KMEMBERS", "reward": "2x Trait Reroll Potion, 10x Advanced Ball", "status": "active" },
+    { "code": "20000LIKES", "reward": "2x Trait Reroll Potion, 5x Medium EXP Fruit", "status": "active" },
+    { "code": "30K-LIKES", "reward": "2x Trait Reroll Potion, 2x Talent Vector Potion, 2x Nature Reroll Potion", "status": "active" },
+    { "code": "10kthx", "reward": "10x Advanced Ball", "status": "active" },
+    { "code": "12klikeS", "reward": "5x Medium EXP Fruits", "status": "active" },
+    { "code": "10KCCU_", "reward": "4,000 Coins", "status": "active" },
+    { "code": "5000DC", "reward": "5x Advanced Ball", "status": "active" },
+    { "code": "THXFOR5K", "reward": "5x Medium EXP Fruits", "status": "active" },
+    { "code": "2K-LIKES", "reward": "5x Medium EXP Fruits", "status": "active" },
+    { "code": "DC2K", "reward": "5x Medium EXP Fruits", "status": "active" },
+    { "code": "LIKE1GIFT", "reward": "2x Medium EXP Fruits, 1,000 Coins", "status": "active" },
+    { "code": "FORDC1200", "reward": "1,000 Coins", "status": "active" },
+    { "code": "EvomonVip", "reward": "5x Medium EXP Fruits", "status": "active" },
+    { "code": "DCGIFT", "reward": "10x Medium EXP Fruits, 5x Advanced Balls, 1,000 Coins", "status": "active" }
+  ]
+}

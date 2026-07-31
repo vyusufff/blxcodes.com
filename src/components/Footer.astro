@@ -1,0 +1,38 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="mt-20 border-t border-line bg-paper/70">
+  <div class="mx-auto grid max-w-6xl gap-8 px-4 py-12 sm:px-6 md:grid-cols-[1.4fr_1fr_1fr]">
+    <div>
+      <p class="font-display text-2xl font-bold tracking-tighter text-ink">
+        <span set:html={'BLX<span class="text-signal-deep">Codes</span>'} />
+      </p>
+      <p class="mt-3 max-w-sm text-sm leading-relaxed text-muted">
+        Free Roblox promo codes for popular games — checked regularly so you spend less time hunting and more time redeeming.
+      </p>
+    </div>
+    <div>
+      <p class="text-xs font-bold uppercase tracking-[0.14em] text-muted">Explore</p>
+      <ul class="mt-3 space-y-2 text-sm font-medium text-ink-soft">
+        <li><a class="hover:text-signal" href="/codes">All codes</a></li>
+        <li><a class="hover:text-signal" href="/blog">Blog</a></li>
+        <li><a class="hover:text-signal" href="/about">About</a></li>
+      </ul>
+    </div>
+    <div>
+      <p class="text-xs font-bold uppercase tracking-[0.14em] text-muted">Legal</p>
+      <ul class="mt-3 space-y-2 text-sm font-medium text-ink-soft">
+        <li><a class="hover:text-signal" href="/privacy">Privacy</a></li>
+      </ul>
+      <p class="mt-6 text-xs leading-relaxed text-muted">
+        BLX Codes is not affiliated with Roblox Corporation. Roblox is a trademark of Roblox Corporation.
+      </p>
+    </div>
+  </div>
+  <div class="border-t border-line">
+    <p class="mx-auto max-w-6xl px-4 py-4 text-xs text-muted sm:px-6">
+      © {year} BLX Codes. All rights reserved.
+    </p>
+  </div>
+</footer>

@@ -1,0 +1,59 @@
+name: Auto sync codes
+
+on:
+  schedule:
+    # Every 2 hours
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Sync codes from sources
+        run: node scripts/check-codes.mjs --write
+
+      - name: Commit changes if any
+        id: commit
+        run: |
+          git config user.name "blxcodes-bot"
+          git config user.email "bot@blxcodes.com"
+          git add src/content/games
+          if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No code JSON changes."
+          else
+            git commit -m "chore: auto-sync codes $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build
+        run: npm run build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=blxcodes
+
+      - name: IndexNow ping
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        run: node scripts/ping-indexnow.mjs

@@ -1,0 +1,48 @@
+{
+  "title": "Gakuran Codes (July 2026)",
+  "gameName": "Gakuran",
+  "description": "Working Gakuran codes for free rerolls to customize fighting style, accessories, and more.",
+  "updatedAt": "2026-07-29",
+  "featured": true,
+  "cover": "/images/games/card/gakuran.webp",
+  "placeId": 128736949265057,
+  "howTo": [
+    "Launch Gakuran on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rerolls."
+  ],
+  "faq": [
+    {
+      "q": "Are these Gakuran codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Gakuran code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Gakuran codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the updated date above."
+    }
+  ],
+  "codes": [
+    { "code": "thecodeis", "reward": "30 Rerolls", "status": "active" },
+    { "code": "QUICKPATCH", "reward": "15 Rerolls", "status": "active" },
+    { "code": "MUSICFIXESNOPTIMIZATION", "reward": "25 Rerolls", "status": "active" },
+    { "code": "CHESS", "reward": "Expired reward", "status": "expired" },
+    { "code": "LARPSIMULATOR", "reward": "Expired reward", "status": "expired" },
+    { "code": "Uma", "reward": "Expired reward", "status": "expired" },
+    { "code": "MAPUPDATE", "reward": "Expired reward", "status": "expired" },
+    { "code": "XAYSEYES", "reward": "Expired reward", "status": "expired" },
+    { "code": "Son", "reward": "Expired reward", "status": "expired" },
+    { "code": "secret2", "reward": "Expired reward", "status": "expired" },
+    { "code": "SECRET", "reward": "Expired reward", "status": "expired" },
+    { "code": "FIXES2", "reward": "Expired reward", "status": "expired" },
+    { "code": "FIXES", "reward": "Expired reward", "status": "expired" },
+    { "code": "2MIL", "reward": "Expired reward", "status": "expired" },
+    { "code": "FIXES3", "reward": "Expired reward", "status": "expired" },
+    { "code": "15REROLLS", "reward": "Expired reward", "status": "expired" },
+    { "code": "GAKURAN", "reward": "Expired reward", "status": "expired" }
+  ]
+}

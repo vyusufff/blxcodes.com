@@ -1,0 +1,162 @@
+---
+interface Props {
+  id?: string;
+  name?: string;
+  placeholder?: string;
+  value?: string;
+  size?: 'header' | 'hero' | 'page';
+}
+
+const {
+  id = 'site-search',
+  name = 'q',
+  placeholder = 'Search Roblox games…',
+  value = '',
+  size = 'header',
+} = Astro.props;
+---
+
+<form action="/codes" method="get" role="search" class:list={[size === 'header' ? 'w-full flex-1' : 'w-full', 'relative z-50']} data-live-search>
+  <label class="sr-only" for={id}>Search Roblox games</label>
+  <div class="relative z-50">
+    {
+      size === 'header' ? (
+        <>
+          <svg
+            class="pointer-events-none absolute left-3 top-1/2 z-10 h-4 w-4 -translate-y-1/2 text-muted"
+            viewBox="0 0 24 24"
+            width="16"
+            height="16"
+            fill="none"
+            aria-hidden="true"
+          >
+            <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"></circle>
+            <path d="M20 20l-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+          </svg>
+          <input
+            id={id}
+            type="search"
+            name={name}
+            value={value}
+            placeholder={placeholder}
+            autocomplete="off"
+            data-search-input
+            class="w-full rounded-lg border border-line bg-white/90 py-2.5 pl-10 pr-4 text-sm font-medium text-ink shadow-sm outline-none transition placeholder:text-muted focus:border-signal focus:ring-2 focus:ring-signal/30"
+          />
+        </>
+      ) : (
+        <div
+          class:list={[
+            'flex overflow-hidden rounded-xl shadow-sm',
+            size === 'hero' ? 'border border-white/15 bg-white shadow-xl' : 'border border-line bg-white',
+          ]}
+        >
+          <input
+            id={id}
+            type="search"
+            name={name}
+            value={value}
+            placeholder={placeholder}
+            autocomplete="off"
+            data-search-input
+            class="min-w-0 flex-1 bg-transparent px-4 py-3 text-sm font-medium text-ink outline-none placeholder:text-muted"
+          />
+          <button type="submit" class="bg-signal-deep px-5 text-sm font-bold text-white hover:bg-signal">
+            Search
+          </button>
+        </div>
+      )
+    }
+    <div
+      data-search-dropdown
+      class="absolute left-0 right-0 top-[calc(100%+6px)] z-[100] hidden max-h-80 overflow-auto rounded-xl border border-line bg-white p-1.5 shadow-2xl"
+      role="listbox"
+    ></div>
+  </div>
+</form>
+
+<script>
+  let indexPromise = null;
+  let indexCache = null;
+
+  function loadIndex() {
+    if (indexCache) return Promise.resolve(indexCache);
+    if (!indexPromise) {
+      indexPromise = fetch('/search-index.json')
+        .then((r) => r.json())
+        .then((data) => {
+          indexCache = data;
+          return data;
+        });
+    }
+    return indexPromise;
+  }
+
+  function renderDropdown(dropdown, hits, q) {
+    if (!q || hits.length === 0) {
+      dropdown.classList.add('hidden');
+      dropdown.innerHTML = q
+        ? `<p class="px-3 py-2 text-sm text-muted">No games found</p>`
+        : '';
+      if (q) dropdown.classList.remove('hidden');
+      return;
+    }
+    dropdown.innerHTML = hits
+      .slice(0, 8)
+      .map((g) => {
+        const cover = g.cover
+          ? `<img src="${g.cover}" alt="${g.gameName}" width="40" height="40" class="h-10 w-10 rounded-md object-cover" />`
+          : `<div class="flex h-10 w-10 items-center justify-center rounded-md bg-ink text-sm font-bold text-signal">${g.gameName.slice(0, 1)}</div>`;
+        return `<a href="/codes/${g.id}" role="option" class="flex items-center gap-3 rounded-lg px-2 py-2 hover:bg-paper">
+          ${cover}
+          <span class="min-w-0 flex-1">
+            <span class="block truncate text-sm font-bold text-ink">${g.gameName}</span>
+            <span class="block text-xs text-muted">${g.activeCount} active codes</span>
+          </span>
+        </a>`;
+      })
+      .join('');
+    dropdown.classList.remove('hidden');
+  }
+
+  function bindSearch(root) {
+    const input = root.querySelector('[data-search-input]');
+    const dropdown = root.querySelector('[data-search-dropdown]');
+    if (!input || !dropdown || input.dataset.bound === '1') return;
+    input.dataset.bound = '1';
+
+    let timer = null;
+    const run = async () => {
+      const q = input.value.trim().toLowerCase();
+      if (!q) {
+        dropdown.classList.add('hidden');
+        dropdown.innerHTML = '';
+        return;
+      }
+      const games = await loadIndex();
+      const hits = games.filter(
+        (g) =>
+          g.gameName.toLowerCase().includes(q) ||
+          g.description.toLowerCase().includes(q) ||
+          g.id.includes(q),
+      );
+      renderDropdown(dropdown, hits, q);
+    };
+
+    input.addEventListener('input', () => {
+      clearTimeout(timer);
+      timer = setTimeout(run, 60);
+    });
+    input.addEventListener('focus', run);
+    document.addEventListener('click', (e) => {
+      if (!root.contains(e.target)) dropdown.classList.add('hidden');
+    });
+  }
+
+  function init() {
+    document.querySelectorAll('[data-live-search]').forEach(bindSearch);
+  }
+
+  init();
+  document.addEventListener('astro:page-load', init);
+</script>

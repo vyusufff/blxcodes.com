@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<BaseLayout
+  title="Privacy Policy"
+  description="Privacy policy for BLX Codes."
+>
+  <Header slot="header" />
+
+  <section class="mx-auto max-w-3xl px-4 py-12 sm:px-6 sm:py-16">
+    <h1 class="font-display text-4xl font-extrabold tracking-tight text-ink">Privacy Policy</h1>
+    <div class="mt-6 space-y-4 text-base leading-relaxed text-ink-soft">
+      <p>Last updated: July 29, 2026</p>
+      <p>
+        BLX Codes is a content site. We do not require an account to browse codes. If we add analytics
+        or advertising in the future, this page will be updated with details about what data is
+        collected and why.
+      </p>
+      <p>
+        For questions, use the contact method published on this site when available.
+      </p>
+    </div>
+  </section>
+
+  <Footer slot="footer" />
+</BaseLayout>

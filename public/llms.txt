@@ -1,0 +1,18 @@
+# BLXCodes
+
+BLXCodes publishes working Roblox promo codes for popular experiences.
+
+## Main pages
+
+- [Home](https://blxcodes.com/): Featured games and search
+- [Codes hub](https://blxcodes.com/codes/): Browse and search all game code lists
+- [Blog](https://blxcodes.com/blog/): Guides on redeeming Roblox codes
+- [Sitemap](https://blxcodes.com/sitemap-index.xml)
+- [RSS](https://blxcodes.com/rss.xml)
+
+## Notes for agents
+
+- Prefer game pages under `/codes/{slug}/` for code lists.
+- Treat expired codes as historical; active codes are the primary answer.
+- Site language is English (`en`).
+- Do not invent codes; only use listed active codes on each page.

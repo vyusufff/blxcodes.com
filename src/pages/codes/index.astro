@@ -1,0 +1,120 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import GameCard from '../../components/GameCard.astro';
+import Pagination from '../../components/Pagination.astro';
+import SearchBox from '../../components/SearchBox.astro';
+import { activeCodeCount, getAllGames, paginateGames } from '../../lib/games';
+
+const allGames = await getAllGames();
+const { items, page, totalPages, total } = paginateGames(allGames, 1);
+---
+
+<BaseLayout
+  title="All Roblox Codes"
+  description="Browse and search working Roblox codes by game. Active lists with covers, copy buttons, and last-updated dates."
+>
+  <Header slot="header" />
+
+  <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
+    <h1 class="font-display text-2xl font-bold tracking-tight text-ink sm:text-3xl" data-codes-title>
+      Roblox codes
+    </h1>
+    <p class="mt-1.5 max-w-2xl text-sm text-muted" data-codes-subtitle>
+      Search any experience, open the page, copy an active code.
+    </p>
+
+    <div class="mt-4 max-w-xl">
+      <SearchBox id="codes-search" size="page" />
+    </div>
+
+    <div class="mt-5 grid grid-cols-1 gap-2 sm:grid-cols-2" data-default-grid>
+      {
+        items.map((game) => (
+          <GameCard
+            href={`/codes/${game.id}`}
+            gameName={game.data.gameName}
+            description={game.data.description}
+            updatedAt={game.data.updatedAt}
+            activeCount={activeCodeCount(game)}
+            cover={game.data.cover}
+          />
+        ))
+      }
+    </div>
+
+    <div class="mt-5 hidden grid grid-cols-1 gap-2 sm:grid-cols-2" data-search-grid></div>
+    <p class="mt-10 hidden text-sm text-muted" data-search-empty>No games found. Try another name.</p>
+    <div data-pagination>
+      <Pagination page={page} totalPages={totalPages} total={total} />
+    </div>
+  </section>
+
+  <Footer slot="footer" />
+</BaseLayout>
+
+<script>
+  function formatDate(iso) {
+    return new Date(iso).toLocaleDateString('en-US', {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric',
+    });
+  }
+
+  function cardHtml(game) {
+    const thumb = game.cover
+      ? game.cover.replace(/\.webp$/, '-192.webp')
+      : '';
+    const cover = game.cover
+      ? `<img src="${thumb}" alt="${game.gameName}" width="64" height="64" loading="lazy" class="h-full w-full object-cover" />`
+      : `<div class="flex h-full w-full items-center justify-center bg-ink"><span class="font-display text-lg font-bold text-signal">${game.gameName.slice(0, 1)}</span></div>`;
+
+    return `<a href="/codes/${game.id}" class="group flex items-center gap-3 rounded-lg border border-line bg-white p-2.5 transition hover:border-signal/40 hover:bg-mist/60">
+      <div class="relative size-14 shrink-0 overflow-hidden rounded-md bg-paper sm:size-16">${cover}</div>
+      <div class="min-w-0 flex-1">
+        <div class="flex items-center gap-2">
+          <h3 class="truncate text-sm font-bold text-ink sm:text-[15px]">${game.gameName}</h3>
+          <span class="shrink-0 rounded bg-teal/10 px-1.5 py-0.5 text-[10px] font-bold uppercase tracking-wide text-teal">${game.activeCount} active</span>
+        </div>
+        <p class="mt-1 text-[10px] font-semibold uppercase tracking-[0.1em] text-ink-soft">Updated ${formatDate(game.updatedAt)}</p>
+      </div>
+    </a>`;
+  }
+
+  async function runSearch() {
+    const params = new URLSearchParams(window.location.search);
+    const q = (params.get('q') ?? '').trim().toLowerCase();
+    const input = document.querySelector('#codes-search');
+    const title = document.querySelector('[data-codes-title]');
+    const subtitle = document.querySelector('[data-codes-subtitle]');
+    const defaultGrid = document.querySelector('[data-default-grid]');
+    const searchGrid = document.querySelector('[data-search-grid]');
+    const empty = document.querySelector('[data-search-empty]');
+    const pagination = document.querySelector('[data-pagination]');
+
+    if (input) input.value = params.get('q') ?? '';
+    if (!q) return;
+
+    const res = await fetch('/search-index.json');
+    const games = await res.json();
+    const hits = games.filter(
+      (g) =>
+        g.gameName.toLowerCase().includes(q) ||
+        g.description.toLowerCase().includes(q) ||
+        g.id.includes(q),
+    );
+
+    if (title) title.textContent = `Results for “${params.get('q')}”`;
+    if (subtitle) subtitle.textContent = `${hits.length} game${hits.length === 1 ? '' : 's'} matched your search.`;
+    defaultGrid?.classList.add('hidden');
+    pagination?.classList.add('hidden');
+    searchGrid?.classList.remove('hidden');
+    if (searchGrid) searchGrid.innerHTML = hits.map(cardHtml).join('');
+    empty?.classList.toggle('hidden', hits.length > 0);
+  }
+
+  runSearch();
+</script>
+

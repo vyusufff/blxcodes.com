@@ -1,0 +1,48 @@
+{
+  "title": "Murder Mystery 2 Codes (July 2026)",
+  "gameName": "Murder Mystery 2",
+  "description": "MM2 codes for knives and cosmetics. No working codes right now — expired list kept for reference.",
+  "updatedAt": "2026-07-29",
+  "featured": false,
+  "cover": "/images/games/card/murder-mystery-2.webp",
+  "placeId": 142823291,
+  "howTo": [
+    "Join Murder Mystery 2.",
+    "Open the shop or codes UI (when enabled).",
+    "Paste the code and redeem.",
+    "Check your inventory for new items."
+  ],
+  "faq": [
+    {
+      "q": "Are there any working Murder Mystery 2 codes?",
+      "a": "Not right now. Developers release MM2 codes rarely. We will update this page when new ones drop."
+    },
+    {
+      "q": "Why did an MM2 code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Murder Mystery 2 codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the updated date above."
+    }
+  ],
+  "codes": [
+    { "code": "COMB4T2", "reward": "Combat II Knife", "status": "expired" },
+    { "code": "PR1SM", "reward": "Prism Knife", "status": "expired" },
+    { "code": "AL3X", "reward": "Alex Knife", "status": "expired" },
+    { "code": "C0RL", "reward": "Corl Knife", "status": "expired" },
+    { "code": "D3NIS", "reward": "Denis Knife", "status": "expired" },
+    { "code": "SK3TCH", "reward": "Sketchy Knife", "status": "expired" },
+    { "code": "SUB0", "reward": "Sub Knife", "status": "expired" },
+    { "code": "INF3CT3D", "reward": "Infected Knife", "status": "expired" },
+    { "code": "G003Y", "reward": "Goo Knife", "status": "expired" },
+    { "code": "R3PT1L3", "reward": "Reptile Knife", "status": "expired" },
+    { "code": "SK00L", "reward": "Skool Knife", "status": "expired" },
+    { "code": "PATR1CK", "reward": "Patrick Knife", "status": "expired" },
+    { "code": "2015", "reward": "2015 Knife", "status": "expired" },
+    { "code": "G1FT3D", "reward": "Gifted Knife", "status": "expired" },
+    { "code": "TH3N3XTL3V3L", "reward": "TNL Knife", "status": "expired" },
+    { "code": "N30N", "reward": "Neon Knife", "status": "expired" },
+    { "code": "HW2017", "reward": "Pumpkin Pet", "status": "expired" }
+  ]
+}

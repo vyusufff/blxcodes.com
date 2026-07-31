@@ -1,0 +1,34 @@
+{
+  "title": "Throw a Coin Codes (July 2026)",
+  "gameName": "Throw a Coin",
+  "description": "Working Throw a Coin codes for free Luck Boosts, Divine Rubber Duck, and other rewards.",
+  "updatedAt": "2026-07-30",
+  "featured": true,
+  "cover": "/images/games/card/throw-a-coin.webp",
+  "placeId": 115681808123944,
+  "howTo": [
+    "Launch Throw a Coin on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your reward."
+  ],
+  "faq": [
+    {
+      "q": "Are these Throw a Coin codes free?",
+      "a": "Yes. Promo codes unlock free Luck Boosts and other rewards when they are still active."
+    },
+    {
+      "q": "Why did a Throw a Coin code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Throw a Coin codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the updated date above."
+    }
+  ],
+  "codes": [
+    { "code": "candy", "reward": "5x Luck Boost (5 minutes)", "status": "active" },
+    { "code": "WORLD3", "reward": "5x Luck Boost (10 minutes)", "status": "active" },
+    { "code": "Luckyducky", "reward": "1 Divine Rubber Duck", "status": "active" }
+  ]
+}

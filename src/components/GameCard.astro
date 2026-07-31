@@ -1,0 +1,63 @@
+---
+interface Props {
+  href: string;
+  gameName: string;
+  description: string;
+  updatedAt: Date;
+  activeCount: number;
+  cover?: string;
+  /** First visible card — skip lazy so LCP can discover the image. */
+  priority?: boolean;
+}
+
+const { href, gameName, description, updatedAt, activeCount, cover, priority = false } =
+  Astro.props;
+const updated = updatedAt.toLocaleDateString('en-US', {
+  month: 'short',
+  day: 'numeric',
+  year: 'numeric',
+});
+const cover192 = cover?.endsWith('.webp') ? cover.replace(/\.webp$/, '-192.webp') : undefined;
+---
+
+<a
+  href={href}
+  class="group flex items-center gap-3 rounded-lg border border-line bg-white p-2.5 transition hover:border-signal/40 hover:bg-mist/60"
+>
+  <div class="relative size-14 shrink-0 overflow-hidden rounded-md bg-paper sm:size-16">
+    {
+      cover ? (
+        <img
+          src={cover192 ?? cover}
+          srcset={cover192 ? `${cover192} 192w, ${cover} 320w` : undefined}
+          sizes="64px"
+          alt={`${gameName} icon`}
+          width={64}
+          height={64}
+          loading={priority ? 'eager' : 'lazy'}
+          fetchpriority={priority ? 'high' : 'low'}
+          decoding="async"
+          class="h-full w-full object-cover"
+        />
+      ) : (
+        <div class="flex h-full w-full items-center justify-center bg-ink">
+          <span class="font-display text-lg font-bold text-signal">{gameName.slice(0, 1)}</span>
+        </div>
+      )
+    }
+  </div>
+  <div class="min-w-0 flex-1">
+    <div class="flex items-center gap-2">
+      <h3 class="truncate text-sm font-bold text-ink transition group-hover:text-signal sm:text-[15px]">
+        {gameName}
+      </h3>
+      <span class="shrink-0 rounded bg-teal/10 px-1.5 py-0.5 text-[10px] font-bold uppercase tracking-wide text-teal">
+        {activeCount} active
+      </span>
+    </div>
+    <p class="mt-0.5 line-clamp-1 text-xs text-muted">{description}</p>
+    <p class="mt-1 text-[10px] font-semibold uppercase tracking-[0.1em] text-ink-soft">
+      Updated {updated}
+    </p>
+  </div>
+</a>

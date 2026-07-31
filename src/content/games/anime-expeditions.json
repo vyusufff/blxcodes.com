@@ -1,0 +1,55 @@
+{
+  "title": "Anime Expeditions Codes (July 2026)",
+  "gameName": "Anime Expeditions",
+  "description": "Working Anime Expeditions codes for Trait Crystals, Gems-related rewards, rerolls, and Villain Coins.",
+  "updatedAt": "2026-07-29",
+  "featured": true,
+  "cover": "/images/games/card/anime-expeditions.webp",
+  "placeId": 84515722934860,
+  "howTo": [
+    "Launch Anime Expeditions on Roblox.",
+    "Tap the three-dots button at the top of the screen.",
+    "Choose Redeem Codes.",
+    "Paste a code and press Redeem Code."
+  ],
+  "faq": [
+    {
+      "q": "Are these Anime Expeditions codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did an Anime Expeditions code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Anime Expeditions codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the updated date above."
+    }
+  ],
+  "codes": [
+    { "code": "300mvisits", "reward": "50 Trait Crystals, 30 Equipment Rerolls, 30 Stat Rerolls", "status": "active" },
+    { "code": "200mvisits", "reward": "50 Trait Crystals, 15 Stat Locks, 15 Stat Rerolls", "status": "active" },
+    { "code": "VillainInvasion", "reward": "50 Trait Crystals, 1,000 Villain Coins", "status": "active" },
+    { "code": "releasetournamentsorry", "reward": "50 Trait Crystals, 15 Stat Locks, 15 Stat Rerolls", "status": "active" },
+    { "code": "sorryforlongmaintenance", "reward": "50 Trait Crystals, 15 Stat Locks, 15 Stat Rerolls", "status": "active" },
+    { "code": "250kCCU", "reward": "100 Trait Crystals", "status": "active" },
+    { "code": "300kCCU", "reward": "100 Trait Crystals, 1,500 Villain Coins", "status": "active" },
+    { "code": "wfade", "reward": "Expired reward", "status": "expired" },
+    { "code": "1MGROUP!", "reward": "Expired reward", "status": "expired" },
+    { "code": "EA", "reward": "Expired reward", "status": "expired" },
+    { "code": "EA+", "reward": "Expired reward", "status": "expired" },
+    { "code": "EXPEDITIONS", "reward": "Expired reward", "status": "expired" },
+    { "code": "WanderingFix", "reward": "Expired reward", "status": "expired" },
+    { "code": "HAPPYBDAYCOOP", "reward": "Expired reward", "status": "expired" },
+    { "code": "100mvisits", "reward": "Expired reward", "status": "expired" },
+    { "code": "100K!", "reward": "Expired reward", "status": "expired" },
+    { "code": "30KLIKES!", "reward": "Expired reward", "status": "expired" },
+    { "code": "SorryForBugs", "reward": "Expired reward", "status": "expired" },
+    { "code": "AE#1", "reward": "Expired reward", "status": "expired" },
+    { "code": "RELEASE", "reward": "Expired reward", "status": "expired" },
+    { "code": "WeekendSurge", "reward": "Expired reward", "status": "expired" },
+    { "code": "sorryforguilds", "reward": "Expired reward", "status": "expired" },
+    { "code": "SorryForRestart", "reward": "Expired reward", "status": "expired" },
+    { "code": "200KCCU", "reward": "Expired reward", "status": "expired" }
+  ]
+}

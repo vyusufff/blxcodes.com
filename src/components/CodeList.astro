@@ -1,0 +1,77 @@
+---
+interface CodeItem {
+  code: string;
+  reward: string;
+  status: 'active' | 'expired';
+}
+
+interface Props {
+  codes: CodeItem[];
+  status: 'active' | 'expired';
+}
+
+const { codes, status } = Astro.props;
+const filtered = codes.filter((c) => c.status === status);
+---
+
+{
+  filtered.length === 0 ? (
+    <p class="text-sm text-muted">No {status} codes right now.</p>
+  ) : status === 'expired' ? (
+    <div class="rounded-lg border border-line bg-mist/60 px-3 py-3 sm:px-4">
+      <p class="mb-2 text-xs text-muted">{filtered.length} expired</p>
+      <div class="flex flex-wrap gap-1.5">
+        {filtered.map((item) => (
+          <code class="rounded bg-white/80 px-2 py-1 font-display text-xs font-semibold tracking-wide text-muted line-through decoration-line">
+            {item.code}
+          </code>
+        ))}
+      </div>
+    </div>
+  ) : (
+    <ul class="divide-y divide-line border border-line bg-mist/60" data-code-list>
+      {filtered.map((item) => (
+        <li class="flex flex-col gap-3 px-4 py-4 sm:flex-row sm:items-center sm:justify-between sm:gap-6">
+          <div class="min-w-0">
+            <code class="font-display text-lg font-bold tracking-wide text-ink">{item.code}</code>
+            <p class="mt-1 text-sm text-muted">{item.reward}</p>
+          </div>
+          <button
+            type="button"
+            class="copy-btn shrink-0 rounded-md bg-ink px-4 py-2.5 text-sm font-bold text-mist transition hover:bg-signal focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-signal"
+            data-code={item.code}
+          >
+            Copy
+          </button>
+        </li>
+      ))}
+    </ul>
+  )
+}
+
+<script>
+  function bindCopyButtons() {
+    document.querySelectorAll<HTMLButtonElement>('.copy-btn').forEach((btn) => {
+      if (btn.dataset.bound === 'true') return;
+      btn.dataset.bound = 'true';
+      btn.addEventListener('click', async () => {
+        const code = btn.dataset.code ?? '';
+        try {
+          await navigator.clipboard.writeText(code);
+          const prev = btn.textContent;
+          btn.textContent = 'Copied';
+          btn.classList.add('bg-teal');
+          window.setTimeout(() => {
+            btn.textContent = prev;
+            btn.classList.remove('bg-teal');
+          }, 1400);
+        } catch {
+          btn.textContent = 'Failed';
+        }
+      });
+    });
+  }
+
+  bindCopyButtons();
+  document.addEventListener('astro:page-load', bindCopyButtons);
+</script>
