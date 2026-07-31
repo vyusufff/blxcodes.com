@@ -238,12 +238,12 @@
       "status": "expired"
     },
     {
-      "code": "fire",
+      "code": "FISH",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "FISH",
+      "code": "fire",
       "reward": "Expired reward",
       "status": "expired"
     },

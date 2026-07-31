@@ -161,6 +161,18 @@ async function fetchText(url) {
   return htmlToText(await fetchHtml(url));
 }
 
+function extractPlaceIdFromHtml(html) {
+  const matches = [...html.matchAll(/roblox\.com\/games\/(\d{5,})/gi)];
+  if (!matches.length) return null;
+  // Prefer the most common placeId on the page (usually the game CTA)
+  const counts = new Map();
+  for (const m of matches) {
+    const id = m[1];
+    counts.set(id, (counts.get(id) || 0) + 1);
+  }
+  return Number([...counts.entries()].sort((a, b) => b[1] - a[1])[0][0]);
+}
+
 function slugFromBeebomUrl(url) {
   const u = new URL(url);
   let slug = u.pathname.replace(/\/+$/, '').split('/').pop() || '';
@@ -281,13 +293,42 @@ async function resolvePlaceId(gameName) {
 async function saveIcon(slug, placeId) {
   try {
     const sharp = (await import('sharp')).default;
+    const { execFileSync } = await import('child_process');
     const api = `https://thumbnails.roblox.com/v1/places/gameicons?placeIds=${placeId}&returnPolicy=PlaceHolder&size=512x512&format=Png&isCircular=false`;
-    const meta = await fetch(api, { signal: AbortSignal.timeout(15000) }).then((r) => r.json());
-    const imageUrl = meta?.data?.[0]?.imageUrl;
+
+    let imageUrl = null;
+    try {
+      const meta = await fetch(api, { signal: AbortSignal.timeout(20000) }).then((r) => r.json());
+      imageUrl = meta?.data?.[0]?.imageUrl;
+    } catch {
+      /* fall through to curl */
+    }
+    if (!imageUrl) {
+      const raw = execFileSync(
+        process.platform === 'win32' ? 'curl.exe' : 'curl',
+        ['-ksL4', api, '--max-time', '25'],
+        { encoding: 'utf8' },
+      );
+      imageUrl = JSON.parse(raw)?.data?.[0]?.imageUrl;
+    }
     if (!imageUrl) return null;
-    const buf = Buffer.from(
-      await fetch(imageUrl, { signal: AbortSignal.timeout(30000) }).then((r) => r.arrayBuffer()),
+
+    const tmp = path.join(ROOT, 'public/images/games', `${slug}-raw.png`);
+    fs.mkdirSync(path.dirname(tmp), { recursive: true });
+    execFileSync(
+      process.platform === 'win32' ? 'curl.exe' : 'curl',
+      ['-ksL4', '-o', tmp, imageUrl, '--max-time', '40'],
     );
+    if (!fs.existsSync(tmp) || fs.statSync(tmp).size < 1000) {
+      try {
+        fs.unlinkSync(tmp);
+      } catch {
+        /* ignore */
+      }
+      return null;
+    }
+
+    const buf = fs.readFileSync(tmp);
     const dir = path.join(ROOT, 'public/images/games/card');
     fs.mkdirSync(dir, { recursive: true });
     await sharp(buf).resize(512, 512, { fit: 'cover' }).webp({ quality: 82 }).toFile(
@@ -299,8 +340,10 @@ async function saveIcon(slug, placeId) {
     await sharp(buf).resize(192, 192, { fit: 'cover' }).webp({ quality: 65 }).toFile(
       path.join(dir, `${slug}-192.webp`),
     );
+    fs.unlinkSync(tmp);
     return `/images/games/card/${slug}.webp`;
-  } catch {
+  } catch (err) {
+    console.error('saveIcon', slug, err.message);
     return null;
   }
 }
@@ -429,9 +472,11 @@ async function discoverNew(sources, report) {
 
     let activeMap = new Map();
     let expiredMap = new Map();
+    let placeId = null;
     try {
-      const text = await fetchText(meta.url);
-      const parsed = parseSource(text);
+      const html = await fetchHtml(meta.url);
+      placeId = extractPlaceIdFromHtml(html);
+      const parsed = parseSource(htmlToText(html));
       if (parsed.blocked) {
         report.push(`! new ${slug}: cookie/blocked`);
         continue;
@@ -449,7 +494,7 @@ async function discoverNew(sources, report) {
       continue;
     }
 
-    const placeId = await resolvePlaceId(meta.gameName);
+    if (!placeId) placeId = await resolvePlaceId(meta.gameName);
     let cover = null;
     if (WRITE && placeId) cover = await saveIcon(slug, placeId);
 
@@ -473,6 +518,50 @@ async function discoverNew(sources, report) {
   return added;
 }
 
+async function backfillCovers(sources, report) {
+  let n = 0;
+  for (const file of fs.readdirSync(GAMES_DIR).filter((f) => f.endsWith('.json'))) {
+    const slug = file.replace(/\.json$/, '');
+    const game = loadGame(slug);
+    if (!game || game.data.cover) continue;
+
+    let placeId = game.data.placeId || null;
+    const urls = sources[slug]?.sources || [];
+    for (const url of urls) {
+      if (placeId) break;
+      try {
+        const html = await fetchHtml(url);
+        placeId = extractPlaceIdFromHtml(html);
+      } catch {
+        /* ignore */
+      }
+    }
+    if (!placeId) placeId = await resolvePlaceId(game.data.gameName);
+    if (!placeId) {
+      report.push(`! cover ${slug}: no placeId`);
+      continue;
+    }
+
+    if (!WRITE) {
+      report.push(`~ cover ${slug}: would fetch placeId ${placeId}`);
+      n += 1;
+      continue;
+    }
+
+    const cover = await saveIcon(slug, placeId);
+    if (!cover) {
+      report.push(`! cover ${slug}: icon download failed (${placeId})`);
+      continue;
+    }
+    game.data.placeId = placeId;
+    game.data.cover = cover;
+    fs.writeFileSync(game.file, JSON.stringify(game.data, null, 2) + '\n');
+    report.push(`~ cover ${slug}: ${cover}`);
+    n += 1;
+  }
+  return n;
+}
+
 async function main() {
   const sources = JSON.parse(fs.readFileSync(SOURCES_PATH, 'utf8'));
   const report = [];
@@ -491,6 +580,9 @@ async function main() {
     const did = await syncOne(slug, cfg.sources, report);
     if (did) changed += 1;
   }
+
+  // 3) Backfill missing covers/icons
+  changed += await backfillCovers(sourcesNow, report);
 
   console.log(report.join('\n'));
   console.log(`\nMode: ${WRITE ? 'WRITE' : 'DRY-RUN'} | changed/new: ${changed} | maxNew/run: ${MAX_NEW_GAMES}`);

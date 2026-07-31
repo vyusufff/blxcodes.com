@@ -117,17 +117,17 @@
       "status": "expired"
     },
     {
+      "code": "MINIWAR",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "Military",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Mini",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MINIWAR",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -236,5 +236,7 @@
       "reward": "Expired reward",
       "status": "expired"
     }
-  ]
+  ],
+  "placeId": 131346454575416,
+  "cover": "/images/games/card/mini-war.webp"
 }
