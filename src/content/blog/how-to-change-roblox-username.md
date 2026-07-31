@@ -2,7 +2,7 @@
 title: "How to Change Your Roblox Username"
 description: "Change your Roblox display name or username, what it costs, cooldown rules, and mistakes that lock the name you want."
 pubDate: 2026-07-31
-cover: "/images/blog/card/change-username-v2.webp"
+cover: "/images/blog/card/change-username-v3.webp"
 ---
 
 Roblox gives you two name layers: a **display name** (what friends see in-game) and a **username** (your @handle / login identity). Most players only need a display-name change. Username changes cost Robux and have limits.

@@ -2,7 +2,7 @@
 title: "How to Get Free Robux Safely in 2026"
 description: "Legit ways to earn Robux without scams — Microsoft Rewards, clothing, UGC, and making games. Step-by-step and ranked by effort."
 pubDate: 2026-07-29
-cover: "/images/blog/card/earn-robux.webp"
+cover: "/images/blog/card/earn-robux-v2.webp"
 ---
 
 Want Robux without risking your account? Skip “free Robux” generators, fake giveaways, and anyone asking for your password. Those get accounts banned or stolen.
