@@ -14,6 +14,7 @@ const SOURCES_PATH = path.join(ROOT, 'scripts/sources.json');
 const WRITE = process.argv.includes('--write');
 const TODAY = new Date().toISOString().slice(0, 10);
 const MAX_NEW_GAMES = Number(process.env.MAX_NEW_GAMES || 5);
+const MIN_PLAYING = Number(process.env.MIN_PLAYING || 50);
 const BEEBOM_HUB = 'https://beebom.com/roblox-games-codes-list/';
 
 const UA =
@@ -189,7 +190,9 @@ function titleCaseSlug(slug) {
 }
 
 function discoverBeebomLinks(html) {
-  const found = new Map(); // slug -> { url, label }
+  const found = new Map(); // slug -> { url, gameName, fresh }
+  const weekAt = html.search(/Roblox Game Codes This Week|codes from this week/i);
+  const alphaAt = html.search(/Roblox Game Codes for Top Experiences|alphabetical list/i);
   const re = /href="(https:\/\/beebom\.com\/[^"#?][^"]*?-codes\/?)"[^>]*>([\s\S]*?)<\/a>/gi;
   let m;
   while ((m = re.exec(html))) {
@@ -200,9 +203,36 @@ function discoverBeebomLinks(html) {
     if (!slug || slug.length < 2) continue;
     const label = decodeEntities(m[2].replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim();
     const gameName = label.replace(/\s*codes\s*$/i, '').trim() || titleCaseSlug(slug);
-    if (!found.has(slug)) found.set(slug, { url, gameName });
+    const pos = m.index;
+    const fresh =
+      weekAt >= 0 && pos > weekAt && (alphaAt < 0 || pos < alphaAt);
+    if (!found.has(slug)) found.set(slug, { url, gameName, fresh: !!fresh });
+    else if (fresh) found.get(slug).fresh = true;
   }
   return found;
+}
+
+async function getPlayingCount(placeId) {
+  if (!placeId) return null;
+  try {
+    const uniRes = await fetch(`https://apis.roblox.com/universes/v1/places/${placeId}/universe`, {
+      headers: { 'user-agent': UA },
+      signal: AbortSignal.timeout(12000),
+    });
+    if (!uniRes.ok) return null;
+    const { universeId } = await uniRes.json();
+    if (!universeId) return null;
+    const gRes = await fetch(`https://games.roblox.com/v1/games?universeIds=${universeId}`, {
+      headers: { 'user-agent': UA },
+      signal: AbortSignal.timeout(12000),
+    });
+    if (!gRes.ok) return null;
+    const json = await gRes.json();
+    const playing = json?.data?.[0]?.playing;
+    return typeof playing === 'number' ? playing : null;
+  } catch {
+    return null;
+  }
 }
 
 function loadGame(slug) {
@@ -463,20 +493,31 @@ async function discoverNew(sources, report) {
     ...fs.readdirSync(GAMES_DIR).filter((f) => f.endsWith('.json')).map((f) => f.replace(/\.json$/, '')),
   ]);
 
-  const candidates = [...links.entries()].filter(([slug]) => !existing.has(slug));
-  report.push(`discover: ${links.size} beebom games, ${candidates.length} not on site yet`);
+  // Prefer "This Week" games first, then the rest of the hub list
+  const candidates = [...links.entries()]
+    .filter(([slug]) => !existing.has(slug))
+    .sort((a, b) => Number(b[1].fresh) - Number(a[1].fresh));
+
+  const freshCount = candidates.filter(([, m]) => m.fresh).length;
+  report.push(
+    `discover: ${links.size} beebom games, ${candidates.length} missing (${freshCount} from this-week section)`,
+  );
 
   let added = 0;
+  let scanned = 0;
   for (const [slug, meta] of candidates) {
     if (added >= MAX_NEW_GAMES) break;
+    // Don't burn the whole hub every run — sample a limited window
+    if (scanned >= MAX_NEW_GAMES * 8) break;
+    scanned += 1;
 
     let activeMap = new Map();
     let expiredMap = new Map();
     let placeId = null;
     try {
-      const html = await fetchHtml(meta.url);
-      placeId = extractPlaceIdFromHtml(html);
-      const parsed = parseSource(htmlToText(html));
+      const pageHtml = await fetchHtml(meta.url);
+      placeId = extractPlaceIdFromHtml(pageHtml);
+      const parsed = parseSource(htmlToText(pageHtml));
       if (parsed.blocked) {
         report.push(`! new ${slug}: cookie/blocked`);
         continue;
@@ -488,15 +529,30 @@ async function discoverNew(sources, report) {
       continue;
     }
 
-    // Only add games that currently have at least 1 working code
     if (activeMap.size === 0) {
       report.push(`skip new ${slug}: 0 active codes`);
       continue;
     }
 
     if (!placeId) placeId = await resolvePlaceId(meta.gameName);
+    if (!placeId) {
+      report.push(`skip new ${slug}: no placeId`);
+      continue;
+    }
+
+    const playing = await getPlayingCount(placeId);
+    if (playing !== null && playing < MIN_PLAYING) {
+      report.push(`skip new ${slug}: ${playing} playing (< ${MIN_PLAYING})`);
+      continue;
+    }
+    if (playing === null && !meta.fresh) {
+      // Without CCU signal, only allow "this week" discoveries
+      report.push(`skip new ${slug}: unknown players + not in this-week`);
+      continue;
+    }
+
     let cover = null;
-    if (WRITE && placeId) cover = await saveIcon(slug, placeId);
+    if (WRITE) cover = await saveIcon(slug, placeId);
 
     const data = buildNewGame({
       slug,
@@ -507,7 +563,9 @@ async function discoverNew(sources, report) {
       cover,
     });
 
-    report.push(`+ NEW ${slug} (${activeMap.size} active) ← ${meta.url}`);
+    report.push(
+      `+ NEW ${slug} (${activeMap.size} active, ${playing ?? '?'} playing${meta.fresh ? ', this-week' : ''}) ← ${meta.url}`,
+    );
     if (WRITE) {
       fs.writeFileSync(path.join(GAMES_DIR, `${slug}.json`), JSON.stringify(data, null, 2) + '\n');
       sources[slug] = { sources: [meta.url] };
@@ -567,25 +625,26 @@ async function main() {
   const report = [];
   let changed = 0;
 
-  // 1) Discover + add brand-new games first
-  const added = await discoverNew(sources, report);
-  changed += added;
-
-  // reload sources after discovery writes
-  const sourcesNow = JSON.parse(fs.readFileSync(SOURCES_PATH, 'utf8'));
-
-  // 2) Sync existing catalog
-  for (const [slug, cfg] of Object.entries(sourcesNow)) {
+  // 1) Priority: refresh codes for games already on the site
+  for (const [slug, cfg] of Object.entries(sources)) {
     if (!cfg.sources?.length) continue;
     const did = await syncOne(slug, cfg.sources, report);
     if (did) changed += 1;
   }
 
+  // 2) Then discover new games (this-week first, skip dead/low CCU)
+  const sourcesNow = JSON.parse(fs.readFileSync(SOURCES_PATH, 'utf8'));
+  const added = await discoverNew(sourcesNow, report);
+  changed += added;
+
   // 3) Backfill missing covers/icons
-  changed += await backfillCovers(sourcesNow, report);
+  const sourcesFinal = JSON.parse(fs.readFileSync(SOURCES_PATH, 'utf8'));
+  changed += await backfillCovers(sourcesFinal, report);
 
   console.log(report.join('\n'));
-  console.log(`\nMode: ${WRITE ? 'WRITE' : 'DRY-RUN'} | changed/new: ${changed} | maxNew/run: ${MAX_NEW_GAMES}`);
+  console.log(
+    `\nMode: ${WRITE ? 'WRITE' : 'DRY-RUN'} | changed/new: ${changed} | maxNew/run: ${MAX_NEW_GAMES} | minPlaying: ${MIN_PLAYING}`,
+  );
   if (!WRITE && changed > 0) console.log('Re-run with --write to apply.');
 }
 
