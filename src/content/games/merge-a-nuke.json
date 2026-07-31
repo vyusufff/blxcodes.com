@@ -29,18 +29,8 @@
   ],
   "codes": [
     {
-      "code": "MAGMA",
-      "reward": "Molten Magma ( )",
-      "status": "active"
-    },
-    {
       "code": "ATOMIC",
       "reward": "10k Cash and 20 Nukes",
-      "status": "active"
-    },
-    {
-      "code": "UPDATE2",
-      "reward": "10k Cash",
       "status": "active"
     },
     {
@@ -49,47 +39,17 @@
       "status": "active"
     },
     {
-      "code": "Merge",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "MAGMA",
+      "reward": "Molten Magma ( )",
+      "status": "active"
     },
     {
-      "code": "Nuke",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "explosion",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "exploration",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "UPDATE2",
+      "reward": "10k Cash",
+      "status": "active"
     },
     {
       "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "recommendations",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -99,22 +59,92 @@
       "status": "expired"
     },
     {
-      "code": "Astral",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Apocalypse",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Redemption",
+      "code": "Are",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Astral",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Bookmark",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "building",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "But",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "challenge",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "creating",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "developers",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "directly",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "exciting",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "exploration",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "explosion",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "explosions",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "figuring",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "freebies",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Get",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Hunting",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -129,92 +159,7 @@
       "status": "expired"
     },
     {
-      "code": "Store",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "challenge",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "figuring",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "building",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "strongest",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "possible",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hunting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "exciting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sadly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "removing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "creating",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "explosions",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "searching",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
+      "code": "Merge",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -224,7 +169,32 @@
       "status": "expired"
     },
     {
+      "code": "Nuke",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "persists",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "possible",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "recommendations",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "redeeming",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Redemption",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,17 +204,47 @@
       "status": "expired"
     },
     {
+      "code": "removing",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Sadly",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "searching",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "sensitive",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "directly",
+      "code": "Simulator",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "persists",
+      "code": "Store",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "strongest",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Type",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

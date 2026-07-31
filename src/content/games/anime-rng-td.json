@@ -29,18 +29,13 @@
   ],
   "codes": [
     {
-      "code": "WEEKENDGIFT3",
-      "reward": "3 Luck Potions, 3 Super Luck Potions, 3 Money Potions, and 5 Crystals ( )",
+      "code": "4kccu",
+      "reward": "Redeem for 1 Universal Luck",
       "status": "active"
     },
     {
-      "code": "WEEKENDGIFT2",
-      "reward": "3 Luck Potions, 3 Super Luck Potions, 3 Money Potions, and 5 Crystals ( )",
-      "status": "active"
-    },
-    {
-      "code": "WEEKENDGIFT",
-      "reward": "5 Talent Scrolls and 10 Crystals ( )",
+      "code": "artifact",
+      "reward": "Redeem for 5 Uncommon Chest and 10 Crystals",
       "status": "active"
     },
     {
@@ -49,18 +44,8 @@
       "status": "active"
     },
     {
-      "code": "TALENT",
-      "reward": "Redeem for 5 Talent Scrolls",
-      "status": "active"
-    },
-    {
-      "code": "4kccu",
-      "reward": "Redeem for 1 Universal Luck",
-      "status": "active"
-    },
-    {
-      "code": "artifact",
-      "reward": "Redeem for 5 Uncommon Chest and 10 Crystals",
+      "code": "DISCORDREWARD",
+      "reward": "Redeem for 3 Luck Potions, 3 Super Luck Potions, and 3 Money Potions",
       "status": "active"
     },
     {
@@ -74,62 +59,32 @@
       "status": "active"
     },
     {
-      "code": "DISCORDREWARD",
-      "reward": "Redeem for 3 Luck Potions, 3 Super Luck Potions, and 3 Money Potions",
+      "code": "TALENT",
+      "reward": "Redeem for 5 Talent Scrolls",
       "status": "active"
     },
     {
+      "code": "WEEKENDGIFT",
+      "reward": "5 Talent Scrolls and 10 Crystals ( )",
+      "status": "active"
+    },
+    {
+      "code": "WEEKENDGIFT2",
+      "reward": "3 Luck Potions, 3 Super Luck Potions, 3 Money Potions, and 5 Crystals ( )",
+      "status": "active"
+    },
+    {
+      "code": "WEEKENDGIFT3",
+      "reward": "3 Luck Potions, 3 Super Luck Potions, 3 Money Potions, and 5 Crystals ( )",
+      "status": "active"
+    },
+    {
+      "code": "8217",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RNG",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRYXMASBUG",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "XMAS666",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "XMAS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Last",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Stand",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Realms",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Both",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "exciting",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -139,47 +94,22 @@
       "status": "expired"
     },
     {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "entirely",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "available",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Getting",
+      "code": "BestBunny",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "top-tier",
+      "code": "bookmark",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "character",
+      "code": "Both",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,7 +119,27 @@
       "status": "expired"
     },
     {
+      "code": "character",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "claiming",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "developers",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "different",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Dungeon",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,12 +149,72 @@
       "status": "expired"
     },
     {
+      "code": "entirely",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "exciting",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "experiences",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Fighters",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "Follow",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
+      "code": "Get",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Getting",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "However",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Last",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "Launch",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Realms",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "recommend",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "released",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RNG",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -219,37 +229,12 @@
       "status": "expired"
     },
     {
-      "code": "Type",
+      "code": "something",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BestBunny",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dungeon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fighters",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
+      "code": "SORRYXMASBUG",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -259,7 +244,7 @@
       "status": "expired"
     },
     {
-      "code": "timeline",
+      "code": "Stand",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -269,12 +254,27 @@
       "status": "expired"
     },
     {
-      "code": "recommend",
+      "code": "timeline",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "bookmark",
+      "code": "top-tier",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Type",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "XMAS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "XMAS666",
       "reward": "Expired reward",
       "status": "expired"
     }

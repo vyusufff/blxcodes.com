@@ -29,18 +29,33 @@
   ],
   "codes": [
     {
-      "code": "HPPCU",
-      "reward": "Hot Pink Pixel Crown ( )",
+      "code": "1002",
+      "reward": "Black Valk",
       "status": "active"
     },
     {
-      "code": "SS12",
-      "reward": "Star White Shades ( )",
+      "code": "165",
+      "reward": "Black Spikey Beret Cap",
       "status": "active"
     },
     {
-      "code": "SFV",
-      "reward": "Sci-Fi Valk",
+      "code": "166",
+      "reward": "PSY Face",
+      "status": "active"
+    },
+    {
+      "code": "207",
+      "reward": "Crown",
+      "status": "active"
+    },
+    {
+      "code": "23mehas",
+      "reward": "Mr. Flare hair",
+      "status": "active"
+    },
+    {
+      "code": "270",
+      "reward": "8-Bit Crown",
       "status": "active"
     },
     {
@@ -49,63 +64,28 @@
       "status": "active"
     },
     {
-      "code": "HPPC9",
-      "reward": "Hot Pink Pixel Crown",
+      "code": "403",
+      "reward": "Cyber Scythe",
       "status": "active"
     },
     {
-      "code": "YST",
-      "reward": "Silver Solar Eclipse Crown",
+      "code": "407",
+      "reward": "Cyber Scythe",
       "status": "active"
     },
     {
-      "code": "facecute123",
-      "reward": "Face",
+      "code": "409",
+      "reward": "Neon Red Cyber Light Saber",
       "status": "active"
     },
     {
-      "code": "PURPLEGAS",
-      "reward": "Purple Smoke Spirit",
+      "code": "579",
+      "reward": "Christmas Hat",
       "status": "active"
     },
     {
-      "code": "1002",
-      "reward": "Black Valk",
-      "status": "active"
-    },
-    {
-      "code": "CD3",
-      "reward": "Crimson Dragonlord Crown",
-      "status": "active"
-    },
-    {
-      "code": "V10",
-      "reward": "Pink Hair",
-      "status": "active"
-    },
-    {
-      "code": "REU",
-      "reward": "Red Overseer Tophat",
-      "status": "active"
-    },
-    {
-      "code": "REO",
-      "reward": "Ruby Eternal Crown",
-      "status": "active"
-    },
-    {
-      "code": "USS",
-      "reward": "Inferno Skull Sword",
-      "status": "active"
-    },
-    {
-      "code": "ICEVH",
-      "reward": "Icebound Valkyrie",
-      "status": "active"
-    },
-    {
-      "code": "JUC",
-      "reward": "Jace&#8217;s UGC Chain",
+      "code": "57e",
+      "reward": "Chicken Little Hood",
       "status": "active"
     },
     {
@@ -114,13 +94,203 @@
       "status": "active"
     },
     {
+      "code": "614",
+      "reward": "Celestial Requiem Scythe",
+      "status": "active"
+    },
+    {
       "code": "7007",
       "reward": "Black Horns",
       "status": "active"
     },
     {
-      "code": "HB350",
-      "reward": "Heyop Backpack",
+      "code": "714",
+      "reward": "Black Valk",
+      "status": "active"
+    },
+    {
+      "code": "802",
+      "reward": "Black Horn (must own Black Horn Game pass, and have a 5 days or older account)",
+      "status": "active"
+    },
+    {
+      "code": "807",
+      "reward": "Black Horn",
+      "status": "active"
+    },
+    {
+      "code": "927",
+      "reward": "5090 RGB Graphics Card",
+      "status": "active"
+    },
+    {
+      "code": "936",
+      "reward": "Chiikawa Usagi",
+      "status": "active"
+    },
+    {
+      "code": "955",
+      "reward": "Black Shades",
+      "status": "active"
+    },
+    {
+      "code": "957",
+      "reward": "Black Scythe",
+      "status": "active"
+    },
+    {
+      "code": "a1b",
+      "reward": "Money Graffiti Glitch Backpack (must buy Money Graffiti Glitch Backpack Shirt, become the member Tazzers UGC Investors, follow Tazzer456)",
+      "status": "active"
+    },
+    {
+      "code": "AQUA25",
+      "reward": "Aqua Scepter (must be a member of Dragon Store and follow Yoshi_550)",
+      "status": "active"
+    },
+    {
+      "code": "BBZ",
+      "reward": "Blackbrick Black Marble (requires Bloxbuild 1/3, must become a member of Zerk&#8217;s UGC&#8217;s group, and follow Zerkiouz)",
+      "status": "active"
+    },
+    {
+      "code": "BEV",
+      "reward": "Blue Pink Cotton Candy Valk (needs Blue Pink Valk Purchase)",
+      "status": "active"
+    },
+    {
+      "code": "BILLCIPHER",
+      "reward": "Demon Circle Pal (needs Demon Circle Pal purchase)",
+      "status": "active"
+    },
+    {
+      "code": "BJH",
+      "reward": "Blue Jellyfish Hat",
+      "status": "active"
+    },
+    {
+      "code": "BlackMarbleSword",
+      "reward": "Sigma Sword (Needs the Sigma Sword t-shirt)",
+      "status": "active"
+    },
+    {
+      "code": "BLUEFR",
+      "reward": "Blue Fire Sword",
+      "status": "active"
+    },
+    {
+      "code": "bogofree",
+      "reward": "Gold Sunglasses (needs Kawai Anime Face: Heavenly Fever)",
+      "status": "active"
+    },
+    {
+      "code": "BOM",
+      "reward": "Dark Bombastic Wings (Needs Bombastic Wings purchase)",
+      "status": "active"
+    },
+    {
+      "code": "BRHT",
+      "reward": "Burger Hat",
+      "status": "active"
+    },
+    {
+      "code": "BSC4",
+      "reward": "Bluesteel Starcrown (Needs Bluesteel Starcrown code)",
+      "status": "active"
+    },
+    {
+      "code": "BUCKETHORNS",
+      "reward": "Star Bucket Hat and Horns",
+      "status": "active"
+    },
+    {
+      "code": "bue666",
+      "reward": "Dark Blue rough hair (needs Green Plasma Suit)",
+      "status": "active"
+    },
+    {
+      "code": "BUNNYTIME",
+      "reward": "Easter Bunny Circle Pal (needs Easter Bunny Circle Pal shirt)",
+      "status": "active"
+    },
+    {
+      "code": "CD3",
+      "reward": "Crimson Dragonlord Crown",
+      "status": "active"
+    },
+    {
+      "code": "Chrono2",
+      "reward": "Chronoavernus: The Crimson Helm (needs Chrono2 Game Pass)",
+      "status": "active"
+    },
+    {
+      "code": "CosmicHood",
+      "reward": "Galaxy Cosmic Hood (Needs the CosmicHood code item)",
+      "status": "active"
+    },
+    {
+      "code": "CPY5",
+      "reward": "Cute Pink Crown",
+      "status": "active"
+    },
+    {
+      "code": "DCP",
+      "reward": "Pastel Domino Crown (must become member of the Zerk&#8217;s UGC&#8217;s group, Myth&#8217;s UGC&#8217;s group, while also following Zerkiouz and Mythiciouz)",
+      "status": "active"
+    },
+    {
+      "code": "DDM",
+      "reward": "Devil Dominus",
+      "status": "active"
+    },
+    {
+      "code": "DEDPOOL1",
+      "reward": "Access DedPool (Need to follow User:705880873)",
+      "status": "active"
+    },
+    {
+      "code": "DGTM",
+      "reward": "Disconnected Glitch Ticket Money Gun (needs Disconnected Glitch Ticket Money Gun Game Pass)",
+      "status": "active"
+    },
+    {
+      "code": "DogeHammer1",
+      "reward": "Doge Hammer (Needs DogeHammer1)",
+      "status": "active"
+    },
+    {
+      "code": "doom25",
+      "reward": "Undead Pumpkin (needs 350 Game Pass)",
+      "status": "active"
+    },
+    {
+      "code": "EMERALDHAT99",
+      "reward": "Silver & Emerald of Federation & Rich Hat (needs Emerald Hat Low Price Game Pass)",
+      "status": "active"
+    },
+    {
+      "code": "Ezcape",
+      "reward": "321Cape (must become a member of Cutsfogaming, follow LuckySprinter and Cutsfer)",
+      "status": "active"
+    },
+    {
+      "code": "facecute123",
+      "reward": "Face",
+      "status": "active"
+    },
+    {
+      "code": "FazPotato",
+      "reward": "Freddy Fazpotato (needs freddy Game Pass)",
+      "status": "active"
+    },
+    {
+      "code": "FBM",
+      "reward": "Gold Moon",
+      "status": "active"
+    },
+    {
+      "code": "FruitDom",
+      "reward": "Apple Dominus (Need Apple Dominus buy)",
       "status": "active"
     },
     {
@@ -129,8 +299,333 @@
       "status": "active"
     },
     {
-      "code": "614",
-      "reward": "Celestial Requiem Scythe",
+      "code": "G37",
+      "reward": "Y2K Patrick Headphones",
+      "status": "active"
+    },
+    {
+      "code": "GoldModern",
+      "reward": "Gold Crown (needs game pass and must join Modern UGC group)",
+      "status": "active"
+    },
+    {
+      "code": "HammersofGlory",
+      "reward": "Hammers of Glory (Needs the HammerofGlory Buying)",
+      "status": "active"
+    },
+    {
+      "code": "HardHat",
+      "reward": "&#8216;Where&#8217;s My Wrench?&#8217; Hard Hat",
+      "status": "active"
+    },
+    {
+      "code": "Hazzer",
+      "reward": "Slime Green Taz Tier 2 Hammer (needs Green Heart LIMITED Shirt)",
+      "status": "active"
+    },
+    {
+      "code": "HB350",
+      "reward": "Heyop Backpack",
+      "status": "active"
+    },
+    {
+      "code": "HBR",
+      "reward": "Retro Blue Horns",
+      "status": "active"
+    },
+    {
+      "code": "HGR",
+      "reward": "Formidulosus Sword",
+      "status": "active"
+    },
+    {
+      "code": "HMF",
+      "reward": "Hamster Muffin",
+      "status": "active"
+    },
+    {
+      "code": "Hoshi2",
+      "reward": "AI Hoshino Anime Pillow (AI Hoshini pillow code)",
+      "status": "active"
+    },
+    {
+      "code": "HPPC9",
+      "reward": "Hot Pink Pixel Crown",
+      "status": "active"
+    },
+    {
+      "code": "HPPCU",
+      "reward": "Hot Pink Pixel Crown ( )",
+      "status": "active"
+    },
+    {
+      "code": "ICEVH",
+      "reward": "Icebound Valkyrie",
+      "status": "active"
+    },
+    {
+      "code": "JPL",
+      "reward": "John Pork (needs John Pork shirt)",
+      "status": "active"
+    },
+    {
+      "code": "JUC",
+      "reward": "Jace&#8217;s UGC Chain",
+      "status": "active"
+    },
+    {
+      "code": "LUKEZ",
+      "reward": "Free Item Lukez (must follow AStarlsBorn)",
+      "status": "active"
+    },
+    {
+      "code": "m6x",
+      "reward": "Black Santa Coal Bag",
+      "status": "active"
+    },
+    {
+      "code": "machine1",
+      "reward": "Machine-use code (Needs sigma pass for machine)",
+      "status": "active"
+    },
+    {
+      "code": "Makima123",
+      "reward": "Wear Makima Pillow (Needs the cool Makika)",
+      "status": "active"
+    },
+    {
+      "code": "Mayo100",
+      "reward": "Valk of mustard code (Need Mayo Buy)",
+      "status": "active"
+    },
+    {
+      "code": "MeltSquid322",
+      "reward": "Melted Squid (Needs Melted Squid code)",
+      "status": "active"
+    },
+    {
+      "code": "MGGP",
+      "reward": "White and black valk (must be a member of Powerful artists, GoRp_Sea, and follow GoRipeBLX and lulu8203)",
+      "status": "active"
+    },
+    {
+      "code": "MMG",
+      "reward": "Luxury Gold Backpack (needs Luxury Gold Backpack Game Pass)",
+      "status": "active"
+    },
+    {
+      "code": "Moaibar",
+      "reward": "Moai 8-bit health bar (Needs the Moaibar item)",
+      "status": "active"
+    },
+    {
+      "code": "MonsterFace",
+      "reward": "Pink Beast Mode Face (must become a member of Byte UGC, and follow FoxFire90876)",
+      "status": "active"
+    },
+    {
+      "code": "Mortality20",
+      "reward": "Mortality Hockey Mask (Needs Hockey Mask)",
+      "status": "active"
+    },
+    {
+      "code": "mTaz",
+      "reward": "Tazze456 Mini-Me (requires Diamond Tazzer456 Mini-me LIMITED Shirt)",
+      "status": "active"
+    },
+    {
+      "code": "Mx2",
+      "reward": "Gold Santa Hat",
+      "status": "active"
+    },
+    {
+      "code": "nightfall",
+      "reward": "Nightfall Blade (Needs the black n&#8217; white sword purchase.png)",
+      "status": "active"
+    },
+    {
+      "code": "Order3",
+      "reward": "Dominus of the First Order (needs Dominus of the first order Game Pass)",
+      "status": "active"
+    },
+    {
+      "code": "Pirate999",
+      "reward": "Pirate Skull (Needs Pirate Skull code)",
+      "status": "active"
+    },
+    {
+      "code": "pokeball",
+      "reward": "Pokemon Ball Holdable (become a member of *choobi group)",
+      "status": "active"
+    },
+    {
+      "code": "PUMPSLUSH",
+      "reward": "Pumpkin Slushy (Needs Pumpkin Slushy purchase)",
+      "status": "active"
+    },
+    {
+      "code": "PURPLEGAS",
+      "reward": "Purple Smoke Spirit",
+      "status": "active"
+    },
+    {
+      "code": "PVG6",
+      "reward": "Purple Storm Dominus Hood with Antlers (Need to follow Group ID:34993751)",
+      "status": "active"
+    },
+    {
+      "code": "PWS",
+      "reward": "Purple Wings",
+      "status": "active"
+    },
+    {
+      "code": "RandomRAREtaz",
+      "reward": "Inverted Limited Shirt",
+      "status": "active"
+    },
+    {
+      "code": "REDPERI",
+      "reward": "Red Overseer Periastron (Needs Red Overseer Code)",
+      "status": "active"
+    },
+    {
+      "code": "Relish100",
+      "reward": "Valk of Relish code (Need Relish Buy)",
+      "status": "active"
+    },
+    {
+      "code": "REO",
+      "reward": "Ruby Eternal Crown",
+      "status": "active"
+    },
+    {
+      "code": "REU",
+      "reward": "Red Overseer Tophat",
+      "status": "active"
+    },
+    {
+      "code": "RuneScythe08",
+      "reward": "Blue Rune Scythe (Needs Black Rune Scythe)",
+      "status": "active"
+    },
+    {
+      "code": "SAOS",
+      "reward": "Shiny Purple Fedora",
+      "status": "active"
+    },
+    {
+      "code": "SB10",
+      "reward": "Sword",
+      "status": "active"
+    },
+    {
+      "code": "SCPF",
+      "reward": "SugarCrash Chocolate and Pudding Face",
+      "status": "active"
+    },
+    {
+      "code": "SFV",
+      "reward": "Sci-Fi Valk",
+      "status": "active"
+    },
+    {
+      "code": "sigma123",
+      "reward": "Clockwork Shades (Needs Sigma code)",
+      "status": "active"
+    },
+    {
+      "code": "sigmasigmacat",
+      "reward": "Silly Cat Plush Keychain (requires being friends with kittienapper and must follow kittienapper and Opasiliiyo)",
+      "status": "active"
+    },
+    {
+      "code": "SIL",
+      "reward": "Ancient Silver Skull",
+      "status": "active"
+    },
+    {
+      "code": "sit3",
+      "reward": "Mini Infernal Cape",
+      "status": "active"
+    },
+    {
+      "code": "SKS78",
+      "reward": "Horns of Destiny (Needs Purchase Prompt)",
+      "status": "active"
+    },
+    {
+      "code": "SKSW1",
+      "reward": "Sky Blue Sword",
+      "status": "active"
+    },
+    {
+      "code": "SkullGold222",
+      "reward": "Golden Skull (Needs Golden Skull code)",
+      "status": "active"
+    },
+    {
+      "code": "Sofa0",
+      "reward": "Access Sofa (Need to follow the User ID: 418695438)",
+      "status": "active"
+    },
+    {
+      "code": "Spades",
+      "reward": "Top Hat of Spades (needs game pass)",
+      "status": "active"
+    },
+    {
+      "code": "Squash",
+      "reward": "Squash code (Needs Holdable Blue Pumpkin Basket)",
+      "status": "active"
+    },
+    {
+      "code": "SS12",
+      "reward": "Star White Shades ( )",
+      "status": "active"
+    },
+    {
+      "code": "SSCB",
+      "reward": "Star Spiky Crown",
+      "status": "active"
+    },
+    {
+      "code": "STARFREE",
+      "reward": "Star Backling",
+      "status": "active"
+    },
+    {
+      "code": "STARVALK10",
+      "reward": "Starvalk10 Hat (must be a member of Piks&#8217;s UGC and follow gauthiee444)",
+      "status": "active"
+    },
+    {
+      "code": "starvalk30",
+      "reward": "Star Valk Helmet",
+      "status": "active"
+    },
+    {
+      "code": "sy1th",
+      "reward": "Scythe Test exclusive (Needs Paid Scythe Test code)",
+      "status": "active"
+    },
+    {
+      "code": "TGB45",
+      "reward": "Silver Robux Dominus Hood with Antlers (Need to follow Group ID:34993751)",
+      "status": "active"
+    },
+    {
+      "code": "THALLOWEEN",
+      "reward": "Halloween T-Shirt",
+      "status": "active"
+    },
+    {
+      "code": "TJUR",
+      "reward": "Pink Hair",
+      "status": "active"
+    },
+    {
+      "code": "TTR",
+      "reward": "Turkey Topper",
       "status": "active"
     },
     {
@@ -144,238 +639,18 @@
       "status": "active"
     },
     {
-      "code": "BRHT",
-      "reward": "Burger Hat",
+      "code": "USS",
+      "reward": "Inferno Skull Sword",
       "status": "active"
     },
     {
-      "code": "SCPF",
-      "reward": "SugarCrash Chocolate and Pudding Face",
-      "status": "active"
-    },
-    {
-      "code": "HMF",
-      "reward": "Hamster Muffin",
-      "status": "active"
-    },
-    {
-      "code": "TTR",
-      "reward": "Turkey Topper",
-      "status": "active"
-    },
-    {
-      "code": "m6x",
-      "reward": "Black Santa Coal Bag",
-      "status": "active"
-    },
-    {
-      "code": "SSCB",
-      "reward": "Star Spiky Crown",
-      "status": "active"
-    },
-    {
-      "code": "579",
-      "reward": "Christmas Hat",
-      "status": "active"
-    },
-    {
-      "code": "Mx2",
-      "reward": "Gold Santa Hat",
-      "status": "active"
-    },
-    {
-      "code": "SB10",
-      "reward": "Sword",
-      "status": "active"
-    },
-    {
-      "code": "270",
-      "reward": "8-Bit Crown",
-      "status": "active"
-    },
-    {
-      "code": "403",
-      "reward": "Cyber Scythe",
-      "status": "active"
-    },
-    {
-      "code": "714",
-      "reward": "Black Valk",
-      "status": "active"
-    },
-    {
-      "code": "BJH",
-      "reward": "Blue Jellyfish Hat",
-      "status": "active"
-    },
-    {
-      "code": "CPY5",
-      "reward": "Cute Pink Crown",
-      "status": "active"
-    },
-    {
-      "code": "166",
-      "reward": "PSY Face",
-      "status": "active"
-    },
-    {
-      "code": "TJUR",
+      "code": "V10",
       "reward": "Pink Hair",
       "status": "active"
     },
     {
-      "code": "165",
-      "reward": "Black Spikey Beret Cap",
-      "status": "active"
-    },
-    {
-      "code": "936",
-      "reward": "Chiikawa Usagi",
-      "status": "active"
-    },
-    {
-      "code": "409",
-      "reward": "Neon Red Cyber Light Saber",
-      "status": "active"
-    },
-    {
-      "code": "957",
-      "reward": "Black Scythe",
-      "status": "active"
-    },
-    {
-      "code": "807",
-      "reward": "Black Horn",
-      "status": "active"
-    },
-    {
-      "code": "sit3",
-      "reward": "Mini Infernal Cape",
-      "status": "active"
-    },
-    {
-      "code": "G37",
-      "reward": "Y2K Patrick Headphones",
-      "status": "active"
-    },
-    {
-      "code": "57e",
-      "reward": "Chicken Little Hood",
-      "status": "active"
-    },
-    {
-      "code": "STARFREE",
-      "reward": "Star Backling",
-      "status": "active"
-    },
-    {
-      "code": "FBM",
-      "reward": "Gold Moon",
-      "status": "active"
-    },
-    {
-      "code": "SIL",
-      "reward": "Ancient Silver Skull",
-      "status": "active"
-    },
-    {
-      "code": "927",
-      "reward": "5090 RGB Graphics Card",
-      "status": "active"
-    },
-    {
-      "code": "BUCKETHORNS",
-      "reward": "Star Bucket Hat and Horns",
-      "status": "active"
-    },
-    {
-      "code": "207",
-      "reward": "Crown",
-      "status": "active"
-    },
-    {
-      "code": "PWS",
-      "reward": "Purple Wings",
-      "status": "active"
-    },
-    {
-      "code": "407",
-      "reward": "Cyber Scythe",
-      "status": "active"
-    },
-    {
-      "code": "955",
-      "reward": "Black Shades",
-      "status": "active"
-    },
-    {
-      "code": "SAOS",
-      "reward": "Shiny Purple Fedora",
-      "status": "active"
-    },
-    {
-      "code": "starvalk30",
-      "reward": "Star Valk Helmet",
-      "status": "active"
-    },
-    {
-      "code": "BLUEFR",
-      "reward": "Blue Fire Sword",
-      "status": "active"
-    },
-    {
-      "code": "HardHat",
-      "reward": "&#8216;Where&#8217;s My Wrench?&#8217; Hard Hat",
-      "status": "active"
-    },
-    {
-      "code": "DDM",
-      "reward": "Devil Dominus",
-      "status": "active"
-    },
-    {
-      "code": "RandomRAREtaz",
-      "reward": "Inverted Limited Shirt",
-      "status": "active"
-    },
-    {
-      "code": "MGGP",
-      "reward": "White and black valk (must be a member of Powerful artists, GoRp_Sea, and follow GoRipeBLX and lulu8203)",
-      "status": "active"
-    },
-    {
-      "code": "HGR",
-      "reward": "Formidulosus Sword",
-      "status": "active"
-    },
-    {
-      "code": "802",
-      "reward": "Black Horn (must own Black Horn Game pass, and have a 5 days or older account)",
-      "status": "active"
-    },
-    {
-      "code": "BEV",
-      "reward": "Blue Pink Cotton Candy Valk (needs Blue Pink Valk Purchase)",
-      "status": "active"
-    },
-    {
-      "code": "STARVALK10",
-      "reward": "Starvalk10 Hat (must be a member of Piks&#8217;s UGC and follow gauthiee444)",
-      "status": "active"
-    },
-    {
-      "code": "AQUA25",
-      "reward": "Aqua Scepter (must be a member of Dragon Store and follow Yoshi_550)",
-      "status": "active"
-    },
-    {
-      "code": "BUNNYTIME",
-      "reward": "Easter Bunny Circle Pal (needs Easter Bunny Circle Pal shirt)",
-      "status": "active"
-    },
-    {
-      "code": "MonsterFace",
-      "reward": "Pink Beast Mode Face (must become a member of Byte UGC, and follow FoxFire90876)",
+      "code": "YST",
+      "reward": "Silver Solar Eclipse Crown",
       "status": "active"
     },
     {
@@ -384,462 +659,7 @@
       "status": "active"
     },
     {
-      "code": "DGTM",
-      "reward": "Disconnected Glitch Ticket Money Gun (needs Disconnected Glitch Ticket Money Gun Game Pass)",
-      "status": "active"
-    },
-    {
-      "code": "JPL",
-      "reward": "John Pork (needs John Pork shirt)",
-      "status": "active"
-    },
-    {
-      "code": "doom25",
-      "reward": "Undead Pumpkin (needs 350 Game Pass)",
-      "status": "active"
-    },
-    {
-      "code": "MMG",
-      "reward": "Luxury Gold Backpack (needs Luxury Gold Backpack Game Pass)",
-      "status": "active"
-    },
-    {
-      "code": "FazPotato",
-      "reward": "Freddy Fazpotato (needs freddy Game Pass)",
-      "status": "active"
-    },
-    {
-      "code": "DCP",
-      "reward": "Pastel Domino Crown (must become member of the Zerk&#8217;s UGC&#8217;s group, Myth&#8217;s UGC&#8217;s group, while also following Zerkiouz and Mythiciouz)",
-      "status": "active"
-    },
-    {
-      "code": "EMERALDHAT99",
-      "reward": "Silver & Emerald of Federation & Rich Hat (needs Emerald Hat Low Price Game Pass)",
-      "status": "active"
-    },
-    {
-      "code": "HBR",
-      "reward": "Retro Blue Horns",
-      "status": "active"
-    },
-    {
-      "code": "23mehas",
-      "reward": "Mr. Flare hair",
-      "status": "active"
-    },
-    {
-      "code": "a1b",
-      "reward": "Money Graffiti Glitch Backpack (must buy Money Graffiti Glitch Backpack Shirt, become the member Tazzers UGC Investors, follow Tazzer456)",
-      "status": "active"
-    },
-    {
-      "code": "Ezcape",
-      "reward": "321Cape (must become a member of Cutsfogaming, follow LuckySprinter and Cutsfer)",
-      "status": "active"
-    },
-    {
-      "code": "LUKEZ",
-      "reward": "Free Item Lukez (must follow AStarlsBorn)",
-      "status": "active"
-    },
-    {
-      "code": "BBZ",
-      "reward": "Blackbrick Black Marble (requires Bloxbuild 1/3, must become a member of Zerk&#8217;s UGC&#8217;s group, and follow Zerkiouz)",
-      "status": "active"
-    },
-    {
-      "code": "mTaz",
-      "reward": "Tazze456 Mini-Me (requires Diamond Tazzer456 Mini-me LIMITED Shirt)",
-      "status": "active"
-    },
-    {
-      "code": "sigmasigmacat",
-      "reward": "Silly Cat Plush Keychain (requires being friends with kittienapper and must follow kittienapper and Opasiliiyo)",
-      "status": "active"
-    },
-    {
-      "code": "Hazzer",
-      "reward": "Slime Green Taz Tier 2 Hammer (needs Green Heart LIMITED Shirt)",
-      "status": "active"
-    },
-    {
-      "code": "Order3",
-      "reward": "Dominus of the First Order (needs Dominus of the first order Game Pass)",
-      "status": "active"
-    },
-    {
-      "code": "Chrono2",
-      "reward": "Chronoavernus: The Crimson Helm (needs Chrono2 Game Pass)",
-      "status": "active"
-    },
-    {
-      "code": "pokeball",
-      "reward": "Pokemon Ball Holdable (become a member of *choobi group)",
-      "status": "active"
-    },
-    {
-      "code": "bogofree",
-      "reward": "Gold Sunglasses (needs Kawai Anime Face: Heavenly Fever)",
-      "status": "active"
-    },
-    {
-      "code": "THALLOWEEN",
-      "reward": "Halloween T-Shirt",
-      "status": "active"
-    },
-    {
-      "code": "bue666",
-      "reward": "Dark Blue rough hair (needs Green Plasma Suit)",
-      "status": "active"
-    },
-    {
-      "code": "SKSW1",
-      "reward": "Sky Blue Sword",
-      "status": "active"
-    },
-    {
-      "code": "GoldModern",
-      "reward": "Gold Crown (needs game pass and must join Modern UGC group)",
-      "status": "active"
-    },
-    {
-      "code": "Spades",
-      "reward": "Top Hat of Spades (needs game pass)",
-      "status": "active"
-    },
-    {
-      "code": "BILLCIPHER",
-      "reward": "Demon Circle Pal (needs Demon Circle Pal purchase)",
-      "status": "active"
-    },
-    {
-      "code": "Sofa0",
-      "reward": "Access Sofa (Need to follow the User ID: 418695438)",
-      "status": "active"
-    },
-    {
-      "code": "RuneScythe08",
-      "reward": "Blue Rune Scythe (Needs Black Rune Scythe)",
-      "status": "active"
-    },
-    {
-      "code": "DogeHammer1",
-      "reward": "Doge Hammer (Needs DogeHammer1)",
-      "status": "active"
-    },
-    {
-      "code": "REDPERI",
-      "reward": "Red Overseer Periastron (Needs Red Overseer Code)",
-      "status": "active"
-    },
-    {
-      "code": "TGB45",
-      "reward": "Silver Robux Dominus Hood with Antlers (Need to follow Group ID:34993751)",
-      "status": "active"
-    },
-    {
-      "code": "SkullGold222",
-      "reward": "Golden Skull (Needs Golden Skull code)",
-      "status": "active"
-    },
-    {
-      "code": "Mortality20",
-      "reward": "Mortality Hockey Mask (Needs Hockey Mask)",
-      "status": "active"
-    },
-    {
-      "code": "MeltSquid322",
-      "reward": "Melted Squid (Needs Melted Squid code)",
-      "status": "active"
-    },
-    {
-      "code": "Pirate999",
-      "reward": "Pirate Skull (Needs Pirate Skull code)",
-      "status": "active"
-    },
-    {
-      "code": "SKS78",
-      "reward": "Horns of Destiny (Needs Purchase Prompt)",
-      "status": "active"
-    },
-    {
-      "code": "PVG6",
-      "reward": "Purple Storm Dominus Hood with Antlers (Need to follow Group ID:34993751)",
-      "status": "active"
-    },
-    {
-      "code": "nightfall",
-      "reward": "Nightfall Blade (Needs the black n&#8217; white sword purchase.png)",
-      "status": "active"
-    },
-    {
-      "code": "BlackMarbleSword",
-      "reward": "Sigma Sword (Needs the Sigma Sword t-shirt)",
-      "status": "active"
-    },
-    {
-      "code": "HammersofGlory",
-      "reward": "Hammers of Glory (Needs the HammerofGlory Buying)",
-      "status": "active"
-    },
-    {
-      "code": "Makima123",
-      "reward": "Wear Makima Pillow (Needs the cool Makika)",
-      "status": "active"
-    },
-    {
-      "code": "CosmicHood",
-      "reward": "Galaxy Cosmic Hood (Needs the CosmicHood code item)",
-      "status": "active"
-    },
-    {
-      "code": "Moaibar",
-      "reward": "Moai 8-bit health bar (Needs the Moaibar item)",
-      "status": "active"
-    },
-    {
-      "code": "BOM",
-      "reward": "Dark Bombastic Wings (Needs Bombastic Wings purchase)",
-      "status": "active"
-    },
-    {
-      "code": "sigma123",
-      "reward": "Clockwork Shades (Needs Sigma code)",
-      "status": "active"
-    },
-    {
-      "code": "machine1",
-      "reward": "Machine-use code (Needs sigma pass for machine)",
-      "status": "active"
-    },
-    {
-      "code": "DEDPOOL1",
-      "reward": "Access DedPool (Need to follow User:705880873)",
-      "status": "active"
-    },
-    {
-      "code": "Mayo100",
-      "reward": "Valk of mustard code (Need Mayo Buy)",
-      "status": "active"
-    },
-    {
-      "code": "Relish100",
-      "reward": "Valk of Relish code (Need Relish Buy)",
-      "status": "active"
-    },
-    {
-      "code": "FruitDom",
-      "reward": "Apple Dominus (Need Apple Dominus buy)",
-      "status": "active"
-    },
-    {
-      "code": "BSC4",
-      "reward": "Bluesteel Starcrown (Needs Bluesteel Starcrown code)",
-      "status": "active"
-    },
-    {
-      "code": "Hoshi2",
-      "reward": "AI Hoshino Anime Pillow (AI Hoshini pillow code)",
-      "status": "active"
-    },
-    {
-      "code": "Squash",
-      "reward": "Squash code (Needs Holdable Blue Pumpkin Basket)",
-      "status": "active"
-    },
-    {
-      "code": "PUMPSLUSH",
-      "reward": "Pumpkin Slushy (Needs Pumpkin Slushy purchase)",
-      "status": "active"
-    },
-    {
-      "code": "sy1th",
-      "reward": "Scythe Test exclusive (Needs Paid Scythe Test code)",
-      "status": "active"
-    },
-    {
-      "code": "Flex",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UGC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "cheaperyey",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "cheap!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NOOBWINGS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ketchup100",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "EpecPanPaidCode",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "darkrv1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "GoldenEye",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NOIR2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whiteflash1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BanditSkull",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "brainrotting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ValentinesSword",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "EpicBlueEye",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "101A",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "EXC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SWAT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "GIRL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SantaBeast",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gold99",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "AOY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "IS_FREE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HORNSPAIDCODE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ClassicVamp",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RRH1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Crumbs",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "KBH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BBH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HESW",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FBF",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "LEGG",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NCV7",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ZAD399",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "GRRH1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BEMOTN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lim5",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -849,12 +669,192 @@
       "status": "expired"
     },
     {
+      "code": "771",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "AOY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BanditSkull",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BBH",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BEMOTN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "brainrotting",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "cheap!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "cheaperyey",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ClassicVamp",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Crumbs",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "darkrv1",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "EpecPanPaidCode",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "EpicBlueEye",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "EXC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FBF",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Flex",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GIRL",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Gold99",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GoldenEye",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GRRH1",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HESW",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HORNSPAIDCODE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "IS_FREE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "KBH",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Ketchup100",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LEGG",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Lim5",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NCV7",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NOIR2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NOOBWINGS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RRH1",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SantaBeast",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "SilverSquid",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "771",
+      "code": "SWAT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UGC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ValentinesSword",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "whiteflash1",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ZAD399",
       "reward": "Expired reward",
       "status": "expired"
     }

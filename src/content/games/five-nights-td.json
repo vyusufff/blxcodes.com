@@ -34,13 +34,13 @@
       "status": "active"
     },
     {
-      "code": "UPDATE40",
-      "reward": "100 souls, 50 endo chips, 50 soldering irons and 5 season presents ( )",
+      "code": "ARRRRR",
+      "reward": "10k tokens, 250 souls and 25 season presents ( )",
       "status": "active"
     },
     {
-      "code": "ARRRRR",
-      "reward": "10k tokens, 250 souls and 25 season presents ( )",
+      "code": "UPDATE40",
+      "reward": "100 souls, 50 endo chips, 50 soldering irons and 5 season presents ( )",
       "status": "active"
     },
     {
@@ -49,17 +49,17 @@
       "status": "active"
     },
     {
-      "code": "FNTD",
+      "code": "ANIMDUDE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "SPAINWC2026",
+      "code": "CHIPS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "UPDATE39",
+      "code": "CHIPSNOFISH",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -74,132 +74,17 @@
       "status": "expired"
     },
     {
-      "code": "SORRY4DELAY3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UPDATE38",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "CHIPS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HIJACKED",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRY4DELAY2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UPDATE37",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "THETOWER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "LOREKEEPER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UPDATE35",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "QUESTSHOP",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ELCHIP",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "CHIPSNOFISH",
+      "code": "FAZRATINGPRESTIGE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "UPDATE34",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SEASON5",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "LEFTY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UPDATE33",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SANDBOX",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "PURIFIER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UPDATE32",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "PVP",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ANIMDUDE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "PRIDEMONTH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UPDATE31",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NEWBYTE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RIDINGINSTYLE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "PASSINGOFTIME",
+      "code": "FNTD",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,7 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "UPDATE30",
+      "code": "HEROESANDVILLAINS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HIJACKED",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -219,12 +109,77 @@
       "status": "expired"
     },
     {
+      "code": "LEFTY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LOREKEEPER",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "MINIGAMES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "UPDATE29",
+      "code": "NEWBYTE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PASSINGOFTIME",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PRIDEMONTH",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PURIFIER",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PVP",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "QUESTSHOP",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RIDINGINSTYLE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SANDBOX",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SEASON5",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY4DELAY2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY4DELAY3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SPAINWC2026",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,7 +189,7 @@
       "status": "expired"
     },
     {
-      "code": "HEROESANDVILLAINS",
+      "code": "THETOWER",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -244,7 +199,52 @@
       "status": "expired"
     },
     {
-      "code": "FAZRATINGPRESTIGE",
+      "code": "UPDATE29",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE30",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE31",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE32",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE33",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE34",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE35",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE37",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE38",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE39",
       "reward": "Expired reward",
       "status": "expired"
     }

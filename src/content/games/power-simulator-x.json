@@ -29,27 +29,17 @@
   ],
   "codes": [
     {
-      "code": "GUILD",
-      "reward": "500 Coins ( )",
-      "status": "active"
-    },
-    {
       "code": "60KLIKES",
       "reward": "450 Coins ( )",
       "status": "active"
     },
     {
-      "code": "Power",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "GUILD",
+      "reward": "500 Coins ( )",
+      "status": "active"
     },
     {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "LAUNCHDAY",
+      "code": "10KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -64,7 +54,7 @@
       "status": "expired"
     },
     {
-      "code": "50KLIKES",
+      "code": "30KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -74,27 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "DARKSURGE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "30KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UPDATEDAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "THANKYOU",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "10KLIKES",
+      "code": "50KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -104,82 +74,7 @@
       "status": "expired"
     },
     {
-      "code": "Enjoy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "training",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Staff",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Training",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Spear",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sisyphus",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "complete",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,12 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "currently",
+      "code": "Are",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,27 +94,37 @@
       "status": "expired"
     },
     {
-      "code": "released",
+      "code": "complete",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Are",
+      "code": "currently",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Not",
+      "code": "DARKSURGE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "One",
+      "code": "Enjoy",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "possible",
+      "code": "Enter",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Get",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "incorrectly",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,7 +134,107 @@
       "status": "expired"
     },
     {
-      "code": "incorrectly",
+      "code": "Launch",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LAUNCHDAY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Not",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Once",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "One",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Other",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "possible",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Power",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "released",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "simulator",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Simulator",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Sisyphus",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Spear",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Staff",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THANKYOU",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "training",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Training",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "tutorial",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Type",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATEDAY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

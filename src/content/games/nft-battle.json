@@ -34,6 +34,11 @@
       "status": "active"
     },
     {
+      "code": "CHAMPIONS2026",
+      "reward": "200,000 Stars",
+      "status": "active"
+    },
+    {
       "code": "END",
       "reward": "350,000 Stars ( )",
       "status": "active"
@@ -44,37 +49,17 @@
       "status": "active"
     },
     {
-      "code": "TSUM",
-      "reward": "400,000 Stars",
-      "status": "active"
-    },
-    {
-      "code": "CHAMPIONS2026",
-      "reward": "200,000 Stars",
-      "status": "active"
-    },
-    {
       "code": "SUMMER2026",
       "reward": "200000 Stars",
       "status": "active"
     },
     {
-      "code": "NFT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Battle",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "TSUM",
+      "reward": "400,000 Stars",
+      "status": "active"
     },
     {
       "code": "10MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HALLOWEEN",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -84,122 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "7KACTIVE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "2KACTIVE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UPD2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "CHARTS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "TOTHEMOON",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "1stUPD",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "GRANDSLAM",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "45MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "40MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "35MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "30MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "TON",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "20MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "15MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "REAPER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRYFORDELAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "VALENTINE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NINJA",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "4MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NEWYEAR",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BATTLEPASS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "2MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "CHRISTMAS",
+      "code": "12MVISITS",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,22 +79,57 @@
       "status": "expired"
     },
     {
-      "code": "UPDATE1",
+      "code": "15MVISITS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "DICE",
+      "code": "1stUPD",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "RETURN",
+      "code": "20MVISITS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "12MVISITS",
+      "code": "2KACTIVE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "30MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "35MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "40MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "45MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "4MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "7KACTIVE",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,12 +139,37 @@
       "status": "expired"
     },
     {
-      "code": "Last",
+      "code": "Battle",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Stand",
+      "code": "BATTLEPASS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CHARTS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CHRISTMAS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DICE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GRANDSLAM",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HALLOWEEN",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -249,12 +179,82 @@
       "status": "expired"
     },
     {
-      "code": "Zombies",
+      "code": "Last",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NEWYEAR",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NFT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NINJA",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Plants",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "REAPER",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RETURN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFORDELAY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Stand",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TON",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TOTHEMOON",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPD2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE1",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "VALENTINE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Zombies",
       "reward": "Expired reward",
       "status": "expired"
     }

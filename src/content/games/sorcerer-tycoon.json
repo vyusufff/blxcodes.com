@@ -29,73 +29,8 @@
   ],
   "codes": [
     {
-      "code": "SMALLFIXES",
-      "reward": "Free Rewards ( )",
-      "status": "active"
-    },
-    {
-      "code": "FREECURSEDFINGERS",
-      "reward": "Free Rewards ( )",
-      "status": "active"
-    },
-    {
-      "code": "SORRYFORROLLBACK",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "MAHITO",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "UPDATE11",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "TRUELOVE",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "RIKA",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "SORRYFORBUG",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "SUKUNAQUESTFIX",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "UPDATE10",
-      "reward": "3 Cursed Finger, 500 Cursed Energy, and 5000 Yen",
-      "status": "active"
-    },
-    {
-      "code": "SORRYFORDELAY3",
-      "reward": "1 Cursed Finger, 1000 Cursed Energy, and 1000 Yen",
-      "status": "active"
-    },
-    {
-      "code": "MAHORAGA",
-      "reward": "2 Cursed Finger, 500 Cursed Energy, and 2000 Yen",
-      "status": "active"
-    },
-    {
-      "code": "SUKUNAAWAKEN",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "UPDATE9",
-      "reward": "3 Cursed Finger, 3000 Cursed Energy, and 4000 Yen",
+      "code": "BONUSCODE10K",
+      "reward": "5000 Yen, 3500 Cursed Energy, and 3 Cursed Fingers",
       "status": "active"
     },
     {
@@ -104,12 +39,37 @@
       "status": "active"
     },
     {
-      "code": "SUKUNA",
-      "reward": "1 Cursed Finger, 400 Cursed Energy, and 2000 Yen",
+      "code": "FREECURSEDFINGERS",
+      "reward": "Free Rewards ( )",
       "status": "active"
     },
     {
-      "code": "SORRYFORDELAY2",
+      "code": "JACKPOT",
+      "reward": "1 Cursed Finger, 400 Cursed Energy, and 15000 Yen",
+      "status": "active"
+    },
+    {
+      "code": "LIMITSWORD",
+      "reward": "1 Cursed Finger, 400 Cursed Energy, and 5000 Yen",
+      "status": "active"
+    },
+    {
+      "code": "MAHITO",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "MAHORAGA",
+      "reward": "2 Cursed Finger, 500 Cursed Energy, and 2000 Yen",
+      "status": "active"
+    },
+    {
+      "code": "MRHAKARI",
+      "reward": "1 Cursed Finger, 1500 Cursed Energy, and 15000 Yen",
+      "status": "active"
+    },
+    {
+      "code": "QOLMINI",
       "reward": "1 Cursed Finger, 1000 Cursed Energy, and 1000 Yen",
       "status": "active"
     },
@@ -119,38 +79,18 @@
       "status": "active"
     },
     {
+      "code": "RIKA",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "SHIKIGAMI",
       "reward": "1 Cursed Finger, 400 Cursed Energy, and 5000 Yen",
       "status": "active"
     },
     {
-      "code": "LIMITSWORD",
-      "reward": "1 Cursed Finger, 400 Cursed Energy, and 5000 Yen",
-      "status": "active"
-    },
-    {
-      "code": "TENGEN",
-      "reward": "1 Cursed Finger, 1000 Cursed Energy, and 1000 Yen",
-      "status": "active"
-    },
-    {
-      "code": "QOLMINI",
-      "reward": "1 Cursed Finger, 1000 Cursed Energy, and 1000 Yen",
-      "status": "active"
-    },
-    {
-      "code": "MRHAKARI",
-      "reward": "1 Cursed Finger, 1500 Cursed Energy, and 15000 Yen",
-      "status": "active"
-    },
-    {
-      "code": "JACKPOT",
-      "reward": "1 Cursed Finger, 400 Cursed Energy, and 15000 Yen",
-      "status": "active"
-    },
-    {
-      "code": "UPDATE5",
-      "reward": "7 Cursed Finger, 3500 Cursed Energy, and 25000 Yen",
+      "code": "SMALLFIXES",
+      "reward": "Free Rewards ( )",
       "status": "active"
     },
     {
@@ -159,13 +99,43 @@
       "status": "active"
     },
     {
-      "code": "ZENONRAID",
-      "reward": "5000 Yen, 2000 Cursed Energy, and 1 Cursed Finger",
+      "code": "SORRYFORBUG",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
-      "code": "UPDATE3",
-      "reward": "5000 Yen, 2000 Cursed Energy, and 1 Cursed Finger",
+      "code": "SORRYFORDELAY2",
+      "reward": "1 Cursed Finger, 1000 Cursed Energy, and 1000 Yen",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORDELAY3",
+      "reward": "1 Cursed Finger, 1000 Cursed Energy, and 1000 Yen",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORROLLBACK",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SUKUNA",
+      "reward": "1 Cursed Finger, 400 Cursed Energy, and 2000 Yen",
+      "status": "active"
+    },
+    {
+      "code": "SUKUNAAWAKEN",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SUKUNAQUESTFIX",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "TENGEN",
+      "reward": "1 Cursed Finger, 1000 Cursed Energy, and 1000 Yen",
       "status": "active"
     },
     {
@@ -174,62 +144,47 @@
       "status": "active"
     },
     {
+      "code": "TRUELOVE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE10",
+      "reward": "3 Cursed Finger, 500 Cursed Energy, and 5000 Yen",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE11",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "UPDATE2",
       "reward": "2000 Yen, 500 Cursed Energy, and 1 Cursed Finger",
       "status": "active"
     },
     {
-      "code": "BONUSCODE10K",
-      "reward": "5000 Yen, 3500 Cursed Energy, and 3 Cursed Fingers",
+      "code": "UPDATE3",
+      "reward": "5000 Yen, 2000 Cursed Energy, and 1 Cursed Finger",
       "status": "active"
     },
     {
-      "code": "Sorcerer",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "UPDATE5",
+      "reward": "7 Cursed Finger, 3500 Cursed Energy, and 25000 Yen",
+      "status": "active"
     },
     {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "UPDATE9",
+      "reward": "3 Cursed Finger, 3000 Cursed Energy, and 4000 Yen",
+      "status": "active"
     },
     {
-      "code": "BONUSCODE1",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "ZENONRAID",
+      "reward": "5000 Yen, 2000 Cursed Energy, and 1 Cursed Finger",
+      "status": "active"
     },
     {
-      "code": "UPDATE1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "WORLDBOSS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "LIGHTNINGHIM",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SUPERSFINGER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "GRINDTIME",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enjoying",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "destroying",
+      "code": "8217",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -239,32 +194,67 @@
       "status": "expired"
     },
     {
-      "code": "Then",
+      "code": "Are",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Jujutsu",
+      "code": "BONUSCODE1",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Infinite",
+      "code": "bookmark",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Zero",
+      "code": "correctly",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Shenanigans",
+      "code": "definitely",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Tired",
+      "code": "destroying",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "different",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "directly",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Enjoying",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "First",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Get",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GRINDTIME",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "guaranteed",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -279,7 +269,22 @@
       "status": "expired"
     },
     {
-      "code": "different",
+      "code": "Infinite",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "internet",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "invested",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Jujutsu",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -289,17 +294,27 @@
       "status": "expired"
     },
     {
-      "code": "Scroll",
+      "code": "LIGHTNINGHIM",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Get",
+      "code": "mistakes",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "bookmark",
+      "code": "Not",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "notifications",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Other",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -314,32 +329,42 @@
       "status": "expired"
     },
     {
-      "code": "internet",
+      "code": "Scroll",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "guaranteed",
+      "code": "Shenanigans",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Other",
+      "code": "Sorcerer",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "notifications",
+      "code": "SUPERSFINGER",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "invested",
+      "code": "Then",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "definitely",
+      "code": "Tired",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Tycoon",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE1",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -349,37 +374,12 @@
       "status": "expired"
     },
     {
-      "code": "Are",
+      "code": "WORLDBOSS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "First",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "correctly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "mistakes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "directly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
+      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

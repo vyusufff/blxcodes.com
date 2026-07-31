@@ -39,22 +39,12 @@
       "status": "active"
     },
     {
-      "code": "Saber",
+      "code": "3MLETSGO",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Unbound",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "9MILLETSGO",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8MILLETSGO",
+      "code": "4MLETSGO",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -69,12 +59,32 @@
       "status": "expired"
     },
     {
+      "code": "8217",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "8MILLETSGO",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "9MILLETSGO",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Arena",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "BACTATANK",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "4MLETSGO",
+      "code": "Battle",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -84,7 +94,22 @@
       "status": "expired"
     },
     {
-      "code": "3MLETSGO",
+      "code": "creditsforthefun",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DOGFIGHT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Factions",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Fighting",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -99,37 +124,12 @@
       "status": "expired"
     },
     {
-      "code": "DOGFIGHT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "STARFIGHTER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "uiupdate",
+      "code": "Group",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "GUNGANS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "creditsforthefun",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Factions",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -144,82 +144,7 @@
       "status": "expired"
     },
     {
-      "code": "SABERUNBOUND",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SPACEWAR",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "STARFIGHTERS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "WHENUPDATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeemed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "searching",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Arena",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Battle",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sword",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "League",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Weapon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fighting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RNG",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "straightforward",
+      "code": "Join",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -229,12 +154,87 @@
       "status": "expired"
     },
     {
-      "code": "Join",
+      "code": "League",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Group",
+      "code": "redeemed",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RNG",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Saber",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SABERUNBOUND",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "searching",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Simulator",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SPACEWAR",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "STARFIGHTER",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "STARFIGHTERS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "straightforward",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Sword",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "uiupdate",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Unbound",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Weapon",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WHENUPDATE",
       "reward": "Expired reward",
       "status": "expired"
     }

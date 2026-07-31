@@ -29,8 +29,43 @@
   ],
   "codes": [
     {
-      "code": "update28",
-      "reward": "1x Large Power Potion and 1x Universal Key ( )",
+      "code": "47mvisits",
+      "reward": "1x Drops Juice",
+      "status": "active"
+    },
+    {
+      "code": "50mvisits",
+      "reward": "2x Drops Juice",
+      "status": "active"
+    },
+    {
+      "code": "55mvisits",
+      "reward": "2x Large Power Potion",
+      "status": "active"
+    },
+    {
+      "code": "60mvisits",
+      "reward": "1x Large Damage Potion",
+      "status": "active"
+    },
+    {
+      "code": "65mvisits",
+      "reward": "2x Drops and 1x Large Damage Potion",
+      "status": "active"
+    },
+    {
+      "code": "6monthsbirthday",
+      "reward": "1x Large Power Potion and 1x Universal Key",
+      "status": "active"
+    },
+    {
+      "code": "70mvisits",
+      "reward": "1x Large Power Potion",
+      "status": "active"
+    },
+    {
+      "code": "75mvisits",
+      "reward": "1x Large Power Potion and 1x Universal Key",
       "status": "active"
     },
     {
@@ -39,18 +74,13 @@
       "status": "active"
     },
     {
-      "code": "shutdown",
-      "reward": "1x Large Power Potion",
+      "code": "barrierfixed",
+      "reward": "1x Large Power Potion and 1x Universal Key",
       "status": "active"
     },
     {
-      "code": "MINIUPDATE",
-      "reward": "1x Large Power Potion and 1x Universal Key ( )",
-      "status": "active"
-    },
-    {
-      "code": "SHUTDOWN",
-      "reward": "1x Large Power Potion and 1x Universal Key ( )",
+      "code": "BUGSFIXED",
+      "reward": "1x Luck Potion",
       "status": "active"
     },
     {
@@ -59,7 +89,17 @@
       "status": "active"
     },
     {
-      "code": "UPDATE27",
+      "code": "CLONES",
+      "reward": "Free update and Stabilizers",
+      "status": "active"
+    },
+    {
+      "code": "DEFENSEFIXED",
+      "reward": "Free Keys",
+      "status": "active"
+    },
+    {
+      "code": "delayedupdate",
       "reward": "1x Large Power Potion and 1x Universal Key",
       "status": "active"
     },
@@ -69,47 +109,12 @@
       "status": "active"
     },
     {
-      "code": "update26pt2",
-      "reward": "1x Large Power Potion and 1x Universal Key",
+      "code": "MINIUPDATE",
+      "reward": "1x Large Power Potion and 1x Universal Key ( )",
       "status": "active"
     },
     {
-      "code": "UPDATE26",
-      "reward": "1x Large Power Potion and 1x Universal Key",
-      "status": "active"
-    },
-    {
-      "code": "6monthsbirthday",
-      "reward": "1x Large Power Potion and 1x Universal Key",
-      "status": "active"
-    },
-    {
-      "code": "update25part2",
-      "reward": "1x Large Power Potion and 1x Universal Key",
-      "status": "active"
-    },
-    {
-      "code": "barrierfixed",
-      "reward": "1x Large Power Potion and 1x Universal Key",
-      "status": "active"
-    },
-    {
-      "code": "update25",
-      "reward": "1x Large Power Potion and 1x Universal Key",
-      "status": "active"
-    },
-    {
-      "code": "delayedupdate",
-      "reward": "1x Large Power Potion and 1x Universal Key",
-      "status": "active"
-    },
-    {
-      "code": "update24",
-      "reward": "1x Large Power Potion and 1x Universal Key",
-      "status": "active"
-    },
-    {
-      "code": "75mvisits",
+      "code": "patchfix",
       "reward": "1x Large Power Potion and 1x Universal Key",
       "status": "active"
     },
@@ -119,83 +124,13 @@
       "status": "active"
     },
     {
-      "code": "patchfix",
-      "reward": "1x Large Power Potion and 1x Universal Key",
-      "status": "active"
-    },
-    {
-      "code": "update23",
+      "code": "shutdown",
       "reward": "1x Large Power Potion",
       "status": "active"
     },
     {
-      "code": "sorryfordelay",
-      "reward": "2x Large Power Potion",
-      "status": "active"
-    },
-    {
-      "code": "UPDATE22",
-      "reward": "1x Large Power Potion",
-      "status": "active"
-    },
-    {
-      "code": "update21",
-      "reward": "1x Large Power Potion",
-      "status": "active"
-    },
-    {
-      "code": "70mvisits",
-      "reward": "1x Large Power Potion",
-      "status": "active"
-    },
-    {
-      "code": "update20",
-      "reward": "1x Large Power Potion",
-      "status": "active"
-    },
-    {
-      "code": "update19",
-      "reward": "1x Large Power Potion",
-      "status": "active"
-    },
-    {
-      "code": "65mvisits",
-      "reward": "2x Drops and 1x Large Damage Potion",
-      "status": "active"
-    },
-    {
-      "code": "update18",
-      "reward": "1x Large Power Potion",
-      "status": "active"
-    },
-    {
-      "code": "update17",
-      "reward": "1x Large Power Potion",
-      "status": "active"
-    },
-    {
-      "code": "60mvisits",
-      "reward": "1x Large Damage Potion",
-      "status": "active"
-    },
-    {
-      "code": "DEFENSEFIXED",
-      "reward": "Free Keys",
-      "status": "active"
-    },
-    {
-      "code": "CLONES",
-      "reward": "Free update and Stabilizers",
-      "status": "active"
-    },
-    {
-      "code": "update16",
-      "reward": "2x Large Power Potion",
-      "status": "active"
-    },
-    {
-      "code": "55mvisits",
-      "reward": "2x Large Power Potion",
+      "code": "SHUTDOWN",
+      "reward": "1x Large Power Potion and 1x Universal Key ( )",
       "status": "active"
     },
     {
@@ -204,7 +139,7 @@
       "status": "active"
     },
     {
-      "code": "update15",
+      "code": "sorryfordelay",
       "reward": "2x Large Power Potion",
       "status": "active"
     },
@@ -214,28 +149,8 @@
       "status": "active"
     },
     {
-      "code": "update14",
-      "reward": "1x Large Power Potion",
-      "status": "active"
-    },
-    {
-      "code": "50mvisits",
-      "reward": "2x Drops Juice",
-      "status": "active"
-    },
-    {
-      "code": "update13",
-      "reward": "2x Power Juice",
-      "status": "active"
-    },
-    {
-      "code": "47mvisits",
-      "reward": "1x Drops Juice",
-      "status": "active"
-    },
-    {
-      "code": "BUGSFIXED",
-      "reward": "1x Luck Potion",
+      "code": "SUMMER",
+      "reward": "5 Summer Spins",
       "status": "active"
     },
     {
@@ -244,132 +159,97 @@
       "status": "active"
     },
     {
-      "code": "SUMMER",
-      "reward": "5 Summer Spins",
+      "code": "update13",
+      "reward": "2x Power Juice",
       "status": "active"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "update14",
+      "reward": "1x Large Power Potion",
+      "status": "active"
     },
     {
-      "code": "Power",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "update15",
+      "reward": "2x Large Power Potion",
+      "status": "active"
     },
     {
-      "code": "dontaskforcode",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "update16",
+      "reward": "2x Large Power Potion",
+      "status": "active"
     },
     {
-      "code": "sorry4bugs",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "update17",
+      "reward": "1x Large Power Potion",
+      "status": "active"
     },
     {
-      "code": "update11",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "update18",
+      "reward": "1x Large Power Potion",
+      "status": "active"
     },
     {
-      "code": "130klikes",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "update19",
+      "reward": "1x Large Power Potion",
+      "status": "active"
     },
     {
-      "code": "sorry4shutdown",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "update20",
+      "reward": "1x Large Power Potion",
+      "status": "active"
     },
     {
-      "code": "30mvisits",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "update21",
+      "reward": "1x Large Power Potion",
+      "status": "active"
     },
     {
-      "code": "update10",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "UPDATE22",
+      "reward": "1x Large Power Potion",
+      "status": "active"
     },
     {
-      "code": "update9",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "update23",
+      "reward": "1x Large Power Potion",
+      "status": "active"
     },
     {
-      "code": "update8",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "update24",
+      "reward": "1x Large Power Potion and 1x Universal Key",
+      "status": "active"
+    },
+    {
+      "code": "update25",
+      "reward": "1x Large Power Potion and 1x Universal Key",
+      "status": "active"
+    },
+    {
+      "code": "update25part2",
+      "reward": "1x Large Power Potion and 1x Universal Key",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE26",
+      "reward": "1x Large Power Potion and 1x Universal Key",
+      "status": "active"
+    },
+    {
+      "code": "update26pt2",
+      "reward": "1x Large Power Potion and 1x Universal Key",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE27",
+      "reward": "1x Large Power Potion and 1x Universal Key",
+      "status": "active"
+    },
+    {
+      "code": "update28",
+      "reward": "1x Large Power Potion and 1x Universal Key ( )",
+      "status": "active"
     },
     {
       "code": "100klikes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "update7",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "90klikes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "update6",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "update5",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "20mvisits",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "15mvisits",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "happyeaster2025",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "sorryforthebugs",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "morebugsfixed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bugsfixed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "sorry4delay",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "update4",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "70klikes",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -379,52 +259,12 @@
       "status": "expired"
     },
     {
-      "code": "9mvisits",
+      "code": "130klikes",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "update3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "weareback",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "60klikes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "update2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "45klikes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "30klikes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "3mvisits",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "shadowupgrades",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "20klikes",
+      "code": "15mvisits",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -434,7 +274,32 @@
       "status": "expired"
     },
     {
-      "code": "update1",
+      "code": "20klikes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "20mvisits",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "30klikes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "30mvisits",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "3mvisits",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "45klikes",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -444,7 +309,142 @@
       "status": "expired"
     },
     {
+      "code": "60klikes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "70klikes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "90klikes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "9mvisits",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Anime",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "bugsfixed",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "dontaskforcode",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "happyeaster2025",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "morebugsfixed",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "NOEXPLOITERS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Power",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "shadowupgrades",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "sorry4bugs",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "sorry4delay",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "sorry4shutdown",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "sorryforthebugs",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "update1",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "update10",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "update11",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "update2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "update3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "update4",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "update5",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "update6",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "update7",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "update8",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "update9",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "weareback",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -29,53 +29,8 @@
   ],
   "codes": [
     {
-      "code": "SEASON1",
-      "reward": "5x Stand Arrow, 20x Saint Corpse Part and 20x Mythical Giftbox",
-      "status": "active"
-    },
-    {
-      "code": "GANGWAR",
-      "reward": "10x Stand Arrow, 25x Saint Corpse Part and 25x Mythical Giftbox",
-      "status": "active"
-    },
-    {
-      "code": "DELAYS",
-      "reward": "5000 XP, 5000 Yen, and 25x Stand Arrow",
-      "status": "active"
-    },
-    {
-      "code": "SKILLTREES",
-      "reward": "50x Stand Arrow, 50x Rokaka and 50x Saint Corpse Part",
-      "status": "active"
-    },
-    {
-      "code": "DELAYED",
-      "reward": "1x Stand Arrow, 5000x XP, 5000x Yen, 5x Mythical Giftbox",
-      "status": "active"
-    },
-    {
-      "code": "GOTTACOLLECTEMALL",
-      "reward": "1x Stand Arrow, 50x Saint Corpse Part and 50x Mythical Giftbox",
-      "status": "active"
-    },
-    {
-      "code": "8KFAVS",
-      "reward": "80x Rokakaka, 80x Stand Arrow, and 80x Mythical Giftbox",
-      "status": "active"
-    },
-    {
-      "code": "EASTER",
-      "reward": "1 Lucky Egg and 1 Lucky Gift box",
-      "status": "active"
-    },
-    {
       "code": "1MVISITS",
       "reward": "111x Rokakaka, 111x Stand Arrow, and 111x Saint Corpse Part, 111x Mythical Giftbox",
-      "status": "active"
-    },
-    {
-      "code": "APRILFOOLS",
-      "reward": "99x Steel Pipe and 5x Mythical Giftbox",
       "status": "active"
     },
     {
@@ -84,13 +39,58 @@
       "status": "active"
     },
     {
-      "code": "JOJOLIONPART2",
-      "reward": "15x Rokakaka, 1x Stand Arrow, and 1x Saint Corpse Part, and 1x Mythical Giftbox",
+      "code": "8KFAVS",
+      "reward": "80x Rokakaka, 80x Stand Arrow, and 80x Mythical Giftbox",
+      "status": "active"
+    },
+    {
+      "code": "APRILFOOLS",
+      "reward": "99x Steel Pipe and 5x Mythical Giftbox",
       "status": "active"
     },
     {
       "code": "BIZARRE",
       "reward": "2500 XP, 1000 Yen, and 1x Stand Arrow",
+      "status": "active"
+    },
+    {
+      "code": "DELAYED",
+      "reward": "1x Stand Arrow, 5000x XP, 5000x Yen, 5x Mythical Giftbox",
+      "status": "active"
+    },
+    {
+      "code": "DELAYS",
+      "reward": "5000 XP, 5000 Yen, and 25x Stand Arrow",
+      "status": "active"
+    },
+    {
+      "code": "EASTER",
+      "reward": "1 Lucky Egg and 1 Lucky Gift box",
+      "status": "active"
+    },
+    {
+      "code": "GANGWAR",
+      "reward": "10x Stand Arrow, 25x Saint Corpse Part and 25x Mythical Giftbox",
+      "status": "active"
+    },
+    {
+      "code": "GOTTACOLLECTEMALL",
+      "reward": "1x Stand Arrow, 50x Saint Corpse Part and 50x Mythical Giftbox",
+      "status": "active"
+    },
+    {
+      "code": "JOJOLIONPART2",
+      "reward": "15x Rokakaka, 1x Stand Arrow, and 1x Saint Corpse Part, and 1x Mythical Giftbox",
+      "status": "active"
+    },
+    {
+      "code": "SEASON1",
+      "reward": "5x Stand Arrow, 20x Saint Corpse Part and 20x Mythical Giftbox",
+      "status": "active"
+    },
+    {
+      "code": "SKILLTREES",
+      "reward": "50x Stand Arrow, 50x Rokaka and 50x Saint Corpse Part",
       "status": "active"
     }
   ]

@@ -29,78 +29,8 @@
   ],
   "codes": [
     {
-      "code": "ITSRAINNINGTACOS",
-      "reward": "Free Potions ( )",
-      "status": "active"
-    },
-    {
-      "code": "SPAIN",
-      "reward": "Free Potions ( )",
-      "status": "active"
-    },
-    {
-      "code": "SEASONXXVI",
-      "reward": "Free Potions ( )",
-      "status": "active"
-    },
-    {
-      "code": "WORLDCUP",
-      "reward": "Free Potions ( )",
-      "status": "active"
-    },
-    {
-      "code": "BRAZILWINSTODAY",
-      "reward": "Free Potions ( )",
-      "status": "active"
-    },
-    {
-      "code": "SHUTDOWN",
-      "reward": "Free Potions ( )",
-      "status": "active"
-    },
-    {
-      "code": "INFINITEPROMO",
-      "reward": "Free Potions",
-      "status": "active"
-    },
-    {
-      "code": "PIETY",
-      "reward": "Free Potions",
-      "status": "active"
-    },
-    {
-      "code": "HEREWEGOAGAIN",
-      "reward": "Free Potions",
-      "status": "active"
-    },
-    {
-      "code": "SEASONXXV",
-      "reward": "Free Potions",
-      "status": "active"
-    },
-    {
-      "code": "PULLTHECAT!",
-      "reward": "Free Potions",
-      "status": "active"
-    },
-    {
-      "code": "FIX_ME",
-      "reward": "Free Potions",
-      "status": "active"
-    },
-    {
-      "code": "THEFIXEMPIRE",
-      "reward": "Free Potions",
-      "status": "active"
-    },
-    {
-      "code": "BLAMEDEV",
-      "reward": "Free Potions",
-      "status": "active"
-    },
-    {
-      "code": "SEASONXXIV",
-      "reward": "Free Potions",
+      "code": "2026",
+      "reward": "5 Ice Strength Potion and 3 EXP Boost",
       "status": "active"
     },
     {
@@ -109,348 +39,8 @@
       "status": "active"
     },
     {
-      "code": "FORGIVEDEVTEAM",
-      "reward": "Free Potions",
-      "status": "active"
-    },
-    {
-      "code": "HOLYFIX",
-      "reward": "Free Potions",
-      "status": "active"
-    },
-    {
-      "code": "FIXTHEBUG",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "SorryGuys",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "CELESTETOWER",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "SEASONXXIII",
-      "reward": "3 Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "LUCKBLOCK",
-      "reward": "3 Mega Potion and 3 Dusk Potion",
-      "status": "active"
-    },
-    {
-      "code": "LOADOUT",
-      "reward": "2 Mega Potion and 2 Dusk Potion",
-      "status": "active"
-    },
-    {
-      "code": "SORRY4SHUTDOWN",
-      "reward": "1 Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "HAPPY7MARCH",
-      "reward": "3 Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "FIXES",
-      "reward": "2 Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "STOREREDO",
-      "reward": "3 Mega Potion and 2 Dusk Potion",
-      "status": "active"
-    },
-    {
-      "code": "SORRYSHUTDOWN",
-      "reward": "5 Mega potion",
-      "status": "active"
-    },
-    {
-      "code": "SEASONXXII",
-      "reward": "3 Mega potion and 5 Dash potion",
-      "status": "active"
-    },
-    {
-      "code": "VALENTINES",
-      "reward": "8 Mega Potions",
-      "status": "active"
-    },
-    {
-      "code": "ENCHANTED",
-      "reward": "30 Dusk Potions and 20 Mega Potions",
-      "status": "active"
-    },
-    {
-      "code": "LUNAR",
-      "reward": "50 Lantern",
-      "status": "active"
-    },
-    {
-      "code": "NEWYEARNEWJOURNEY",
-      "reward": "5 Ice Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "2026",
-      "reward": "5 Ice Strength Potion and 3 EXP Boost",
-      "status": "active"
-    },
-    {
-      "code": "Hotfix",
-      "reward": "10 Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "HAPPYNEWYEAR",
-      "reward": "5 Ice Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "SEASONXX",
-      "reward": "5 Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "Workshop",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "QOL",
-      "reward": "3 Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "SORRYFORBUGS",
-      "reward": "Free Strength",
-      "status": "active"
-    },
-    {
-      "code": "THANKSGIVING",
-      "reward": "Free Strength",
-      "status": "active"
-    },
-    {
-      "code": "DISCOVERYSWORD",
-      "reward": "5 Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "HALLOWEENPARDON",
-      "reward": "10 million Power and 20 Haunted Legendary potions",
-      "status": "active"
-    },
-    {
-      "code": "SEASON19",
-      "reward": "30 Sunnywing Piece",
-      "status": "active"
-    },
-    {
-      "code": "SKULLKING",
-      "reward": "5 Haunted Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "HALLOWEENPARTY",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "HAPPYHALLOWEEN",
-      "reward": "90 Abyss Gloomtail Piece",
-      "status": "active"
-    },
-    {
-      "code": "HALLOWEEN",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "TRICKORTREAT",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "GloryBug",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "Pumpkin",
-      "reward": "1 Happy Pumpkin Pet Piece",
-      "status": "active"
-    },
-    {
-      "code": "FISHINGTIME",
-      "reward": "Free Nautical Coins",
-      "status": "active"
-    },
-    {
-      "code": "FISHING",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "SOULKING",
-      "reward": "1 Cursed Gift",
-      "status": "active"
-    },
-    {
-      "code": "SORRY_BUG",
-      "reward": "1 Cursed Gift",
-      "status": "active"
-    },
-    {
-      "code": "DELAY_A_CODE",
-      "reward": "1 Strength Potion and 3 EXP Server Boost",
-      "status": "active"
-    },
-    {
-      "code": "BADLUCK",
-      "reward": "Free Fortune Tokens",
-      "status": "active"
-    },
-    {
-      "code": "UNDERLIFE",
-      "reward": "5 Fortune Tokens",
-      "status": "active"
-    },
-    {
-      "code": "NIGHTCODE",
-      "reward": "4 Fortune Tokens",
-      "status": "active"
-    },
-    {
-      "code": "FOUNTAINFORTUNE",
-      "reward": "2 Fortune Tokens",
-      "status": "active"
-    },
-    {
-      "code": "MYST",
-      "reward": "10 Credits",
-      "status": "active"
-    },
-    {
-      "code": "SEASON15",
-      "reward": "5 Credits",
-      "status": "active"
-    },
-    {
-      "code": "MATHEUSISGOAT",
-      "reward": "5 Credits and 1 Dusk Potion",
-      "status": "active"
-    },
-    {
-      "code": "CELESTIAL",
-      "reward": "1 Dusk Potion",
-      "status": "active"
-    },
-    {
-      "code": "WEEKPOWER",
-      "reward": "3 Strength Potion, 2 EXP Potion, 1 Dusk Potion",
-      "status": "active"
-    },
-    {
-      "code": "DAILYQUESTS",
-      "reward": "2 Mega Potion, and 2 Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "FIRSTPASLEAGUE",
-      "reward": "1x All Potion",
-      "status": "active"
-    },
-    {
-      "code": "REDLIGHT",
-      "reward": "3 Survival Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "CELESTIALFLIGHT",
-      "reward": "2 Survival Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "MINISWORD",
-      "reward": "2 Survival Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "DelayASquid",
-      "reward": "2 Survival Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "GAMESTARTS",
-      "reward": "1000 Invites",
-      "status": "active"
-    },
-    {
-      "code": "FIRSTROUND",
-      "reward": "2 Mega Potions, and 250 Invites",
-      "status": "active"
-    },
-    {
-      "code": "GROWASWORD",
-      "reward": "3 Strength Potion, and 2 Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "OGSUNMAP",
-      "reward": "1 Rewind Strength Potion and 1 Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "SEASONXIV",
-      "reward": "3 Mega Potions",
-      "status": "active"
-    },
-    {
-      "code": "DELAYASWORD1",
-      "reward": "3 Mega Potions and 3 Strength Potions",
-      "status": "active"
-    },
-    {
-      "code": "SUPERFLUFFY2",
-      "reward": "1 Superfluffy",
-      "status": "active"
-    },
-    {
-      "code": "BESTCODE222",
-      "reward": "3 Rewind Wins Potions, 3 Rewind Strength Potions, and 3 Strength Potions",
-      "status": "active"
-    },
-    {
-      "code": "CRAFTUPD",
-      "reward": "5 Strength Potion, 5 Mega Potion, and 5 Dark Potion",
-      "status": "active"
-    },
-    {
-      "code": "ELITECODE",
-      "reward": "2 Strength Potion, 2 Mega Potion, and 2 Dark Potion",
-      "status": "active"
-    },
-    {
-      "code": "UDINDINDIN",
-      "reward": "3 Mega Potion and 3 Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "SEASONXIII",
-      "reward": "1 Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "HappyBdayTBP",
-      "reward": "1 Mega Potion, 1 Strength Potion, and 1 Dark Strength Potion",
+      "code": "ARISE2",
+      "reward": "1 Mythic Potion, 1 Strength Potion, and 1 Dark Strength Potion",
       "status": "active"
     },
     {
@@ -464,43 +54,13 @@
       "status": "active"
     },
     {
-      "code": "sorrydelayraid",
-      "reward": "1 Mythic Potion, 1 Strength Potion, and 1 Dark Strength Potion",
+      "code": "BADLUCK",
+      "reward": "Free Fortune Tokens",
       "status": "active"
     },
     {
-      "code": "ARISE2",
-      "reward": "1 Mythic Potion, 1 Strength Potion, and 1 Dark Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "TIMERBUG23",
-      "reward": "3x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "SORRYDELAY",
-      "reward": "3x Mega Potion, 3x Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "MASTERCODE",
-      "reward": "3x Mega Potion, 3x Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "REBIRTHFIX",
-      "reward": "3x Mythic Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "LUNACODE33",
-      "reward": "3x Mythic Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "WHEELFIX3",
-      "reward": "3x Mythic Mega Potion",
+      "code": "BESTCODE222",
+      "reward": "3 Rewind Wins Potions, 3 Rewind Strength Potions, and 3 Strength Potions",
       "status": "active"
     },
     {
@@ -509,17 +69,402 @@
       "status": "active"
     },
     {
-      "code": "SORRYPAW",
-      "reward": "3x Mega Potion",
+      "code": "BLAMEDEV",
+      "reward": "Free Potions",
       "status": "active"
     },
     {
-      "code": "PAWSEVENT3",
-      "reward": "1x Elite Strength Potion",
+      "code": "BRAZILWINSTODAY",
+      "reward": "Free Potions ( )",
+      "status": "active"
+    },
+    {
+      "code": "bugfixes2",
+      "reward": "1x Ice Potion",
+      "status": "active"
+    },
+    {
+      "code": "CELESTETOWER",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "CELESTIAL",
+      "reward": "1 Dusk Potion",
+      "status": "active"
+    },
+    {
+      "code": "CELESTIALFLIGHT",
+      "reward": "2 Survival Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "classiccode12",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "CODEFORAGIFT1",
+      "reward": "1 Classic Gift",
+      "status": "active"
+    },
+    {
+      "code": "COUNTOZERO",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "CRAFTUPD",
+      "reward": "5 Strength Potion, 5 Mega Potion, and 5 Dark Potion",
+      "status": "active"
+    },
+    {
+      "code": "CrazyCactus",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "CRAZYSANTA",
+      "reward": "1x Ice Potion",
+      "status": "active"
+    },
+    {
+      "code": "DAILYQUESTS",
+      "reward": "2 Mega Potion, and 2 Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "DELAY_A_CODE",
+      "reward": "1 Strength Potion and 3 EXP Server Boost",
+      "status": "active"
+    },
+    {
+      "code": "DelayASquid",
+      "reward": "2 Survival Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "DELAYASWORD1",
+      "reward": "3 Mega Potions and 3 Strength Potions",
+      "status": "active"
+    },
+    {
+      "code": "DISCOEVENT24",
+      "reward": "1x Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "DISCOVERYSWORD",
+      "reward": "5 Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "ELITECODE",
+      "reward": "2 Strength Potion, 2 Mega Potion, and 2 Dark Potion",
+      "status": "active"
+    },
+    {
+      "code": "ELLIE",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "ENCHANTED",
+      "reward": "30 Dusk Potions and 20 Mega Potions",
+      "status": "active"
+    },
+    {
+      "code": "ENDLESSEVENT",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "EXTRAMEGA89",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "FIRSTPASLEAGUE",
+      "reward": "1x All Potion",
+      "status": "active"
+    },
+    {
+      "code": "FIRSTROUND",
+      "reward": "2 Mega Potions, and 250 Invites",
+      "status": "active"
+    },
+    {
+      "code": "FISHING",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "FISHINGTIME",
+      "reward": "Free Nautical Coins",
+      "status": "active"
+    },
+    {
+      "code": "FIX_ME",
+      "reward": "Free Potions",
+      "status": "active"
+    },
+    {
+      "code": "FIXED1412",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "FIXES",
+      "reward": "2 Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "FIXTHEBUG",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "FORGIVEDEVTEAM",
+      "reward": "Free Potions",
+      "status": "active"
+    },
+    {
+      "code": "FOUNTAINFORTUNE",
+      "reward": "2 Fortune Tokens",
+      "status": "active"
+    },
+    {
+      "code": "GAMESTARTS",
+      "reward": "1000 Invites",
+      "status": "active"
+    },
+    {
+      "code": "GIFTFROMUS888",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "GLOBE",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "GloryBug",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "GROWASWORD",
+      "reward": "3 Strength Potion, and 2 Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "HALLOWEEN",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "HALLOWEENPARDON",
+      "reward": "10 million Power and 20 Haunted Legendary potions",
+      "status": "active"
+    },
+    {
+      "code": "HALLOWEENPARTY",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "HAPPY7MARCH",
+      "reward": "3 Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "HappyBdayTBP",
+      "reward": "1 Mega Potion, 1 Strength Potion, and 1 Dark Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYHALLOWEEN",
+      "reward": "90 Abyss Gloomtail Piece",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYNEWYEAR",
+      "reward": "5 Ice Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "HAUNTED2",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "HEREWEGOAGAIN",
+      "reward": "Free Potions",
+      "status": "active"
+    },
+    {
+      "code": "HOLYFIX",
+      "reward": "Free Potions",
+      "status": "active"
+    },
+    {
+      "code": "Hotfix",
+      "reward": "10 Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "HUGEYETI",
+      "reward": "1x Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "HYDRAUPD",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "i2perfectcode1",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "INFINITEPROMO",
+      "reward": "Free Potions",
+      "status": "active"
+    },
+    {
+      "code": "ITSRAINNINGTACOS",
+      "reward": "Free Potions ( )",
+      "status": "active"
+    },
+    {
+      "code": "LAST1ME",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "LBFIXED",
+      "reward": "1x Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "LOADOUT",
+      "reward": "2 Mega Potion and 2 Dusk Potion",
+      "status": "active"
+    },
+    {
+      "code": "LUCKBLOCK",
+      "reward": "3 Mega Potion and 3 Dusk Potion",
+      "status": "active"
+    },
+    {
+      "code": "LUNACODE33",
+      "reward": "3x Mythic Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "LUNAR",
+      "reward": "50 Lantern",
+      "status": "active"
+    },
+    {
+      "code": "MAGIADELUXE",
+      "reward": "1x Deluxe Gift",
+      "status": "active"
+    },
+    {
+      "code": "MAGIAV1",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "MAGIAV121",
+      "reward": "1x Deluxe Gift",
+      "status": "active"
+    },
+    {
+      "code": "MASTERCODE",
+      "reward": "3x Mega Potion, 3x Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "MATHEUSISGOAT",
+      "reward": "5 Credits and 1 Dusk Potion",
+      "status": "active"
+    },
+    {
+      "code": "MINISWORD",
+      "reward": "2 Survival Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "mk190k231",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "MYST",
+      "reward": "10 Credits",
+      "status": "active"
+    },
+    {
+      "code": "newcode4891",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "Newi2code12",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "NEWLAB",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "NEWMERCHANT",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "NEWOCEAN",
+      "reward": "1x Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "NEWYEARNEWJOURNEY",
+      "reward": "5 Ice Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "NIGHTCODE",
+      "reward": "4 Fortune Tokens",
+      "status": "active"
+    },
+    {
+      "code": "OGSUNMAP",
+      "reward": "1 Rewind Strength Potion and 1 Mega Potion",
       "status": "active"
     },
     {
       "code": "PAWGO",
+      "reward": "1x Elite Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "PAWSEVENT",
+      "reward": "1x Elite Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "PAWSEVENT2",
+      "reward": "1x Elite Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "PAWSEVENT3",
       "reward": "1x Elite Strength Potion",
       "status": "active"
     },
@@ -534,22 +479,67 @@
       "status": "active"
     },
     {
-      "code": "PAWSEVENT2",
-      "reward": "1x Elite Strength Potion",
+      "code": "PIETY",
+      "reward": "Free Potions",
       "status": "active"
     },
     {
-      "code": "PAWSEVENT",
-      "reward": "1x Elite Strength Potion",
+      "code": "pro12m4910",
+      "reward": "1x Mega Potion",
       "status": "active"
     },
     {
-      "code": "SORRYCODE91",
-      "reward": "1x Elite Strength Potion",
+      "code": "PULLTHECAT!",
+      "reward": "Free Potions",
       "status": "active"
     },
     {
-      "code": "SEASONXI",
+      "code": "Pumpkin",
+      "reward": "1 Happy Pumpkin Pet Piece",
+      "status": "active"
+    },
+    {
+      "code": "QOL",
+      "reward": "3 Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "REBIRTHFIX",
+      "reward": "3x Mythic Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "REDLIGHT",
+      "reward": "3 Survival Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "SEASON15",
+      "reward": "5 Credits",
+      "status": "active"
+    },
+    {
+      "code": "SEASON19",
+      "reward": "30 Sunnywing Piece",
+      "status": "active"
+    },
+    {
+      "code": "SEASON6",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "season7",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "SEASON8UPD",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "SEASON9",
       "reward": "1x Mega Potion",
       "status": "active"
     },
@@ -559,8 +549,203 @@
       "status": "active"
     },
     {
-      "code": "GLOBE",
+      "code": "SEASONX",
       "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "SEASONXI",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "SEASONXIII",
+      "reward": "1 Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "SEASONXIV",
+      "reward": "3 Mega Potions",
+      "status": "active"
+    },
+    {
+      "code": "SEASONXX",
+      "reward": "5 Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "SEASONXXII",
+      "reward": "3 Mega potion and 5 Dash potion",
+      "status": "active"
+    },
+    {
+      "code": "SEASONXXIII",
+      "reward": "3 Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "SEASONXXIV",
+      "reward": "Free Potions",
+      "status": "active"
+    },
+    {
+      "code": "SEASONXXV",
+      "reward": "Free Potions",
+      "status": "active"
+    },
+    {
+      "code": "SEASONXXVI",
+      "reward": "Free Potions ( )",
+      "status": "active"
+    },
+    {
+      "code": "SHUTDOWN",
+      "reward": "Free Potions ( )",
+      "status": "active"
+    },
+    {
+      "code": "SKULLKING",
+      "reward": "5 Haunted Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "SORRY_BUG",
+      "reward": "1 Cursed Gift",
+      "status": "active"
+    },
+    {
+      "code": "SORRY4SHUTDOWN",
+      "reward": "1 Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "SORRYCODE91",
+      "reward": "1x Elite Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "SORRYDELAY",
+      "reward": "3x Mega Potion, 3x Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "sorrydelayraid",
+      "reward": "1 Mythic Potion, 1 Strength Potion, and 1 Dark Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORBUGS",
+      "reward": "Free Strength",
+      "status": "active"
+    },
+    {
+      "code": "SorryGuys",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SORRYPAW",
+      "reward": "3x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "SORRYSHUTDOWN",
+      "reward": "5 Mega potion",
+      "status": "active"
+    },
+    {
+      "code": "SOULKING",
+      "reward": "1 Cursed Gift",
+      "status": "active"
+    },
+    {
+      "code": "SPAIN",
+      "reward": "Free Potions ( )",
+      "status": "active"
+    },
+    {
+      "code": "SPINUPD",
+      "reward": "1x Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "STOREREDO",
+      "reward": "3 Mega Potion and 2 Dusk Potion",
+      "status": "active"
+    },
+    {
+      "code": "SUPERFLUFFY",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "SUPERFLUFFY2",
+      "reward": "1 Superfluffy",
+      "status": "active"
+    },
+    {
+      "code": "THANKSGIVING",
+      "reward": "Free Strength",
+      "status": "active"
+    },
+    {
+      "code": "THEFIXEMPIRE",
+      "reward": "Free Potions",
+      "status": "active"
+    },
+    {
+      "code": "THEHAUNT",
+      "reward": "1x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "TIMERBUG23",
+      "reward": "3x Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "TRICKORTREAT",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "UDINDINDIN",
+      "reward": "3 Mega Potion and 3 Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "UNDERLIFE",
+      "reward": "5 Fortune Tokens",
+      "status": "active"
+    },
+    {
+      "code": "UNDERWORLD",
+      "reward": "1x Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "usecodemagia1",
+      "reward": "1x Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "VALENTINES",
+      "reward": "8 Mega Potions",
+      "status": "active"
+    },
+    {
+      "code": "WEEKPOWER",
+      "reward": "3 Strength Potion, 2 EXP Potion, 1 Dusk Potion",
+      "status": "active"
+    },
+    {
+      "code": "WHEELFIX3",
+      "reward": "3x Mythic Mega Potion",
+      "status": "active"
+    },
+    {
+      "code": "Workshop",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -569,7 +754,17 @@
       "status": "active"
     },
     {
-      "code": "LAST1ME",
+      "code": "WORLDCUP",
+      "reward": "Free Potions ( )",
+      "status": "active"
+    },
+    {
+      "code": "X2ICESTR",
+      "reward": "1x Ice Potion",
+      "status": "active"
+    },
+    {
+      "code": "xfrozenstudioscode1",
       "reward": "1x Mega Potion",
       "status": "active"
     },
@@ -584,222 +779,7 @@
       "status": "active"
     },
     {
-      "code": "CRAZYSANTA",
-      "reward": "1x Ice Potion",
-      "status": "active"
-    },
-    {
-      "code": "X2ICESTR",
-      "reward": "1x Ice Potion",
-      "status": "active"
-    },
-    {
-      "code": "bugfixes2",
-      "reward": "1x Ice Potion",
-      "status": "active"
-    },
-    {
-      "code": "SUPERFLUFFY",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "ELLIE",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "FIXED1412",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "COUNTOZERO",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "GIFTFROMUS888",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "EXTRAMEGA89",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "SEASONX",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "HAUNTED2",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "LBFIXED",
-      "reward": "1x Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "THEHAUNT",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "SEASON9",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "mk190k231",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "HYDRAUPD",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "NEWLAB",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "pro12m4910",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "SPINUPD",
-      "reward": "1x Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "HUGEYETI",
-      "reward": "1x Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "SEASON8UPD",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "ENDLESSEVENT",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "MAGIAV1",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "MAGIADELUXE",
-      "reward": "1x Deluxe Gift",
-      "status": "active"
-    },
-    {
-      "code": "MAGIAV121",
-      "reward": "1x Deluxe Gift",
-      "status": "active"
-    },
-    {
-      "code": "NEWOCEAN",
-      "reward": "1x Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "usecodemagia1",
-      "reward": "1x Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "classiccode12",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "newcode4891",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "CODEFORAGIFT1",
-      "reward": "1 Classic Gift",
-      "status": "active"
-    },
-    {
-      "code": "season7",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "NEWMERCHANT",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "CrazyCactus",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "i2perfectcode1",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "Newi2code12",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "xfrozenstudioscode1",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "SEASON6",
-      "reward": "1x Mega Potion",
-      "status": "active"
-    },
-    {
-      "code": "UNDERWORLD",
-      "reward": "1x Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "DISCOEVENT24",
-      "reward": "1x Strength Potion",
-      "status": "active"
-    },
-    {
-      "code": "Pull",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sword",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SNOWEVENTPART3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "1x1x1x1upd",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RETROPART2",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -809,87 +789,7 @@
       "status": "expired"
     },
     {
-      "code": "THANKYOU3M",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "AXIOMUPD",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "PROFILEUPD",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "THEHUNTEVENT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "magiacode485",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "K123456789C",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "K123456789B",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "K123456789A",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "giftfromme1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "buff2big",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "opgiftfromme",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "giftfromme23",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "K123456789O",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "A39B2456BBBC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "A39B2456B1CCCKS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "A29B2456B1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "A40B2456A2",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -899,7 +799,57 @@
       "status": "expired"
     },
     {
+      "code": "A39B2456B1CCCKS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "A39B2456BBBC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "A40B2456A2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "AXIOMUPD",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "buff2big",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "code492",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "code900",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "eventhalloween",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ghostydog4",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "giftfromme1",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "giftfromme23",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -914,37 +864,22 @@
       "status": "expired"
     },
     {
-      "code": "winpotion99995",
+      "code": "K123456789A",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "xFrozenCodeB24",
+      "code": "K123456789B",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "new21potion",
+      "code": "K123456789C",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "xfrozencodea",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ghostydog4",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "PotionCode542",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ytcode24690",
+      "code": "K123456789O",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -954,22 +889,87 @@
       "status": "expired"
     },
     {
+      "code": "magiacode485",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "new21potion",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "newcode48",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "code900",
+      "code": "opgiftfromme",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "code492",
+      "code": "PotionCode542",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PROFILEUPD",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Pull",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RETROPART2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SNOWEVENTPART3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Sword",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THANKYOU3M",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THEHUNTEVENT",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "twcode1",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "winpotion99995",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "xfrozencodea",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "xFrozenCodeB24",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ytcode24690",
       "reward": "Expired reward",
       "status": "expired"
     },

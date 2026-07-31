@@ -29,8 +29,8 @@
   ],
   "codes": [
     {
-      "code": "25KMEMBERS",
-      "reward": "280 Chrono Shards ( )",
+      "code": "100KFAVS",
+      "reward": "140 chrono shards and double EXP for 30 minutes",
       "status": "active"
     },
     {
@@ -39,12 +39,27 @@
       "status": "active"
     },
     {
-      "code": "FEATURED",
-      "reward": "Chrono Shards",
+      "code": "20KLIKES",
+      "reward": "420 chrono shards",
       "status": "active"
     },
     {
-      "code": "LUNAREVENTS",
+      "code": "25KMEMBERS",
+      "reward": "280 Chrono Shards ( )",
+      "status": "active"
+    },
+    {
+      "code": "2MVISITS",
+      "reward": "420 chrono shards",
+      "status": "active"
+    },
+    {
+      "code": "3MVISITS",
+      "reward": "280 chrono shards",
+      "status": "active"
+    },
+    {
+      "code": "6KMEMBERS",
       "reward": "280 chrono shards",
       "status": "active"
     },
@@ -54,8 +69,8 @@
       "status": "active"
     },
     {
-      "code": "3MVISITS",
-      "reward": "280 chrono shards",
+      "code": "BETTERSTORAGE",
+      "reward": "280 chrono shards and 10k gold",
       "status": "active"
     },
     {
@@ -64,23 +79,8 @@
       "status": "active"
     },
     {
-      "code": "6KMEMBERS",
-      "reward": "280 chrono shards",
-      "status": "active"
-    },
-    {
-      "code": "BETTERSTORAGE",
-      "reward": "280 chrono shards and 10k gold",
-      "status": "active"
-    },
-    {
-      "code": "100KFAVS",
-      "reward": "140 chrono shards and double EXP for 30 minutes",
-      "status": "active"
-    },
-    {
-      "code": "PATCH104",
-      "reward": "double EXP for one hour",
+      "code": "FEATURED",
+      "reward": "Chrono Shards",
       "status": "active"
     },
     {
@@ -89,152 +89,22 @@
       "status": "active"
     },
     {
+      "code": "LUNAREVENTS",
+      "reward": "280 chrono shards",
+      "status": "active"
+    },
+    {
       "code": "MAJORUPDATE",
       "reward": "420 chrono shards",
       "status": "active"
     },
     {
-      "code": "20KLIKES",
-      "reward": "420 chrono shards",
+      "code": "PATCH104",
+      "reward": "double EXP for one hour",
       "status": "active"
-    },
-    {
-      "code": "2MVISITS",
-      "reward": "420 chrono shards",
-      "status": "active"
-    },
-    {
-      "code": "Subterra",
-      "reward": "Expired reward",
-      "status": "expired"
     },
     {
       "code": "180FAVS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ERRORED",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "crafting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Mine",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dig",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ice",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bound",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Detectors",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "slightly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Head",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NPC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "anywhere",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -244,22 +114,37 @@
       "status": "expired"
     },
     {
-      "code": "game-announcements",
+      "code": "8217",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Finally",
+      "code": "anywhere",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Polyworks",
+      "code": "bookmarking",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Studio",
+      "code": "Bound",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "checking",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Claim",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "comments",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -269,7 +154,12 @@
       "status": "expired"
     },
     {
-      "code": "restarting",
+      "code": "connection",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "consider",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -279,17 +169,67 @@
       "status": "expired"
     },
     {
-      "code": "Most",
+      "code": "crafting",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "connection",
+      "code": "Detectors",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "reconnect",
+      "code": "different",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Dig",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Enter",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ERRORED",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Finally",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "frequently",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "game-announcements",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Get",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Head",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Ice",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -299,7 +239,67 @@
       "status": "expired"
     },
     {
-      "code": "comments",
+      "code": "Mine",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Most",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Now",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NPC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Polyworks",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "reconnect",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Redeeming",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "released",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "restarting",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Since",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "slightly",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Studio",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Subterra",
       "reward": "Expired reward",
       "status": "expired"
     }
