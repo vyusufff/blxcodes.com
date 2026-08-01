@@ -1,9 +1,9 @@
 {
-  "title": "Flex UGC Codes (July 2026)",
+  "title": "Flex UGC Codes (August 2026)",
   "gameName": "Flex UGC",
   "description": "Working Flex UGC codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/flex-ugc.webp",
   "placeId": 15108736400,
@@ -56,6 +56,11 @@
     {
       "code": "270",
       "reward": "8-Bit Crown",
+      "status": "active"
+    },
+    {
+      "code": "3002",
+      "reward": "Siver Antlers ( )",
       "status": "active"
     },
     {
@@ -441,6 +446,11 @@
     {
       "code": "nightfall",
       "reward": "Nightfall Blade (Needs the black n&#8217; white sword purchase.png)",
+      "status": "active"
+    },
+    {
+      "code": "OHC5",
+      "reward": "Orange Happy Crown ( )",
       "status": "active"
     },
     {

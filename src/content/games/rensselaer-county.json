@@ -1,9 +1,9 @@
 {
-  "title": "Rensselaer County Codes (July 2026)",
+  "title": "Rensselaer County Codes (August 2026)",
   "gameName": "Rensselaer County",
   "description": "Working Rensselaer County codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/rensselaer-county.webp",
   "placeId": 4637668954,
@@ -31,6 +31,11 @@
     {
       "code": "RODASH",
       "reward": "30,000 Cash ( )",
+      "status": "active"
+    },
+    {
+      "code": "USA250",
+      "reward": "10,250 Cash",
       "status": "active"
     },
     {

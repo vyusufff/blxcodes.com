@@ -1,9 +1,9 @@
 {
-  "title": "Berry Avenue Codes (July 2026)",
+  "title": "Berry Avenue Codes (August 2026)",
   "gameName": "Berry Avenue",
   "description": "Working Berry Avenue codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/berry-avenue.webp",
   "placeId": 8481844229,
@@ -266,6 +266,11 @@
     {
       "code": "15589798698",
       "reward": "Cute Face",
+      "status": "active"
+    },
+    {
+      "code": "16424689668",
+      "reward": "Blonde Pink hairstyle ( )",
       "status": "active"
     },
     {

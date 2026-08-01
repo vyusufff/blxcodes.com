@@ -1,9 +1,9 @@
 {
-  "title": "Project Baki 3 Codes (July 2026)",
+  "title": "Project Baki 3 Codes (August 2026)",
   "gameName": "Project Baki 3",
   "description": "Working Project Baki 3 codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/project-baki-3.webp",
   "placeId": 5951002734,
@@ -29,13 +29,378 @@
   ],
   "codes": [
     {
+      "code": "1KSIGNUPS",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "1MILLIONWHITESNAKES",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "2KSIGNUPS",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "2KSOJOLLY",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "4KSIGNUPBIG",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "75KWOWBIG",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "76KSOBIG",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "78KBIGVILTRUM",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "80KWOWMASSIVE",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "81KSOBIG",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "83KJOLLY",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "85KLIKEWOW",
+      "reward": "Get 3k modulo points",
+      "status": "active"
+    },
+    {
+      "code": "ADAMSAPPLE",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "ANDROID17",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
       "code": "BAKIPASS",
       "reward": "1M Yen",
       "status": "active"
     },
     {
+      "code": "CHADTROOPER",
+      "reward": "Get 500k Yen",
+      "status": "active"
+    },
+    {
+      "code": "CLOBBERIN",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "COYOTEMAN",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "DABURAISGOJOSSON",
+      "reward": "Get 3k modulo points",
+      "status": "active"
+    },
+    {
+      "code": "DEADPOOLNIGHT",
+      "reward": "Get 1 Mysterious Arrow",
+      "status": "active"
+    },
+    {
+      "code": "EARLYCHRISTMAS",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "ENERGY",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "EVILHACKERSMAN",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "FALSESAIYAN",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "FREEDOMTIME",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "FREESTYLEAFTER3QUESTSANDSTORY",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "FREESTYLEAFTERSTORYNOSKIP",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "GIVTUSKPLEASE",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "GIVYENPLEASE",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "HALLOFINALE",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "HALLOSIGNWEEN2",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "HALLOSIGNWEEN3",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "HALLOSIGNWEEN4",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYVALENTINEBAKI",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYYAKUZADAY",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "HESAIDTHETHING",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "IAMTHANKFUL",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "JJKAURA",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "King",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "LEMILLION",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "MARCH30TH",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "MISSINGPING",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "MONKEYMODE",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "MOONLIGHT",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "NOMOREHACKERS",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "NUMEROCINCO",
+      "reward": "Get 3k CG points, 1 mysterious arrow, 3 Mha essence and 1 dark soul",
+      "status": "active"
+    },
+    {
+      "code": "OHSOSCARYY",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "OVERHAUL",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "OVERHAULSUCKS",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "RELEASEJJK",
+      "reward": "Get 3k CG points",
+      "status": "active"
+    },
+    {
+      "code": "RELEASEMODULO",
+      "reward": "Get 3k modulo points",
+      "status": "active"
+    },
+    {
+      "code": "RESETSTORY",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "ROCKYBOYLAVAMAN",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "SOLOLEVELING",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORDELAY",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "SORRYHANAYAMA",
+      "reward": "Get 3k modulo points",
+      "status": "active"
+    },
+    {
+      "code": "STRICKLAND",
+      "reward": "Get 500k Yen",
+      "status": "active"
+    },
+    {
+      "code": "STRONGMAN",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "SUMMERSIGNUP",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "SUUUPERNOVA",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "THANKSFORTHELIKES",
+      "reward": "Get 1M Yen, 1 Quincy, 1 Valentine Essence and 1 Mha Essence",
+      "status": "active"
+    },
+    {
+      "code": "THANKYOUTHANKYOUTHANKYOU",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "THELONEWOLF",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "THESYSTEM",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "THINGTORCHCLAIM",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "THUKUNATIME",
+      "reward": "Get 3k CG points, 1 mysterious arrow, 3 Mha essence and 1 dark soul",
+      "status": "active"
+    },
+    {
+      "code": "TOJITIME",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "TRAITSFORCHRISTMAS",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "TREATORTRICK",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
       "code": "TUNGTUNG",
       "reward": "1M Yen",
+      "status": "active"
+    },
+    {
+      "code": "TURKEYTIME",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "WARCLAIM",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "WTestersThankYouSoMuch",
+      "reward": "Get 2M Yen ( )",
+      "status": "active"
+    },
+    {
+      "code": "YashaReset",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
+      "code": "YUJITIME",
+      "reward": "Free rewards",
       "status": "active"
     },
     {

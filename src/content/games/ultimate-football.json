@@ -1,9 +1,9 @@
 {
-  "title": "Ultimate Football Codes (July 2026)",
+  "title": "Ultimate Football Codes (August 2026)",
   "gameName": "Ultimate Football",
   "description": "Working Ultimate Football codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/ultimate-football.webp",
   "placeId": 2338325648,
@@ -136,6 +136,11 @@
     {
       "code": "HEATINGUP",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "INVENTORY",
+      "reward": "Free Rewards ( )",
       "status": "active"
     },
     {

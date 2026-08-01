@@ -1,9 +1,9 @@
 {
-  "title": "Banana Eats Codes (July 2026)",
+  "title": "Banana Eats Codes (August 2026)",
   "gameName": "Banana Eats",
   "description": "Working Banana Eats codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/banana-eats.webp",
   "placeId": 4448566543,
@@ -66,6 +66,11 @@
     {
       "code": "LOCKERLESS",
       "reward": "Redeem for Free Beacon",
+      "status": "active"
+    },
+    {
+      "code": "MEMES",
+      "reward": "Redeem for free Beacon ( )",
       "status": "active"
     },
     {

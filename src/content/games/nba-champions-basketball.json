@@ -1,9 +1,9 @@
 {
-  "title": "NBA Champions Basketball Codes (July 2026)",
+  "title": "NBA Champions Basketball Codes (August 2026)",
   "gameName": "NBA Champions Basketball",
   "description": "Working NBA Champions Basketball codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/nba-champions-basketball.webp",
   "placeId": 101271234790940,
@@ -29,7 +29,7 @@
   ],
   "codes": [
     {
-      "code": "YACHT",
+      "code": "RALLY",
       "reward": "Get 7500 Coins ( )",
       "status": "active"
     },
@@ -226,6 +226,11 @@
     {
       "code": "UFO",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "YACHT",
+      "reward": "Get 7500 Coins ( )",
       "status": "expired"
     },
     {
