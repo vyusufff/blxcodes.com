@@ -1,9 +1,9 @@
 {
-  "title": "Drag Drive Simulator Codes (July 2026)",
+  "title": "Drag Drive Simulator Codes (August 2026)",
   "gameName": "Drag Drive Simulator",
   "description": "Working Drag Drive Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/drag-drive-simulator.webp",
   "placeId": 131378148336503,
@@ -29,28 +29,28 @@
   ],
   "codes": [
     {
-      "code": "DDSSUPERMANSTYLE",
+      "code": "DDSDRIVERTAXIONLINEUPDATE",
       "reward": "30M Cash ( )",
       "status": "active"
     },
     {
-      "code": "DELAYDIKITAMBILRAPOR",
+      "code": "DDSTHX150KROADTO175KLIKES",
+      "reward": "30M Cash ( )",
+      "status": "active"
+    },
+    {
+      "code": "DELAYXIXIORDERANDOUBLE",
       "reward": "25M Cash ( )",
       "status": "active"
     },
     {
-      "code": "DRAGDRIVESIMULATORJUNE26",
+      "code": "DRAGDRIVESIMULATORJULY26",
       "reward": "35M Cash ( )",
       "status": "active"
     },
     {
       "code": "HAPPYSCHOOLHOLIDAYS26",
       "reward": "35M Cash ( )",
-      "status": "active"
-    },
-    {
-      "code": "MOREPROPSPAWNERUPDATE",
-      "reward": "30M Cash ( )",
       "status": "active"
     },
     {
@@ -109,6 +109,11 @@
       "status": "expired"
     },
     {
+      "code": "DDSSUPERMANSTYLE",
+      "reward": "30M Cash ( )",
+      "status": "expired"
+    },
+    {
       "code": "DDSTHX125KROADTO150KLIKES",
       "reward": "Expired reward",
       "status": "expired"
@@ -116,6 +121,11 @@
     {
       "code": "DELAYDIKITADASAPINGAMUK",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DELAYDIKITAMBILRAPOR",
+      "reward": "25M Cash ( )",
       "status": "expired"
     },
     {
@@ -141,6 +151,11 @@
     {
       "code": "DRAGDRIVESIMULATORJANUARY26",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DRAGDRIVESIMULATORJUNE26",
+      "reward": "35M Cash ( )",
       "status": "expired"
     },
     {
@@ -191,6 +206,11 @@
     {
       "code": "MOHONMAAFLAHIRBATIN",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MOREPROPSPAWNERUPDATE",
+      "reward": "30M Cash ( )",
       "status": "expired"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "title": "Garden Tower Defense Codes (July 2026)",
+  "title": "Garden Tower Defense Codes (August 2026)",
   "gameName": "Garden Tower Defense",
   "description": "Working Garden Tower Defense codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/garden-tower-defense.webp",
   "placeId": 108533757090220,
@@ -36,6 +36,11 @@
     {
       "code": "CRYSTAL",
       "reward": "70 Gems",
+      "status": "active"
+    },
+    {
+      "code": "HYDRO",
+      "reward": "500 Seeds",
       "status": "active"
     },
     {

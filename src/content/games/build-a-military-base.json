@@ -1,9 +1,9 @@
 {
-  "title": "Build a Military Base Codes (July 2026)",
+  "title": "Build a Military Base Codes (August 2026)",
   "gameName": "Build a Military Base",
   "description": "Working Build a Military Base codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/build-a-military-base.webp",
   "placeId": 91440994157417,
@@ -69,11 +69,6 @@
       "status": "active"
     },
     {
-      "code": "9PLUS10",
-      "reward": "1 Premium Crate ( )",
-      "status": "active"
-    },
-    {
       "code": "ARCTICFORTRESS",
       "reward": "1 Premium Crate",
       "status": "active"
@@ -86,6 +81,16 @@
     {
       "code": "CARRIERHASARRIVED",
       "reward": "1 Premium Crate",
+      "status": "active"
+    },
+    {
+      "code": "CHIMERA",
+      "reward": "1 Premium Crate ( )",
+      "status": "active"
+    },
+    {
+      "code": "FLAMEON",
+      "reward": "1 Premium Crate ( )",
       "status": "active"
     },
     {
@@ -114,13 +119,13 @@
       "status": "active"
     },
     {
-      "code": "PREMIUMDELAY",
-      "reward": "Free Rewards",
+      "code": "OUTPOSTS",
+      "reward": "1 Premium Crate ( )",
       "status": "active"
     },
     {
-      "code": "PROWLER",
-      "reward": "1 Premium Crate ( )",
+      "code": "PREMIUMDELAY",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -136,11 +141,6 @@
     {
       "code": "STEALTHY",
       "reward": "1 Premium Crate",
-      "status": "active"
-    },
-    {
-      "code": "TEAMWORKMAKESTHEDREAMWORK",
-      "reward": "1 Premium Crate ( )",
       "status": "active"
     },
     {
@@ -299,6 +299,11 @@
       "status": "expired"
     },
     {
+      "code": "9PLUS10",
+      "reward": "1 Premium Crate ( )",
+      "status": "expired"
+    },
+    {
       "code": "Base",
       "reward": "Expired reward",
       "status": "expired"
@@ -329,8 +334,18 @@
       "status": "expired"
     },
     {
+      "code": "PROWLER",
+      "reward": "1 Premium Crate ( )",
+      "status": "expired"
+    },
+    {
       "code": "SORRY",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TEAMWORKMAKESTHEDREAMWORK",
+      "reward": "1 Premium Crate ( )",
       "status": "expired"
     },
     {

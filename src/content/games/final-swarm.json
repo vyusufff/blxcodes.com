@@ -1,9 +1,9 @@
 {
-  "title": "Final Swarm Codes (July 2026)",
+  "title": "Final Swarm Codes (August 2026)",
   "gameName": "Final Swarm",
   "description": "Working Final Swarm codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/final-swarm.webp",
   "placeId": 99521272836282,
@@ -31,6 +31,11 @@
     {
       "code": "firstswarm",
       "reward": "3 Wooden Chests",
+      "status": "active"
+    },
+    {
+      "code": "frosty",
+      "reward": "Free Rewards ( )",
       "status": "active"
     },
     {

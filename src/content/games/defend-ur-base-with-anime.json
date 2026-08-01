@@ -1,9 +1,9 @@
 {
-  "title": "Defend Ur Base With Anime Codes (July 2026)",
+  "title": "Defend Ur Base With Anime Codes (August 2026)",
   "gameName": "Defend Ur Base With Anime",
   "description": "Working Defend Ur Base With Anime codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/defend-ur-base-with-anime.webp",
   "placeId": 105031185134358,
@@ -29,28 +29,8 @@
   ],
   "codes": [
     {
-      "code": "ADMINFIX",
-      "reward": "1 Purple Outfit, 150000 Cash, 35 Trait Shard, and 5 Mythic Fragment",
-      "status": "active"
-    },
-    {
-      "code": "BASESKINS",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "BUGFIXESS",
-      "reward": "25 Trait Shard and 1 Nen Gohan",
-      "status": "active"
-    },
-    {
-      "code": "BUGFIXESS2",
-      "reward": "Krillin with the Doombringer trait, 50 Trait Shards, and 10 Legendary Fragments",
-      "status": "active"
-    },
-    {
-      "code": "BUGFIXESS3",
-      "reward": "50 Trait Shards, 10 Legendary Fragments, and Level 2 Asta with the Beast mutation",
+      "code": "BLUE",
+      "reward": "200k Cash, 20 Trait Shard, 10 Legendary Fragment, and 5 Mythic Fragment ( )",
       "status": "active"
     },
     {
@@ -64,53 +44,13 @@
       "status": "active"
     },
     {
-      "code": "JJKUPDATE",
-      "reward": "25000 Cash, 10 Epic Fragment, and 3 Trait Shard",
+      "code": "GOALKEEPER",
+      "reward": "150k Cash, 15 Trait Shard, and 7 Legendary Fragment ( )",
       "status": "active"
     },
     {
       "code": "LUCKYSPINS",
       "reward": "Free Rewards ( )",
-      "status": "active"
-    },
-    {
-      "code": "MOMSFEAST",
-      "reward": "5 Legendary Fragments",
-      "status": "active"
-    },
-    {
-      "code": "NEWTRAIT",
-      "reward": "25 Trait Shard",
-      "status": "active"
-    },
-    {
-      "code": "QUINCY",
-      "reward": "35000 Cash, 5 Legendary Fragment, and 5 Trait Shard",
-      "status": "active"
-    },
-    {
-      "code": "SORRYUPDATE",
-      "reward": "75000 Cash, 20 Trait Shard, and 10 Legendary Fragment",
-      "status": "active"
-    },
-    {
-      "code": "SPIRITYUNOH",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "SUPERMAKEUP",
-      "reward": "Free Rewards (requires wave 50)",
-      "status": "active"
-    },
-    {
-      "code": "TRADING",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "TRAITREROLLS",
-      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -124,13 +64,8 @@
       "status": "active"
     },
     {
-      "code": "UPDATE8",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "UPDATE9",
-      "reward": "Free Rewards ( )",
+      "code": "UPDATE11",
+      "reward": "200k Cash, 20 Trait Shard, 7 Mythic Fragment, and 1 God Fragment ( )",
       "status": "active"
     },
     {
@@ -141,6 +76,11 @@
     {
       "code": "8217",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ADMINFIX",
+      "reward": "1 Purple Outfit, 150000 Cash, 35 Trait Shard, and 5 Mythic Fragment",
       "status": "expired"
     },
     {
@@ -164,6 +104,11 @@
       "status": "expired"
     },
     {
+      "code": "BASESKINS",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "BLEACHPART2!",
       "reward": "Expired reward",
       "status": "expired"
@@ -171,6 +116,21 @@
     {
       "code": "Bookmark",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BUGFIXESS",
+      "reward": "25 Trait Shard and 1 Nen Gohan",
+      "status": "expired"
+    },
+    {
+      "code": "BUGFIXESS2",
+      "reward": "Krillin with the Doombringer trait, 50 Trait Shards, and 10 Legendary Fragments",
+      "status": "expired"
+    },
+    {
+      "code": "BUGFIXESS3",
+      "reward": "50 Trait Shards, 10 Legendary Fragments, and Level 2 Asta with the Beast mutation",
       "status": "expired"
     },
     {
@@ -239,6 +199,11 @@
       "status": "expired"
     },
     {
+      "code": "JJKUPDATE",
+      "reward": "25000 Cash, 10 Epic Fragment, and 3 Trait Shard",
+      "status": "expired"
+    },
+    {
       "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
@@ -249,13 +214,28 @@
       "status": "expired"
     },
     {
+      "code": "MOMSFEAST",
+      "reward": "5 Legendary Fragments",
+      "status": "expired"
+    },
+    {
       "code": "NEWMUTATIONS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
+      "code": "NEWTRAIT",
+      "reward": "25 Trait Shard",
+      "status": "expired"
+    },
+    {
       "code": "Not",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "QUINCY",
+      "reward": "35000 Cash, 5 Legendary Fragment, and 5 Trait Shard",
       "status": "expired"
     },
     {
@@ -304,13 +284,38 @@
       "status": "expired"
     },
     {
+      "code": "SORRYUPDATE",
+      "reward": "75000 Cash, 20 Trait Shard, and 10 Legendary Fragment",
+      "status": "expired"
+    },
+    {
       "code": "specific",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
+      "code": "SPIRITYUNOH",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "SRYFORSHUTDOWN!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SUPERMAKEUP",
+      "reward": "Free Rewards (requires wave 50)",
+      "status": "expired"
+    },
+    {
+      "code": "TRADING",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "TRAITREROLLS",
+      "reward": "Free Rewards",
       "status": "expired"
     },
     {
@@ -321,6 +326,16 @@
     {
       "code": "Type",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE8",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE9",
+      "reward": "Free Rewards ( )",
       "status": "expired"
     },
     {

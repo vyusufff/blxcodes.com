@@ -1,9 +1,9 @@
 {
-  "title": "Hunt Giant Fish Codes (July 2026)",
+  "title": "Hunt Giant Fish Codes (August 2026)",
   "gameName": "Hunt Giant Fish",
   "description": "Working Hunt Giant Fish codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/hunt-giant-fish.webp",
   "placeId": 115511501544785,
@@ -104,6 +104,11 @@
       "status": "active"
     },
     {
+      "code": "FISH50KK",
+      "reward": "Free Rewards ( )",
+      "status": "active"
+    },
+    {
       "code": "FISHCOLLECTIONREACH",
       "reward": "Free Rewards",
       "status": "active"
@@ -146,6 +151,11 @@
     {
       "code": "SEADRAGON",
       "reward": "Free Potions",
+      "status": "active"
+    },
+    {
+      "code": "SIRENSONG",
+      "reward": "Free Rewards ( )",
       "status": "active"
     },
     {
