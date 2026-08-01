@@ -462,7 +462,7 @@ function buildNewGame({ slug, gameName, activeMap, expiredMap, placeId, cover })
       },
       {
         q: `How often are ${gameName} codes updated?`,
-        a: 'We refresh this page when new codes drop or old ones expire. Check the updated and last-checked dates above.',
+        a: 'We refresh this page when new codes drop or old ones expire. Check the Updated date above.',
       },
     ],
     codes,

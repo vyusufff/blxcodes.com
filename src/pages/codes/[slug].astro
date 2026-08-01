@@ -21,12 +21,6 @@ const updated = game.data.updatedAt.toLocaleDateString('en-US', {
   day: 'numeric',
   year: 'numeric',
 });
-const checkedDate = game.data.checkedAt ?? game.data.updatedAt;
-const checked = checkedDate.toLocaleDateString('en-US', {
-  month: 'long',
-  day: 'numeric',
-  year: 'numeric',
-});
 const activeCount = activeCodeCount(game);
 const ogImage = game.data.cover ? absoluteUrl(game.data.cover) : DEFAULT_OG;
 
@@ -44,7 +38,7 @@ const faq =
         },
         {
           q: `How often are ${game.data.gameName} codes updated?`,
-          a: 'We refresh this page when new codes drop or old ones expire. Check the updated date above.',
+          a: 'We refresh this page when new codes drop or old ones expire. Check the Updated date above.',
         },
       ];
 
@@ -81,7 +75,7 @@ const webPageJsonLd = {
   '@type': 'WebPage',
   name: game.data.title,
   description: game.data.description,
-  dateModified: (game.data.checkedAt ?? game.data.updatedAt).toISOString(),
+  dateModified: game.data.updatedAt.toISOString(),
   url: absoluteUrl(`/codes/${game.id}`),
   isPartOf: { '@type': 'WebSite', name: 'BLXCodes', url: 'https://blxcodes.com' },
 };
@@ -136,7 +130,6 @@ const jsonLd = [
         <p class="mt-4 max-w-2xl text-base leading-relaxed text-muted">{game.data.description}</p>
         <p class="mt-4 text-sm font-bold uppercase tracking-[0.12em] text-ink-soft">
           <time datetime={game.data.updatedAt.toISOString()}>Updated {updated}</time>
-          · <time datetime={checkedDate.toISOString()}>Checked {checked}</time>
           · {activeCount} active
         </p>
       </div>

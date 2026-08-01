@@ -4,7 +4,7 @@ export const SITE_NAME = 'BLXCodes';
 export const SITE_URL = 'https://blxcodes.com';
 export const SITE_DESC =
   'Find working Roblox codes for Blox Fruits, Fisch, and more. Copy active codes fast, skip expired junk, and redeem free rewards on BLXCodes.';
-export const DEFAULT_OG = `${SITE_URL}/images/og-default.png`;
+export const DEFAULT_OG = `${SITE_URL}/images/og-default-v2.png`;
 
 /** IndexNow API key — also hosted at /{key}.txt */
 export const INDEXNOW_KEY = '7c4e9a2f8b1d4e6a9c0f3b5d7e8a1c2f';
