@@ -1,9 +1,9 @@
 {
-  "title": "Roll an Anime Codes (July 2026)",
+  "title": "Roll an Anime Codes (August 2026)",
   "gameName": "Roll an Anime",
   "description": "Working Roll an Anime codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/roll-an-anime.webp",
   "placeId": 93999763241813,
@@ -54,6 +54,11 @@
       "status": "active"
     },
     {
+      "code": "BUNGFROEXTRA",
+      "reward": "5 times money boost for 2 hours ( )",
+      "status": "active"
+    },
+    {
       "code": "BUNGFROMONEY",
       "reward": "5 money boost for 2 hours",
       "status": "active"
@@ -86,6 +91,16 @@
     {
       "code": "RICHEST",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORRESTOCK",
+      "reward": "5 times Luck for 5 hours ( )",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORRESTOCK2",
+      "reward": "3 times stock quantity for 2 hours ( )",
       "status": "active"
     },
     {
