@@ -1,9 +1,9 @@
 {
-  "title": "Fish It Codes (July 2026)",
+  "title": "Fish It Codes (August 2026)",
   "gameName": "Fish It",
   "description": "Working Fish It codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/fish-it.webp",
   "placeId": 121864768012064,
@@ -29,88 +29,8 @@
   ],
   "codes": [
     {
-      "code": "1M_GOAL",
-      "reward": "Free Potions",
-      "status": "active"
-    },
-    {
-      "code": "2BILLION",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "3BILLION",
-      "reward": "2 Luck II Potions",
-      "status": "active"
-    },
-    {
-      "code": "500K_GOAL_FXCB",
-      "reward": "Free Potions",
-      "status": "active"
-    },
-    {
-      "code": "BLAMETALON",
-      "reward": "Luck II Potions",
-      "status": "active"
-    },
-    {
-      "code": "CELEBRATE",
-      "reward": "Rare Present",
-      "status": "active"
-    },
-    {
-      "code": "COUNTTRANSCENDEDSTONES",
-      "reward": "Update element rod quest progress",
-      "status": "active"
-    },
-    {
-      "code": "CRESCENT",
-      "reward": "Free Limited bait skin",
-      "status": "active"
-    },
-    {
-      "code": "CRYSTALS",
-      "reward": "Luck II Potions",
-      "status": "active"
-    },
-    {
-      "code": "DIVING",
-      "reward": "2 Luck II Potions",
-      "status": "active"
-    },
-    {
-      "code": "EASTER2026",
-      "reward": "Free Potions",
-      "status": "active"
-    },
-    {
-      "code": "FREECRYSTAL",
-      "reward": "x2 free Cave Crystals",
-      "status": "active"
-    },
-    {
-      "code": "FREEPRESENTS",
-      "reward": "Rare Present",
-      "status": "active"
-    },
-    {
-      "code": "GIFTGIVING",
-      "reward": "Epic Present",
-      "status": "active"
-    },
-    {
-      "code": "GO2026",
-      "reward": "Rod Skin",
-      "status": "active"
-    },
-    {
-      "code": "HAPPY2026",
-      "reward": "Luck Totem",
-      "status": "active"
-    },
-    {
-      "code": "LUCKYTOTEM",
-      "reward": "Luck Totem",
+      "code": "CONTRA",
+      "reward": "x2 Free Mutation II Potions ( )",
       "status": "active"
     },
     {
@@ -119,63 +39,33 @@
       "status": "active"
     },
     {
-      "code": "NEWYEARLANTERN",
-      "reward": "Free Lantern skin",
-      "status": "active"
-    },
-    {
-      "code": "PIRATEMAJA",
-      "reward": "2 Luck II Potions",
-      "status": "active"
-    },
-    {
       "code": "POTIONSSS",
       "reward": "x2 Free Mutation II Potions ( )",
       "status": "active"
     },
     {
-      "code": "PURPLEMOON",
-      "reward": "Exclusive Bait",
-      "status": "active"
-    },
-    {
-      "code": "SCALE2",
-      "reward": "x1 Leviathan Scale",
-      "status": "active"
-    },
-    {
-      "code": "SCALEREFUND",
-      "reward": "x1 Leviathan Scale Refund",
-      "status": "active"
-    },
-    {
-      "code": "SORRY",
-      "reward": "Exclusive Bait",
-      "status": "active"
-    },
-    {
-      "code": "SORRYQUEST",
-      "reward": "Luck Totem",
-      "status": "active"
-    },
-    {
-      "code": "THEDEN",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "TOTEMREFUND",
-      "reward": "Luck Totem",
-      "status": "active"
-    },
-    {
-      "code": "YEEHAW",
-      "reward": "Cowboy Hat Halo ( )",
-      "status": "active"
-    },
-    {
       "code": "100M",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "1M_GOAL",
+      "reward": "Free Potions",
+      "status": "expired"
+    },
+    {
+      "code": "2BILLION",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "3BILLION",
+      "reward": "2 Luck II Potions",
+      "status": "expired"
+    },
+    {
+      "code": "500K_GOAL_FXCB",
+      "reward": "Free Potions",
       "status": "expired"
     },
     {
@@ -204,6 +94,11 @@
       "status": "expired"
     },
     {
+      "code": "BLAMETALON",
+      "reward": "Luck II Potions",
+      "status": "expired"
+    },
+    {
       "code": "bookmark",
       "reward": "Expired reward",
       "status": "expired"
@@ -211,6 +106,11 @@
     {
       "code": "Catching",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CELEBRATE",
+      "reward": "Rare Present",
       "status": "expired"
     },
     {
@@ -234,6 +134,21 @@
       "status": "expired"
     },
     {
+      "code": "COUNTTRANSCENDEDSTONES",
+      "reward": "Update element rod quest progress",
+      "status": "expired"
+    },
+    {
+      "code": "CRESCENT",
+      "reward": "Free Limited bait skin",
+      "status": "expired"
+    },
+    {
+      "code": "CRYSTALS",
+      "reward": "Luck II Potions",
+      "status": "expired"
+    },
+    {
       "code": "Defense",
       "reward": "Expired reward",
       "status": "expired"
@@ -241,6 +156,16 @@
     {
       "code": "different",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DIVING",
+      "reward": "2 Luck II Potions",
+      "status": "expired"
+    },
+    {
+      "code": "EASTER2026",
+      "reward": "Free Potions",
       "status": "expired"
     },
     {
@@ -269,6 +194,16 @@
       "status": "expired"
     },
     {
+      "code": "FREECRYSTAL",
+      "reward": "x2 free Cave Crystals",
+      "status": "expired"
+    },
+    {
+      "code": "FREEPRESENTS",
+      "reward": "Rare Present",
+      "status": "expired"
+    },
+    {
       "code": "games-codes",
       "reward": "Expired reward",
       "status": "expired"
@@ -276,6 +211,21 @@
     {
       "code": "Get",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GIFTGIVING",
+      "reward": "Epic Present",
+      "status": "expired"
+    },
+    {
+      "code": "GO2026",
+      "reward": "Rod Skin",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY2026",
+      "reward": "Luck Totem",
       "status": "expired"
     },
     {
@@ -304,6 +254,11 @@
       "status": "expired"
     },
     {
+      "code": "LUCKYTOTEM",
+      "reward": "Luck Totem",
+      "status": "expired"
+    },
+    {
       "code": "MEGA",
       "reward": "Expired reward",
       "status": "expired"
@@ -314,8 +269,33 @@
       "status": "expired"
     },
     {
+      "code": "NEWYEARLANTERN",
+      "reward": "Free Lantern skin",
+      "status": "expired"
+    },
+    {
+      "code": "PIRATEMAJA",
+      "reward": "2 Luck II Potions",
+      "status": "expired"
+    },
+    {
+      "code": "PURPLEMOON",
+      "reward": "Exclusive Bait",
+      "status": "expired"
+    },
+    {
       "code": "redeeming",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SCALE2",
+      "reward": "x1 Leviathan Scale",
+      "status": "expired"
+    },
+    {
+      "code": "SCALEREFUND",
+      "reward": "x1 Leviathan Scale Refund",
       "status": "expired"
     },
     {
@@ -329,6 +309,16 @@
       "status": "expired"
     },
     {
+      "code": "SORRY",
+      "reward": "Exclusive Bait",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYQUEST",
+      "reward": "Luck Totem",
+      "status": "expired"
+    },
+    {
       "code": "SORRYSPINS",
       "reward": "Expired reward",
       "status": "expired"
@@ -339,8 +329,18 @@
       "status": "expired"
     },
     {
+      "code": "THEDEN",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "THEWHEEL",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TOTEMREFUND",
+      "reward": "Luck Totem",
       "status": "expired"
     },
     {
@@ -371,6 +371,11 @@
     {
       "code": "XMAS2024",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "YEEHAW",
+      "reward": "Cowboy Hat Halo ( )",
       "status": "expired"
     }
   ]

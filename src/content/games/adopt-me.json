@@ -1,8 +1,8 @@
 {
-  "title": "Adopt Me Codes (July 2026)",
+  "title": "Adopt Me Codes (August 2026)",
   "gameName": "Adopt Me",
   "description": "Adopt Me promo codes when available. No working codes right now.",
-  "updatedAt": "2026-07-29",
+  "updatedAt": "2026-08-01",
   "featured": false,
   "cover": "/images/games/card/adopt-me.webp",
   "placeId": 920587237,
@@ -26,5 +26,12 @@
       "a": "We refresh this page when new codes drop or old ones expire. Check the updated date above."
     }
   ],
-  "codes": []
+  "codes": [
+    {
+      "code": "PROUDFROGCopy",
+      "reward": "Proud Frog Sticker ( )",
+      "status": "active"
+    }
+  ],
+  "checkedAt": "2026-08-01"
 }

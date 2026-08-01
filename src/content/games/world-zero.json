@@ -1,9 +1,9 @@
 {
-  "title": "World Zero Codes (July 2026)",
+  "title": "World Zero Codes (August 2026)",
   "gameName": "World Zero",
   "description": "Working World Zero codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/world-zero.webp",
   "placeId": 2727067538,
@@ -31,6 +31,11 @@
     {
       "code": "925KLIKES",
       "reward": "150 Crystals",
+      "status": "active"
+    },
+    {
+      "code": "JIMOTHY",
+      "reward": "Jimothy ( )",
       "status": "active"
     },
     {

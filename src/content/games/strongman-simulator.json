@@ -1,9 +1,9 @@
 {
-  "title": "Strongman Simulator Codes (July 2026)",
+  "title": "Strongman Simulator Codes (August 2026)",
   "gameName": "Strongman Simulator",
   "description": "Working Strongman Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/strongman-simulator.webp",
   "placeId": 6766156863,
@@ -64,6 +64,11 @@
       "status": "active"
     },
     {
+      "code": "happysun",
+      "reward": "Use for 2x Energy for 30 mins ( )",
+      "status": "active"
+    },
+    {
       "code": "happyvalentinespump",
       "reward": "Use for 2x Workout Speed for 20 mins ( )",
       "status": "active"
@@ -96,6 +101,16 @@
     {
       "code": "strongman",
       "reward": "Use for a Duck",
+      "status": "active"
+    },
+    {
+      "code": "summertime",
+      "reward": "Use for 2x Coins for 60 mins ( )",
+      "status": "active"
+    },
+    {
+      "code": "sunshine",
+      "reward": "Use for 2x Energy for 30 mins ( )",
       "status": "active"
     },
     {

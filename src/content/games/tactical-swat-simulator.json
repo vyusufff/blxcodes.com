@@ -1,9 +1,9 @@
 {
-  "title": "Tactical Swat Simulator Codes (July 2026)",
+  "title": "Tactical Swat Simulator Codes (August 2026)",
   "gameName": "Tactical Swat Simulator",
   "description": "Working Tactical Swat Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/tactical-swat-simulator.webp",
   "placeId": 102837194624695,
@@ -29,8 +29,18 @@
   ],
   "codes": [
     {
+      "code": "CLANS",
+      "reward": "Redeem for 321 Cash ( )",
+      "status": "active"
+    },
+    {
       "code": "DIFFICULT",
       "reward": "150 Cash",
+      "status": "active"
+    },
+    {
+      "code": "GRENADES",
+      "reward": "Redeem for 123 Cash ( )",
       "status": "active"
     },
     {

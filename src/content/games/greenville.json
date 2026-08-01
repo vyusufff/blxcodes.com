@@ -1,9 +1,9 @@
 {
-  "title": "Greenville Codes (July 2026)",
+  "title": "Greenville Codes (August 2026)",
   "gameName": "Greenville",
   "description": "Working Greenville codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/greenville.webp",
   "placeId": 891852901,
@@ -36,6 +36,11 @@
     {
       "code": "FIRST_TO_DRIVE_ON_HIGHWAY",
       "reward": "Redeem for $30,000",
+      "status": "active"
+    },
+    {
+      "code": "FORDISHERE",
+      "reward": "Redeem for $80,000 ( , expired after 100K redeems)",
       "status": "active"
     },
     {

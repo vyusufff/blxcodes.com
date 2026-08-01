@@ -1,9 +1,9 @@
 {
-  "title": "A Universal Time Codes (July 2026)",
+  "title": "A Universal Time Codes (August 2026)",
   "gameName": "A Universal Time",
   "description": "Working A Universal Time codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/aut.webp",
   "placeId": 5130598377,
@@ -29,23 +29,8 @@
   ],
   "codes": [
     {
-      "code": "KNICKSWON",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "KNICKSWON2",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "KNICKSWON3",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "THEMESANDSUCH",
-      "reward": "Free Rewards",
+      "code": "WeReadTheComplaintsP2",
+      "reward": "Free rewards",
       "status": "active"
     },
     {
@@ -139,6 +124,21 @@
       "status": "expired"
     },
     {
+      "code": "KNICKSWON",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "KNICKSWON2",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "KNICKSWON3",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "LATESUMMER",
       "reward": "Expired reward",
       "status": "expired"
@@ -226,6 +226,11 @@
     {
       "code": "THEMASCOTS1",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THEMESANDSUCH",
+      "reward": "Free Rewards",
       "status": "expired"
     },
     {
