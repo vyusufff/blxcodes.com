@@ -1,9 +1,9 @@
 {
-  "title": "Hunty Zombie Codes (July 2026)",
+  "title": "Hunty Zombie Codes (August 2026)",
   "gameName": "Hunty Zombie",
   "description": "Working Hunty Zombie codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/hunty-zombies.webp",
   "placeId": 103754275310547,
@@ -29,17 +29,17 @@
   ],
   "codes": [
     {
-      "code": "goodNinjaBoy!",
+      "code": "BossRushRefresh!",
       "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits ( )",
       "status": "active"
     },
     {
-      "code": "KatanaEvo",
-      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits ( )",
+      "code": "Halberd!",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits ( )Halberd!:",
       "status": "active"
     },
     {
-      "code": "Laboratory!",
+      "code": "SaveHZ!",
       "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits ( )",
       "status": "active"
     },
@@ -139,6 +139,11 @@
       "status": "expired"
     },
     {
+      "code": "goodNinjaBoy!",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits ( )",
+      "status": "expired"
+    },
+    {
       "code": "HappyBirthdayHZ",
       "reward": "Expired reward",
       "status": "expired"
@@ -159,6 +164,11 @@
       "status": "expired"
     },
     {
+      "code": "KatanaEvo",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits ( )",
+      "status": "expired"
+    },
+    {
       "code": "Kitsune!",
       "reward": "Expired reward",
       "status": "expired"
@@ -166,6 +176,11 @@
     {
       "code": "KrakenAttack!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Laboratory!",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits ( )",
       "status": "expired"
     },
     {

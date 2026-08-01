@@ -1,9 +1,9 @@
 {
-  "title": "Blue Lock Rivals Codes (July 2026)",
+  "title": "Blue Lock Rivals Codes (August 2026)",
   "gameName": "Blue Lock Rivals",
   "description": "Working Blue Lock Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/blue-lock-rivals.webp",
   "placeId": 18668065416,
@@ -29,18 +29,18 @@
   ],
   "codes": [
     {
-      "code": "NEWMAP",
+      "code": "NESSNEXTWEEK",
+      "reward": "5 Lucky Style Spins and 5 Lucky Flows ( )",
+      "status": "active"
+    },
+    {
+      "code": "TEAMBRAZIL",
+      "reward": "5 Lucky Style Spins ( )",
+      "status": "active"
+    },
+    {
+      "code": "TEAMSPAIN",
       "reward": "5 Lucky Flows ( )",
-      "status": "active"
-    },
-    {
-      "code": "SEMIFINALS",
-      "reward": "5 Lucky Spins and 5 Lucky Flow ( )",
-      "status": "active"
-    },
-    {
-      "code": "WORLDTOURNAMENTPART3",
-      "reward": "5 Lucky Spins ( )",
       "status": "active"
     },
     {
@@ -159,6 +159,11 @@
       "status": "expired"
     },
     {
+      "code": "NEWMAP",
+      "reward": "5 Lucky Flows ( )",
+      "status": "expired"
+    },
+    {
       "code": "QOLUPD",
       "reward": "Expired reward",
       "status": "expired"
@@ -204,6 +209,11 @@
       "status": "expired"
     },
     {
+      "code": "SEMIFINALS",
+      "reward": "5 Lucky Spins and 5 Lucky Flow ( )",
+      "status": "expired"
+    },
+    {
       "code": "SHIDOU",
       "reward": "Expired reward",
       "status": "expired"
@@ -236,6 +246,11 @@
     {
       "code": "WORLDTOURNAMENT",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WORLDTOURNAMENTPART3",
+      "reward": "5 Lucky Spins ( )",
       "status": "expired"
     },
     {

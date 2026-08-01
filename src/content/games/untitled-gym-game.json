@@ -1,9 +1,9 @@
 {
-  "title": "Untitled Gym League Codes (July 2026)",
+  "title": "Untitled Gym League Codes (August 2026)",
   "gameName": "Untitled Gym League",
   "description": "Working Untitled Gym League codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/untitled-gym-game.webp",
   "placeId": 17450551531,
@@ -29,6 +29,21 @@
   ],
   "codes": [
     {
+      "code": "1MVISITS",
+      "reward": "1.5x stamina regen for 30 minutes ( )",
+      "status": "active"
+    },
+    {
+      "code": "2MVISITS",
+      "reward": "1.5x stamina regen for 30 minutes ( )",
+      "status": "active"
+    },
+    {
+      "code": "3MVISITS",
+      "reward": "1.5x stamina regen for 30 minutes ( )",
+      "status": "active"
+    },
+    {
       "code": "CrewWorker",
       "reward": "10 Creatine, 2x Crew XP for 60 minutes ( )",
       "status": "active"
@@ -36,6 +51,11 @@
     {
       "code": "Starter",
       "reward": "$999, 5 Whey, 5 Creatine, 2x Gains for 60 minutes ( )",
+      "status": "active"
+    },
+    {
+      "code": "Updatelol",
+      "reward": "1.5x gains for 15 minutes, $10,000, 20 whey, 20 creatine, 20 pre-workout ( )",
       "status": "active"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "title": "Anime Final Quest Codes (July 2026)",
+  "title": "Anime Final Quest Codes (August 2026)",
   "gameName": "Anime Final Quest",
   "description": "Working Anime Final Quest codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/anime-final-quest.webp",
   "placeId": 100744519298647,
@@ -34,6 +34,11 @@
       "status": "active"
     },
     {
+      "code": "GAMEMODEUPDATEDELAY",
+      "reward": "100 Gear Lucky Spins, 100 Weapon Lucky Spins, 150k Gold, and 100 Runes ( )",
+      "status": "active"
+    },
+    {
       "code": "HOLLOWPURPLEGEAR",
       "reward": "50 Gear Lucky Spins ( )",
       "status": "active"
@@ -51,6 +56,11 @@
     {
       "code": "OLDWEAPONSGRINDFIX",
       "reward": "85 Runes, 20 Raid Tickets, and 50 Weapon Lucky Spins ( )",
+      "status": "active"
+    },
+    {
+      "code": "PROMISEDCODE",
+      "reward": "20 Statue Crowns, 20 Soul Manipulator Hands and 3 Million Gold ( )",
       "status": "active"
     },
     {
