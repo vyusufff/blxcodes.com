@@ -1,8 +1,8 @@
 {
-  "title": "Fisch Codes (July 2026)",
+  "title": "Fisch Codes (August 2026)",
   "gameName": "Fisch",
   "description": "Working Fisch Roblox codes for coins, items, skins, and fishing rewards.",
-  "updatedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/fisch.webp",
   "placeId": 16732694052,
@@ -30,6 +30,11 @@
     {
       "code": "CARBON",
       "reward": "Free Carbon bobber",
+      "status": "active"
+    },
+    {
+      "code": "HarpoonGunsAreAwesome",
+      "reward": "1000 Coins, Chaotic Crasher Harpoon skin, 5x Icy Fisch&#8217;n Dots, 5x Coral Pearl, 5x Cotton Candy Pieces, 5x Tropical Fruit mix, and a Random Totem ( )",
       "status": "active"
     },
     {
@@ -578,5 +583,5 @@
       "status": "expired"
     }
   ],
-  "checkedAt": "2026-07-31"
+  "checkedAt": "2026-08-01"
 }

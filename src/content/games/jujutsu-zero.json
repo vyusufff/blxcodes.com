@@ -1,9 +1,9 @@
 {
-  "title": "Jujutsu Zero Codes (July 2026)",
+  "title": "Jujutsu Zero Codes (August 2026)",
   "gameName": "Jujutsu Zero",
   "description": "Working Jujutsu Zero codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/jujutsu-zero.webp",
   "placeId": 128451689942376,
@@ -49,7 +49,7 @@
       "status": "active"
     },
     {
-      "code": "SUMMERBLADE",
+      "code": "MAHORAGA",
       "reward": "500 Cursed Crystals, 3.5k Lumens, and 50 Clan Rolls ( )",
       "status": "active"
     },
@@ -226,6 +226,11 @@
     {
       "code": "STARRAGEV2",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SUMMERBLADE",
+      "reward": "500 Cursed Crystals, 3.5k Lumens, and 50 Clan Rolls ( )",
       "status": "expired"
     },
     {

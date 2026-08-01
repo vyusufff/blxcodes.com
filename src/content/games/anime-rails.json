@@ -1,9 +1,9 @@
 {
-  "title": "Anime Rails Codes (July 2026)",
+  "title": "Anime Rails Codes (August 2026)",
   "gameName": "Anime Rails",
   "description": "Working Anime Rails codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/anime-rails.webp",
   "placeId": 86628581581863,
@@ -29,22 +29,12 @@
   ],
   "codes": [
     {
-      "code": "ATOMICDELAY",
-      "reward": "Free Cash ( )",
-      "status": "active"
-    },
-    {
       "code": "ATOMICV2",
       "reward": "Free Cash ( )",
       "status": "active"
     },
     {
-      "code": "SAGE",
-      "reward": "500 Cash",
-      "status": "active"
-    },
-    {
-      "code": "SUNGEAR",
+      "code": "MODULO",
       "reward": "Free Cash ( )",
       "status": "active"
     },
@@ -106,6 +96,11 @@
     {
       "code": "ASSASSIN",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ATOMICDELAY",
+      "reward": "Free Cash ( )",
       "status": "expired"
     },
     {
@@ -209,6 +204,11 @@
       "status": "expired"
     },
     {
+      "code": "SAGE",
+      "reward": "500 Cash",
+      "status": "expired"
+    },
+    {
       "code": "SHIBUYA",
       "reward": "Expired reward",
       "status": "expired"
@@ -216,6 +216,11 @@
     {
       "code": "SKULL",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SUNGEAR",
+      "reward": "Free Cash ( )",
       "status": "expired"
     },
     {

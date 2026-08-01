@@ -1,9 +1,9 @@
 {
-  "title": "Basketball Rivals Codes (July 2026)",
+  "title": "Basketball Rivals Codes (August 2026)",
   "gameName": "Basketball Rivals",
   "description": "Working Basketball Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/basketball-rivals.webp",
   "placeId": 130739873848552,
@@ -29,18 +29,18 @@
   ],
   "codes": [
     {
-      "code": "15SILVER",
-      "reward": "15 Lucky Spins ( )",
-      "status": "active"
-    },
-    {
-      "code": "SILVERRETURN",
+      "code": "EMPERORREWORK",
       "reward": "10 Lucky Spins ( )",
       "status": "active"
     },
     {
       "code": "10CHROLLOV2",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "15SILVER",
+      "reward": "15 Lucky Spins ( )",
       "status": "expired"
     },
     {
@@ -216,6 +216,11 @@
     {
       "code": "SHADOWQUEST",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SILVERRETURN",
+      "reward": "10 Lucky Spins ( )",
       "status": "expired"
     },
     {

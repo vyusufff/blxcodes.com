@@ -1,9 +1,9 @@
 {
-  "title": "Haikyuu Legends Codes (July 2026)",
+  "title": "Haikyuu Legends Codes (August 2026)",
   "gameName": "Haikyuu Legends",
   "description": "Working Haikyuu Legends codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/haikyuu-legends.webp",
   "placeId": 73956553001240,
@@ -29,17 +29,17 @@
   ],
   "codes": [
     {
-      "code": "ENCHO_NERF",
+      "code": "KNEE_SLIDE",
       "reward": "5 Lucky Ability Spins ( )",
       "status": "active"
     },
     {
-      "code": "HIDARI_FINALLY",
+      "code": "LEAD_FEET_AGAIN",
       "reward": "5 Lucky Style Spins ( )",
       "status": "active"
     },
     {
-      "code": "UPDATE_80",
+      "code": "UPDATE_81",
       "reward": "5 Lucky Style Spins ( )",
       "status": "active"
     },
@@ -69,6 +69,11 @@
       "status": "expired"
     },
     {
+      "code": "ENCHO_NERF",
+      "reward": "5 Lucky Ability Spins ( )",
+      "status": "expired"
+    },
+    {
       "code": "ENCHO_RETURNS",
       "reward": "Expired reward",
       "status": "expired"
@@ -76,6 +81,11 @@
     {
       "code": "FESTIVAL_UPD",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HIDARI_FINALLY",
+      "reward": "5 Lucky Style Spins ( )",
       "status": "expired"
     },
     {
@@ -231,6 +241,11 @@
     {
       "code": "UPDATE_79",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE_80",
+      "reward": "5 Lucky Style Spins ( )",
       "status": "expired"
     },
     {

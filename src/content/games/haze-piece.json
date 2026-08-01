@@ -1,9 +1,9 @@
 {
-  "title": "Haze Piece Codes (July 2026)",
+  "title": "Haze Piece Codes (August 2026)",
   "gameName": "Haze Piece",
   "description": "Working Haze Piece codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/haze-piece.webp",
   "placeId": 6918802270,
@@ -36,6 +36,11 @@
     {
       "code": "300KMEMBERS",
       "reward": "30M x2 EXP",
+      "status": "active"
+    },
+    {
+      "code": "CRIMSONEMPEROR",
+      "reward": "5 Race Spins ( )",
       "status": "active"
     },
     {
@@ -76,6 +81,11 @@
     {
       "code": "PATCH",
       "reward": "Gems 1H x2 EXP",
+      "status": "active"
+    },
+    {
+      "code": "PHANTOMSHIP",
+      "reward": "5 Race Spins ( )",
       "status": "active"
     },
     {
