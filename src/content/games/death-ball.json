@@ -1,9 +1,9 @@
 {
-  "title": "Death Ball Codes (July 2026)",
+  "title": "Death Ball Codes (August 2026)",
   "gameName": "Death Ball",
   "description": "Working Death Ball codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/death-ball.webp",
   "placeId": 15002061926,
@@ -134,6 +134,11 @@
       "status": "active"
     },
     {
+      "code": "MAJESTIC",
+      "reward": "500 Crystals ( )",
+      "status": "active"
+    },
+    {
       "code": "MISAKI",
       "reward": "25,000 Gems",
       "status": "active"
@@ -171,6 +176,11 @@
     {
       "code": "RANKEDUPDSOON",
       "reward": "50,000 Gems",
+      "status": "active"
+    },
+    {
+      "code": "ROYAL",
+      "reward": "30,000 Gems ( )",
       "status": "active"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "title": "Gym Star Simulator Codes (July 2026)",
+  "title": "Gym Star Simulator Codes (August 2026)",
   "gameName": "Gym Star Simulator",
   "description": "Working Gym Star Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/gym-star-simulator.webp",
   "placeId": 70906625936847,
@@ -111,6 +111,11 @@
     {
       "code": "STALCRY",
       "reward": "5000 Enchanted Crystals",
+      "status": "active"
+    },
+    {
+      "code": "SUMMERHEAT",
+      "reward": "1250 Gym Tokens ( )",
       "status": "active"
     },
     {

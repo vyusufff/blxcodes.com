@@ -1,9 +1,9 @@
 {
-  "title": "Dragon Soul Codes (July 2026)",
+  "title": "Dragon Soul Codes (August 2026)",
   "gameName": "Dragon Soul",
   "description": "Working Dragon Soul codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/dragon-soul.webp",
   "placeId": 8246874626,
@@ -54,23 +54,13 @@
       "status": "active"
     },
     {
-      "code": "GODREWORK",
-      "reward": "7 Dragon Balls",
+      "code": "newqolupdate",
+      "reward": "7 Dragon Balls ( )",
       "status": "active"
     },
     {
       "code": "qolupdate",
       "reward": "7 Dragon Balls (must be verified on Discord)",
-      "status": "active"
-    },
-    {
-      "code": "valentine",
-      "reward": "7 Dragon Balls",
-      "status": "active"
-    },
-    {
-      "code": "webrokeraids",
-      "reward": "Reset all of your raid cooldowns",
       "status": "active"
     },
     {
@@ -179,6 +169,11 @@
       "status": "expired"
     },
     {
+      "code": "GODREWORK",
+      "reward": "7 Dragon Balls",
+      "status": "expired"
+    },
+    {
       "code": "HalloweenHype",
       "reward": "Expired reward",
       "status": "expired"
@@ -266,6 +261,16 @@
     {
       "code": "up!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "valentine",
+      "reward": "7 Dragon Balls",
+      "status": "expired"
+    },
+    {
+      "code": "webrokeraids",
+      "reward": "Reset all of your raid cooldowns",
       "status": "expired"
     },
     {
