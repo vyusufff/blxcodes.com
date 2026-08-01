@@ -1,9 +1,9 @@
 {
-  "title": "Basketball Legends Codes (July 2026)",
+  "title": "Basketball Legends Codes (August 2026)",
   "gameName": "Basketball Legends",
   "description": "Working Basketball Legends codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
+  "checkedAt": "2026-08-01",
   "featured": true,
   "cover": "/images/games/card/basketball-legends.webp",
   "placeId": 14259168147,
@@ -49,6 +49,11 @@
       "status": "active"
     },
     {
+      "code": "BLOCKS",
+      "reward": "Summer Effect Case ( )",
+      "status": "active"
+    },
+    {
       "code": "CLANREWORK",
       "reward": "5K Coins",
       "status": "active"
@@ -56,6 +61,16 @@
     {
       "code": "COINBOOST",
       "reward": "2x Coin Boost for 30 minutes",
+      "status": "active"
+    },
+    {
+      "code": "GREEN",
+      "reward": "Summer Skin Case ( )",
+      "status": "active"
+    },
+    {
+      "code": "HELMET",
+      "reward": "Summer Skin Case ( )",
       "status": "active"
     },
     {
