@@ -1,9 +1,9 @@
 {
-  "title": "Soccer Zero Codes (July 2026)",
+  "title": "Soccer Zero Codes (August 2026)",
   "gameName": "Soccer Zero",
   "description": "Working Soccer Zero codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-02",
+  "checkedAt": "2026-08-02",
   "featured": true,
   "cover": "/images/games/card/soccer-zero.webp",
   "placeId": 75462869229229,
@@ -29,23 +29,18 @@
   ],
   "codes": [
     {
-      "code": "30MWILDCARD",
-      "reward": "6 Lucky Style and Flow Spins",
-      "status": "active"
-    },
-    {
-      "code": "NEWBEGINNINGS",
-      "reward": "5 Lucky Style and Flow Spins ( )",
-      "status": "active"
-    },
-    {
-      "code": "WILDCARD",
-      "reward": "5 Lucky Style and Flow Spins",
+      "code": "GAMEMODES",
+      "reward": "5 Lucky Style Spins and Lucky Flow Spins ( )",
       "status": "active"
     },
     {
       "code": "30MREWORK",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "30MWILDCARD",
+      "reward": "6 Lucky Style and Flow Spins",
       "status": "expired"
     },
     {
@@ -179,6 +174,11 @@
       "status": "expired"
     },
     {
+      "code": "NEWBEGINNINGS",
+      "reward": "5 Lucky Style and Flow Spins ( )",
+      "status": "expired"
+    },
+    {
       "code": "NEWPATCHESW",
       "reward": "Expired reward",
       "status": "expired"
@@ -231,6 +231,11 @@
     {
       "code": "Volleyball",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WILDCARD",
+      "reward": "5 Lucky Style and Flow Spins",
       "status": "expired"
     },
     {

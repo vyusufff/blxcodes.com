@@ -1,9 +1,9 @@
 {
-  "title": "Mine a Planet Codes (July 2026)",
+  "title": "Mine a Planet Codes (August 2026)",
   "gameName": "Mine a Planet",
   "description": "Working Mine a Planet codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-02",
+  "checkedAt": "2026-08-02",
   "featured": true,
   "cover": "/images/games/card/mine-a-planet.webp",
   "placeId": 121125129560252,
@@ -41,6 +41,11 @@
     {
       "code": "DRONES",
       "reward": "1x Drone Pack",
+      "status": "active"
+    },
+    {
+      "code": "EARTH",
+      "reward": "UFO CPU ( )",
       "status": "active"
     },
     {

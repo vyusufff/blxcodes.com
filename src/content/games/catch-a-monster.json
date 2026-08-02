@@ -1,9 +1,9 @@
 {
-  "title": "Catch a Monster Codes (July 2026)",
+  "title": "Catch a Monster Codes (August 2026)",
   "gameName": "Catch a Monster",
   "description": "Working Catch a Monster codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-02",
+  "checkedAt": "2026-08-02",
   "featured": true,
   "cover": "/images/games/card/catch-a-monster.webp",
   "placeId": 98664161516921,
@@ -111,6 +111,11 @@
     {
       "code": "nampyra",
       "reward": "XP and Coin Potions",
+      "status": "active"
+    },
+    {
+      "code": "PSYPEON",
+      "reward": "Pure Chaos Elixir ( )",
       "status": "active"
     },
     {

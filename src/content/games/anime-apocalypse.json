@@ -1,9 +1,9 @@
 {
-  "title": "Anime Apocalypse Codes (July 2026)",
+  "title": "Anime Apocalypse Codes (August 2026)",
   "gameName": "Anime Apocalypse",
   "description": "Working Anime Apocalypse codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-02",
+  "checkedAt": "2026-08-02",
   "featured": true,
   "cover": "/images/games/card/anime-apocalypse.webp",
   "placeId": 140409475718339,
@@ -29,23 +29,13 @@
   ],
   "codes": [
     {
-      "code": "KINGOFCURSESEVO",
+      "code": "EYEPATCH",
       "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts ( )",
       "status": "active"
     },
     {
-      "code": "NUMBERONE",
-      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
-      "status": "active"
-    },
-    {
-      "code": "PRIMERAESPADA",
-      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
-      "status": "active"
-    },
-    {
-      "code": "THEALMIGHTY",
-      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
+      "code": "WHITEREAPER",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts ( )",
       "status": "active"
     },
     {
@@ -129,6 +119,11 @@
       "status": "expired"
     },
     {
+      "code": "KINGOFCURSESEVO",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts ( )",
+      "status": "expired"
+    },
+    {
       "code": "LIMITEDABILITY",
       "reward": "Expired reward",
       "status": "expired"
@@ -161,6 +156,16 @@
     {
       "code": "NEWGAMEMODE",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NUMBERONE",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
+      "status": "expired"
+    },
+    {
+      "code": "PRIMERAESPADA",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "expired"
     },
     {
@@ -221,6 +226,11 @@
     {
       "code": "THANKYOUFOR10K2",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THEALMIGHTY",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "expired"
     },
     {
