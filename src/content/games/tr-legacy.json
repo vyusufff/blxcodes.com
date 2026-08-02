@@ -2,8 +2,8 @@
   "title": "TR Legacy Codes (August 2026) Codes (July 2026)",
   "gameName": "TR Legacy Codes (July 2026)",
   "description": "Working TR Legacy Codes (July 2026) codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-01",
-  "checkedAt": "2026-08-01",
+  "updatedAt": "2026-08-02",
+  "checkedAt": "2026-08-02",
   "featured": true,
   "cover": "/images/games/card/tr-legacy.webp",
   "placeId": 127089247654125,
@@ -28,16 +28,6 @@
     }
   ],
   "codes": [
-    {
-      "code": "GROUP1500000MEMBERS",
-      "reward": "60,000 Cash and 1,500 XP ( )",
-      "status": "active"
-    },
-    {
-      "code": "HOLY1MIL",
-      "reward": "60,000 Cash and 1,500 XP ( )",
-      "status": "active"
-    },
     {
       "code": "IDONTGETPAID",
       "reward": "70,000 Cash and 1,800 XP ( )",
@@ -126,6 +116,16 @@
     {
       "code": "Get",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GROUP1500000MEMBERS",
+      "reward": "60,000 Cash and 1,500 XP ( )",
+      "status": "expired"
+    },
+    {
+      "code": "HOLY1MIL",
+      "reward": "60,000 Cash and 1,500 XP ( )",
       "status": "expired"
     },
     {

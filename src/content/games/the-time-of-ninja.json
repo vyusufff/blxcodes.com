@@ -1,9 +1,9 @@
 {
-  "title": "The Time of Ninja Codes (July 2026)",
+  "title": "The Time of Ninja Codes (August 2026)",
   "gameName": "The Time of Ninja",
   "description": "Working The Time of Ninja codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-02",
+  "checkedAt": "2026-08-02",
   "featured": true,
   "cover": "/images/games/card/the-time-of-ninja.webp",
   "placeId": 8075399143,
@@ -149,6 +149,16 @@
       "status": "active"
     },
     {
+      "code": "MovesetUIRework!",
+      "reward": "15 Spins of all types ( )",
+      "status": "active"
+    },
+    {
+      "code": "NewChakraJump!",
+      "reward": "15 Spins of all types ( )",
+      "status": "active"
+    },
+    {
       "code": "NewSandMissions!",
       "reward": "15 Spins of all types",
       "status": "active"
@@ -231,6 +241,11 @@
     {
       "code": "SusanooSoon!",
       "reward": "50 Spins of all types",
+      "status": "active"
+    },
+    {
+      "code": "ThanksFor3KInterested!",
+      "reward": "50 Spins of all types ( )",
       "status": "active"
     },
     {

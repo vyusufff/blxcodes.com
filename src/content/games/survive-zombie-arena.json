@@ -1,9 +1,9 @@
 {
-  "title": "Survive Zombie Arena Codes (July 2026)",
+  "title": "Survive Zombie Arena Codes (August 2026)",
   "gameName": "Survive Zombie Arena",
   "description": "Working Survive Zombie Arena codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-02",
+  "checkedAt": "2026-08-02",
   "featured": true,
   "cover": "/images/games/card/survive-zombie-arena.webp",
   "placeId": 114204398207377,
@@ -29,6 +29,16 @@
   ],
   "codes": [
     {
+      "code": "BEWARETHETUNDRA",
+      "reward": "1 Artifact Crate spin ( )",
+      "status": "active"
+    },
+    {
+      "code": "COOLPFPSWAG",
+      "reward": "3 Bloodmoon spins and 2x Bloodmoon Shards for 4h ( )",
+      "status": "active"
+    },
+    {
       "code": "DELAY",
       "reward": "2,500 Credits and 1 Bloodmoon Crate ( )",
       "status": "active"
@@ -39,13 +49,8 @@
       "status": "active"
     },
     {
-      "code": "MUTATE",
-      "reward": "10,500 Credits ( )",
-      "status": "active"
-    },
-    {
-      "code": "SORRY4DELAY",
-      "reward": "5,000 Credits, 1 Bloodmoon Spin, and 2x Bloodmoon Shards for 12 hours ( )",
+      "code": "LUVUGUYS",
+      "reward": "1 Bloodmoon spin ( )",
       "status": "active"
     },
     {
@@ -174,6 +179,11 @@
       "status": "expired"
     },
     {
+      "code": "MUTATE",
+      "reward": "10,500 Credits ( )",
+      "status": "expired"
+    },
+    {
       "code": "Nectarforge",
       "reward": "Expired reward",
       "status": "expired"
@@ -216,6 +226,11 @@
     {
       "code": "sometimes",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY4DELAY",
+      "reward": "5,000 Credits, 1 Bloodmoon Spin, and 2x Bloodmoon Shards for 12 hours ( )",
       "status": "expired"
     },
     {

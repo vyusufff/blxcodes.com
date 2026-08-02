@@ -1,9 +1,9 @@
 {
-  "title": "Dragon Ball Rage Codes (July 2026)",
+  "title": "Dragon Ball Rage Codes (August 2026)",
   "gameName": "Dragon Ball Rage",
   "description": "Working Dragon Ball Rage codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-02",
+  "checkedAt": "2026-08-02",
   "featured": true,
   "cover": "/images/games/card/dragon-ball-rage.webp",
   "placeId": 71315343,
@@ -101,6 +101,11 @@
     {
       "code": "NEXT_WEEK",
       "reward": "2,000 Zeni",
+      "status": "active"
+    },
+    {
+      "code": "RetroEvent",
+      "reward": "2 Dragon Balls ( )",
       "status": "active"
     },
     {
