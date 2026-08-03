@@ -2,8 +2,8 @@
   "title": "Card Chronicles Codes (August 2026)",
   "gameName": "Card Chronicles",
   "description": "Working Card Chronicles codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-01",
-  "checkedAt": "2026-08-01",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/card-chronicles.webp",
   "placeId": 114758508835875,
@@ -74,8 +74,23 @@
       "status": "active"
     },
     {
+      "code": "LARPMONSTER!",
+      "reward": "Free Rewards ( )",
+      "status": "active"
+    },
+    {
       "code": "MemoryCompensation!",
       "reward": "Free Rewards (requires 25k rolls)",
+      "status": "active"
+    },
+    {
+      "code": "NEWSTORYMAP!",
+      "reward": "Free Rewards ( )",
+      "status": "active"
+    },
+    {
+      "code": "RAIDS!",
+      "reward": "Free Rewards ( )",
       "status": "active"
     },
     {
@@ -91,6 +106,11 @@
     {
       "code": "Sorry2!",
       "reward": "Free Rewards (requires 25k rolls)",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORMAINTENANCE!",
+      "reward": "Free Rewards ( )",
       "status": "active"
     },
     {

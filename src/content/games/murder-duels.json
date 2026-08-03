@@ -1,9 +1,9 @@
 {
-  "title": "Murder Duels Codes (July 2026)",
+  "title": "Murder Duels Codes (August 2026)",
   "gameName": "Murder Duels",
   "description": "Working Murder Duels codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/murder-duels.webp",
   "placeId": 120851538706364,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "100MOG",
+      "reward": "Exclusive OG Knife ( )",
+      "status": "active"
+    },
     {
       "code": "20KLIKES",
       "reward": "Recruit Case ( )",

@@ -1,9 +1,9 @@
 {
-  "title": "Rogue Piece Codes (July 2026)",
+  "title": "Rogue Piece Codes (August 2026)",
   "gameName": "Rogue Piece",
   "description": "Working Rogue Piece codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/rogue-piece.webp",
   "placeId": 84988808589910,
@@ -29,13 +29,18 @@
   ],
   "codes": [
     {
-      "code": "OPCODE1",
-      "reward": "75 Rogue&#8217;s Blessings, 500 Clan Rerolls, 2 Ultimate Boxes, and 5 Violet Emblems ( )",
+      "code": "BeerusIsFurious",
+      "reward": "5x of All 2x Potions ( , LEVEL 5,000 REQUIREMENT)",
       "status": "active"
     },
     {
-      "code": "SaberAlter!",
-      "reward": "500,000,000 Coins, 1,500,000 Gems, 500,000 Fragments of Rogue, 2 Violet Emblems, and 5 Lucky Boxes ( )",
+      "code": "GodOfDestruction",
+      "reward": "Dragon Ball 1, Dragon Ball 2, Dragon Ball 3, and Cat Food 1 ( , LEVEL 5,000 REQUIREMENT)",
+      "status": "active"
+    },
+    {
+      "code": "Noob",
+      "reward": "10,000,000 Gold, 5,000,000 Gems, and 100 Reroll Shards ( )",
       "status": "active"
     },
     {
@@ -104,6 +109,11 @@
       "status": "expired"
     },
     {
+      "code": "OPCODE1",
+      "reward": "75 Rogue&#8217;s Blessings, 500 Clan Rerolls, 2 Ultimate Boxes, and 5 Violet Emblems ( )",
+      "status": "expired"
+    },
+    {
       "code": "Piece",
       "reward": "Expired reward",
       "status": "expired"
@@ -136,6 +146,11 @@
     {
       "code": "RukiaAwakens!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SaberAlter!",
+      "reward": "500,000,000 Coins, 1,500,000 Gems, 500,000 Fragments of Rogue, 2 Violet Emblems, and 5 Lucky Boxes ( )",
       "status": "expired"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "title": "Own a Fish Pond Codes (July 2026)",
+  "title": "Own a Fish Pond Codes (August 2026)",
   "gameName": "Own a Fish Pond",
   "description": "Working Own a Fish Pond codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/own-a-fish-pond.webp",
   "placeId": 130223052405478,
@@ -46,6 +46,11 @@
     {
       "code": "BACKROOMS",
       "reward": "1 OG Bucket",
+      "status": "active"
+    },
+    {
+      "code": "BLUEMOON",
+      "reward": "1 Deep Bucket ( )",
       "status": "active"
     },
     {

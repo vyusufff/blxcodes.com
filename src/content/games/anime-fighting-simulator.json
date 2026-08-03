@@ -1,9 +1,9 @@
 {
-  "title": "Anime Fighting Simulator Codes (July 2026)",
+  "title": "Anime Fighting Simulator Codes (August 2026)",
   "gameName": "Anime Fighting Simulator",
   "description": "Working Anime Fighting Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/anime-fighting-simulator.webp",
   "placeId": 100429474155186,
@@ -46,6 +46,16 @@
     {
       "code": "DELAYCODE",
       "reward": "8 Dungeon Keys",
+      "status": "active"
+    },
+    {
+      "code": "DIM2FIXES",
+      "reward": "1 Temp Server Boost and 500 Tensei Shards ( )",
+      "status": "active"
+    },
+    {
+      "code": "DIMENSION2",
+      "reward": "500 Tensei Shards, 2 Yen Boosts, 2 Stat Boosts, and 2 Speed Training Boosts ( )",
       "status": "active"
     },
     {

@@ -2,8 +2,8 @@
   "title": "Huzz RNG Codes (August 2026)",
   "gameName": "Huzz RNG",
   "description": "Working Huzz RNG codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-01",
-  "checkedAt": "2026-08-01",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/huzz-rng.webp",
   "placeId": 89100823864844,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "4KCCU",
+      "reward": "75 Premium Potion Crates, 75 Premium Goodie Crates, and 1 Glitched Potion",
+      "status": "active"
+    },
     {
       "code": "ADMIRINGYOU",
       "reward": "Free Rewards⁨⁨⁨",
@@ -134,6 +139,16 @@
       "status": "active"
     },
     {
+      "code": "LIVEANNOUNCE",
+      "reward": "100 Prem Potion Crates",
+      "status": "active"
+    },
+    {
+      "code": "LIVEEVENT",
+      "reward": "50 Premium Crates",
+      "status": "active"
+    },
+    {
       "code": "OBLITERATETESTERS",
       "reward": "25 Premium Goodie Crates and 25 Premium Potion Crates",
       "status": "active"
@@ -176,6 +191,11 @@
     {
       "code": "SUGGESTIONS!",
       "reward": "25 Premium Goodie Crates and 25 Premium Potion Crates",
+      "status": "active"
+    },
+    {
+      "code": "TAGDEMON",
+      "reward": "1 Sov, 1 Omega, and 1 Glitched",
       "status": "active"
     },
     {
