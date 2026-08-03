@@ -2,8 +2,8 @@
   "title": "Anime Final Quest Codes (August 2026)",
   "gameName": "Anime Final Quest",
   "description": "Working Anime Final Quest codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-01",
-  "checkedAt": "2026-08-01",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/anime-final-quest.webp",
   "placeId": 100744519298647,
@@ -31,6 +31,11 @@
     {
       "code": "BATTLEPASS",
       "reward": "55K Cash, 50 Weapon Lucky Spins, and 50 Gear Lucky Spins",
+      "status": "active"
+    },
+    {
+      "code": "FLAMINGO",
+      "reward": "150K Gold, 50 Gear Lucky Spins ( )",
       "status": "active"
     },
     {
@@ -71,6 +76,11 @@
     {
       "code": "SONKING",
       "reward": "60 Runes, and 50 Raid Tickets",
+      "status": "active"
+    },
+    {
+      "code": "TOWERPROTECTION",
+      "reward": "20 Raid Tickets, 50 Weapon Lucky Spins, 75 Runes ( )",
       "status": "active"
     },
     {

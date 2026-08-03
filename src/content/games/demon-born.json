@@ -1,9 +1,9 @@
 {
-  "title": "Demon Born Codes (July 2026)",
+  "title": "Demon Born Codes (August 2026)",
   "gameName": "Demon Born",
   "description": "Working Demon Born codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/demon-born.webp",
   "placeId": 79833666916700,
@@ -34,6 +34,11 @@
       "status": "active"
     },
     {
+      "code": "2KUSESTENGU",
+      "reward": "Free Rewards ( , level 10)",
+      "status": "active"
+    },
+    {
       "code": "3MVISITS",
       "reward": "Free Blood Art Spins and Items ( , level 10)",
       "status": "active"
@@ -44,28 +49,13 @@
       "status": "active"
     },
     {
-      "code": "BLOODMOON2",
-      "reward": "10 Blood Art Spins ( , level 10)",
-      "status": "active"
-    },
-    {
-      "code": "FAMILY30",
-      "reward": "Free Rewards ( , level 10)",
-      "status": "active"
-    },
-    {
-      "code": "MUZANTRAIN1",
-      "reward": "Free clan spins",
-      "status": "active"
-    },
-    {
       "code": "NOTYBUGSORRY",
       "reward": "Free clan spins",
       "status": "active"
     },
     {
-      "code": "ZZZZZ",
-      "reward": "Free Blood Art Spins and Items ( , level 10)",
+      "code": "NOTYSLEEP",
+      "reward": "Free Rewards ( , level 10)",
       "status": "active"
     },
     {
@@ -96,6 +86,11 @@
     {
       "code": "Blade",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BLOODMOON2",
+      "reward": "10 Blood Art Spins ( , level 10)",
       "status": "expired"
     },
     {
@@ -134,8 +129,18 @@
       "status": "expired"
     },
     {
+      "code": "FAMILY30",
+      "reward": "Free Rewards ( , level 10)",
+      "status": "expired"
+    },
+    {
       "code": "MUDARGENERONAOUSESEFORTROCAR",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MUZANTRAIN1",
+      "reward": "Free clan spins",
       "status": "expired"
     },
     {
@@ -266,6 +271,11 @@
     {
       "code": "VISITS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ZZZZZ",
+      "reward": "Free Blood Art Spins and Items ( , level 10)",
       "status": "expired"
     }
   ]
