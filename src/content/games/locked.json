@@ -1,9 +1,9 @@
 {
-  "title": "Locked Codes (July 2026)",
+  "title": "Locked Codes (August 2026)",
   "gameName": "Locked",
   "description": "Working Locked codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/locked.webp",
   "placeId": 109883052223750,
@@ -81,6 +81,11 @@
     {
       "code": "REWORKEDCHALLENGES",
       "reward": "15k Yen",
+      "status": "active"
+    },
+    {
+      "code": "WEAREBACK",
+      "reward": "25k Yen ( )",
       "status": "active"
     },
     {

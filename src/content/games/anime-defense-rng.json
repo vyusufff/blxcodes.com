@@ -1,9 +1,9 @@
 {
-  "title": "Anime RNG Defense Codes (July 2026)",
+  "title": "Anime RNG Defense Codes (August 2026)",
   "gameName": "Anime RNG Defense",
   "description": "Working Anime RNG Defense codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "howTo": [
     "Launch Anime RNG Defense on Roblox.",
@@ -52,6 +52,11 @@
       "status": "active"
     },
     {
+      "code": "SOLOEVENT",
+      "reward": "Cursed Fingers and Divine Rerolls ( , requires 10K Rolls to redeem)",
+      "status": "active"
+    },
+    {
       "code": "SORRYFORSHUTDOWN2",
       "reward": "200 Crystals and 5 Cursed Fingers",
       "status": "active"
@@ -67,8 +72,18 @@
       "status": "active"
     },
     {
+      "code": "SORRYFORSHUTDOWN6",
+      "reward": "Cursed Fingers and Divine Rerolls ( )",
+      "status": "active"
+    },
+    {
       "code": "THANKSFORPLAYING",
       "reward": "150 Crystals and 10 Epic Boxes",
+      "status": "active"
+    },
+    {
+      "code": "THEPLAYER",
+      "reward": "Cursed Fingers and Divine Rerolls ( , requires 10K Rolls to redeem)",
       "status": "active"
     },
     {
@@ -113,6 +128,11 @@
     },
     {
       "code": "UPDATE5",
+      "reward": "Cursed Fingers and Divine Rerolls ( )",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE6",
       "reward": "Cursed Fingers and Divine Rerolls ( )",
       "status": "active"
     },

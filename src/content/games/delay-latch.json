@@ -1,9 +1,9 @@
 {
-  "title": "Delay Latch Codes (July 2026)",
+  "title": "Delay Latch Codes (August 2026)",
   "gameName": "Delay Latch",
   "description": "Working Delay Latch codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/delay-latch.webp",
   "placeId": 94647229517154,
@@ -29,13 +29,18 @@
   ],
   "codes": [
     {
-      "code": "BAROUTSPECIAL",
-      "reward": "5k Style coins and Cash",
+      "code": "AIKUANDGOALKEEPERCHANGES",
+      "reward": "2.5k Style coins and 3.4k Cash ( )",
       "status": "active"
     },
     {
-      "code": "MAYBE",
-      "reward": "2.5k Style coins and 3.4k Cash",
+      "code": "LATE60KCCUCODE",
+      "reward": "SSJ4 MVP ( )",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORSHUTDOWN",
+      "reward": "Aizen ( )",
       "status": "active"
     },
     {
@@ -61,6 +66,11 @@
     {
       "code": "Azure",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BAROUTSPECIAL",
+      "reward": "5k Style coins and Cash",
       "status": "expired"
     },
     {
@@ -161,6 +171,11 @@
     {
       "code": "LetsGoUbers",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MAYBE",
+      "reward": "2.5k Style coins and 3.4k Cash",
       "status": "expired"
     },
     {

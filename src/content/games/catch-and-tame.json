@@ -1,9 +1,9 @@
 {
-  "title": "Catch and Tame Codes (July 2026)",
+  "title": "Catch and Tame Codes (August 2026)",
   "gameName": "Catch and Tame",
   "description": "Working Catch and Tame codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/catch-and-tame.webp",
   "placeId": 96645548064314,
@@ -41,6 +41,11 @@
     {
       "code": "LABORATORY",
       "reward": "10 Coffee",
+      "status": "active"
+    },
+    {
+      "code": "SUBMARINES",
+      "reward": "10 Kelp ( )",
       "status": "active"
     },
     {

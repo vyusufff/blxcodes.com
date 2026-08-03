@@ -1,9 +1,9 @@
 {
-  "title": "Type Soul Codes (July 2026)",
+  "title": "Type Soul Codes (August 2026)",
   "gameName": "Type Soul",
   "description": "Working Type Soul codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/type-soul.webp",
   "placeId": 14067600077,
@@ -44,6 +44,11 @@
       "status": "active"
     },
     {
+      "code": "BalanceStage",
+      "reward": "Free Rewards ( )",
+      "status": "active"
+    },
+    {
       "code": "ErikkiMonth",
       "reward": "Free Rewards ( )",
       "status": "active"
@@ -56,6 +61,16 @@
     {
       "code": "HiddensBLESSING",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "HotfixesThxForPlayingTypeSoul",
+      "reward": "Free Rewards ( )",
+      "status": "active"
+    },
+    {
+      "code": "ItNearlyCameHome",
+      "reward": "Free Rewards ( )",
       "status": "active"
     },
     {
@@ -79,12 +94,27 @@
       "status": "active"
     },
     {
+      "code": "SpainWorldCupWinners26",
+      "reward": "Free Rewards ( )",
+      "status": "active"
+    },
+    {
       "code": "texbday",
       "reward": "Free Rewards",
       "status": "active"
     },
     {
+      "code": "TheSecretIsInUpdateLogs",
+      "reward": "Free Rewards ( )",
+      "status": "active"
+    },
+    {
       "code": "TrueWorldbearer",
+      "reward": "Free Rewards ( )",
+      "status": "active"
+    },
+    {
+      "code": "TypeSoulBurden",
       "reward": "Free Rewards ( )",
       "status": "active"
     },

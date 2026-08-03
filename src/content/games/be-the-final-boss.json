@@ -1,9 +1,9 @@
 {
-  "title": "Be the Final Boss Codes (July 2026)",
+  "title": "Be the Final Boss Codes (August 2026)",
   "gameName": "Be the Final Boss",
   "description": "Working Be the Final Boss codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/be-the-final-boss.webp",
   "placeId": 140302982046391,
@@ -71,6 +71,11 @@
     {
       "code": "finalboss4life",
       "reward": "2 Epic Fusion Shards and 2 Spin Tickets",
+      "status": "active"
+    },
+    {
+      "code": "noherocanwin",
+      "reward": "3 Epic Fusion Shards and 1 Shard Drop Boost ( )",
       "status": "active"
     },
     {

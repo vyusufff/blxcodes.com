@@ -1,9 +1,9 @@
 {
-  "title": "Ghoul Re Codes (July 2026)",
+  "title": "Ghoul Re Codes (August 2026)",
   "gameName": "Ghoul Re",
   "description": "Working Ghoul Re codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/ghoul-re.webp",
   "placeId": 72368345999613,
@@ -29,17 +29,22 @@
   ],
   "codes": [
     {
-      "code": "grewillbegreatagain",
-      "reward": "300 GP ( )",
+      "code": "GPCAPREMOVAL",
+      "reward": "750 GP ( )",
       "status": "active"
     },
     {
-      "code": "rerererelease",
-      "reward": "300 GP ( )",
+      "code": "GREBUGFIXES",
+      "reward": "500 GP ( )",
       "status": "active"
     },
     {
-      "code": "welcomehomelorn",
+      "code": "HTH",
+      "reward": "1000 GP ( )",
+      "status": "active"
+    },
+    {
+      "code": "HTHGAMES",
       "reward": "500 GP ( )",
       "status": "active"
     },
@@ -81,6 +86,11 @@
     {
       "code": "GRETRAILER1",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "grewillbegreatagain",
+      "reward": "300 GP ( )",
       "status": "expired"
     },
     {
@@ -174,6 +184,11 @@
       "status": "expired"
     },
     {
+      "code": "rerererelease",
+      "reward": "300 GP ( )",
+      "status": "expired"
+    },
+    {
       "code": "RESONANCETRAILERHYPE",
       "reward": "Expired reward",
       "status": "expired"
@@ -241,6 +256,11 @@
     {
       "code": "WEEKENDCODE4",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "welcomehomelorn",
+      "reward": "500 GP ( )",
       "status": "expired"
     }
   ]

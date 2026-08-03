@@ -1,9 +1,9 @@
 {
-  "title": "Five Nights TD Codes (July 2026)",
+  "title": "Five Nights TD Codes (August 2026)",
   "gameName": "Five Nights TD",
   "description": "Working Five Nights TD codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/five-nights-td.webp",
   "placeId": 70400654680508,
@@ -29,28 +29,33 @@
   ],
   "codes": [
     {
-      "code": "10KCCU2",
-      "reward": "25,000 Event Currency, 3,500 Untradable souls, 120 Choco Bears, 75 Soldering Irons, 100 Chips, and 50 Springlocks ( )",
-      "status": "active"
-    },
-    {
-      "code": "ARRRRR",
+      "code": "CHALLENGES",
       "reward": "10k tokens, 250 souls and 25 season presents ( )",
       "status": "active"
     },
     {
-      "code": "UPDATE40",
-      "reward": "100 souls, 50 endo chips, 50 soldering irons and 5 season presents ( )",
+      "code": "UPDATE41",
+      "reward": "5k tokens, 100 souls, 50 endo chips, 50 soldering irons and 5 season presents ( )",
       "status": "active"
     },
     {
-      "code": "WITCHOFTHESEA",
+      "code": "VESSEL",
       "reward": "25k tokens, 350 souls, 50 season presents and 5 raid coins ( )",
       "status": "active"
     },
     {
+      "code": "10KCCU2",
+      "reward": "25,000 Event Currency, 3,500 Untradable souls, 120 Choco Bears, 75 Soldering Irons, 100 Chips, and 50 Springlocks ( )",
+      "status": "expired"
+    },
+    {
       "code": "ANIMDUDE",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ARRRRR",
+      "reward": "10k tokens, 250 souls and 25 season presents ( )",
       "status": "expired"
     },
     {
@@ -246,6 +251,16 @@
     {
       "code": "UPDATE39",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE40",
+      "reward": "100 souls, 50 endo chips, 50 soldering irons and 5 season presents ( )",
+      "status": "expired"
+    },
+    {
+      "code": "WITCHOFTHESEA",
+      "reward": "25k tokens, 350 souls, 50 season presents and 5 raid coins ( )",
       "status": "expired"
     }
   ]

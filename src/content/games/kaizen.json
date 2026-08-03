@@ -1,9 +1,9 @@
 {
-  "title": "Kaizen Codes (July 2026)",
+  "title": "Kaizen Codes (August 2026)",
   "gameName": "Kaizen",
   "description": "Working Kaizen codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/kaizen.webp",
   "placeId": 17662297954,
@@ -111,6 +111,16 @@
     {
       "code": "MahoKaizen!",
       "reward": "10 Clan Spins, 2x Mastery EXP for 15 mins, 5 Binding Vows Spins, and 6 Lucky Clan Spins",
+      "status": "active"
+    },
+    {
+      "code": "Naoya!",
+      "reward": "7 Lucky Clan Spins, and 7 Binding Vows ( )",
+      "status": "active"
+    },
+    {
+      "code": "Projection!",
+      "reward": "10 Lucky Clan Spins, and 10 Binding Vows ( )",
       "status": "active"
     },
     {

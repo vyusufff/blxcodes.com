@@ -1,9 +1,9 @@
 {
-  "title": "Anime Card Battle Codes (July 2026)",
+  "title": "Anime Card Battle Codes (August 2026)",
   "gameName": "Anime Card Battle",
   "description": "Working Anime Card Battle codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/anime-card-battle.webp",
   "placeId": 130253630950453,
@@ -29,38 +29,28 @@
   ],
   "codes": [
     {
-      "code": "DELAY",
-      "reward": "25 Battle Speed Potions, 50 Star Potions, 50 Corrupt Potions, 25 Boss Potions, 20 Speed IV Potions, 20 Luck IV Potions, 50 Weather Rerolls, and 10 Climate Potions ( )",
+      "code": "FEMBOYWEATHER",
+      "reward": "Potions, Tokens, and Rerolls ( , 200k roll rq)",
       "status": "active"
     },
     {
-      "code": "DELAYFATE",
-      "reward": "10 Raid Boss Potions, Rerolls, and Shards ( )",
+      "code": "NARUTO",
+      "reward": "Potions, Tokens, and Rerolls ( , 150k roll req)",
       "status": "active"
     },
     {
-      "code": "FATE",
-      "reward": "25 Climate Rerolls and 60 Weather Rerolls ( , 250k roll req)",
+      "code": "NARUTODELAY",
+      "reward": "Potions, Tokens, and Rerolls ( )",
       "status": "active"
     },
     {
-      "code": "GLOBALBOSS",
-      "reward": "10 Raid Boss Potions ( , 100k roll req)",
+      "code": "NEWRAID",
+      "reward": "Potions, Tokens, and Rerolls ( , 100k roll req)",
       "status": "active"
     },
     {
-      "code": "INFGENHISTORY",
-      "reward": "25 Climate Rerolls and 60 Weather Rerolls ( , 200k roll req)",
-      "status": "active"
-    },
-    {
-      "code": "LEVELUP",
-      "reward": "25 Climate Rerolls, Luck Potions, and 150 Weather Rerolls ( , 150k roll req)",
-      "status": "active"
-    },
-    {
-      "code": "UPD9",
-      "reward": "35 Weather Rerolls, 10K Raid Shards, and 50 Battle Speed Potions ( , 300k roll req)",
+      "code": "UPD10",
+      "reward": "Potions, Tokens, and Rerolls ( , 300k roll req)",
       "status": "active"
     },
     {
@@ -119,6 +109,16 @@
       "status": "expired"
     },
     {
+      "code": "DELAY",
+      "reward": "25 Battle Speed Potions, 50 Star Potions, 50 Corrupt Potions, 25 Boss Potions, 20 Speed IV Potions, 20 Luck IV Potions, 50 Weather Rerolls, and 10 Climate Potions ( )",
+      "status": "expired"
+    },
+    {
+      "code": "DELAYFATE",
+      "reward": "10 Raid Boss Potions, Rerolls, and Shards ( )",
+      "status": "expired"
+    },
+    {
       "code": "DEVILMAYCRY",
       "reward": "Expired reward",
       "status": "expired"
@@ -129,8 +129,28 @@
       "status": "expired"
     },
     {
+      "code": "FATE",
+      "reward": "25 Climate Rerolls and 60 Weather Rerolls ( , 250k roll req)",
+      "status": "expired"
+    },
+    {
+      "code": "GLOBALBOSS",
+      "reward": "10 Raid Boss Potions ( , 100k roll req)",
+      "status": "expired"
+    },
+    {
+      "code": "INFGENHISTORY",
+      "reward": "25 Climate Rerolls and 60 Weather Rerolls ( , 200k roll req)",
+      "status": "expired"
+    },
+    {
       "code": "JOJO",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LEVELUP",
+      "reward": "25 Climate Rerolls, Luck Potions, and 150 Weather Rerolls ( , 150k roll req)",
       "status": "expired"
     },
     {
@@ -226,6 +246,11 @@
     {
       "code": "UPD8",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPD9",
+      "reward": "35 Weather Rerolls, 10K Raid Shards, and 50 Battle Speed Potions ( , 300k roll req)",
       "status": "expired"
     },
     {
