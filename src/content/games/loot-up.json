@@ -1,9 +1,9 @@
 {
-  "title": "Loot Up Codes (July 2026)",
+  "title": "Loot Up Codes (August 2026)",
   "gameName": "Loot Up",
   "description": "Working Loot Up codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-03",
+  "checkedAt": "2026-08-03",
   "featured": true,
   "cover": "/images/games/card/loot-up.webp",
   "placeId": 83622406313819,
@@ -34,6 +34,11 @@
       "status": "active"
     },
     {
+      "code": "BATTLEPASS",
+      "reward": "Die, Forgeshards, True Enchant Stones, Ancient Skill Scrolls, Enchant Stones, and Forgeguards",
+      "status": "active"
+    },
+    {
       "code": "CLANUPDATE",
       "reward": "100x Coins, 100x Crystals, 1000x EXP, 5 Forgeguard, 5 True Enchant Stones, 2x Ancient Skill Scroll",
       "status": "active"
@@ -44,8 +49,18 @@
       "status": "active"
     },
     {
+      "code": "SKULLISLAND",
+      "reward": "Die, Forgeshards, True Enchant Stones, Ancient Skill Scrolls, Enchant Stones, and Forgeguards ( )",
+      "status": "active"
+    },
+    {
       "code": "SORRY",
       "reward": "250x Coins, 250x Crystals, 2500x EXP, 5 Forgeguard, 5 True Enchant Stones, 2x Ancient Skill Scroll",
+      "status": "active"
+    },
+    {
+      "code": "TRADING",
+      "reward": "1000x Coins, 500x Crystals, 5x Six-Faced Die, 10x Twelve-Faced Die, 1000x EXP, 5 Forgeguard, 5 True Enchant Stones, 2x Ancient Skill Scroll, 5x Forgeshard, 5x True Enchant Stones",
       "status": "active"
     },
     {
