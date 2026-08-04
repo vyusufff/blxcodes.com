@@ -1,9 +1,9 @@
 {
-  "title": "Rivals Codes (July 2026)",
+  "title": "Rivals Codes (August 2026)",
   "gameName": "Rivals",
   "description": "Working Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-04",
+  "checkedAt": "2026-08-04",
   "featured": true,
   "cover": "/images/games/card/rivals.webp",
   "placeId": 17625359962,
@@ -54,7 +54,7 @@
       "status": "active"
     },
     {
-      "code": "FREE190",
+      "code": "FREE191",
       "reward": "3 Keys ( )",
       "status": "active"
     },
@@ -246,6 +246,11 @@
     {
       "code": "FREE189",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FREE190",
+      "reward": "3 Keys ( )",
       "status": "expired"
     },
     {

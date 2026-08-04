@@ -1,9 +1,9 @@
 {
-  "title": "Spin a Soccer Card Codes (July 2026)",
+  "title": "Spin a Soccer Card Codes (August 2026)",
   "gameName": "Spin a Soccer Card",
   "description": "Working Spin a Soccer Card codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-04",
+  "checkedAt": "2026-08-04",
   "featured": true,
   "cover": "/images/games/card/spin-a-soccer-card.webp",
   "placeId": 112490729816320,
@@ -29,18 +29,13 @@
   ],
   "codes": [
     {
-      "code": "BIGUPDATECOMING",
-      "reward": "2 Wish Tickets, 30 Tournament Tokens, 2 Spins, and 100 Gems",
+      "code": "HERO-CRYSTAL",
+      "reward": "2x packs (at rebirth level) and 3x extra spins ( )",
       "status": "active"
     },
     {
-      "code": "DRAGON-PRIME",
-      "reward": "2 Of Each Pack and 3 Spins ( )",
-      "status": "active"
-    },
-    {
-      "code": "OWL-HAPPY",
-      "reward": "2 Of Each Pack and 3 Spins",
+      "code": "WEAREBACK",
+      "reward": "2x packs (at rebirth level) and 3x extra spins",
       "status": "active"
     },
     {
@@ -56,6 +51,11 @@
     {
       "code": "APRILDAY3",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BIGUPDATECOMING",
+      "reward": "2 Wish Tickets, 30 Tournament Tokens, 2 Spins, and 100 Gems",
       "status": "expired"
     },
     {
@@ -91,6 +91,11 @@
     {
       "code": "CRYSTAL-GOAL",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DRAGON-PRIME",
+      "reward": "2 Of Each Pack and 3 Spins ( )",
       "status": "expired"
     },
     {
@@ -161,6 +166,11 @@
     {
       "code": "OMEGA-STAR",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "OWL-HAPPY",
+      "reward": "2 Of Each Pack and 3 Spins",
       "status": "expired"
     },
     {
