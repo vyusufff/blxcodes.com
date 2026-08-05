@@ -1,0 +1,82 @@
+{
+  "title": "Re Aura Codes (August 2026)",
+  "gameName": "Re Aura",
+  "description": "Working Re Aura codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-05",
+  "checkedAt": "2026-08-05",
+  "featured": true,
+  "cover": "/images/games/card/re-aura.webp",
+  "placeId": 96576822368326,
+  "howTo": [
+    "Launch Re Aura on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Re Aura codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Re Aura code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Re Aura codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "AURAMONSTER",
+      "reward": "50 Shards",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYBIRTHDAY",
+      "reward": "45 Shards and 1 Yellow Shard",
+      "status": "active"
+    },
+    {
+      "code": "3KCCU",
+      "reward": "25 Shards and a Baru skin",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE4",
+      "reward": "250 Yen and 20 Shards",
+      "status": "active"
+    },
+    {
+      "code": "FREEROLL",
+      "reward": "1 Baru Pet",
+      "status": "active"
+    },
+    {
+      "code": "2KCCU",
+      "reward": "50 Shards",
+      "status": "active"
+    },
+    {
+      "code": "1MILLION",
+      "reward": "30 Shards",
+      "status": "active"
+    },
+    {
+      "code": "AURALESS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NATSUKIDANIEL",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DANIEL",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}
