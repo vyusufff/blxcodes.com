@@ -13,7 +13,7 @@ on:
       max_scan:
         description: "Max hub candidates to scan for new games"
         required: false
-        default: "80"
+        default: "120"
       min_playing:
         description: "Skip new games below this CCU"
         required: false
@@ -47,7 +47,7 @@ jobs:
       - name: Sync existing + discover new
         env:
           MAX_NEW_GAMES: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.max_new_games || '5' }}
-          MAX_SCAN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.max_scan || '80' }}
+          MAX_SCAN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.max_scan || '120' }}
           MIN_PLAYING: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.min_playing || '50' }}
         run: node scripts/check-codes.mjs --write
 

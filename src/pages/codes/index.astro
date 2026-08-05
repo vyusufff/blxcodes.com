@@ -9,11 +9,12 @@ import { activeCodeCount, getAllGames, paginateGames } from '../../lib/games';
 
 const allGames = await getAllGames();
 const { items, page, totalPages, total } = paginateGames(allGames, 1);
+const activeGames = allGames.filter((game) => activeCodeCount(game) > 0).length;
 ---
 
 <BaseLayout
   title="All Roblox Codes"
-  description="Browse and search working Roblox codes by game. Active lists with covers, copy buttons, and last-updated dates."
+  description={`Browse ${total} Roblox games with working codes. ${activeGames} lists currently have active codes ready to copy.`}
 >
   <Header slot="header" />
 
@@ -22,7 +23,7 @@ const { items, page, totalPages, total } = paginateGames(allGames, 1);
       Roblox codes
     </h1>
     <p class="mt-1.5 max-w-2xl text-sm text-muted" data-codes-subtitle>
-      Search any experience, open the page, copy an active code.
+      {total} games tracked · {activeGames} with active codes. Search any experience, open the page, copy an active code.
     </p>
 
     <div class="mt-4 max-w-xl">

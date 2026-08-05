@@ -2,11 +2,16 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { activeCodeCount, getAllGames } from '../lib/games';
+
+const games = await getAllGames();
+const gameCount = games.length;
+const activeGames = games.filter((game) => activeCodeCount(game) > 0).length;
 ---
 
 <BaseLayout
   title="About BLX Codes"
-  description="BLX Codes is a Roblox codes site focused on fast, accurate, game-by-game code lists."
+  description={`BLX Codes tracks working Roblox codes across ${gameCount} games with clear active/expired lists and one-click copy.`}
 >
   <Header slot="header" />
 
@@ -18,8 +23,14 @@ import Footer from '../components/Footer.astro';
         codes without wading through unrelated gaming news.
       </p>
       <p>
-        We publish per-game pages with active codes first, expired codes clearly marked, and one-click
-        copy so redeeming takes seconds.
+        We currently cover <strong class="text-ink">{gameCount} Roblox games</strong>, and
+        <strong class="text-ink"> {activeGames}</strong> of those pages have at least one active code.
+        Each page puts working codes first, marks expired codes clearly, and includes one-click copy so
+        redeeming takes seconds.
+      </p>
+      <p>
+        Lists are checked automatically throughout the day from public Roblox code sources, then verified
+        against live Roblox place data before a brand-new game is added.
       </p>
       <p>
         BLX Codes is an independent site and is not affiliated with Roblox Corporation.

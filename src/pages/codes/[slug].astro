@@ -4,7 +4,8 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import CodeList from '../../components/CodeList.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
-import { activeCodeCount, getAllGames } from '../../lib/games';
+import GameCard from '../../components/GameCard.astro';
+import { activeCodeCount, getAllGames, getRelatedGames } from '../../lib/games';
 import { absoluteUrl, breadcrumbJsonLd, DEFAULT_OG } from '../../lib/seo';
 
 export async function getStaticPaths() {
@@ -16,17 +17,41 @@ export async function getStaticPaths() {
 }
 
 const { game } = Astro.props;
+const allGames = await getAllGames();
+const relatedGames = getRelatedGames(game, allGames);
+const checkedAt = game.data.checkedAt ?? game.data.updatedAt;
 const updated = game.data.updatedAt.toLocaleDateString('en-US', {
+  month: 'long',
+  day: 'numeric',
+  year: 'numeric',
+});
+const checked = checkedAt.toLocaleDateString('en-US', {
   month: 'long',
   day: 'numeric',
   year: 'numeric',
 });
 const activeCount = activeCodeCount(game);
 const ogImage = game.data.cover ? absoluteUrl(game.data.cover) : DEFAULT_OG;
+const monthYear = new Date().toLocaleDateString('en-US', {
+  month: 'long',
+  year: 'numeric',
+});
+const pageTitle = `${game.data.gameName} Codes (${monthYear})`;
+const pageDescription =
+  activeCount > 0
+    ? `Copy ${activeCount} working ${game.data.gameName} code${activeCount === 1 ? '' : 's'} for free in-game rewards. Verified ${checked}; expired codes are separated.`
+    : `Check the latest ${game.data.gameName} codes status. No working codes are confirmed right now; see expired codes and redemption steps. Verified ${checked}.`;
 
 const faq =
   game.data.faq.length > 0
-    ? game.data.faq
+    ? game.data.faq.map((item) =>
+        /^How often are .+ codes updated\?$/i.test(item.q)
+          ? {
+              ...item,
+              a: `We check this list regularly and update it when codes are added or expire. It was last verified on ${checked}.`,
+            }
+          : item,
+      )
     : [
         {
           q: `Are these ${game.data.gameName} codes free?`,
@@ -38,7 +63,7 @@ const faq =
         },
         {
           q: `How often are ${game.data.gameName} codes updated?`,
-          a: 'We refresh this page when new codes drop or old ones expire. Check the Updated date above.',
+          a: `We check this list regularly and update it when codes are added or expire. It was last verified on ${checked}.`,
         },
       ];
 
@@ -73,8 +98,8 @@ const howToJsonLd =
 const webPageJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'WebPage',
-  name: game.data.title,
-  description: game.data.description,
+  name: pageTitle,
+  description: pageDescription,
   dateModified: game.data.updatedAt.toISOString(),
   url: absoluteUrl(`/codes/${game.id}`),
   isPartOf: { '@type': 'WebSite', name: 'BLXCodes', url: 'https://blxcodes.com' },
@@ -99,8 +124,8 @@ const jsonLd = [
 ---
 
 <BaseLayout
-  title={game.data.title}
-  description={game.data.description}
+  title={pageTitle}
+  description={pageDescription}
   ogImage={ogImage}
   jsonLd={jsonLd}
 >
@@ -127,9 +152,12 @@ const jsonLd = [
         <h1 class="mt-3 font-display text-4xl font-extrabold text-ink sm:text-5xl">
           {game.data.gameName} Codes
         </h1>
-        <p class="mt-4 max-w-2xl text-base leading-relaxed text-muted">{game.data.description}</p>
+        <p class="mt-4 max-w-2xl text-base leading-relaxed text-muted">{pageDescription}</p>
         <p class="mt-4 text-sm font-bold uppercase tracking-[0.12em] text-ink-soft">
-          <time datetime={game.data.updatedAt.toISOString()}>Updated {updated}</time>
+          <time datetime={checkedAt.toISOString()}>Checked {checked}</time>
+          {checkedAt.valueOf() !== game.data.updatedAt.valueOf() && (
+            <> · <time datetime={game.data.updatedAt.toISOString()}>Changed {updated}</time></>
+          )}
           · {activeCount} active
         </p>
       </div>
@@ -171,6 +199,30 @@ const jsonLd = [
               <h3 class="font-display text-lg font-bold text-ink">{item.q}</h3>
               <p class="mt-2 text-sm leading-relaxed text-muted">{item.a}</p>
             </div>
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="mt-14 border-t border-line pt-10">
+      <div class="flex items-baseline justify-between gap-4">
+        <div>
+          <h2 class="font-display text-2xl font-bold text-ink">More Roblox codes</h2>
+          <p class="mt-1 text-sm text-muted">Recently updated games and similar experiences.</p>
+        </div>
+        <a href="/codes" class="shrink-0 text-sm font-semibold text-muted hover:text-signal">View all →</a>
+      </div>
+      <div class="mt-5 grid grid-cols-1 gap-2 sm:grid-cols-2">
+        {
+          relatedGames.map((related) => (
+            <GameCard
+              href={`/codes/${related.id}`}
+              gameName={related.data.gameName}
+              description={related.data.description}
+              updatedAt={related.data.updatedAt}
+              activeCount={activeCodeCount(related)}
+              cover={related.data.cover}
+            />
           ))
         }
       </div>

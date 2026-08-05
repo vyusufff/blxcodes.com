@@ -1,5 +1,5 @@
 /**
- * Sync existing games + discover NEW games from Beebom hub.
+ * Sync existing games + discover NEW games from reputable Roblox code hubs.
  *
  * Usage:
  *   node scripts/check-codes.mjs
@@ -35,7 +35,7 @@ function curlJson(url) {
   try {
     const raw = execFileSync(
       process.platform === 'win32' ? 'curl.exe' : 'curl',
-      ['-ksL4', url, '--max-time', '20', '-H', `user-agent: ${UA}`],
+      ['-ksL4', url, '--max-time', '12', '-H', `user-agent: ${UA}`],
       { encoding: 'utf8' },
     );
     return JSON.parse(raw);
@@ -44,6 +44,7 @@ function curlJson(url) {
   }
 }
 const BEEBOM_HUB = 'https://beebom.com/roblox-games-codes-list/';
+const POCKET_TACTICS_HUB = 'https://www.pockettactics.com/roblox/game-codes';
 
 const UA =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
@@ -223,17 +224,38 @@ function parseSource(text) {
 }
 
 async function fetchHtml(url) {
-  const res = await fetch(url, {
-    headers: {
-      'user-agent': UA,
-      accept: 'text/html,application/xhtml+xml',
-      'accept-language': 'en-US,en;q=0.9',
-    },
-    redirect: 'follow',
-    signal: AbortSignal.timeout(30000),
-  });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  return await res.text();
+  try {
+    const res = await fetch(url, {
+      headers: {
+        'user-agent': UA,
+        accept: 'text/html,application/xhtml+xml',
+        'accept-language': 'en-US,en;q=0.9',
+      },
+      redirect: 'follow',
+      signal: AbortSignal.timeout(25000),
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return await res.text();
+  } catch (err) {
+    try {
+      return execFileSync(
+        process.platform === 'win32' ? 'curl.exe' : 'curl',
+        [
+          '-ksL4',
+          url,
+          '--max-time',
+          '25',
+          '-H',
+          `user-agent: ${UA}`,
+          '-H',
+          'accept: text/html,application/xhtml+xml',
+        ],
+        { encoding: 'utf8', maxBuffer: 12 * 1024 * 1024 },
+      );
+    } catch {
+      throw err;
+    }
+  }
 }
 
 async function fetchText(url) {
@@ -290,16 +312,62 @@ function discoverBeebomLinks(html) {
   return found;
 }
 
+/**
+ * Pocket Tactics covers a different slice of the Roblox market than Beebom.
+ * It is used as a discovery source, never trusted blindly: every candidate must
+ * still expose active codes and resolve to a matching Roblox place above MIN_PLAYING.
+ */
+function discoverPocketTacticsLinks(html) {
+  const found = new Map();
+  // Prefer URL shape over every <a> label on the megapage; PT wraps the A-Z list
+  // in both "/game-codes" and "/game/codes" patterns.
+  const re =
+    /href=["'](https:\/\/(?:www\.)?pockettactics\.com\/(?:[a-z0-9-]+-codes(?:\/[a-z0-9-]*)?|[a-z0-9-]+\/codes)\/?)["']/gi;
+  // The Roblox hub page still links other franchises in sidebars/nav. Leave them
+  // out of the candidate set before we spend Roblox API budget on them.
+  const nonRoblox = /(?:genshin|honkai|zenless|wuthering|nikke|fortnite|valorant|pokemon-go|monopoly-go|disney-dreamlight|cod-|call-of-duty|minecraft|free-fire|mobile-legends)/i;
+  let m;
+  while ((m = re.exec(html))) {
+    const url = m[1].replace(/\/$/, '') + '/';
+    if (url === POCKET_TACTICS_HUB + '/' || /\/roblox\/game-codes\/?$/i.test(url)) continue;
+    if (nonRoblox.test(url)) continue;
+    let slug = '';
+    let gameName = '';
+    try {
+      const path = new URL(url).pathname.replace(/\/+$/, '');
+      if (/\/codes$/i.test(path)) {
+        const parts = path.split('/').filter(Boolean);
+        slug = parts[parts.length - 2] || '';
+      } else {
+        slug = path.split('/').pop() || '';
+        slug = slug.replace(/-codes$/i, '');
+      }
+      slug = slug.replace(/^roblox-/i, '');
+      gameName = titleCaseSlug(slug);
+    } catch {
+      continue;
+    }
+    if (!slug || slug.length < 2) continue;
+    if (!found.has(slug)) found.set(slug, { url, gameName, fresh: false });
+  }
+  return found;
+}
+
+const DISCOVERY_HUBS = [
+  { name: 'beebom', url: BEEBOM_HUB, discover: discoverBeebomLinks },
+  { name: 'pockettactics', url: POCKET_TACTICS_HUB, discover: discoverPocketTacticsLinks },
+];
+
 async function getPlaceStats(placeId) {
   if (!placeId) return { playing: null, name: null };
-  for (let attempt = 0; attempt < 3; attempt++) {
+  for (let attempt = 0; attempt < 2; attempt++) {
     try {
-      if (attempt > 0) await sleep(400 * attempt);
+      if (attempt > 0) await sleep(250 * attempt);
       let universeId = null;
       try {
         const uniRes = await fetch(`https://apis.roblox.com/universes/v1/places/${placeId}/universe`, {
           headers: { 'user-agent': UA },
-          signal: AbortSignal.timeout(12000),
+          signal: AbortSignal.timeout(8000),
         });
         if (uniRes.ok) universeId = (await uniRes.json())?.universeId;
       } catch {
@@ -316,7 +384,7 @@ async function getPlaceStats(placeId) {
       try {
         const gRes = await fetch(`https://games.roblox.com/v1/games?universeIds=${universeId}`, {
           headers: { 'user-agent': UA },
-          signal: AbortSignal.timeout(12000),
+          signal: AbortSignal.timeout(8000),
         });
         if (gRes.ok) info = (await gRes.json())?.data?.[0];
       } catch {
@@ -593,19 +661,42 @@ async function syncOne(slug, urls, report) {
 }
 
 async function discoverNew(sources, report) {
-  let html;
-  try {
-    html = await fetchHtml(BEEBOM_HUB);
-  } catch (err) {
-    report.push(`! discover hub failed: ${err.message}`);
-    return 0;
+  const links = new Map();
+  const hubCounts = [];
+  for (const hub of DISCOVERY_HUBS) {
+    try {
+      console.log(`discover: fetching ${hub.name} hub…`);
+      const html = await fetchHtml(hub.url);
+      const discovered = hub.discover(html);
+      hubCounts.push(`${hub.name} ${discovered.size}`);
+      console.log(`discover: ${hub.name} → ${discovered.size} links`);
+      // Hub order is preference order. Keep Beebom when both sites cover the
+      // same slug; Pocket Tactics expands coverage instead of creating a stale
+      // multi-source union that could keep expired codes active.
+      for (const [slug, meta] of discovered) {
+        if (!links.has(slug)) links.set(slug, { ...meta, hub: hub.name });
+      }
+    } catch (err) {
+      report.push(`! discover ${hub.name} hub failed: ${err.message}`);
+      console.log(`discover: ${hub.name} failed → ${err.message}`);
+    }
   }
+  if (links.size === 0) return 0;
 
-  const links = discoverBeebomLinks(html);
+  const gameFiles = fs.readdirSync(GAMES_DIR).filter((f) => f.endsWith('.json'));
   const existing = new Set([
     ...Object.keys(sources),
-    ...fs.readdirSync(GAMES_DIR).filter((f) => f.endsWith('.json')).map((f) => f.replace(/\.json$/, '')),
+    ...gameFiles.map((f) => f.replace(/\.json$/, '')),
   ]);
+  const existingPlaceIds = new Map();
+  for (const file of gameFiles) {
+    try {
+      const data = JSON.parse(fs.readFileSync(path.join(GAMES_DIR, file), 'utf8'));
+      if (data.placeId) existingPlaceIds.set(Number(data.placeId), file.replace(/\.json$/, ''));
+    } catch {
+      /* Content validation reports malformed JSON during the build. */
+    }
+  }
 
   const missing = [...links.entries()].filter(([slug]) => !existing.has(slug));
   // Always scan "This Week" first. Rotate the older backlog every two hours so
@@ -621,7 +712,7 @@ async function discoverNew(sources, report) {
 
   const freshCount = freshCandidates.length;
   report.push(
-    `discover: ${links.size} beebom games, ${candidates.length} missing (${freshCount} from this-week section, backlog offset ${backlogOffset}/${backlog.length})`,
+    `discover: ${links.size} unique games (${hubCounts.join(', ')}), ${candidates.length} missing (${freshCount} fresh, backlog offset ${backlogOffset}/${backlog.length})`,
   );
 
   let added = 0;
@@ -631,6 +722,7 @@ async function discoverNew(sources, report) {
     // Don't burn the whole hub every run — sample a limited window
     if (scanned >= MAX_SCAN) break;
     scanned += 1;
+    console.log(`discover: scan ${scanned}/${Math.min(MAX_SCAN, candidates.length)} ${slug}`);
 
     let activeMap = new Map();
     let expiredMap = new Map();
@@ -662,7 +754,15 @@ async function discoverNew(sources, report) {
     }
 
     await sleep(120);
-    const { playing, name: robloxName } = await getPlaceStats(placeId);
+    let { playing, name: robloxName } = await getPlaceStats(placeId);
+    if (!robloxName) {
+      // Article CTAs go stale; try Roblox search once before giving up on the candidate.
+      const searched = await resolvePlaceId(meta.gameName);
+      if (searched && searched !== placeId) {
+        placeId = searched;
+        ({ playing, name: robloxName } = await getPlaceStats(placeId));
+      }
+    }
     if (!robloxName) {
       // An unverified place is how a non-Roblox game slipped in once; the next run
       // retries this candidate anyway, so refuse rather than guess.
@@ -671,6 +771,11 @@ async function discoverNew(sources, report) {
     }
     if (!namesMatch(meta.gameName, robloxName)) {
       report.push(`skip new ${slug}: placeId ${placeId} is "${robloxName}", not "${meta.gameName}"`);
+      continue;
+    }
+    const existingSlug = existingPlaceIds.get(Number(placeId));
+    if (existingSlug) {
+      report.push(`skip new ${slug}: same Roblox place as existing ${existingSlug}`);
       continue;
     }
     if (playing !== null && playing < MIN_PLAYING) {
@@ -706,6 +811,7 @@ async function discoverNew(sources, report) {
       sources[slug] = { sources: [meta.url] };
       fs.writeFileSync(SOURCES_PATH, JSON.stringify(sources, null, 2) + '\n');
     }
+    existingPlaceIds.set(Number(placeId), slug);
     added += 1;
   }
   return added;

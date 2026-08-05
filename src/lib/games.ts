@@ -20,12 +20,74 @@ export async function getAllGames(): Promise<GameEntry[]> {
 
 export async function getFeaturedGames(limit = 8): Promise<GameEntry[]> {
   const games = await getAllGames();
-  const byActive = (a: GameEntry, b: GameEntry) =>
-    activeCodeCount(b) - activeCodeCount(a) || a.data.gameName.localeCompare(b.data.gameName);
-  const featured = games.filter((g) => g.data.featured).sort(byActive);
-  const rest = games.filter((g) => !g.data.featured).sort(byActive);
-  const ordered = featured.length > 0 ? [...featured, ...rest] : games;
-  return ordered.slice(0, limit);
+  // Almost every game is marked featured in the JSON corpus, so the old flag
+  // produced a static "most codes" list. Prefer pages Google and players can
+  // treat as live: recent updates with working codes still available.
+  return [...games]
+    .filter((game) => activeCodeCount(game) > 0)
+    .sort((a, b) => {
+      const byDate = b.data.updatedAt.valueOf() - a.data.updatedAt.valueOf();
+      if (byDate !== 0) return byDate;
+      const byActive = activeCodeCount(b) - activeCodeCount(a);
+      if (byActive !== 0) return byActive;
+      return a.data.gameName.localeCompare(b.data.gameName);
+    })
+    .slice(0, limit);
+}
+
+const RELATED_STOP_WORDS = new Set([
+  'a',
+  'an',
+  'and',
+  'game',
+  'of',
+  'roblox',
+  'simulator',
+  'the',
+  'to',
+  'tycoon',
+]);
+
+function gameNameTokens(game: GameEntry): Set<string> {
+  return new Set(
+    game.data.gameName
+      .toLowerCase()
+      .match(/[a-z0-9]+/g)
+      ?.filter((token) => token.length >= 3 && !RELATED_STOP_WORDS.has(token)) ?? [],
+  );
+}
+
+/**
+ * Build useful crawl paths between games with genuinely related names (anime,
+ * tower defense, soccer, etc.). When no close matches exist, favor recently
+ * updated pages with working codes rather than returning an empty dead end.
+ */
+export function getRelatedGames(
+  current: GameEntry,
+  games: GameEntry[],
+  limit = 6,
+): GameEntry[] {
+  const currentTokens = gameNameTokens(current);
+  return games
+    .filter((game) => game.id !== current.id)
+    .map((game) => {
+      const shared = [...gameNameTokens(game)].filter((token) => currentTokens.has(token)).length;
+      const active = Math.min(activeCodeCount(game), 20);
+      const ageDays = Math.max(
+        0,
+        (Date.now() - game.data.updatedAt.valueOf()) / (24 * 60 * 60 * 1000),
+      );
+      const freshness = Math.max(0, 30 - ageDays);
+      return { game, score: shared * 1000 + active * 2 + freshness };
+    })
+    .sort(
+      (a, b) =>
+        b.score - a.score ||
+        b.game.data.updatedAt.valueOf() - a.game.data.updatedAt.valueOf() ||
+        a.game.data.gameName.localeCompare(b.game.data.gameName),
+    )
+    .slice(0, limit)
+    .map(({ game }) => game);
 }
 
 export async function getGameBySlug(slug: string): Promise<GameEntry | undefined> {

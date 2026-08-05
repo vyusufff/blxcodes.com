@@ -4,12 +4,14 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import GameCard from '../components/GameCard.astro';
 import SearchBox from '../components/SearchBox.astro';
-import { activeCodeCount, getFeaturedGames } from '../lib/games';
+import { activeCodeCount, getAllGames, getFeaturedGames } from '../lib/games';
 import { getCollection } from 'astro:content';
-import { SITE_DESC } from '../lib/seo';
 import outfitWoff2 from '@fontsource/outfit/files/outfit-latin-700-normal.woff2?url';
 
 const featured = await getFeaturedGames(8);
+const allGames = await getAllGames();
+const gameCount = allGames.length;
+const activeGames = allGames.filter((game) => activeCodeCount(game) > 0).length;
 const posts = (await getCollection('blog'))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 6);
@@ -17,16 +19,17 @@ const homeModified =
   featured.length > 0
     ? new Date(Math.max(...featured.map((g) => g.data.updatedAt.valueOf()))).toISOString()
     : new Date().toISOString();
+const homeDescription = `Find working Roblox codes across ${gameCount} games. Copy active codes fast, skip expired junk, and redeem free rewards on BLXCodes.`;
 ---
 
 <BaseLayout
   title="BLXCodes — Working Roblox Codes"
-  description={SITE_DESC}
+  description={homeDescription}
   jsonLd={{
     '@context': 'https://schema.org',
     '@type': 'WebPage',
     name: 'BLXCodes — Working Roblox Codes',
-    description: SITE_DESC,
+    description: homeDescription,
     url: 'https://blxcodes.com/',
     dateModified: homeModified,
   }}
@@ -47,7 +50,7 @@ const homeModified =
     <div class="relative z-20 mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
       <div class="flex items-center gap-2 text-sm font-semibold text-white/70">
         <img src="/favicon.svg" alt="BLXCodes" width="18" height="18" style="width:18px;height:18px" class="h-4 w-4" />
-        Updated daily
+        {gameCount} Roblox games · {activeGames} with active codes
       </div>
       <p
         class="mt-3 font-display text-4xl font-bold leading-none tracking-tighter text-white sm:text-5xl md:text-6xl"
@@ -72,8 +75,8 @@ const homeModified =
   <section class="relative z-0 mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
     <div class="flex items-baseline justify-between gap-4">
       <div>
-        <h2 class="font-display text-lg font-bold text-ink sm:text-xl">Featured games</h2>
-        <p class="mt-0.5 text-xs text-muted sm:text-sm">Official Roblox icons. Fresh codes.</p>
+        <h2 class="font-display text-lg font-bold text-ink sm:text-xl">Recently updated</h2>
+        <p class="mt-0.5 text-xs text-muted sm:text-sm">Fresh codes first. Official Roblox icons.</p>
       </div>
       <a href="/codes" class="shrink-0 text-xs font-semibold text-muted hover:text-signal">View all →</a>
     </div>
