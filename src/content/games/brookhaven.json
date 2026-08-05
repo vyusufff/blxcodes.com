@@ -1,9 +1,9 @@
 {
-  "title": "Brookhaven Codes (July 2026)",
+  "title": "Brookhaven Codes (August 2026)",
   "gameName": "Brookhaven",
   "description": "Working Brookhaven codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-05",
+  "checkedAt": "2026-08-05",
   "featured": true,
   "cover": "/images/games/card/brookhaven.webp",
   "placeId": 4924922222,
@@ -79,6 +79,11 @@
       "status": "active"
     },
     {
+      "code": "154664102",
+      "reward": "You’ve Been Trolled",
+      "status": "active"
+    },
+    {
       "code": "165065112",
       "reward": "Mako Beam (Proximity)",
       "status": "active"
@@ -91,6 +96,11 @@
     {
       "code": "169360242",
       "reward": "Banana Song",
+      "status": "active"
+    },
+    {
+      "code": "1725273277",
+      "reward": "Frank Ocean – Chanel",
       "status": "active"
     },
     {
@@ -121,6 +131,11 @@
     {
       "code": "186317099",
       "reward": "2Pac, Life Goes On",
+      "status": "active"
+    },
+    {
+      "code": "189105508",
+      "reward": "Frozen – Let It Go",
       "status": "active"
     },
     {
@@ -199,6 +214,11 @@
       "status": "active"
     },
     {
+      "code": "5253604010",
+      "reward": "Capone – Oh No",
+      "status": "active"
+    },
+    {
       "code": "5410086218",
       "reward": "Crab Rave",
       "status": "active"
@@ -229,8 +249,18 @@
       "status": "active"
     },
     {
+      "code": "591276362",
+      "reward": "BTS Fire",
+      "status": "active"
+    },
+    {
       "code": "5925841720",
       "reward": "2Pac ft. Dr. Dre, California Love",
+      "status": "active"
+    },
+    {
+      "code": "5937000690",
+      "reward": "Chikatto – Chika Chika",
       "status": "active"
     },
     {
@@ -341,6 +371,11 @@
     {
       "code": "915288747",
       "reward": "Oofing in the 90s",
+      "status": "active"
+    },
+    {
+      "code": "926493242",
+      "reward": "Chill Jazz",
       "status": "active"
     },
     {
