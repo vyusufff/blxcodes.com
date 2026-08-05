@@ -21,6 +21,12 @@ const MAX_NEW_GAMES = Number(process.env.MAX_NEW_GAMES || 5);
 const MAX_SCAN = Number(process.env.MAX_SCAN || Math.max(MAX_NEW_GAMES * 8, 40));
 const MIN_PLAYING = Number(process.env.MIN_PLAYING || 50);
 /**
+ * How many backlog candidates get a cheap Roblox lookup (no article fetch) so the
+ * scan budget can be spent on the busiest games instead of whatever the hub's
+ * alphabetical order happens to serve next.
+ */
+const PROBE_SCAN = Number(process.env.PROBE_SCAN || 200);
+/**
  * Catch-up: if the CCU number is missing, still add games whose place was verified on
  * Roblox and that have active codes. Identity is never waived, only the CCU threshold.
  */
@@ -358,6 +364,31 @@ const DISCOVERY_HUBS = [
   { name: 'pockettactics', url: POCKET_TACTICS_HUB, discover: discoverPocketTacticsLinks },
 ];
 
+/**
+ * High-search titles that competitors all cover. They still have to pass every
+ * admission gate; this list only stops them from waiting behind hundreds of
+ * near-empty experiences in the hubs' alphabetical order.
+ */
+const PRIORITY_SLUGS = new Set([
+  'tower-defense-simulator',
+  'anime-adventures',
+  'paint-and-seek',
+  'ultimate-tower-defense',
+  'tower-of-hell',
+  'build-a-base-and-steal',
+  'snipers-vs-runners',
+  'project-slayers',
+  'anime-defenders',
+  'king-legacy',
+  'jujutsu-shenanigans',
+  'dress-to-impress',
+  'arsenal',
+  'doors',
+  'rivals',
+  'sols-rng',
+  'bee-swarm-simulator',
+]);
+
 async function getPlaceStats(placeId) {
   if (!placeId) return { playing: null, name: null };
   for (let attempt = 0; attempt < 2; attempt++) {
@@ -660,6 +691,64 @@ async function syncOne(slug, urls, report) {
   return false;
 }
 
+/**
+ * Order backlog candidates by concurrent players before spending the scan budget.
+ * Both hubs list games alphabetically, so a plain rotation kept adding whichever
+ * letter the rotation landed on — a 40-player tycoon could be admitted while a
+ * 20k-player title waited days for its turn. The probe only calls Roblox (search +
+ * game stats), never the article, so ranking is far cheaper than admitting.
+ */
+async function rankByPlayers(backlog, report) {
+  const ranked = [];
+  const unranked = [];
+  let dropped = 0;
+  let probed = 0;
+
+  for (const entry of backlog) {
+    const [slug, meta] = entry;
+    if (probed >= PROBE_SCAN) {
+      unranked.push(entry);
+      continue;
+    }
+    probed += 1;
+    if (probed % 25 === 0) console.log(`discover: probed ${probed}/${Math.min(PROBE_SCAN, backlog.length)}`);
+
+    const placeId = await resolvePlaceId(meta.gameName);
+    if (!placeId) {
+      // No search hit is not a verdict; the admit loop can still find a placeId
+      // in the article itself, so keep the candidate behind the ranked ones.
+      unranked.push(entry);
+      continue;
+    }
+    const { playing, name } = await getPlaceStats(placeId);
+    await sleep(80);
+    if (!name || !namesMatch(meta.gameName, name)) {
+      unranked.push(entry);
+      continue;
+    }
+    if (playing === null) {
+      unranked.push(entry);
+      continue;
+    }
+    if (playing < MIN_PLAYING) {
+      dropped += 1;
+      continue;
+    }
+    ranked.push([slug, { ...meta, probe: { placeId, playing, robloxName: name } }]);
+  }
+
+  ranked.sort((a, b) => b[1].probe.playing - a[1].probe.playing);
+  if (ranked.length) {
+    report.push(
+      `discover: busiest candidates — ${ranked
+        .slice(0, 8)
+        .map(([slug, meta]) => `${slug} (${meta.probe.playing})`)
+        .join(', ')}`,
+    );
+  }
+  return { ranked, unranked, dropped, probed };
+}
+
 async function discoverNew(sources, report) {
   const links = new Map();
   const hubCounts = [];
@@ -699,20 +788,34 @@ async function discoverNew(sources, report) {
   }
 
   const missing = [...links.entries()].filter(([slug]) => !existing.has(slug));
+  const missingBySlug = new Map(missing);
+  // Keep PRIORITY_SLUGS insertion order — not hub HTML order — so known high-search
+  // titles always lead the admit loop.
+  const priority = [...PRIORITY_SLUGS]
+    .filter((slug) => missingBySlug.has(slug))
+    .map((slug) => [slug, missingBySlug.get(slug)]);
+  const rest = missing.filter(([slug]) => !PRIORITY_SLUGS.has(slug));
   // Always scan "This Week" first. Rotate the older backlog every two hours so
   // repeated runs do not spend MAX_SCAN on the same low-CCU candidates forever.
-  const freshCandidates = missing.filter(([, meta]) => meta.fresh);
-  const backlog = missing.filter(([, meta]) => !meta.fresh);
+  const freshCandidates = rest.filter(([, meta]) => meta.fresh);
+  const backlog = rest.filter(([, meta]) => !meta.fresh);
   const twoHourSlot = Math.floor(Date.now() / (2 * 60 * 60 * 1000));
-  const backlogOffset = backlog.length ? (twoHourSlot * MAX_SCAN) % backlog.length : 0;
+  const backlogOffset = backlog.length ? (twoHourSlot * PROBE_SCAN) % backlog.length : 0;
   const rotatedBacklog = backlog.length
     ? [...backlog.slice(backlogOffset), ...backlog.slice(0, backlogOffset)]
     : [];
-  const candidates = [...freshCandidates, ...rotatedBacklog];
+  const { ranked, unranked, dropped, probed } = await rankByPlayers(rotatedBacklog, report);
+  const candidates = [...priority, ...freshCandidates, ...ranked, ...unranked];
 
   const freshCount = freshCandidates.length;
   report.push(
-    `discover: ${links.size} unique games (${hubCounts.join(', ')}), ${candidates.length} missing (${freshCount} fresh, backlog offset ${backlogOffset}/${backlog.length})`,
+    `discover: ${links.size} unique games (${hubCounts.join(', ')}), ${missing.length} missing (${priority.length} priority, ${freshCount} fresh, backlog offset ${backlogOffset}/${backlog.length})`,
+  );
+  if (priority.length) {
+    report.push(`discover: priority queue — ${priority.map(([slug]) => slug).join(', ')}`);
+  }
+  report.push(
+    `discover: probed ${probed} backlog games — ${ranked.length} above ${MIN_PLAYING} CCU, ${dropped} too small, ${unranked.length} unverified`,
   );
 
   let added = 0;
@@ -747,14 +850,20 @@ async function discoverNew(sources, report) {
       continue;
     }
 
-    if (!placeId) placeId = await resolvePlaceId(meta.gameName);
+    if (!placeId) placeId = meta.probe?.placeId ?? (await resolvePlaceId(meta.gameName));
     if (!placeId) {
       report.push(`skip new ${slug}: no placeId`);
       continue;
     }
 
-    await sleep(120);
-    let { playing, name: robloxName } = await getPlaceStats(placeId);
+    let playing = null;
+    let robloxName = null;
+    if (meta.probe && Number(meta.probe.placeId) === Number(placeId)) {
+      ({ playing, robloxName } = meta.probe);
+    } else {
+      await sleep(120);
+      ({ playing, name: robloxName } = await getPlaceStats(placeId));
+    }
     if (!robloxName) {
       // Article CTAs go stale; try Roblox search once before giving up on the candidate.
       const searched = await resolvePlaceId(meta.gameName);
