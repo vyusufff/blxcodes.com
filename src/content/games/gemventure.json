@@ -1,0 +1,107 @@
+{
+  "title": "Gemventure Codes (August 2026)",
+  "gameName": "Gemventure",
+  "description": "Working Gemventure codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-05",
+  "checkedAt": "2026-08-05",
+  "featured": true,
+  "cover": "/images/games/card/gemventure.webp",
+  "placeId": 15404510237,
+  "howTo": [
+    "Launch Gemventure on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Gemventure codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Gemventure code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Gemventure codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "BUGFIX",
+      "reward": "stat reset (!)",
+      "status": "active"
+    },
+    {
+      "code": "TY4HEROES",
+      "reward": "100 coins, two tokens, and a free reset",
+      "status": "active"
+    },
+    {
+      "code": "15KLIKES",
+      "reward": "coins and spins",
+      "status": "active"
+    },
+    {
+      "code": "15KLIKESRESET",
+      "reward": "coins and spins",
+      "status": "active"
+    },
+    {
+      "code": "DIAMONDDAYS",
+      "reward": "coins",
+      "status": "active"
+    },
+    {
+      "code": "STAYTUNED",
+      "reward": "two spins",
+      "status": "active"
+    },
+    {
+      "code": "SOPHIESALE",
+      "reward": "one spin",
+      "status": "active"
+    },
+    {
+      "code": "BASIC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "6KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "8KLIKESFIXED",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "VOLUPTAZ",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY4BROKENCODES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY4DELAY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY4BUGS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "EXTRAORDINARY",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}
