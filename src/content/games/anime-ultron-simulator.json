@@ -1,9 +1,9 @@
 {
-  "title": "Anime Ultron Simulator Codes (July 2026)",
+  "title": "Anime Ultron Simulator Codes (August 2026)",
   "gameName": "Anime Ultron Simulator",
   "description": "Working Anime Ultron Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-05",
+  "checkedAt": "2026-08-05",
   "featured": true,
   "cover": "/images/games/card/anime-ultron-simulator.webp",
   "placeId": 111409347044446,
@@ -31,6 +31,16 @@
     {
       "code": "10KLikes",
       "reward": "Get 3000x Dungeon Tokens, 5x of each Potion, 500x Gems",
+      "status": "active"
+    },
+    {
+      "code": "2millionvisits",
+      "reward": "Gems ( )",
+      "status": "active"
+    },
+    {
+      "code": "30kfavorites",
+      "reward": "Gems ( )",
       "status": "active"
     },
     {
@@ -69,6 +79,11 @@
       "status": "active"
     },
     {
+      "code": "LONGDELAY",
+      "reward": "Gems, Potions ( )",
+      "status": "active"
+    },
+    {
       "code": "MiniUpdate",
       "reward": "Get 1x Clover Defense Key, 150x Gems, 100x Sword Token, 100x Elemental Tokens",
       "status": "active"
@@ -86,6 +101,11 @@
     {
       "code": "SHUTDOWN",
       "reward": "Get 1x Clover Defense Key, 200x Gems",
+      "status": "active"
+    },
+    {
+      "code": "SINS",
+      "reward": "Exchange Coins ( )",
       "status": "active"
     },
     {

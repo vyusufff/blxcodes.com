@@ -1,9 +1,9 @@
 {
-  "title": "Luck Incremental Codes (July 2026)",
+  "title": "Luck Incremental Codes (August 2026)",
   "gameName": "Luck Incremental",
   "description": "Working Luck Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-05",
+  "checkedAt": "2026-08-05",
   "featured": true,
   "cover": "/images/games/card/luck-incremental.webp",
   "placeId": 114788221976686,
@@ -46,6 +46,16 @@
     {
       "code": "1MVISITS",
       "reward": "30 minutes of 2x Trait Luck",
+      "status": "active"
+    },
+    {
+      "code": "300KMEMBERS",
+      "reward": "1 hour of 2x Trait Luck ( )",
+      "status": "active"
+    },
+    {
+      "code": "3MVISITS",
+      "reward": "1 hour of 2x Rune luck ( )",
       "status": "active"
     },
     {
