@@ -5,26 +5,71 @@ import Footer from '../../components/Footer.astro';
 import GameCard from '../../components/GameCard.astro';
 import Pagination from '../../components/Pagination.astro';
 import SearchBox from '../../components/SearchBox.astro';
-import { activeCodeCount, getAllGames, paginateGames } from '../../lib/games';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { activeCodeCount, getAllGames, getFeaturedGames, paginateGames } from '../../lib/games';
+import { breadcrumbJsonLd, collectionPageJsonLd } from '../../lib/seo';
 
 const allGames = await getAllGames();
+const featured = await getFeaturedGames(8);
 const { items, page, totalPages, total } = paginateGames(allGames, 1);
 const activeGames = allGames.filter((game) => activeCodeCount(game) > 0).length;
+const hubDescription = `Browse ${total} Roblox games with working codes. ${activeGames} lists currently have active codes ready to copy.`;
+const hubModified =
+  allGames.length > 0
+    ? new Date(Math.max(...allGames.map((g) => g.data.updatedAt.valueOf()))).toISOString()
+    : new Date().toISOString();
+
+const jsonLd = [
+  breadcrumbJsonLd([
+    { name: 'Home', path: '/' },
+    { name: 'Codes', path: '/codes' },
+  ]),
+  collectionPageJsonLd({
+    name: 'All Roblox Codes',
+    description: hubDescription,
+    path: '/codes',
+    dateModified: hubModified,
+    numberOfItems: total,
+    items: items.map((game) => ({
+      name: `${game.data.gameName} Codes`,
+      path: `/codes/${game.id}`,
+    })),
+  }),
+];
 ---
 
 <BaseLayout
   title="All Roblox Codes"
-  description={`Browse ${total} Roblox games with working codes. ${activeGames} lists currently have active codes ready to copy.`}
+  description={hubDescription}
+  jsonLd={jsonLd}
 >
   <Header slot="header" />
 
   <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
-    <h1 class="font-display text-2xl font-bold tracking-tight text-ink sm:text-3xl" data-codes-title>
+    <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Codes' }]} />
+    <h1 class="mt-3 font-display text-2xl font-bold tracking-tight text-ink sm:text-3xl" data-codes-title>
       Roblox codes
     </h1>
     <p class="mt-1.5 max-w-2xl text-sm text-muted" data-codes-subtitle>
       {total} games tracked · {activeGames} with active codes. Search any experience, open the page, copy an active code.
     </p>
+
+    {
+      featured.length > 0 && (
+        <p class="mt-3 max-w-3xl text-sm leading-relaxed text-ink-soft" data-codes-popular>
+          Recently updated:{' '}
+          {featured.map((game, i) => (
+            <>
+              {i > 0 && ', '}
+              <a class="font-semibold text-teal hover:text-signal" href={`/codes/${game.id}`}>
+                {game.data.gameName}
+              </a>
+            </>
+          ))}
+          .
+        </p>
+      )
+    }
 
     <div class="mt-4 max-w-xl">
       <SearchBox id="codes-search" size="page" />
@@ -90,6 +135,7 @@ const activeGames = allGames.filter((game) => activeCodeCount(game) > 0).length;
     const input = document.querySelector('#codes-search');
     const title = document.querySelector('[data-codes-title]');
     const subtitle = document.querySelector('[data-codes-subtitle]');
+    const popular = document.querySelector('[data-codes-popular]');
     const defaultGrid = document.querySelector('[data-default-grid]');
     const searchGrid = document.querySelector('[data-search-grid]');
     const empty = document.querySelector('[data-search-empty]');
@@ -109,6 +155,7 @@ const activeGames = allGames.filter((game) => activeCodeCount(game) > 0).length;
 
     if (title) title.textContent = `Results for “${params.get('q')}”`;
     if (subtitle) subtitle.textContent = `${hits.length} game${hits.length === 1 ? '' : 's'} matched your search.`;
+    popular?.classList.add('hidden');
     defaultGrid?.classList.add('hidden');
     pagination?.classList.add('hidden');
     searchGrid?.classList.remove('hidden');
@@ -118,4 +165,3 @@ const activeGames = allGames.filter((game) => activeCodeCount(game) > 0).length;
 
   runSearch();
 </script>
-

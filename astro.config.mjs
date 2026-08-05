@@ -2,6 +2,10 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
+import { buildSitemapLastmodMap } from './src/lib/sitemap-dates.mjs';
+
+const lastmodMap = buildSitemapLastmodMap();
+const codesHubLastmod = lastmodMap.get('https://blxcodes.com/codes/');
 
 // https://astro.build/config
 export default defineConfig({
@@ -28,7 +32,12 @@ export default defineConfig({
           item.priority = 0.5;
           item.changefreq = 'monthly';
         }
-        item.lastmod = new Date();
+        // Prefer real content dates. Identical build-time lastmod is ignored by Google.
+        const lastmod =
+          lastmodMap.get(url) ??
+          (url.includes('/codes/page/') ? codesHubLastmod : undefined);
+        if (lastmod) item.lastmod = lastmod;
+        else delete item.lastmod;
         return item;
       },
     }),

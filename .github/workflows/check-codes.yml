@@ -18,6 +18,11 @@ on:
         description: "Skip new games below this CCU"
         required: false
         default: "50"
+      force_deploy:
+        description: "Build+deploy even if sync made no content changes (SEO/UI releases)"
+        required: false
+        default: "false"
+        type: boolean
 
 permissions:
   contents: write
@@ -83,13 +88,22 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Decide deploy
+        id: gate
+        run: |
+          if [ "${{ steps.commit.outputs.changed }}" = "true" ] || [ "${{ github.event_name == 'workflow_dispatch' && github.event.inputs.force_deploy || 'false' }}" = "true" ]; then
+            echo "deploy=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "deploy=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Build
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.gate.outputs.deploy == 'true'
         run: npm run build
 
       - name: Deploy to Cloudflare Pages
         id: deploy
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.gate.outputs.deploy == 'true'
         continue-on-error: true
         uses: cloudflare/wrangler-action@v3
         with:
@@ -98,12 +112,12 @@ jobs:
           command: pages deploy dist --project-name=blxcodes
 
       - name: Wait before deploy retry
-        if: steps.commit.outputs.changed == 'true' && steps.deploy.outcome == 'failure'
+        if: steps.gate.outputs.deploy == 'true' && steps.deploy.outcome == 'failure'
         run: sleep 45
 
       - name: Retry Cloudflare deploy
         id: deploy2
-        if: steps.commit.outputs.changed == 'true' && steps.deploy.outcome == 'failure'
+        if: steps.gate.outputs.deploy == 'true' && steps.deploy.outcome == 'failure'
         continue-on-error: true
         uses: cloudflare/wrangler-action@v3
         with:
@@ -112,11 +126,11 @@ jobs:
           command: pages deploy dist --project-name=blxcodes
 
       - name: Wait before second deploy retry
-        if: steps.commit.outputs.changed == 'true' && steps.deploy.outcome == 'failure' && steps.deploy2.outcome == 'failure'
+        if: steps.gate.outputs.deploy == 'true' && steps.deploy.outcome == 'failure' && steps.deploy2.outcome == 'failure'
         run: sleep 90
 
       - name: Retry Cloudflare deploy again
-        if: steps.commit.outputs.changed == 'true' && steps.deploy.outcome == 'failure' && steps.deploy2.outcome == 'failure'
+        if: steps.gate.outputs.deploy == 'true' && steps.deploy.outcome == 'failure' && steps.deploy2.outcome == 'failure'
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -124,6 +138,6 @@ jobs:
           command: pages deploy dist --project-name=blxcodes
 
       - name: IndexNow ping
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.gate.outputs.deploy == 'true'
         continue-on-error: true
         run: node scripts/ping-indexnow.mjs

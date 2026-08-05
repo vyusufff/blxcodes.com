@@ -9,8 +9,43 @@ export const DEFAULT_OG = `${SITE_URL}/images/og-default-v2.png`;
 /** IndexNow API key — also hosted at /{key}.txt */
 export const INDEXNOW_KEY = '7c4e9a2f8b1d4e6a9c0f3b5d7e8a1c2f';
 
+/** Absolute URL; page paths get a trailing slash to match Astro + sitemap canonicals. */
 export function absoluteUrl(path = '/') {
-  return new URL(path, SITE_URL).toString();
+  const url = new URL(path, SITE_URL);
+  const isAsset = /\.[a-z0-9]+$/i.test(url.pathname);
+  if (!isAsset && !url.pathname.endsWith('/')) {
+    url.pathname = `${url.pathname}/`;
+  }
+  return url.toString();
+}
+
+/** CollectionPage + ItemList for hub indexes (e.g. /codes). */
+export function collectionPageJsonLd(opts: {
+  name: string;
+  description: string;
+  path: string;
+  dateModified?: string;
+  numberOfItems?: number;
+  items: { name: string; path: string }[];
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: opts.name,
+    description: opts.description,
+    url: absoluteUrl(opts.path),
+    ...(opts.dateModified ? { dateModified: opts.dateModified } : {}),
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: opts.numberOfItems ?? opts.items.length,
+      itemListElement: opts.items.map((item, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: item.name,
+        url: absoluteUrl(item.path),
+      })),
+    },
+  };
 }
 
 export function organizationJsonLd() {
