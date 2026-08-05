@@ -4,6 +4,7 @@
  * Usage:
  *   node scripts/check-codes.mjs
  *   node scripts/check-codes.mjs --write
+ *   node scripts/check-codes.mjs --discover-only
  */
 import fs from 'fs';
 import path from 'path';
@@ -13,6 +14,7 @@ const ROOT = process.cwd();
 const GAMES_DIR = path.join(ROOT, 'src/content/games');
 const SOURCES_PATH = path.join(ROOT, 'scripts/sources.json');
 const WRITE = process.argv.includes('--write');
+const DISCOVER_ONLY = process.argv.includes('--discover-only');
 const TODAY = new Date().toISOString().slice(0, 10);
 const MAX_NEW_GAMES = Number(process.env.MAX_NEW_GAMES || 5);
 const MAX_SCAN = Number(process.env.MAX_SCAN || Math.max(MAX_NEW_GAMES * 8, 40));
@@ -533,14 +535,21 @@ async function discoverNew(sources, report) {
     ...fs.readdirSync(GAMES_DIR).filter((f) => f.endsWith('.json')).map((f) => f.replace(/\.json$/, '')),
   ]);
 
-  // Prefer "This Week" games first, then the rest of the hub list
-  const candidates = [...links.entries()]
-    .filter(([slug]) => !existing.has(slug))
-    .sort((a, b) => Number(b[1].fresh) - Number(a[1].fresh));
+  const missing = [...links.entries()].filter(([slug]) => !existing.has(slug));
+  // Always scan "This Week" first. Rotate the older backlog every two hours so
+  // repeated runs do not spend MAX_SCAN on the same low-CCU candidates forever.
+  const freshCandidates = missing.filter(([, meta]) => meta.fresh);
+  const backlog = missing.filter(([, meta]) => !meta.fresh);
+  const twoHourSlot = Math.floor(Date.now() / (2 * 60 * 60 * 1000));
+  const backlogOffset = backlog.length ? (twoHourSlot * MAX_SCAN) % backlog.length : 0;
+  const rotatedBacklog = backlog.length
+    ? [...backlog.slice(backlogOffset), ...backlog.slice(0, backlogOffset)]
+    : [];
+  const candidates = [...freshCandidates, ...rotatedBacklog];
 
-  const freshCount = candidates.filter(([, m]) => m.fresh).length;
+  const freshCount = freshCandidates.length;
   report.push(
-    `discover: ${links.size} beebom games, ${candidates.length} missing (${freshCount} from this-week section)`,
+    `discover: ${links.size} beebom games, ${candidates.length} missing (${freshCount} from this-week section, backlog offset ${backlogOffset}/${backlog.length})`,
   );
 
   let added = 0;
@@ -670,11 +679,13 @@ async function main() {
   let changed = 0;
 
   // 1) Priority: refresh codes for games already on the site
-  for (const [slug, cfg] of Object.entries(sources)) {
-    if (!cfg.sources?.length) continue;
-    const did = await syncOne(slug, cfg.sources, report);
-    if (did) changed += 1;
-    await sleep(80);
+  if (!DISCOVER_ONLY) {
+    for (const [slug, cfg] of Object.entries(sources)) {
+      if (!cfg.sources?.length) continue;
+      const did = await syncOne(slug, cfg.sources, report);
+      if (did) changed += 1;
+      await sleep(80);
+    }
   }
 
   // 2) Then discover new games (this-week first, skip dead/low CCU)
@@ -683,8 +694,10 @@ async function main() {
   changed += added;
 
   // 3) Backfill missing covers/icons
-  const sourcesFinal = JSON.parse(fs.readFileSync(SOURCES_PATH, 'utf8'));
-  changed += await backfillCovers(sourcesFinal, report);
+  if (!DISCOVER_ONLY) {
+    const sourcesFinal = JSON.parse(fs.readFileSync(SOURCES_PATH, 'utf8'));
+    changed += await backfillCovers(sourcesFinal, report);
+  }
 
   console.log(report.join('\n'));
   console.log(
