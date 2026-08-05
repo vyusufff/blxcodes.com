@@ -20,7 +20,10 @@ const TODAY = new Date().toISOString().slice(0, 10);
 const MAX_NEW_GAMES = Number(process.env.MAX_NEW_GAMES || 5);
 const MAX_SCAN = Number(process.env.MAX_SCAN || Math.max(MAX_NEW_GAMES * 8, 40));
 const MIN_PLAYING = Number(process.env.MIN_PLAYING || 50);
-/** Catch-up: if Roblox CCU API flakes, still add games that have placeId + active codes */
+/**
+ * Catch-up: if the CCU number is missing, still add games whose place was verified on
+ * Roblox and that have active codes. Identity is never waived, only the CCU threshold.
+ */
 const ALLOW_UNKNOWN_CCU =
   process.env.ALLOW_UNKNOWN_CCU === '1' || Number(process.env.MAX_NEW_GAMES || 5) >= 50;
 
@@ -287,8 +290,8 @@ function discoverBeebomLinks(html) {
   return found;
 }
 
-async function getPlayingCount(placeId) {
-  if (!placeId) return null;
+async function getPlaceStats(placeId) {
+  if (!placeId) return { playing: null, name: null };
   for (let attempt = 0; attempt < 3; attempt++) {
     try {
       if (attempt > 0) await sleep(400 * attempt);
@@ -309,29 +312,47 @@ async function getPlayingCount(placeId) {
       }
       if (!universeId) continue;
 
-      let playing = null;
+      let info = null;
       try {
         const gRes = await fetch(`https://games.roblox.com/v1/games?universeIds=${universeId}`, {
           headers: { 'user-agent': UA },
           signal: AbortSignal.timeout(12000),
         });
-        if (gRes.ok) {
-          const json = await gRes.json();
-          playing = json?.data?.[0]?.playing;
-        }
+        if (gRes.ok) info = (await gRes.json())?.data?.[0];
       } catch {
         /* curl fallback below */
       }
-      if (typeof playing !== 'number') {
-        playing = curlJson(`https://games.roblox.com/v1/games?universeIds=${universeId}`)?.data?.[0]
-          ?.playing;
+      if (!info?.name) {
+        info = curlJson(`https://games.roblox.com/v1/games?universeIds=${universeId}`)?.data?.[0];
       }
-      if (typeof playing === 'number') return playing;
+      if (info?.name) {
+        return { playing: typeof info.playing === 'number' ? info.playing : null, name: info.name };
+      }
     } catch {
       /* retry */
     }
   }
-  return null;
+  return { playing: null, name: null };
+}
+
+/**
+ * Beebom's Roblox hub also links code guides for non-Roblox titles, and those pages
+ * still carry a stray roblox.com link that extractPlaceIdFromHtml happily grabs. The
+ * place then resolves to some unrelated game, so compare the two names before trusting it.
+ */
+function namesMatch(articleName, robloxName) {
+  const squash = (s) => String(s).toLowerCase().replace(/[^a-z0-9]/g, '');
+  const article = squash(articleName);
+  const roblox = squash(robloxName);
+  if (!article || !roblox) return false;
+  if (roblox.includes(article) || article.includes(roblox)) return true;
+  // Roblox titles get decorated ("[UPDATE 3] Mini War RNG!!"), so fall back to word overlap.
+  const words = (String(articleName).toLowerCase().match(/[a-z0-9]+/g) || []).filter(
+    (w) => w.length >= 3,
+  );
+  if (!words.length) return false;
+  const hits = words.filter((w) => roblox.includes(w)).length;
+  return hits / words.length >= 0.6;
 }
 
 function loadGame(slug) {
@@ -641,7 +662,17 @@ async function discoverNew(sources, report) {
     }
 
     await sleep(120);
-    const playing = await getPlayingCount(placeId);
+    const { playing, name: robloxName } = await getPlaceStats(placeId);
+    if (!robloxName) {
+      // An unverified place is how a non-Roblox game slipped in once; the next run
+      // retries this candidate anyway, so refuse rather than guess.
+      report.push(`skip new ${slug}: could not verify placeId ${placeId} on Roblox`);
+      continue;
+    }
+    if (!namesMatch(meta.gameName, robloxName)) {
+      report.push(`skip new ${slug}: placeId ${placeId} is "${robloxName}", not "${meta.gameName}"`);
+      continue;
+    }
     if (playing !== null && playing < MIN_PLAYING) {
       report.push(`skip new ${slug}: ${playing} playing (< ${MIN_PLAYING})`);
       continue;
