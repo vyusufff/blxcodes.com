@@ -1,241 +1,271 @@
 {
-  "title": "Demon Born Codes (August 2026)",
-  "gameName": "Demon Born",
-  "description": "Working Demon Born codes for free in-game rewards. Updated regularly.",
+  "title": "Fireworks Playground Codes (August 2026)",
+  "gameName": "Fireworks Playground",
+  "description": "Working Fireworks Playground codes for free in-game rewards. Updated regularly.",
   "updatedAt": "2026-08-05",
   "checkedAt": "2026-08-05",
   "featured": true,
-  "cover": "/images/games/card/demon-born.webp",
-  "placeId": 79833666916700,
+  "cover": "/images/games/card/fireworks-playground.webp",
+  "placeId": 10846691679,
   "howTo": [
-    "Launch Demon Born on Roblox.",
+    "Launch Fireworks Playground on Roblox.",
     "Open the codes or redeem menu in the game UI.",
     "Paste a working code exactly as shown.",
     "Confirm to claim your rewards."
   ],
   "faq": [
     {
-      "q": "Are these Demon Born codes free?",
+      "q": "Are these Fireworks Playground codes free?",
       "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
     },
     {
-      "q": "Why did a Demon Born code not work?",
+      "q": "Why did a Fireworks Playground code not work?",
       "a": "It is usually expired, mistyped, or already redeemed on your account."
     },
     {
-      "q": "How often are Demon Born codes updated?",
+      "q": "How often are Fireworks Playground codes updated?",
       "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
     }
   ],
   "codes": [
     {
-      "code": "20KFAVORITS",
-      "reward": "Free Blood Art Spins and Items ( , level 10)",
+      "code": "NEWYEARBOOST",
+      "reward": "1m coins",
       "status": "active"
     },
     {
-      "code": "2KUSESTENGU",
-      "reward": "Free Rewards ( , level 10)",
+      "code": "FIREWORKSEASON",
+      "reward": "225k coins",
       "status": "active"
+    },
+    {
+      "code": "NEWHORIZONS",
+      "reward": "250k coins",
+      "status": "active"
+    },
+    {
+      "code": "MIDNIGHT2026",
+      "reward": "250k coins",
+      "status": "active"
+    },
+    {
+      "code": "BRIGHTBEGINNING",
+      "reward": "250k coins",
+      "status": "active"
+    },
+    {
+      "code": "CELEBRATE",
+      "reward": "200k coins",
+      "status": "active"
+    },
+    {
+      "code": "PARTYTIME",
+      "reward": "200k coins",
+      "status": "active"
+    },
+    {
+      "code": "CosmicCOUNTDOWN",
+      "reward": "300k coins",
+      "status": "active"
+    },
+    {
+      "code": "CRACKLE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TANKS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "12KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "6MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "120SHOTS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "100SHOTS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BOGOSBINTED",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BANANAS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CODESPLEASE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "JOINTHEGROUP",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "XBOX",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THROWABLES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FIRINGTABLET",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PSEUDO",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PSEU",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "3KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DANGER",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "STORM",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "VENOM",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "4KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2Point6Mil",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "4SHOTS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "60SHOTS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WHISTLE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "STROBE",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
       "code": "3MVISITS",
-      "reward": "Free Blood Art Spins and Items ( , level 10)",
-      "status": "active"
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CRACKLERS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "6KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
       "code": "4MVISITS",
-      "reward": "Free Rewards ( , level 10)",
-      "status": "active"
-    },
-    {
-      "code": "4MVISITS2",
-      "reward": "Free Rewards ( , level 10)",
-      "status": "active"
-    },
-    {
-      "code": "BLOODMOON",
-      "reward": "10 Blood Art Spins ( , level 10)",
-      "status": "active"
-    },
-    {
-      "code": "NOTYBUGSORRY",
-      "reward": "Free clan spins",
-      "status": "active"
-    },
-    {
-      "code": "NOTYSLEEP",
-      "reward": "Free Rewards ( , level 10)",
-      "status": "active"
-    },
-    {
-      "code": "100KTHANKS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "50K",
+      "code": "MORTARRACK",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "BDA10",
+      "code": "7KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Betarelease",
+      "code": "5MVISITS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "BLOODMOON2",
-      "reward": "10 Blood Art Spins ( , level 10)",
-      "status": "expired"
-    },
-    {
-      "code": "Born",
+      "code": "100X",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "CHANGEGENDER2",
+      "code": "8KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "CONSOLE",
+      "code": "9KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "CUP",
+      "code": "RACKINGTON",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "EVENT2",
+      "code": "soon!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "FAMILY30",
-      "reward": "Free Rewards ( , level 10)",
-      "status": "expired"
-    },
-    {
-      "code": "MUDARGENERONAOUSESEFORTROCAR",
+      "code": "3DS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "MUZANTRAIN1",
-      "reward": "Free clan spins",
-      "status": "expired"
-    },
-    {
-      "code": "MUZANTRAIN2",
+      "code": "2026",
       "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MUZANTRAIN3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MUZANTRAIN4",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MUZANTRAIN5",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NEWPATH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NEWPATH2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RESETGENDERNEW",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RESETSTATS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RESETSTATS2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RESETSTATS4",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RESETSTATS5",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RESETSTATSUPDATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRYBBUGS5",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRYFORBUGS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRYFORBUGS4",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRYSHUTDOWN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRYSHUTDOWN2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanks30k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "THANKSALL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "VISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ZZZZZ",
-      "reward": "Free Blood Art Spins and Items ( , level 10)",
       "status": "expired"
     }
   ]
