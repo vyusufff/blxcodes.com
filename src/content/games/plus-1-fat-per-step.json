@@ -55,31 +55,11 @@
     },
     {
       "code": "THANKYOU",
-      "reward": "1 Insane Title Roll ( )",
+      "reward": "1 Insane Title Roll",
       "status": "active"
     },
     {
       "code": "2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8211",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Adhikary",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -89,32 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "below!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Chakrabarti",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "connected",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "connection",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -129,17 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "directly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Evo",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fat",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -149,42 +94,7 @@
       "status": "expired"
     },
     {
-      "code": "Gacha",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "IDs",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ishan",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lastly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Let",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Loot",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -200,16 +110,6 @@
     },
     {
       "code": "Nightfall",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Online",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -230,31 +130,6 @@
     },
     {
       "code": "properly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sanmay",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tags",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

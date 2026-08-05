@@ -40,7 +40,7 @@
     },
     {
       "code": "HIGHER1M120K",
-      "reward": "800 Gems ( )",
+      "reward": "800 Gems",
       "status": "active"
     },
     {
@@ -109,11 +109,6 @@
       "status": "expired"
     },
     {
-      "code": "Battlegrounds",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BIG1M170K!!",
       "reward": "Expired reward",
       "status": "expired"
@@ -145,11 +140,6 @@
     },
     {
       "code": "FREEBOTAGAIN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fruit",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "CLIMB2026",
-      "reward": "500 Coins ( )",
+      "reward": "500 Coins",
       "status": "active"
     },
     {
@@ -69,22 +69,12 @@
       "status": "expired"
     },
     {
-      "code": "action-packed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ADMIN",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "ALIEN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Although",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -109,11 +99,6 @@
       "status": "expired"
     },
     {
-      "code": "Climb",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "DEMON",
       "reward": "Expired reward",
       "status": "expired"
@@ -134,16 +119,6 @@
       "status": "expired"
     },
     {
-      "code": "favorite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "GIANT",
       "reward": "Expired reward",
       "status": "expired"
@@ -154,27 +129,12 @@
       "status": "expired"
     },
     {
-      "code": "Horse",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "IRONMAN",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Jump",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -190,11 +150,6 @@
     },
     {
       "code": "PIXEL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Race",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -245,11 +200,6 @@
     },
     {
       "code": "TORONTO",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
       "reward": "Expired reward",
       "status": "expired"
     }

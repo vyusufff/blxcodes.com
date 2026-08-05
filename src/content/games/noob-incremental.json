@@ -55,12 +55,12 @@
     },
     {
       "code": "500KGROUPMEMBERS!!!",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "ANOTHERLITTLEUPDATE",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "code": "JUSTALITTLEUPDATE",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "code": "SPACEREALMISOUT!",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -169,37 +169,12 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8230",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "8KCCU!!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "9KCCU!!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "advantage",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -224,52 +199,7 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Getting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ghoul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Immortality",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "incremental",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Incremental",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Noob",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -279,22 +209,7 @@
       "status": "expired"
     },
     {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SHUTDOWNBECAUSEOFNOOBS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sorcerer",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -305,16 +220,6 @@
     },
     {
       "code": "SORRYSHUTDOWN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Store",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     }

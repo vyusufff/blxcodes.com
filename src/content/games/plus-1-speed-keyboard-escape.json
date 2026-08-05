@@ -30,61 +30,11 @@
   "codes": [
     {
       "code": "BYP4SS1",
-      "reward": "15,000 Speed ( )",
+      "reward": "15,000 Speed",
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "accounts",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Also",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "available",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "definitely",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Discord-generated",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Escape",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "exclusive",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -99,11 +49,6 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Hyper",
       "reward": "Expired reward",
       "status": "expired"
@@ -114,47 +59,12 @@
       "status": "expired"
     },
     {
-      "code": "information",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Keyboard",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "limited-time",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "mechanics",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "milestones",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "officially",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -169,27 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Runner",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "satisfied",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,37 +89,7 @@
       "status": "expired"
     },
     {
-      "code": "Speed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Speedster",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "These",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "upcoming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "When",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

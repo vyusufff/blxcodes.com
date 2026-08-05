@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "apementor",
-      "reward": "7 Dragon Balls ( )",
+      "reward": "7 Dragon Balls",
       "status": "active"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "code": "newqolupdate",
-      "reward": "7 Dragon Balls ( )",
+      "reward": "7 Dragon Balls",
       "status": "active"
     },
     {
@@ -114,37 +114,12 @@
       "status": "expired"
     },
     {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventures",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "anime-inspired",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Attack",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Beast",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "boostspack",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dragon",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,11 +139,6 @@
       "status": "expired"
     },
     {
-      "code": "Ghoul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "GODREWORK",
       "reward": "7 Dragon Balls",
       "status": "expired"
@@ -179,22 +149,7 @@
       "status": "expired"
     },
     {
-      "code": "Hold",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "JAPAN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "keyboard",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,22 +164,7 @@
       "status": "expired"
     },
     {
-      "code": "Press",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RADRIBBON",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ready",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Revolution",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -235,16 +175,6 @@
     },
     {
       "code": "shrimpgame",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Titan",
       "reward": "Expired reward",
       "status": "expired"
     },

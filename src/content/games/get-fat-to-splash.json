@@ -40,23 +40,8 @@
     },
     {
       "code": "MyManJordan",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Become",
-      "reward": "Expired reward",
-      "status": "expired"
     },
     {
       "code": "beginning",
@@ -69,127 +54,12 @@
       "status": "expired"
     },
     {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Brainrot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Currently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "enthusiasts",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Fat",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Getting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gym",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Instead",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Let",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "mechanic",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Race",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "searching",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Showdown",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simply",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,42 +74,7 @@
       "status": "expired"
     },
     {
-      "code": "Submit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Training",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "variations",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Want",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "When",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

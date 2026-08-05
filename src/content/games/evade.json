@@ -45,7 +45,7 @@
     },
     {
       "code": "TrollgeTungTungEyelessBaldiBacteriaPacmanDefect",
-      "reward": "Redeem for 30 Points ( )",
+      "reward": "Redeem for 30 Points",
       "status": "active"
     },
     {
@@ -64,11 +64,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "900",
       "reward": "Expired reward",
       "status": "expired"
@@ -79,27 +74,12 @@
       "status": "expired"
     },
     {
-      "code": "collection",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "cosmetics",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Dandy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "DOORS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -110,21 +90,6 @@
     },
     {
       "code": "evadethebirthdayboy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "gullible",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -159,16 +124,6 @@
       "status": "expired"
     },
     {
-      "code": "Input",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "luckyday",
       "reward": "Expired reward",
       "status": "expired"
@@ -185,21 +140,6 @@
     },
     {
       "code": "NewYears2023",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Press",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "recommend",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -225,26 +165,6 @@
     },
     {
       "code": "thebig5",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Twitter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Want",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Well",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "World",
       "reward": "Expired reward",
       "status": "expired"
     }

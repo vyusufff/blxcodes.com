@@ -60,7 +60,7 @@
     },
     {
       "code": "AMERICADAY2026",
-      "reward": "10 Blessing rolls ( )",
+      "reward": "10 Blessing rolls",
       "status": "active"
     },
     {
@@ -179,11 +179,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "85KLIKESCODE",
       "reward": "Expired reward",
       "status": "expired"
@@ -224,42 +219,12 @@
       "status": "expired"
     },
     {
-      "code": "Elemental",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FREELRWCODE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Ghoul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HAPPY2024NEWYEARS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "keyboard",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -274,27 +239,7 @@
       "status": "expired"
     },
     {
-      "code": "Menu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Move",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Options",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Otherwise",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -304,17 +249,7 @@
       "status": "expired"
     },
     {
-      "code": "Press",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ReWritten",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -324,17 +259,7 @@
       "status": "expired"
     },
     {
-      "code": "Tired",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "TOPSECRET30MITEM1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -345,11 +270,6 @@
     },
     {
       "code": "TYFOR235KFAVORITES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },

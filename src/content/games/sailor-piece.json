@@ -40,7 +40,7 @@
     },
     {
       "code": "SORRYFORBROLYBUGANDWAIT",
-      "reward": "30x Power Shard, 50x Passive Shard, 14x Secret Chest, 100x Clan Reroll, 12x Aura Crate, and 10x Cosmetic Crate ( )",
+      "reward": "30x Power Shard, 50x Passive Shard, 14x Secret Chest, 100x Clan Reroll, 12x Aura Crate, and 10x Cosmetic Crate",
       "status": "active"
     },
     {
@@ -184,11 +184,6 @@
       "status": "expired"
     },
     {
-      "code": "Piece",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RAIDS",
       "reward": "Expired reward",
       "status": "expired"
@@ -200,11 +195,6 @@
     },
     {
       "code": "RAIDUPDATENOW",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sailor",
       "reward": "Expired reward",
       "status": "expired"
     },

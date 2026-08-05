@@ -70,7 +70,7 @@
     },
     {
       "code": "HappyNewYear!",
-      "reward": "Gems, Currency, Ticket, and Daily Wheel Spin ( )",
+      "reward": "Gems, Currency, Ticket, and Daily Wheel Spin",
       "status": "active"
     },
     {
@@ -85,17 +85,17 @@
     },
     {
       "code": "LUNARNEWYEAR!",
-      "reward": "5 Daily Wheel Spin, 2500 HongBao, and 200 Yuan ( )",
+      "reward": "5 Daily Wheel Spin, 2500 HongBao, and 200 Yuan",
       "status": "active"
     },
     {
       "code": "MerryChristmas!",
-      "reward": "5000 Gems, 2500 Xmas2025 Currency, 3 Xmas2025 Ticket, and 1 Daily Wheel Spin ( )",
+      "reward": "5000 Gems, 2500 Xmas2025 Currency, 3 Xmas2025 Ticket, and 1 Daily Wheel Spin",
       "status": "active"
     },
     {
       "code": "MerryEarlyChristmas!",
-      "reward": "1000 Gems, 500 Xmas2025 Currency, and 1 Daily Wheel Spin ( )",
+      "reward": "1000 Gems, 500 Xmas2025 Currency, and 1 Daily Wheel Spin",
       "status": "active"
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "code": "SLOWUPDATES",
-      "reward": "1000 Gems, 1000 Frozen Currency, and 2 Daily Wheel Spin ( )",
+      "reward": "1000 Gems, 1000 Frozen Currency, and 2 Daily Wheel Spin",
       "status": "active"
     },
     {
@@ -120,7 +120,7 @@
     },
     {
       "code": "ThanksForGiving2025",
-      "reward": "500 Gems, 1500 Turkey, and 2 Daily Wheel Spin ( )",
+      "reward": "500 Gems, 1500 Turkey, and 2 Daily Wheel Spin",
       "status": "active"
     },
     {
@@ -135,17 +135,17 @@
     },
     {
       "code": "UPD6ISREAL",
-      "reward": "1000 Gems, 1 Mana Fragment, and 2 Daily Wheel Spin ( )",
+      "reward": "1000 Gems, 1 Mana Fragment, and 2 Daily Wheel Spin",
       "status": "active"
     },
     {
       "code": "UPD7ISREAL",
-      "reward": "1000 Gems, 1000 Frozen Currency, and 2 Daily Wheel Spin ( )",
+      "reward": "1000 Gems, 1000 Frozen Currency, and 2 Daily Wheel Spin",
       "status": "active"
     },
     {
       "code": "Winter2025",
-      "reward": "500 Gems, 1500 Turkey, and 2 Daily Wheel Spin ( )",
+      "reward": "500 Gems, 1500 Turkey, and 2 Daily Wheel Spin",
       "status": "active"
     },
     {
@@ -184,122 +184,12 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8220",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8221",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8230",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Animals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ANIMALS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Brainrot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "complete",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Evolution",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Forge",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Looking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Ocean",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Raise",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -310,11 +200,6 @@
     },
     {
       "code": "Release!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -330,16 +215,6 @@
     },
     {
       "code": "SryForTheGamepassIssue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -40,7 +40,7 @@
     },
     {
       "code": "250KLIKES",
-      "reward": "15 Spins ( )",
+      "reward": "15 Spins",
       "status": "active"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "code": "50MVISITS",
-      "reward": "25K Tokens ( )",
+      "reward": "25K Tokens",
       "status": "active"
     },
     {
@@ -69,192 +69,12 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "anything",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Apart",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmarks",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "directly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fisch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Just",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Last",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Letter",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "mistakes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MmiiGames",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Prospecting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "relaxing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "shooting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Some",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Unlike",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Use",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Visit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "When",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Yes",
       "reward": "Expired reward",
       "status": "expired"
     }

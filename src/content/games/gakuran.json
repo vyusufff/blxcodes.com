@@ -27,22 +27,85 @@
     }
   ],
   "codes": [
-    { "code": "thecodeis", "reward": "30 Rerolls", "status": "active" },
-    { "code": "QUICKPATCH", "reward": "15 Rerolls", "status": "active" },
-    { "code": "MUSICFIXESNOPTIMIZATION", "reward": "25 Rerolls", "status": "active" },
-    { "code": "CHESS", "reward": "Expired reward", "status": "expired" },
-    { "code": "LARPSIMULATOR", "reward": "Expired reward", "status": "expired" },
-    { "code": "Uma", "reward": "Expired reward", "status": "expired" },
-    { "code": "MAPUPDATE", "reward": "Expired reward", "status": "expired" },
-    { "code": "XAYSEYES", "reward": "Expired reward", "status": "expired" },
-    { "code": "Son", "reward": "Expired reward", "status": "expired" },
-    { "code": "secret2", "reward": "Expired reward", "status": "expired" },
-    { "code": "SECRET", "reward": "Expired reward", "status": "expired" },
-    { "code": "FIXES2", "reward": "Expired reward", "status": "expired" },
-    { "code": "FIXES", "reward": "Expired reward", "status": "expired" },
-    { "code": "2MIL", "reward": "Expired reward", "status": "expired" },
-    { "code": "FIXES3", "reward": "Expired reward", "status": "expired" },
-    { "code": "15REROLLS", "reward": "Expired reward", "status": "expired" },
-    { "code": "GAKURAN", "reward": "Expired reward", "status": "expired" }
+    {
+      "code": "thecodeis",
+      "reward": "30 Rerolls",
+      "status": "active"
+    },
+    {
+      "code": "QUICKPATCH",
+      "reward": "15 Rerolls",
+      "status": "active"
+    },
+    {
+      "code": "MUSICFIXESNOPTIMIZATION",
+      "reward": "25 Rerolls",
+      "status": "active"
+    },
+    {
+      "code": "CHESS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LARPSIMULATOR",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MAPUPDATE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "XAYSEYES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Son",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "secret2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SECRET",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FIXES2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FIXES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2MIL",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FIXES3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "15REROLLS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GAKURAN",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
   ]
 }

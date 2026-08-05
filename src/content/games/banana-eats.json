@@ -70,7 +70,7 @@
     },
     {
       "code": "MEMES",
-      "reward": "Redeem for free Beacon ( )",
+      "reward": "Redeem for free Beacon",
       "status": "active"
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "code": "SUMMER",
-      "reward": "Melted Peel skin ( )",
+      "reward": "Melted Peel skin",
       "status": "active"
     },
     {
@@ -105,26 +105,6 @@
     },
     {
       "code": "750MILLION",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Apart",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -144,31 +124,6 @@
       "status": "expired"
     },
     {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "character",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "District",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "DOODLE",
       "reward": "Expired reward",
       "status": "expired"
@@ -179,102 +134,7 @@
       "status": "expired"
     },
     {
-      "code": "everything",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "everywhere",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Finally",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Killer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Let",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Murder",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Mystery",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RyCitrus",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Star",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Survive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -290,11 +150,6 @@
     },
     {
       "code": "Violence",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "What",
       "reward": "Expired reward",
       "status": "expired"
     }

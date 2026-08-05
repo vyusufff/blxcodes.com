@@ -30,36 +30,11 @@
   "codes": [
     {
       "code": "ILOVESBA",
-      "reward": "20k credits ( )",
+      "reward": "20k credits",
       "status": "active"
     },
     {
       "code": "1MILLION",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Arena",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Arise",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -69,22 +44,7 @@
       "status": "expired"
     },
     {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Credits",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Crossover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defense",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -99,17 +59,7 @@
       "status": "expired"
     },
     {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FIRSTCODE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,42 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "in-game",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "incredibly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Join",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,17 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "notifications",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PIKEUPDATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,22 +94,7 @@
       "status": "expired"
     },
     {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "REVAMP_2025",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Saber",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -214,22 +104,7 @@
       "status": "expired"
     },
     {
-      "code": "Star",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "thrilling",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     }

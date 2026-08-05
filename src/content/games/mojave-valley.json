@@ -35,7 +35,7 @@
     },
     {
       "code": "DANGEROUSWOMAN",
-      "reward": "Free Cash ( )",
+      "reward": "Free Cash",
       "status": "active"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "code": "JULY4TH",
-      "reward": "Free Cash ( )",
+      "reward": "Free Cash",
       "status": "active"
     },
     {
@@ -70,23 +70,8 @@
     },
     {
       "code": "THIRTYMILLIONVISITS",
-      "reward": "Free Cash ( )",
+      "reward": "Free Cash",
       "status": "active"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Arrow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
     },
     {
       "code": "BUGFIX",
@@ -114,26 +99,6 @@
       "status": "expired"
     },
     {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Florida",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HALLOWEEN",
       "reward": "Expired reward",
       "status": "expired"
@@ -144,22 +109,12 @@
       "status": "expired"
     },
     {
-      "code": "Jupiter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LAAATEEEEE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "LASTWORD",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,37 +159,7 @@
       "status": "expired"
     },
     {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "role-playing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "roleplaying",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -255,11 +180,6 @@
     },
     {
       "code": "TWOMILLIONVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },

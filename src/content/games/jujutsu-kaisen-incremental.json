@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "1KREACTSBAKA",
-      "reward": "500 CT Rolls, 500 Style Rolls, 25 Trait Rolls, 25 Clan Rolls, and 5 Companion Rolls ( )",
+      "reward": "500 CT Rolls, 500 Style Rolls, 25 Trait Rolls, 25 Clan Rolls, and 5 Companion Rolls",
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "code": "IMASTRIKER",
-      "reward": "100 Style Rolls ( )",
+      "reward": "100 Style Rolls",
       "status": "active"
     },
     {
@@ -70,17 +70,17 @@
     },
     {
       "code": "TENSURA",
-      "reward": "15 All Rolls and 1 Companion Roll ( )",
+      "reward": "15 All Rolls and 1 Companion Roll",
       "status": "active"
     },
     {
       "code": "TITLES",
-      "reward": "15 All Rolls ( )",
+      "reward": "15 All Rolls",
       "status": "active"
     },
     {
       "code": "WEATHER",
-      "reward": "30 All Rolls ( )",
+      "reward": "30 All Rolls",
       "status": "active"
     },
     {
@@ -154,17 +154,7 @@
       "status": "expired"
     },
     {
-      "code": "Forge",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ILOVEYOU",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Incremental",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -175,16 +165,6 @@
     },
     {
       "code": "JJK3D",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jujutsu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Kaisen",
       "reward": "Expired reward",
       "status": "expired"
     },

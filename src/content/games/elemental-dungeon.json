@@ -40,7 +40,7 @@
     },
     {
       "code": "FIREWORK",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -109,22 +109,12 @@
       "status": "expired"
     },
     {
-      "code": "Dungeon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "EASTER2024",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "EDISBACK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Elemental",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -30,17 +30,17 @@
   "codes": [
     {
       "code": "HALLOWEEN",
-      "reward": "Free Cash and XP ( )",
+      "reward": "Free Cash and XP",
       "status": "active"
     },
     {
       "code": "FASTBIKES",
-      "reward": "15K Cash and Free XP ( )",
+      "reward": "15K Cash and Free XP",
       "status": "active"
     },
     {
       "code": "SUMMER",
-      "reward": "15K Cash and Free XP ( )",
+      "reward": "15K Cash and Free XP",
       "status": "active"
     },
     {
@@ -144,127 +144,12 @@
       "status": "expired"
     },
     {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Last",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Stand",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Arise",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Crossover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "interested",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Medal",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Input",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "craftsmen",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "updating",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8220",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcement",
       "reward": "Expired reward",
       "status": "expired"
     }

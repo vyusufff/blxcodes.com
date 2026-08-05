@@ -70,7 +70,7 @@
     },
     {
       "code": "GOLDEN",
-      "reward": "50000 Coins ( )",
+      "reward": "50000 Coins",
       "status": "active"
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "code": "REWORKSOONMBALL",
-      "reward": "100000 Coins ( )",
+      "reward": "100000 Coins",
       "status": "active"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "code": "SORRY",
-      "reward": "20000 Coins ( )",
+      "reward": "20000 Coins",
       "status": "active"
     },
     {
@@ -164,17 +164,7 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ANTONYSPINTHEBIGBIGSPINTHEBIGGESTSPINOFTHEWORLDO",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -194,17 +184,7 @@
       "status": "expired"
     },
     {
-      "code": "Egoist",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "eshopandnowilostmy50kplsgivemebackmy50kcoinsbroo",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Football",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -219,22 +199,7 @@
       "status": "expired"
     },
     {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Give",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "GKUPNEXT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grow",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -264,11 +229,6 @@
       "status": "expired"
     },
     {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MBBRO",
       "reward": "Expired reward",
       "status": "expired"
@@ -294,22 +254,7 @@
       "status": "expired"
     },
     {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Rematch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Saga",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -330,11 +275,6 @@
     },
     {
       "code": "TIONSLOOKDIFFERENTSOILOOKUNIQUEBUTIDONTHAVETHEMO",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Try",
       "reward": "Expired reward",
       "status": "expired"
     },

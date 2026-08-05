@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "30mVisits",
-      "reward": "5 Win Potions, 5 Luck Potions, and 5 Energy Potions ( )",
+      "reward": "5 Win Potions, 5 Luck Potions, and 5 Energy Potions",
       "status": "active"
     },
     {
@@ -40,76 +40,11 @@
     },
     {
       "code": "Update8",
-      "reward": "3 Win Potions, 3 Luck Potions, and 3 Energy Potions ( )",
+      "reward": "3 Win Potions, 3 Luck Potions, and 3 Energy Potions",
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8220",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8221",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Biswas/",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Clicker",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Credit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "everywhere",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "favorite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,82 +54,12 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Horse",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Image",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "interest",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Keep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Monster",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Motorcycle",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Race",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Racing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Racing/Roblox",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Screenshot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "searching",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -205,16 +70,6 @@
     },
     {
       "code": "Th3P4rts",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "therefore",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -235,11 +90,6 @@
     },
     {
       "code": "v3rysecretcode",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Want",
       "reward": "Expired reward",
       "status": "expired"
     }

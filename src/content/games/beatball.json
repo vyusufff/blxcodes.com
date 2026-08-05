@@ -30,81 +30,21 @@
   "codes": [
     {
       "code": "CHICKEN",
-      "reward": "1k Cash ( )",
+      "reward": "1k Cash",
       "status": "active"
     },
     {
       "code": "LIKETHEGAME",
-      "reward": "Melodia de Verão Goal Sound ( )",
+      "reward": "Melodia de Verão Goal Sound",
       "status": "active"
     },
     {
       "code": "SPAINWINNER",
-      "reward": "Spain Disc, the Spanish Anthem Goal Sound, the Spain Banner, and the Spain Ball Trail ( )",
+      "reward": "Spain Disc, the Spanish Anthem Goal Sound, the Spain Banner, and the Spain Ball Trail",
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "available",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Beatball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Can",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "competitive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "dedicated",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Egoist",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -114,77 +54,7 @@
       "status": "expired"
     },
     {
-      "code": "football",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "hundreds",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "important",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Lucentum",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Luckily",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Make",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Press",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Project",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -194,52 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "searching",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soccer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "solution",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "up-to-date",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

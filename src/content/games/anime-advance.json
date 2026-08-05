@@ -110,7 +110,7 @@
     },
     {
       "code": "SRRY4SHUTDOWN2",
-      "reward": "2x Luck Potion, 2x Damage Potion, 2x Coin Potion, 2x Power Ption, 2x Drop Potion, 2x XP Potion ( )",
+      "reward": "2x Luck Potion, 2x Damage Potion, 2x Coin Potion, 2x Power Ption, 2x Drop Potion, 2x XP Potion",
       "status": "active"
     },
     {
@@ -130,12 +130,12 @@
     },
     {
       "code": "UPDATE4YAY",
-      "reward": "1x Drop Potion, 1x XP Potion, 1x Reset Level Stats, 20x Gems ( )",
+      "reward": "1x Drop Potion, 1x XP Potion, 1x Reset Level Stats, 20x Gems",
       "status": "active"
     },
     {
       "code": "UPDATE5UHU",
-      "reward": "2x Damage Potion, 2x Coin Potion, 2x Power Ption, 2x Drop Potion, 2x XP Potion ( )",
+      "reward": "2x Damage Potion, 2x Coin Potion, 2x Power Ption, 2x Drop Potion, 2x XP Potion",
       "status": "active"
     },
     {
@@ -169,11 +169,6 @@
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Advance",
       "reward": "Expired reward",
       "status": "expired"
@@ -184,37 +179,7 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Apart",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Arise",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Auto-Clicker",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "available",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -224,142 +189,12 @@
       "status": "expired"
     },
     {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Credit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Currently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Eternal",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "exclusive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fight",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Furthermore",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Having",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hunt",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Image",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "in-game",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Inc",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Lastly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Menu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Screenshot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shadow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "StarX",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Twitter",
       "reward": "Expired reward",
       "status": "expired"
     },

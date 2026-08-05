@@ -45,7 +45,7 @@
     },
     {
       "code": "FIREWORK",
-      "reward": "Free Crates ( )",
+      "reward": "Free Crates",
       "status": "active"
     },
     {
@@ -60,17 +60,17 @@
     },
     {
       "code": "PITY",
-      "reward": "Free Crates ( )",
+      "reward": "Free Crates",
       "status": "active"
     },
     {
       "code": "POLICE",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "SAWNOFF",
-      "reward": "Free Crates ( )",
+      "reward": "Free Crates",
       "status": "active"
     },
     {
@@ -84,32 +84,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8230",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "allowing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "alongside",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Although",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,27 +94,7 @@
       "status": "expired"
     },
     {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Cali",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "complete",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "completing",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -149,22 +104,7 @@
       "status": "expired"
     },
     {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "EASTER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ENTER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,32 +114,7 @@
       "status": "expired"
     },
     {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Jailbreak",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "like-minded",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Love",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Menu",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,57 +124,7 @@
       "status": "expired"
     },
     {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "satisfied",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Shootout",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -270,11 +135,6 @@
     },
     {
       "code": "Wanted",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     },

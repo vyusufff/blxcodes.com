@@ -130,7 +130,7 @@
     },
     {
       "code": "clantimeupdate",
-      "reward": "Use for 3x stat boost for 72 hours ( )",
+      "reward": "Use for 3x stat boost for 72 hours",
       "status": "active"
     },
     {
@@ -180,7 +180,7 @@
     },
     {
       "code": "geckoguy",
-      "reward": "Use for 3x stat boost for 72 hours ( )",
+      "reward": "Use for 3x stat boost for 72 hours",
       "status": "active"
     },
     {
@@ -200,12 +200,12 @@
     },
     {
       "code": "happy4thofjuly",
-      "reward": "Use for 3x stat boost for 72 hours ( )",
+      "reward": "Use for 3x stat boost for 72 hours",
       "status": "active"
     },
     {
       "code": "harborking",
-      "reward": "Use for 3x stat boost for 72 hours ( )",
+      "reward": "Use for 3x stat boost for 72 hours",
       "status": "active"
     },
     {
@@ -325,7 +325,7 @@
     },
     {
       "code": "seagodsfury",
-      "reward": "Use for 3x stat boost for 72 hours ( )",
+      "reward": "Use for 3x stat boost for 72 hours",
       "status": "active"
     },
     {
@@ -375,7 +375,7 @@
     },
     {
       "code": "summerparty",
-      "reward": "Use for 3x stat boost for 72 hours ( )",
+      "reward": "Use for 3x stat boost for 72 hours",
       "status": "active"
     },
     {
@@ -390,7 +390,7 @@
     },
     {
       "code": "techisles",
-      "reward": "Use for 3x stat boost for 72 hours ( )",
+      "reward": "Use for 3x stat boost for 72 hours",
       "status": "active"
     },
     {
@@ -415,7 +415,7 @@
     },
     {
       "code": "toolatepatty",
-      "reward": "Use for 3x stat boost for 72 hours ( )",
+      "reward": "Use for 3x stat boost for 72 hours",
       "status": "active"
     },
     {
@@ -445,7 +445,7 @@
     },
     {
       "code": "weloveyou",
-      "reward": "Use for 3x stat boost for 72 hours and 5% stats ( )",
+      "reward": "Use for 3x stat boost for 72 hours and 5% stats",
       "status": "active"
     },
     {
@@ -484,16 +484,6 @@
       "status": "expired"
     },
     {
-      "code": "8220",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8221",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Arm",
       "reward": "Expired reward",
       "status": "expired"
@@ -509,22 +499,12 @@
       "status": "expired"
     },
     {
-      "code": "Boxing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Candy",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "cavefortune",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Despite",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -550,21 +530,6 @@
     },
     {
       "code": "Greek",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "gullible",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -604,21 +569,6 @@
       "status": "expired"
     },
     {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Store",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "struggling",
       "reward": "Expired reward",
       "status": "expired"
@@ -629,27 +579,7 @@
       "status": "expired"
     },
     {
-      "code": "Those",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Untitled",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Volleyball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "WEDNESDAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Wins",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -60,12 +60,12 @@
     },
     {
       "code": "GEM20260723",
-      "reward": "50 Gems ( )",
+      "reward": "50 Gems",
       "status": "active"
     },
     {
       "code": "GEM20260730",
-      "reward": "50 Gems ( )",
+      "reward": "50 Gems",
       "status": "active"
     },
     {
@@ -95,12 +95,12 @@
     },
     {
       "code": "GOLD20260723",
-      "reward": "5k Gold ( )",
+      "reward": "5k Gold",
       "status": "active"
     },
     {
       "code": "GOLD20260730",
-      "reward": "5k Gold ( )",
+      "reward": "5k Gold",
       "status": "active"
     },
     {
@@ -160,11 +160,6 @@
     },
     {
       "code": "DNPTFAOMCE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Duel",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -300,11 +295,6 @@
     },
     {
       "code": "VOFRVAREYM",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Warriors",
       "reward": "Expired reward",
       "status": "expired"
     },

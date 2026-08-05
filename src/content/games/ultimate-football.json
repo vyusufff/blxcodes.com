@@ -95,7 +95,7 @@
     },
     {
       "code": "FLAGCHAMPS",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "code": "INVENTORY",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -255,7 +255,7 @@
     },
     {
       "code": "SUMMER26",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -334,11 +334,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "85KLIKES",
       "reward": "10,000 Coins",
       "status": "expired"
@@ -359,28 +354,13 @@
       "status": "expired"
     },
     {
-      "code": "Although",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "American",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "AUCTIONSONLINE",
       "reward": "Limited Cosmetic Item",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
       "status": "expired"
     },
     {
@@ -391,11 +371,6 @@
     {
       "code": "CYBERMONDAY2023",
       "reward": "10,000 Coins",
-      "status": "expired"
-    },
-    {
-      "code": "difficult",
-      "reward": "Expired reward",
       "status": "expired"
     },
     {
@@ -424,28 +399,8 @@
       "status": "expired"
     },
     {
-      "code": "football",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Football",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FREESLICES",
       "reward": "5,000 Slices",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
       "status": "expired"
     },
     {
@@ -459,22 +414,12 @@
       "status": "expired"
     },
     {
-      "code": "information",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "JanuaryNewsletter",
       "reward": "10,000 Coins",
       "status": "expired"
     },
     {
       "code": "kickstart",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -514,23 +459,8 @@
       "status": "expired"
     },
     {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "NovemberNewsletter",
       "reward": "10,000 Coins",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "occasionally",
-      "reward": "Expired reward",
       "status": "expired"
     },
     {
@@ -540,16 +470,6 @@
     },
     {
       "code": "playtime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeemed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -584,11 +504,6 @@
       "status": "expired"
     },
     {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SKULLBALL",
       "reward": "Expired reward",
       "status": "expired"
@@ -606,16 +521,6 @@
     {
       "code": "StarterCoins",
       "reward": "5,000 Coins",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Store",
-      "reward": "Expired reward",
       "status": "expired"
     },
     {
@@ -644,28 +549,8 @@
       "status": "expired"
     },
     {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tick",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "time-consuming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "UF200K",
       "reward": "10,000 Coins",
-      "status": "expired"
-    },
-    {
-      "code": "Universe",
-      "reward": "Expired reward",
       "status": "expired"
     },
     {
@@ -680,11 +565,6 @@
     },
     {
       "code": "Vision",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

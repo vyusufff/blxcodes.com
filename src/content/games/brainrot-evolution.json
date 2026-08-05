@@ -80,7 +80,7 @@
     },
     {
       "code": "CHEDDAR",
-      "reward": "2x EXP Potions ( )",
+      "reward": "2x EXP Potions",
       "status": "active"
     },
     {
@@ -120,12 +120,12 @@
     },
     {
       "code": "DUCKS",
-      "reward": "2x EXP Potions ( )",
+      "reward": "2x EXP Potions",
       "status": "active"
     },
     {
       "code": "DUCKYFUSION",
-      "reward": "2x EXP Potions ( )",
+      "reward": "2x EXP Potions",
       "status": "active"
     },
     {
@@ -295,7 +295,7 @@
     },
     {
       "code": "PYRO",
-      "reward": "2x EXP Potions ( )",
+      "reward": "2x EXP Potions",
       "status": "active"
     },
     {
@@ -409,122 +409,12 @@
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Adhikary",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Become",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Billionaire",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Brainrot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Clicker",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Evolution",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Finally",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FIXBUG891",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Furthermore",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ishan",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -539,72 +429,7 @@
       "status": "expired"
     },
     {
-      "code": "Race",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "shortage",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "starters",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Studio",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "subscribe",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Thankfully",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Training",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Verify",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "xFrozen",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "YouTube",
       "reward": "Expired reward",
       "status": "expired"
     }

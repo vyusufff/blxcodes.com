@@ -40,12 +40,12 @@
     },
     {
       "code": "isthatall",
-      "reward": "7 lucky spins ( )",
+      "reward": "7 lucky spins",
       "status": "active"
     },
     {
       "code": "ultimatedelay",
-      "reward": "10 lucky spins ( )",
+      "reward": "10 lucky spins",
       "status": "active"
     },
     {
@@ -79,47 +79,12 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Apart",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BATDELAY",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "BATEVENT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "claiming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Current",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -134,72 +99,12 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fisch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Forge",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "OOPSIE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Prospecting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "relaxing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SANTABOSS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Slap",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -219,22 +124,12 @@
       "status": "expired"
     },
     {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "TATLISGIFT",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "TUTORIALFIXED",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },

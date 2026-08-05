@@ -55,7 +55,7 @@
     },
     {
       "code": "MoreSpins",
-      "reward": "5 Daily Wheel Spins ( )",
+      "reward": "5 Daily Wheel Spins",
       "status": "active"
     },
     {
@@ -70,12 +70,12 @@
     },
     {
       "code": "NoMoreBugs",
-      "reward": "3 Daily Wheel Spins ( )",
+      "reward": "3 Daily Wheel Spins",
       "status": "active"
     },
     {
       "code": "SORRYFORBUGS",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -90,21 +90,16 @@
     },
     {
       "code": "STARDUST",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "TowerMerge",
-      "reward": "10% Merge Luck ( )",
+      "reward": "10% Merge Luck",
       "status": "active"
     },
     {
       "code": "2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -114,42 +109,7 @@
       "status": "expired"
     },
     {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "crafting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Crossover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Despite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "directly",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -159,102 +119,12 @@
       "status": "expired"
     },
     {
-      "code": "exciting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "exclusive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Launching",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Let",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Make",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Piece",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "repetitive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "requires",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "resources",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -265,36 +135,6 @@
     },
     {
       "code": "Rocket",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sailor",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Slime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Unlike",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

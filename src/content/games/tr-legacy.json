@@ -30,56 +30,21 @@
   "codes": [
     {
       "code": "IDONTGETPAID",
-      "reward": "70,000 Cash and 1,800 XP ( )",
+      "reward": "70,000 Cash and 1,800 XP",
       "status": "active"
     },
     {
       "code": "THANKS10KTHUMBSUP",
-      "reward": "30,000 Cash and 1,000 XP ( )",
+      "reward": "30,000 Cash and 1,000 XP",
       "status": "active"
     },
     {
       "code": "TY4PLAYINGTRL",
-      "reward": "50,000 Cash and 1,500 XP ( )",
+      "reward": "50,000 Cash and 1,500 XP",
       "status": "active"
     },
     {
-      "code": "8220",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8221",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8230",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "available",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BIG500KVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -89,72 +54,22 @@
       "status": "expired"
     },
     {
-      "code": "directly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "District",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "exrgarage",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Furthermore",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "GROUP1500000MEMBERS",
-      "reward": "60,000 Cash and 1,500 XP ( )",
+      "reward": "60,000 Cash and 1,500 XP",
       "status": "expired"
     },
     {
       "code": "HOLY1MIL",
-      "reward": "60,000 Cash and 1,500 XP ( )",
-      "status": "expired"
-    },
-    {
-      "code": "in-game",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legacy",
-      "reward": "Expired reward",
+      "reward": "60,000 Cash and 1,500 XP",
       "status": "expired"
     },
     {
       "code": "Mayhem",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "mistakes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Motorcycle",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,62 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "restarting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "satisfied",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "specific",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "spelling",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "THANKS45KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "These",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -229,27 +89,7 @@
       "status": "expired"
     },
     {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Well",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Wheelie",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

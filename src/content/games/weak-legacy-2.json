@@ -35,12 +35,12 @@
     },
     {
       "code": "500KLIKES!",
-      "reward": "2 Crystal essence, 25 Spins, and 1 Fate Spin ( )",
+      "reward": "2 Crystal essence, 25 Spins, and 1 Fate Spin",
       "status": "active"
     },
     {
       "code": "BLOODV2UPDGORARRRT",
-      "reward": "Reset breathing/ art potion ( )",
+      "reward": "Reset breathing/ art potion",
       "status": "active"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "code": "HAPPYEASTER!",
-      "reward": "20 Spins and 5 Fate Spins ( )",
+      "reward": "20 Spins and 5 Fate Spins",
       "status": "active"
     },
     {
@@ -205,11 +205,6 @@
     },
     {
       "code": "INSECTUPDRESETBREATHINGORART",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legacy",
       "reward": "Expired reward",
       "status": "expired"
     },

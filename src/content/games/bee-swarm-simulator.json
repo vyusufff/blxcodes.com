@@ -65,7 +65,7 @@
     },
     {
       "code": "DiscordMillion",
-      "reward": "48 hour x2 Honeyday Event buff, 10 Mondo Chick Blessing, 2 Marshmallow Bee, and 1 Pink Balloon ( )",
+      "reward": "48 hour x2 Honeyday Event buff, 10 Mondo Chick Blessing, 2 Marshmallow Bee, and 1 Pink Balloon",
       "status": "active"
     },
     {
@@ -109,42 +109,12 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Adopt",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventures",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Banned",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Bee",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BeequipTradeReboot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,42 +144,12 @@
       "status": "expired"
     },
     {
-      "code": "difficult",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gear",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "headstart",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "involving",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -224,27 +164,7 @@
       "status": "expired"
     },
     {
-      "code": "Pet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Scouring",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -255,16 +175,6 @@
     },
     {
       "code": "Summersmas",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Swarm",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },

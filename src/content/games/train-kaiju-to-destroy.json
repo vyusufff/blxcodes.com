@@ -30,51 +30,11 @@
   "codes": [
     {
       "code": "KAIJU",
-      "reward": "200 Coins and 1 Coin Potion ( )",
+      "reward": "200 Coins and 1 Coin Potion",
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Become",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "becoming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Better",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Biggest",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Brainrot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -84,47 +44,7 @@
       "status": "expired"
     },
     {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "everything",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fat",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gym",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "haphazardly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Head",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Kaiju",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -134,97 +54,7 @@
       "status": "expired"
     },
     {
-      "code": "Love",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Showdown",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simply",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "specific",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Splash",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "stronger",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Studio",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Submit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Train",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "upcoming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     },

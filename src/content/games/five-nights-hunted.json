@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "222",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -109,11 +109,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "burntrap",
       "reward": "Expired reward",
       "status": "expired"
@@ -129,22 +124,12 @@
       "status": "expired"
     },
     {
-      "code": "Dandy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "enjoyment",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "farewellmaloniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Five",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,17 +149,7 @@
       "status": "expired"
     },
     {
-      "code": "Have",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Horror",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hunted",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -200,16 +175,6 @@
     },
     {
       "code": "N0V15",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "nightmare",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Nights",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -244,11 +209,6 @@
       "status": "expired"
     },
     {
-      "code": "something",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Sorrrrrrrrrrryyyyyyyyyy",
       "reward": "Expired reward",
       "status": "expired"
@@ -270,16 +230,6 @@
     },
     {
       "code": "TJ0C",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Try",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "World",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -30,27 +30,27 @@
   "codes": [
     {
       "code": "500M",
-      "reward": "Gift Bundle ( )",
+      "reward": "Gift Bundle",
       "status": "active"
     },
     {
       "code": "LOW",
-      "reward": "1500 Yen ( )",
+      "reward": "1500 Yen",
       "status": "active"
     },
     {
       "code": "SOCCERMODE",
-      "reward": "1500 Yen ( )",
+      "reward": "1500 Yen",
       "status": "active"
     },
     {
       "code": "SPIRIT10",
-      "reward": "1500 Yen ( )",
+      "reward": "1500 Yen",
       "status": "active"
     },
     {
       "code": "WEEK2",
-      "reward": "1500 Yen ( )",
+      "reward": "1500 Yen",
       "status": "active"
     },
     {
@@ -124,11 +124,6 @@
       "status": "expired"
     },
     {
-      "code": "MODE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MUTATION",
       "reward": "Expired reward",
       "status": "expired"
@@ -184,11 +179,6 @@
       "status": "expired"
     },
     {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SCREENS",
       "reward": "Expired reward",
       "status": "expired"
@@ -210,11 +200,6 @@
     },
     {
       "code": "SPRINGLUCK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "TOKEN",
       "reward": "Expired reward",
       "status": "expired"
     },

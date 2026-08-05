@@ -35,36 +35,16 @@
     },
     {
       "code": "SUMMER2026",
-      "reward": "40K Coins, 250 Brains, 1 Luck Boost, and 1 Roll Boost ( )",
+      "reward": "40K Coins, 250 Brains, 1 Luck Boost, and 1 Roll Boost",
       "status": "active"
     },
     {
       "code": "UPDATE3",
-      "reward": "150K Coins, 5K Brains, 2 Roll Boosts, and 1 Stellar Potion ( )",
+      "reward": "150K Coins, 5K Brains, 2 Roll Boosts, and 1 Stellar Potion",
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "actively",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ADMINABUSED",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "alongside",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -74,42 +54,7 @@
       "status": "expired"
     },
     {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Base",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "complete",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "defending",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defense",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,47 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "favorites",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "hundreds",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "JULY4TH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -169,42 +74,7 @@
       "status": "expired"
     },
     {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rangers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "rebirths",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Roll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -215,31 +85,6 @@
     },
     {
       "code": "thrillseekers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Universal",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

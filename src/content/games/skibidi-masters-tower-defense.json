@@ -35,22 +35,22 @@
     },
     {
       "code": "135KLIKES",
-      "reward": "150 Toilet Paper, 1 Epic Lucky Drop ( )",
+      "reward": "150 Toilet Paper, 1 Epic Lucky Drop",
       "status": "active"
     },
     {
       "code": "140KLIKES",
-      "reward": "150 Toilet Paper, 1 Epic Lucky Drop ( )",
+      "reward": "150 Toilet Paper, 1 Epic Lucky Drop",
       "status": "active"
     },
     {
       "code": "145KLIKES",
-      "reward": "150 Toilet Paper, 1 Epic Lucky Drop ( )",
+      "reward": "150 Toilet Paper, 1 Epic Lucky Drop",
       "status": "active"
     },
     {
       "code": "150KLIKES",
-      "reward": "150 Toilet Paper, 1 Epic Lucky Drop ( )",
+      "reward": "150 Toilet Paper, 1 Epic Lucky Drop",
       "status": "active"
     },
     {
@@ -99,11 +99,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "85KLIKES",
       "reward": "Expired reward",
       "status": "expired"
@@ -129,17 +124,7 @@
       "status": "expired"
     },
     {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CONTRACTS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defense",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -155,11 +140,6 @@
     },
     {
       "code": "EASTER2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,22 +184,7 @@
       "status": "expired"
     },
     {
-      "code": "Return",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ROYAL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Skibidi",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Star",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,27 +199,12 @@
       "status": "expired"
     },
     {
-      "code": "Then",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "TRADEPLAZA",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "TTD",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Universal",
       "reward": "Expired reward",
       "status": "expired"
     },

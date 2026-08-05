@@ -40,46 +40,11 @@
     },
     {
       "code": "YOSOYMUNDIAL",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcement",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anyone",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "attention",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Boss",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -89,27 +54,7 @@
       "status": "expired"
     },
     {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Car",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "completed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dealership",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,52 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "guaranteed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Join",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Master",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,72 +74,12 @@
       "status": "expired"
     },
     {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "revealed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Steel",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Store",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Studios",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Taxi",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Vacuum",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

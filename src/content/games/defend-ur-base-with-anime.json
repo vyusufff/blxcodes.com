@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "BLUE",
-      "reward": "200k Cash, 20 Trait Shard, 10 Legendary Fragment, and 5 Mythic Fragment ( )",
+      "reward": "200k Cash, 20 Trait Shard, 10 Legendary Fragment, and 5 Mythic Fragment",
       "status": "active"
     },
     {
       "code": "DIOBOSS",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -45,36 +45,31 @@
     },
     {
       "code": "GOALKEEPER",
-      "reward": "150k Cash, 15 Trait Shard, and 7 Legendary Fragment ( )",
+      "reward": "150k Cash, 15 Trait Shard, and 7 Legendary Fragment",
       "status": "active"
     },
     {
       "code": "LUCKYSPINS",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "TRAVELLINGMERCHANT",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "UPDATE10",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "UPDATE11",
-      "reward": "200k Cash, 20 Trait Shard, 7 Mythic Fragment, and 1 God Fragment ( )",
+      "reward": "200k Cash, 20 Trait Shard, 7 Mythic Fragment, and 1 God Fragment",
       "status": "active"
     },
     {
       "code": "67CODE!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -84,37 +79,12 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anyone",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Base",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BASESKINS",
       "reward": "Free Rewards",
       "status": "expired"
     },
     {
       "code": "BLEACHPART2!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -134,27 +104,7 @@
       "status": "expired"
     },
     {
-      "code": "Build",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BURAH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Can",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "characters",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,53 +114,13 @@
       "status": "expired"
     },
     {
-      "code": "continue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CRAFTNERF!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Farm",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "interesting",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "JJKUPDATE",
       "reward": "25000 Cash, 10 Epic Fragment, and 3 Trait Shard",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Military",
-      "reward": "Expired reward",
       "status": "expired"
     },
     {
@@ -229,42 +139,12 @@
       "status": "expired"
     },
     {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "QUINCY",
       "reward": "35000 Cash, 5 Legendary Fragment, and 5 Trait Shard",
       "status": "expired"
     },
     {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeemed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "remember",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "requirement",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "requirements",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -274,23 +154,8 @@
       "status": "expired"
     },
     {
-      "code": "Roll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Some",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SORRYUPDATE",
       "reward": "75000 Cash, 20 Trait Shard, and 10 Legendary Fragment",
-      "status": "expired"
-    },
-    {
-      "code": "specific",
-      "reward": "Expired reward",
       "status": "expired"
     },
     {
@@ -319,33 +184,13 @@
       "status": "expired"
     },
     {
-      "code": "Try",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "UPDATE8",
       "reward": "Free Rewards",
       "status": "expired"
     },
     {
       "code": "UPDATE9",
-      "reward": "Free Rewards ( )",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
-      "reward": "Expired reward",
+      "reward": "Free Rewards",
       "status": "expired"
     }
   ]

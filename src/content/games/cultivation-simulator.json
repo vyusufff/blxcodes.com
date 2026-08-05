@@ -40,12 +40,12 @@
     },
     {
       "code": "45klikes",
-      "reward": "Redeem code for 3k gems ( )",
+      "reward": "Redeem code for 3k gems",
       "status": "active"
     },
     {
       "code": "60klikes",
-      "reward": "Redeem code for 3k gems ( )",
+      "reward": "Redeem code for 3k gems",
       "status": "active"
     },
     {
@@ -69,51 +69,6 @@
       "status": "active"
     },
     {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Although",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcement",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "completely",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "constantly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "cultivate",
       "reward": "Expired reward",
       "status": "expired"
@@ -124,147 +79,12 @@
       "status": "expired"
     },
     {
-      "code": "Cultivation",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fabled",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Find",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Firefly",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gift",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "important",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "information",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Join",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legacy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "resources",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "smoother",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Use",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "valuable",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Want",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Where",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

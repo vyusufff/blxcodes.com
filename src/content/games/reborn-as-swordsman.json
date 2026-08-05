@@ -90,12 +90,12 @@
     },
     {
       "code": "reawakened",
-      "reward": "1 Double Wins Boost, 1 Double Train Boost, 1 Double Luck Boost ( )",
+      "reward": "1 Double Wins Boost, 1 Double Train Boost, 1 Double Luck Boost",
       "status": "active"
     },
     {
       "code": "rebornforever",
-      "reward": "Equip +1 ( )",
+      "reward": "Equip +1",
       "status": "active"
     },
     {
@@ -154,102 +154,7 @@
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "above-given",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "actively",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "becoming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "code-game-info",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enjoy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "generally",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Instead",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "interested",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Only",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -259,32 +164,7 @@
       "status": "expired"
     },
     {
-      "code": "possible",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Pull",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Rebord",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Reborn",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -294,32 +174,7 @@
       "status": "expired"
     },
     {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Secret",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Store",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "strongest",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sword",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -335,21 +190,6 @@
     },
     {
       "code": "Swordsman",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Try",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Warriors",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

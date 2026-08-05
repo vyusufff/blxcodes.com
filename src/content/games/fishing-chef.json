@@ -65,12 +65,12 @@
     },
     {
       "code": "LUCKYWAVE2R4",
-      "reward": "Get 2x server luck for 15 minutes ( )",
+      "reward": "Get 2x server luck for 15 minutes",
       "status": "active"
     },
     {
       "code": "MOONSURGE4T9",
-      "reward": "Get 4x server luck for 15 minutes ( )",
+      "reward": "Get 4x server luck for 15 minutes",
       "status": "active"
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "code": "SMALLSIP3K8",
-      "reward": "Small Luck Potion with +50% Luck for 15 minutes ( )",
+      "reward": "Small Luck Potion with +50% Luck for 15 minutes",
       "status": "active"
     },
     {
@@ -109,87 +109,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventures",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Chef",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "discover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Farm",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fisch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fish",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fishing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,77 +119,7 @@
       "status": "expired"
     },
     {
-      "code": "Heavyweight",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "hundreds",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hunt",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lastly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "prevents",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "progress",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeemed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -279,32 +129,7 @@
       "status": "expired"
     },
     {
-      "code": "server-related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sometimes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "straightforward",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SUPERSIP1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

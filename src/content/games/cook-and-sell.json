@@ -35,28 +35,13 @@
     },
     {
       "code": "MONEYBAG",
-      "reward": "299 Cash ( )",
+      "reward": "299 Cash",
       "status": "active"
     },
     {
       "code": "YUM",
       "reward": "150 Cash",
       "status": "active"
-    },
-    {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Alongside",
-      "reward": "Expired reward",
-      "status": "expired"
     },
     {
       "code": "Alpaca",
@@ -69,62 +54,7 @@
       "status": "expired"
     },
     {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "business",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Catch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Claim!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Cook",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "directly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ENTER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -134,27 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "like-minded",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "mistypes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,82 +74,12 @@
       "status": "expired"
     },
     {
-      "code": "Piece",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "requires",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Restaurant",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "roundabout",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Sailor",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sell",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "strategies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "When",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

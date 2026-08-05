@@ -45,7 +45,7 @@
     },
     {
       "code": "50kLikes",
-      "reward": "Get 2 Potions ( )",
+      "reward": "Get 2 Potions",
       "status": "active"
     },
     {
@@ -54,42 +54,7 @@
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Champion",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -109,31 +74,6 @@
       "status": "expired"
     },
     {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "increases",
       "reward": "Expired reward",
       "status": "expired"
@@ -144,72 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "League",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Milk",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Money",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "multiple",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Race",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "revealed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Still",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Swim",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -219,37 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "timeframe",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "training",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "update-logs",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Well",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

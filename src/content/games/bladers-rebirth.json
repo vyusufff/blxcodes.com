@@ -50,7 +50,7 @@
     },
     {
       "code": "SPRING",
-      "reward": "2 hours of DOUBLE XP ( )",
+      "reward": "2 hours of DOUBLE XP",
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "code": "UPDATE11",
-      "reward": "45 spirit rolls ( )",
+      "reward": "45 spirit rolls",
       "status": "active"
     },
     {
@@ -104,11 +104,6 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BEY24",
       "reward": "Expired reward",
       "status": "expired"
@@ -135,11 +130,6 @@
     },
     {
       "code": "FIREWORKS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -245,11 +235,6 @@
     },
     {
       "code": "SUMMER24",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Unlike",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "LIKETHEGAME",
-      "reward": "50,000 Gems ( )",
+      "reward": "50,000 Gems",
       "status": "active"
     },
     {
       "code": "MOREMORELIKES",
-      "reward": "50,000 Gems ( )",
+      "reward": "50,000 Gems",
       "status": "active"
     },
     {
@@ -64,17 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ALIEN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Azure",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -89,42 +79,12 @@
       "status": "expired"
     },
     {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Biswas/",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "COUNTTO10K",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Credit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "football",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -144,21 +104,6 @@
       "status": "expired"
     },
     {
-      "code": "Goalbound",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Image",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "JUPITER",
       "reward": "Expired reward",
       "status": "expired"
@@ -169,22 +114,7 @@
       "status": "expired"
     },
     {
-      "code": "Latch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LIKEFORUPDATES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -194,32 +124,12 @@
       "status": "expired"
     },
     {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SANTA",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Screenshot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Simulator/Roblox",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -235,11 +145,6 @@
     },
     {
       "code": "THXFORPLAYING",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Twitter",
       "reward": "Expired reward",
       "status": "expired"
     },

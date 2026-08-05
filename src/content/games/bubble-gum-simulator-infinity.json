@@ -65,7 +65,7 @@
     },
     {
       "code": "throwback",
-      "reward": "Get 3 Eggs Elixir ( )",
+      "reward": "Get 3 Eggs Elixir",
       "status": "active"
     },
     {
@@ -149,47 +149,7 @@
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Basketball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Bubble",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,22 +159,7 @@
       "status": "expired"
     },
     {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "diligently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,62 +179,7 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grab",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Gum",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "important",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Infinite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Infinity",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jujutsu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -304,22 +194,7 @@
       "status": "expired"
     },
     {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "simulators",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Staying",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Studios",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -329,22 +204,7 @@
       "status": "expired"
     },
     {
-      "code": "Twitter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Whoops",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

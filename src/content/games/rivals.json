@@ -40,7 +40,7 @@
     },
     {
       "code": "COCONUTBONK",
-      "reward": "250 Pearls ( )",
+      "reward": "250 Pearls",
       "status": "active"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "code": "FREE191",
-      "reward": "3 Keys ( )",
+      "reward": "3 Keys",
       "status": "active"
     },
     {
@@ -250,7 +250,7 @@
     },
     {
       "code": "FREE190",
-      "reward": "3 Keys ( )",
+      "reward": "3 Keys",
       "status": "expired"
     },
     {

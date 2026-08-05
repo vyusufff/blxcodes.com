@@ -55,26 +55,11 @@
     },
     {
       "code": "Thunder",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "anniversary",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Arise",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Basketball",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -84,17 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Bored",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "brainrot",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -104,52 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "complete",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Crossover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "everyone",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "firework",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "gameplay",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Join",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,62 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Otherwise",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Rebirth",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Roksek",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "shopping",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -235,26 +115,6 @@
     },
     {
       "code": "starfall",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ultimate",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

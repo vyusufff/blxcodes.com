@@ -40,61 +40,21 @@
     },
     {
       "code": "SORRYAGAINFORBUGS",
-      "reward": "Redeem to get 30 Robux tokens ( )",
+      "reward": "Redeem to get 30 Robux tokens",
       "status": "active"
     },
     {
       "code": "SORRYFORDELAY",
-      "reward": "Redeem to get 1x Special Egg ( )",
+      "reward": "Redeem to get 1x Special Egg",
       "status": "active"
     },
     {
       "code": "UPD1",
-      "reward": "Redeem to get 5,000 Star Treats aka Diamonds ( )",
+      "reward": "Redeem to get 5,000 Star Treats aka Diamonds",
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Aura",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bee",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Biswas/",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -109,32 +69,12 @@
       "status": "expired"
     },
     {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "cracking",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Credit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "early-game",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -149,57 +89,12 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Image",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Input",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Masters",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PLUHHH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "quickest",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -214,42 +109,12 @@
       "status": "expired"
     },
     {
-      "code": "Screenshot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simply",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Sol",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "SORRY50TIMES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Still",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Visit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Yes",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -105,7 +105,7 @@
     },
     {
       "code": "FreeSlot",
-      "reward": "+1 slot ( )",
+      "reward": "+1 slot",
       "status": "active"
     },
     {
@@ -245,7 +245,7 @@
     },
     {
       "code": "SenbonRework",
-      "reward": "4 Legendary Spins ( )",
+      "reward": "4 Legendary Spins",
       "status": "active"
     },
     {
@@ -310,7 +310,7 @@
     },
     {
       "code": "ThanksFor162kLikes",
-      "reward": "30 Clan Spins ( )",
+      "reward": "30 Clan Spins",
       "status": "active"
     },
     {
@@ -330,7 +330,7 @@
     },
     {
       "code": "Thunderbolt",
-      "reward": "50 Tokens ( )",
+      "reward": "50 Tokens",
       "status": "active"
     },
     {
@@ -425,11 +425,6 @@
     },
     {
       "code": "FINALLYUPDATEB",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
       "reward": "Expired reward",
       "status": "expired"
     },

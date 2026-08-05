@@ -60,7 +60,7 @@
     },
     {
       "code": "Capyphantom",
-      "reward": "3 EXP Potion ( )",
+      "reward": "3 EXP Potion",
       "status": "active"
     },
     {
@@ -75,17 +75,17 @@
     },
     {
       "code": "DUNGEON",
-      "reward": "Redeem for 3 EXP Potions ( )",
+      "reward": "Redeem for 3 EXP Potions",
       "status": "active"
     },
     {
       "code": "Eternal",
-      "reward": "3 EXP Potion ( )",
+      "reward": "3 EXP Potion",
       "status": "active"
     },
     {
       "code": "EternalPart2",
-      "reward": "2 EXP Potion ( )",
+      "reward": "2 EXP Potion",
       "status": "active"
     },
     {
@@ -110,12 +110,12 @@
     },
     {
       "code": "INDEX",
-      "reward": "Redeem for 3 EXP Potions ( )",
+      "reward": "Redeem for 3 EXP Potions",
       "status": "active"
     },
     {
       "code": "Luliloli",
-      "reward": "3 EXP Potion ( )",
+      "reward": "3 EXP Potion",
       "status": "active"
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "code": "Slimebara",
-      "reward": "3 EXP Potion ( )",
+      "reward": "3 EXP Potion",
       "status": "active"
     },
     {
@@ -145,22 +145,22 @@
     },
     {
       "code": "Studs",
-      "reward": "1 EXP Potion ( )",
+      "reward": "1 EXP Potion",
       "status": "active"
     },
     {
       "code": "Summer2025",
-      "reward": "Redeem for 3 Summer Tickets ( )",
+      "reward": "Redeem for 3 Summer Tickets",
       "status": "active"
     },
     {
       "code": "SummerPart2",
-      "reward": "3 EXP Potion ( )",
+      "reward": "3 EXP Potion",
       "status": "active"
     },
     {
       "code": "UPD19",
-      "reward": "Redeem for 2 EXP Potions ( )",
+      "reward": "Redeem for 2 EXP Potions",
       "status": "active"
     },
     {
@@ -184,37 +184,12 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "AOT",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Apr",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Biswas",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,132 +209,12 @@
       "status": "expired"
     },
     {
-      "code": "Camo",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Capybara",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Chakrabarti",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Collect",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "dedicated",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Evolution",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Find",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "i2Perfect",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Master",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Monster",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Pets",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Power",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sanmay",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Snipe",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tell",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Verify",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -370,11 +225,6 @@
     },
     {
       "code": "xFrozenStudios",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "YouTube",
       "reward": "Expired reward",
       "status": "expired"
     }

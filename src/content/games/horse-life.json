@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "NewBeginnings",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "code": "RIA2026",
-      "reward": "Twin Atlas themed Flower Hat and Lantern accessories ( )",
+      "reward": "Twin Atlas themed Flower Hat and Lantern accessories",
       "status": "active"
     },
     {
@@ -59,31 +59,6 @@
       "status": "expired"
     },
     {
-      "code": "Apart",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "complete",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "efficiently",
       "reward": "Expired reward",
       "status": "expired"
@@ -94,22 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "Even",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "exhausting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Forge",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -139,27 +99,7 @@
       "status": "expired"
     },
     {
-      "code": "Horse",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hypershot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LateThanksgiving",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Life",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -169,52 +109,12 @@
       "status": "expired"
     },
     {
-      "code": "Menu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MonthlyMission",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Redeem!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "seasoned",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "separate",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "shooting",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -225,21 +125,6 @@
     },
     {
       "code": "SpookyChests",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tracking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
       "reward": "Expired reward",
       "status": "expired"
     },

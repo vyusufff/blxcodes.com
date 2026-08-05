@@ -120,7 +120,7 @@
     },
     {
       "code": "FESTIVE",
-      "reward": "15 Wheel Spins ( )",
+      "reward": "15 Wheel Spins",
       "status": "active"
     },
     {
@@ -170,7 +170,7 @@
     },
     {
       "code": "JOLLY",
-      "reward": "25 Wheel Spins ( )",
+      "reward": "25 Wheel Spins",
       "status": "active"
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "code": "MERRYCHRISTMAS",
-      "reward": "50 Spins ( )",
+      "reward": "50 Spins",
       "status": "active"
     },
     {
@@ -245,7 +245,7 @@
     },
     {
       "code": "SANTA",
-      "reward": "25 Wheel Spins ( )",
+      "reward": "25 Wheel Spins",
       "status": "active"
     },
     {
@@ -334,26 +334,6 @@
       "status": "expired"
     },
     {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Basketball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "blessing",
       "reward": "Expired reward",
       "status": "expired"
@@ -364,37 +344,7 @@
       "status": "expired"
     },
     {
-      "code": "cakewalk",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CRAFTINGSOON",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Finding",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -409,27 +359,12 @@
       "status": "expired"
     },
     {
-      "code": "Keep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LOCKDOOR",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "LOCKEDIN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "milestones",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -459,27 +394,7 @@
       "status": "expired"
     },
     {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Run",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SAFETYFIRST",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Saga",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Steal",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -504,27 +419,7 @@
       "status": "expired"
     },
     {
-      "code": "Tired",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Volleyball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "WOO",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

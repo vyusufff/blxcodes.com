@@ -35,7 +35,7 @@
     },
     {
       "code": "100KFavorites",
-      "reward": "500 Gems ( )",
+      "reward": "500 Gems",
       "status": "active"
     },
     {
@@ -94,77 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "8220",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8221",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "8MVisits",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "9MVisits",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Also",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bee",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Collect",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "collection",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -179,27 +114,7 @@
       "status": "expired"
     },
     {
-      "code": "multiple",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "necessary",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Pet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -210,21 +125,6 @@
     },
     {
       "code": "Sea",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Swarm",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -30,17 +30,17 @@
   "codes": [
     {
       "code": "CONTRA",
-      "reward": "x2 Free Mutation II Potions ( )",
+      "reward": "x2 Free Mutation II Potions",
       "status": "active"
     },
     {
       "code": "MUTATION2",
-      "reward": "x2 Free Mutation II Potions ( )",
+      "reward": "x2 Free Mutation II Potions",
       "status": "active"
     },
     {
       "code": "POTIONSSS",
-      "reward": "x2 Free Mutation II Potions ( )",
+      "reward": "x2 Free Mutation II Potions",
       "status": "active"
     },
     {
@@ -69,17 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Alternatively",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -99,11 +89,6 @@
       "status": "expired"
     },
     {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Catching",
       "reward": "Expired reward",
       "status": "expired"
@@ -111,16 +96,6 @@
     {
       "code": "CELEBRATE",
       "reward": "Rare Present",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "connected",
-      "reward": "Expired reward",
       "status": "expired"
     },
     {
@@ -149,16 +124,6 @@
       "status": "expired"
     },
     {
-      "code": "Defense",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "DIVING",
       "reward": "2 Luck II Potions",
       "status": "expired"
@@ -174,22 +139,7 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fish",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FISHING",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FREEBIES",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -205,11 +155,6 @@
     },
     {
       "code": "games-codes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -235,11 +180,6 @@
     },
     {
       "code": "INDO",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -284,11 +224,6 @@
       "status": "expired"
     },
     {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SCALE2",
       "reward": "x1 Leviathan Scale",
       "status": "expired"
@@ -324,11 +259,6 @@
       "status": "expired"
     },
     {
-      "code": "Star",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "THEDEN",
       "reward": "Free Rewards",
       "status": "expired"
@@ -344,17 +274,7 @@
       "status": "expired"
     },
     {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "TRAVEL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -375,7 +295,7 @@
     },
     {
       "code": "YEEHAW",
-      "reward": "Cowboy Hat Halo ( )",
+      "reward": "Cowboy Hat Halo",
       "status": "expired"
     }
   ]

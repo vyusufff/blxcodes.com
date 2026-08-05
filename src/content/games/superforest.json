@@ -40,16 +40,11 @@
     },
     {
       "code": "Welcomeseven!",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "3000Likes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -59,72 +54,7 @@
       "status": "expired"
     },
     {
-      "code": "anything",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Apart",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "complete",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "confusion",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Copying",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "double-check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Even",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Forge",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -134,27 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "Hypershot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ILLUSTRIOUS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,82 +74,12 @@
       "status": "expired"
     },
     {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "separated",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "shooting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "spelling",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "sticking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "straight",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Superforest",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "top-right",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "When",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Yes",
       "reward": "Expired reward",
       "status": "expired"
     }

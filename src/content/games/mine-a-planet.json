@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "BETA9BETA",
-      "reward": "3x Strong Battery ( )",
+      "reward": "3x Strong Battery",
       "status": "active"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "code": "EARTH",
-      "reward": "UFO CPU ( )",
+      "reward": "UFO CPU",
       "status": "active"
     },
     {
@@ -59,117 +59,12 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "celebrate",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "directly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Every",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fish",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Fresh",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lake",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "milestones",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Mine",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Most",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -184,77 +79,12 @@
       "status": "expired"
     },
     {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scale",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "sensitive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sipping",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Slimy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "spelling",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "troubleshoot",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Try",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "upgrading",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Want",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

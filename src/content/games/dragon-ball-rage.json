@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "11thAnniversaryThankYou",
-      "reward": "2 Dragon Balls ( )",
+      "reward": "2 Dragon Balls",
       "status": "active"
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "code": "HappyEaster2026",
-      "reward": "30 Eggs ( )",
+      "reward": "30 Eggs",
       "status": "active"
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "code": "RetroEvent",
-      "reward": "2 Dragon Balls ( )",
+      "reward": "2 Dragon Balls",
       "status": "active"
     },
     {
@@ -129,27 +129,7 @@
       "status": "expired"
     },
     {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Balls",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "claiming",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -159,47 +139,12 @@
       "status": "expired"
     },
     {
-      "code": "difficult",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "DRAG00N",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Dragon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Finding",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FR33B4LL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grab",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -214,32 +159,7 @@
       "status": "expired"
     },
     {
-      "code": "Input",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Menu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Metalizer150K",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -264,27 +184,12 @@
       "status": "expired"
     },
     {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Sorry4Datastores",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Sorry4Restart",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -310,11 +215,6 @@
     },
     {
       "code": "TEST",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Want",
       "reward": "Expired reward",
       "status": "expired"
     },

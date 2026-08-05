@@ -75,7 +75,7 @@
     },
     {
       "code": "BRAZILWINSTODAY",
-      "reward": "Free Potions ( )",
+      "reward": "Free Potions",
       "status": "active"
     },
     {
@@ -245,7 +245,7 @@
     },
     {
       "code": "GIFTING",
-      "reward": "Free Potions ( )",
+      "reward": "Free Potions",
       "status": "active"
     },
     {
@@ -340,7 +340,7 @@
     },
     {
       "code": "ITSRAINNINGTACOS",
-      "reward": "Free Potions ( )",
+      "reward": "Free Potions",
       "status": "active"
     },
     {
@@ -600,12 +600,12 @@
     },
     {
       "code": "SEASONXXVI",
-      "reward": "Free Potions ( )",
+      "reward": "Free Potions",
       "status": "active"
     },
     {
       "code": "SHUTDOWN",
-      "reward": "Free Potions ( )",
+      "reward": "Free Potions",
       "status": "active"
     },
     {
@@ -665,7 +665,7 @@
     },
     {
       "code": "SPAIN",
-      "reward": "Free Potions ( )",
+      "reward": "Free Potions",
       "status": "active"
     },
     {
@@ -760,7 +760,7 @@
     },
     {
       "code": "WORLDCUP",
-      "reward": "Free Potions ( )",
+      "reward": "Free Potions",
       "status": "active"
     },
     {
@@ -924,22 +924,12 @@
       "status": "expired"
     },
     {
-      "code": "Pull",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RETROPART2",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "SNOWEVENTPART3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sword",
       "reward": "Expired reward",
       "status": "expired"
     },

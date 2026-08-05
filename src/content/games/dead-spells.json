@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "115KMEMBERS",
-      "reward": "200 Burgers ( )",
+      "reward": "200 Burgers",
       "status": "active"
     },
     {
       "code": "117KFAVORITES",
-      "reward": "100 Burgers ( )",
+      "reward": "100 Burgers",
       "status": "active"
     },
     {
@@ -45,22 +45,22 @@
     },
     {
       "code": "70KLIKES",
-      "reward": "75 Burgers ( )",
+      "reward": "75 Burgers",
       "status": "active"
     },
     {
       "code": "IlIlIllIlIlIlIIlIlIllIlIlIlIIlIlIllIlIlIlI",
-      "reward": "1 Burger ( )",
+      "reward": "1 Burger",
       "status": "active"
     },
     {
       "code": "NewTraits",
-      "reward": "100 Burgers ( )",
+      "reward": "100 Burgers",
       "status": "active"
     },
     {
       "code": "testeromgomgomgomgomgom",
-      "reward": "999999999999999999 Burgers ( )",
+      "reward": "999999999999999999 Burgers",
       "status": "active"
     },
     {
@@ -154,16 +154,6 @@
       "status": "expired"
     },
     {
-      "code": "Clover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dead",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Delayed",
       "reward": "Expired reward",
       "status": "expired"
@@ -245,11 +235,6 @@
     },
     {
       "code": "Sorryforthewait",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Spells",
       "reward": "Expired reward",
       "status": "expired"
     },

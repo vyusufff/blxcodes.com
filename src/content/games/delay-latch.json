@@ -30,22 +30,22 @@
   "codes": [
     {
       "code": "AIKUANDGOALKEEPERCHANGES",
-      "reward": "2.5k Style coins and 3.4k Cash ( )",
+      "reward": "2.5k Style coins and 3.4k Cash",
       "status": "active"
     },
     {
       "code": "LATE60KCCUCODE",
-      "reward": "SSJ4 MVP ( )",
+      "reward": "SSJ4 MVP",
       "status": "active"
     },
     {
       "code": "SORRYFORSHUTDOWN",
-      "reward": "Aizen ( )",
+      "reward": "Aizen",
       "status": "active"
     },
     {
       "code": "TIMOTHYTHESEAL",
-      "reward": "2.5k Style coins and 3.4k Cash ( )",
+      "reward": "2.5k Style coins and 3.4k Cash",
       "status": "active"
     },
     {
@@ -60,11 +60,6 @@
     },
     {
       "code": "ANOTHERPATCHNOTE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Azure",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,18 +159,8 @@
       "status": "expired"
     },
     {
-      "code": "Latch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LetsGoUbers",
       "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MAYBE",
-      "reward": "2.5k Style coins and 3.4k Cash",
       "status": "expired"
     },
     {
@@ -260,7 +245,7 @@
     },
     {
       "code": "WOWTHISSUCKSIMSORRY",
-      "reward": "22.5k Cash ( )",
+      "reward": "22.5k Cash",
       "status": "expired"
     }
   ]

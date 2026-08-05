@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "WEAREBACK",
-      "reward": "2x Royal Seed Pack, Super Sprinkler, and 50k money ( )",
+      "reward": "2x Royal Seed Pack, Super Sprinkler, and 50k money",
       "status": "active"
     },
     {
@@ -40,51 +40,6 @@
     },
     {
       "code": "ADMIN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Apart",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "cakewalk",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "character",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "complete",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -104,62 +59,7 @@
       "status": "expired"
     },
     {
-      "code": "Defense",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "difficult",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fisch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Forge",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "GIFT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Horizons",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "inactive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -169,67 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "relaxing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "struggle",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "THANKYOU",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tracking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Universal",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

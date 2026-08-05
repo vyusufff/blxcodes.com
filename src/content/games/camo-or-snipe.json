@@ -30,21 +30,16 @@
   "codes": [
     {
       "code": "SECRET",
-      "reward": "Get Cash and 1 Free Spin ( )",
+      "reward": "Get Cash and 1 Free Spin",
       "status": "active"
     },
     {
       "code": "UPDATE2",
-      "reward": "Get 1000 Cash ( )",
+      "reward": "Get 1000 Cash",
       "status": "active"
     },
     {
       "code": "1KCCU",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -54,27 +49,7 @@
       "status": "expired"
     },
     {
-      "code": "Also",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BUGSFIXED",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Camo",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -84,72 +59,7 @@
       "status": "expired"
     },
     {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "everyone",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Heroes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "INC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -159,42 +69,12 @@
       "status": "expired"
     },
     {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Press",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "progress",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Rocket",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Snipe",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Some",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,32 +89,7 @@
       "status": "expired"
     },
     {
-      "code": "Then",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Training",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "UPDATE1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

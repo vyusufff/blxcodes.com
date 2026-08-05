@@ -65,7 +65,7 @@
     },
     {
       "code": "NoPotionLag",
-      "reward": "2 Leprechaun Potions ( )",
+      "reward": "2 Leprechaun Potions",
       "status": "active"
     },
     {
@@ -119,11 +119,6 @@
       "status": "expired"
     },
     {
-      "code": "Dungeon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "EggPlease",
       "reward": "Expired reward",
       "status": "expired"
@@ -155,11 +150,6 @@
     },
     {
       "code": "LepLepLep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Magic",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -80,7 +80,7 @@
     },
     {
       "code": "IwaSpecHotfixShenanigans",
-      "reward": "1M RC, 10M Yen, 30 Color Credits, and 20 hearts ( )",
+      "reward": "1M RC, 10M Yen, 30 Color Credits, and 20 hearts",
       "status": "active"
     },
     {
@@ -235,11 +235,6 @@
     },
     {
       "code": "FurutaK1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ghoul",
       "reward": "Expired reward",
       "status": "expired"
     },

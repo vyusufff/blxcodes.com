@@ -44,11 +44,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "accessories",
       "reward": "Expired reward",
       "status": "expired"
@@ -60,11 +55,6 @@
     },
     {
       "code": "Balance",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Battles",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -84,22 +74,7 @@
       "status": "expired"
     },
     {
-      "code": "Bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "competition",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Don",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "exploration",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -109,32 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "gameplay",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HappyNewYear",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "in-game",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Infinite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jujutsu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -149,16 +99,6 @@
       "status": "expired"
     },
     {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "OneMillionLikes",
       "reward": "Expired reward",
       "status": "expired"
@@ -169,37 +109,7 @@
       "status": "expired"
     },
     {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Slap",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "slightly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -219,22 +129,7 @@
       "status": "expired"
     },
     {
-      "code": "Twitter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "uncovering",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "What",
       "reward": "Expired reward",
       "status": "expired"
     }

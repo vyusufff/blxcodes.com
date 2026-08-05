@@ -35,7 +35,7 @@
     },
     {
       "code": "ancientbox",
-      "reward": "5 Timeless Egg ( )",
+      "reward": "5 Timeless Egg",
       "status": "active"
     },
     {
@@ -70,22 +70,22 @@
     },
     {
       "code": "fortunebite",
-      "reward": "5 Luck Potion and 10 Carrot Fruit ( )",
+      "reward": "5 Luck Potion and 10 Carrot Fruit",
       "status": "active"
     },
     {
       "code": "hollowduo",
-      "reward": "2 Void Egg ( )",
+      "reward": "2 Void Egg",
       "status": "active"
     },
     {
       "code": "hollowegg",
-      "reward": "1 Void Egg ( )",
+      "reward": "1 Void Egg",
       "status": "active"
     },
     {
       "code": "joysip",
-      "reward": "5 Cocktail Potion ( )",
+      "reward": "5 Cocktail Potion",
       "status": "active"
     },
     {
@@ -105,17 +105,17 @@
     },
     {
       "code": "noblecup",
-      "reward": "1 Royal Potion ( )",
+      "reward": "1 Royal Potion",
       "status": "active"
     },
     {
       "code": "oldgift",
-      "reward": "10 Timeless Egg ( )",
+      "reward": "10 Timeless Egg",
       "status": "active"
     },
     {
       "code": "richbite",
-      "reward": "5 Cash Potion and 10 Banana Fruit ( )",
+      "reward": "5 Cash Potion and 10 Banana Fruit",
       "status": "active"
     },
     {
@@ -130,17 +130,17 @@
     },
     {
       "code": "starvault",
-      "reward": "2 Void Egg and 5 Timeless Egg ( )",
+      "reward": "2 Void Egg and 5 Timeless Egg",
       "status": "active"
     },
     {
       "code": "strongbite",
-      "reward": "5 Power Potion and 10 Apple Fruit ( )",
+      "reward": "5 Power Potion and 10 Apple Fruit",
       "status": "active"
     },
     {
       "code": "sweetcup",
-      "reward": "3 Cocktail Potion ( )",
+      "reward": "3 Cocktail Potion",
       "status": "active"
     },
     {
@@ -259,11 +259,6 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "luckharvest",
       "reward": "Expired reward",
       "status": "expired"
@@ -350,11 +345,6 @@
     },
     {
       "code": "toastpack",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Wheel",
       "reward": "Expired reward",
       "status": "expired"
     }

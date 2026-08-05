@@ -179,16 +179,6 @@
       "status": "expired"
     },
     {
-      "code": "Also",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcement",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "AQUAWARRIOR",
       "reward": "Expired reward",
       "status": "expired"
@@ -204,77 +194,12 @@
       "status": "expired"
     },
     {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Business",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grab",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HALLOWEDBUSINESS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "important",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "information",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LABORDAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -289,27 +214,7 @@
       "status": "expired"
     },
     {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RHINO",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -324,27 +229,7 @@
       "status": "expired"
     },
     {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SUMMER2023",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Want",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

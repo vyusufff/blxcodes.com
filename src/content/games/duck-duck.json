@@ -30,131 +30,16 @@
   "codes": [
     {
       "code": "DailyGrind",
-      "reward": "Get a free egg ( )",
+      "reward": "Get a free egg",
       "status": "active"
     },
     {
       "code": "QUACKEDEGGS",
-      "reward": "Get a free Gnome egg ( )",
+      "reward": "Get a free Gnome egg",
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "available",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Duck",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fish",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hide",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LVLUP",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Make",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Mini",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Paint",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,62 +59,7 @@
       "status": "expired"
     },
     {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scale",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "shifting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Slimy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soccer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Training",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "upcoming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "War",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -35,12 +35,12 @@
     },
     {
       "code": "NOWAY500K",
-      "reward": "Redeem for 650 Cash ( )",
+      "reward": "Redeem for 650 Cash",
       "status": "active"
     },
     {
       "code": "NOWAY600K",
-      "reward": "Redeem for 650 Cash ( )",
+      "reward": "Redeem for 650 Cash",
       "status": "active"
     },
     {
@@ -164,37 +164,7 @@
       "status": "expired"
     },
     {
-      "code": "Also",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ARSONISBAD",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Die",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "entering",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -214,37 +184,12 @@
       "status": "expired"
     },
     {
-      "code": "Last",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Looking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "NPC",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "OUCHMYHEAD",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Project",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Slayer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Take",
       "reward": "Expired reward",
       "status": "expired"
     }

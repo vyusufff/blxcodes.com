@@ -35,7 +35,7 @@
     },
     {
       "code": "COMEBACK",
-      "reward": "1 Spin and 3,000 Coins ( )",
+      "reward": "1 Spin and 3,000 Coins",
       "status": "active"
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "code": "WINTER",
-      "reward": "1 Spin and 3,000 Coins ( )",
+      "reward": "1 Spin and 3,000 Coins",
       "status": "active"
     },
     {
@@ -109,32 +109,7 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "aura-filled",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Basketball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "becoming",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -149,27 +124,7 @@
       "status": "expired"
     },
     {
-      "code": "complete",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CRAZYCODE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Despite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Goalbound",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -184,37 +139,7 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "One",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ONEHOUR",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -245,26 +170,6 @@
     },
     {
       "code": "Touch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Volleyball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "Football11!",
-      "reward": "100 Trait Rerolls, 20,000 Gems, and 100,000 Gold ( )",
+      "reward": "100 Trait Rerolls, 20,000 Gems, and 100,000 Gold",
       "status": "active"
     },
     {
       "code": "NewBlitzPass!",
-      "reward": "50 Trait Rerolls, and 5,000 Gems ( )",
+      "reward": "50 Trait Rerolls, and 5,000 Gems",
       "status": "active"
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "code": "UniversalFootball!",
-      "reward": "25 Trait Rerolls, 25 Relic Rerolls, 25 Stat Rerolls, 25 Stat Locks, and 100,000 Universal Gems Season 1 Part 2 ( )",
+      "reward": "25 Trait Rerolls, 25 Relic Rerolls, 25 Stat Rerolls, 25 Stat Locks, and 100,000 Universal Gems Season 1 Part 2",
       "status": "active"
     },
     {
@@ -169,11 +169,6 @@
       "status": "expired"
     },
     {
-      "code": "Defense",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "DropRateFixes!",
       "reward": "Expired reward",
       "status": "expired"
@@ -220,16 +215,6 @@
     },
     {
       "code": "TheShinyCode!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Universal",
       "reward": "Expired reward",
       "status": "expired"
     },

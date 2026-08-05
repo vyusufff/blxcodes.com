@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "MOREUPDATESINC",
-      "reward": "10x Premium Wish Token ( )",
+      "reward": "10x Premium Wish Token",
       "status": "active"
     },
     {
       "code": "NEWSETS",
-      "reward": "5x Premium Wish Token ( )",
+      "reward": "5x Premium Wish Token",
       "status": "active"
     },
     {
@@ -70,11 +70,6 @@
     },
     {
       "code": "DB2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dragon",
       "reward": "Expired reward",
       "status": "expired"
     },

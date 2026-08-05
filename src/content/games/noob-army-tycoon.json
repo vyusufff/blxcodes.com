@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "268Troops",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "4000000",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "code": "AwesomeBirthday2",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -125,11 +125,6 @@
     },
     {
       "code": "animations",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Army",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -244,11 +239,6 @@
       "status": "expired"
     },
     {
-      "code": "Noob",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ProServers",
       "reward": "Expired reward",
       "status": "expired"
@@ -265,21 +255,6 @@
     },
     {
       "code": "StatuesAndPedestals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tank",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Training",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
       "reward": "Expired reward",
       "status": "expired"
     },

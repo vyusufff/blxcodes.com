@@ -114,11 +114,6 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "AnimeRangersNO1",
       "reward": "Expired reward",
       "status": "expired"
@@ -205,11 +200,6 @@
     },
     {
       "code": "PVPOnTop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rangers",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -40,7 +40,7 @@
     },
     {
       "code": "115mvisits",
-      "reward": "45 Rebirth Coins ( )",
+      "reward": "45 Rebirth Coins",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "code": "450klikes",
-      "reward": "40 Rebirth Coins ( )",
+      "reward": "40 Rebirth Coins",
       "status": "active"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "code": "850kfavs",
-      "reward": "85 Rebirth Coins ( )",
+      "reward": "85 Rebirth Coins",
       "status": "active"
     },
     {
@@ -149,67 +149,7 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Biswas/Beebom",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "connection",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Credit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Cultivation",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fabled",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Finally",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -219,112 +159,12 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Image",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legacy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Life",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Make",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Next",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "One",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "problems",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RoTube",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "screenshot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "selecting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "simulation",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "BUGFIX",
-      "reward": "Get 50 Gold ( )",
+      "reward": "Get 50 Gold",
       "status": "active"
     },
     {
@@ -40,17 +40,17 @@
     },
     {
       "code": "HAPPYNEWYEAR",
-      "reward": "Get 50 Gold ( )",
+      "reward": "Get 50 Gold",
       "status": "active"
     },
     {
       "code": "ISLANDS",
-      "reward": "Get 50 Gold ( )",
+      "reward": "Get 50 Gold",
       "status": "active"
     },
     {
       "code": "SNOWFLAKE",
-      "reward": "Get 50 Gold ( )",
+      "reward": "Get 50 Gold",
       "status": "active"
     },
     {
@@ -94,27 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BIGCOMPENSATION",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "BIOLUMINESCENT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blade",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -129,42 +114,12 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fisch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FREEGOLD",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HARPOONGUN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Isle",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -185,16 +140,6 @@
     },
     {
       "code": "Mermaid",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Pixel",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -224,11 +169,6 @@
       "status": "expired"
     },
     {
-      "code": "tracking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "treasure-hunting",
       "reward": "Expired reward",
       "status": "expired"
@@ -240,16 +180,6 @@
     },
     {
       "code": "TRIDENT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Unlike",
       "reward": "Expired reward",
       "status": "expired"
     }

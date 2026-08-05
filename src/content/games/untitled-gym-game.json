@@ -30,32 +30,32 @@
   "codes": [
     {
       "code": "1MVISITS",
-      "reward": "1.5x stamina regen for 30 minutes ( )",
+      "reward": "1.5x stamina regen for 30 minutes",
       "status": "active"
     },
     {
       "code": "2MVISITS",
-      "reward": "1.5x stamina regen for 30 minutes ( )",
+      "reward": "1.5x stamina regen for 30 minutes",
       "status": "active"
     },
     {
       "code": "3MVISITS",
-      "reward": "1.5x stamina regen for 30 minutes ( )",
+      "reward": "1.5x stamina regen for 30 minutes",
       "status": "active"
     },
     {
       "code": "CrewWorker",
-      "reward": "10 Creatine, 2x Crew XP for 60 minutes ( )",
+      "reward": "10 Creatine, 2x Crew XP for 60 minutes",
       "status": "active"
     },
     {
       "code": "Starter",
-      "reward": "$999, 5 Whey, 5 Creatine, 2x Gains for 60 minutes ( )",
+      "reward": "$999, 5 Whey, 5 Creatine, 2x Gains for 60 minutes",
       "status": "active"
     },
     {
       "code": "Updatelol",
-      "reward": "1.5x gains for 15 minutes, $10,000, 20 whey, 20 creatine, 20 pre-workout ( )",
+      "reward": "1.5x gains for 15 minutes, $10,000, 20 whey, 20 creatine, 20 pre-workout",
       "status": "active"
     },
     {
@@ -69,22 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "8211",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "AdminShh",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcement",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -94,112 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Avoid",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "favorite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gym",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "including",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Keeping",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "League",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Military",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Muscle",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "One",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "possible",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,52 +89,12 @@
       "status": "expired"
     },
     {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sometimes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Sorry4Bugs",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Star",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "UGG",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Untitled",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

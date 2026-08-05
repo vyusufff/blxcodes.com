@@ -35,7 +35,7 @@
     },
     {
       "code": "deathduriyay67",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -50,12 +50,12 @@
     },
     {
       "code": "JOJOMONTH",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "RTZREWORK",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -114,11 +114,6 @@
       "status": "expired"
     },
     {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CarrotFromThatGame",
       "reward": "Expired reward",
       "status": "expired"
@@ -140,11 +135,6 @@
     },
     {
       "code": "DESTRUCTION",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Egoist",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,11 +189,6 @@
       "status": "expired"
     },
     {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MasterOfSakuraStand",
       "reward": "Expired reward",
       "status": "expired"
@@ -215,16 +200,6 @@
     },
     {
       "code": "MichaelJackson",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MOVE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Project",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -265,11 +240,6 @@
     },
     {
       "code": "SRankedHunter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Stand",
       "reward": "Expired reward",
       "status": "expired"
     },

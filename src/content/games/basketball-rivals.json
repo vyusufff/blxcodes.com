@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "EMPERORREWORK",
-      "reward": "10 Lucky Spins ( )",
+      "reward": "10 Lucky Spins",
       "status": "active"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "code": "15SILVER",
-      "reward": "15 Lucky Spins ( )",
+      "reward": "15 Lucky Spins",
       "status": "expired"
     },
     {
@@ -139,11 +139,6 @@
       "status": "expired"
     },
     {
-      "code": "Basketball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CHROLLORETURN",
       "reward": "Expired reward",
       "status": "expired"
@@ -220,7 +215,7 @@
     },
     {
       "code": "SILVERRETURN",
-      "reward": "10 Lucky Spins ( )",
+      "reward": "10 Lucky Spins",
       "status": "expired"
     },
     {
@@ -235,11 +230,6 @@
     },
     {
       "code": "VALENTINE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

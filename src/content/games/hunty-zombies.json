@@ -30,27 +30,27 @@
   "codes": [
     {
       "code": "BossRushRefresh!",
-      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits ( )",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits",
       "status": "active"
     },
     {
       "code": "Halberd!",
-      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits ( )Halberd!:",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits Halberd!:",
       "status": "active"
     },
     {
       "code": "KapsiHotFix",
-      "reward": "150 Lucky Weapon Spins and 150 Lucky Perk Spins ( )",
+      "reward": "150 Lucky Weapon Spins and 150 Lucky Perk Spins",
       "status": "active"
     },
     {
       "code": "SaveHZ!",
-      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits ( )",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits",
       "status": "active"
     },
     {
       "code": "SorryRestart",
-      "reward": "50 Lucky Weapon Spins, 50 Lucky Perk Spins, and 50 Traits ( )",
+      "reward": "50 Lucky Weapon Spins, 50 Lucky Perk Spins, and 50 Traits",
       "status": "active"
     },
     {
@@ -150,7 +150,7 @@
     },
     {
       "code": "goodNinjaBoy!",
-      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits ( )",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits",
       "status": "expired"
     },
     {
@@ -169,13 +169,8 @@
       "status": "expired"
     },
     {
-      "code": "Hunty",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "KatanaEvo",
-      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits ( )",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits",
       "status": "expired"
     },
     {
@@ -190,7 +185,7 @@
     },
     {
       "code": "Laboratory!",
-      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits ( )",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits",
       "status": "expired"
     },
     {
@@ -260,11 +255,6 @@
     },
     {
       "code": "WowNiceCosmetic",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zombie",
       "reward": "Expired reward",
       "status": "expired"
     }

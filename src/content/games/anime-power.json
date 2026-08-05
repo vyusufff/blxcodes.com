@@ -70,7 +70,7 @@
     },
     {
       "code": "79mvisits",
-      "reward": "1x Large Power Potion and 1x Universal Key ( )",
+      "reward": "1x Large Power Potion and 1x Universal Key",
       "status": "active"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "code": "bugsfixed!",
-      "reward": "1x Large Power Potion and 1x Universal Key ( )",
+      "reward": "1x Large Power Potion and 1x Universal Key",
       "status": "active"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "code": "MINIUPDATE",
-      "reward": "1x Large Power Potion and 1x Universal Key ( )",
+      "reward": "1x Large Power Potion and 1x Universal Key",
       "status": "active"
     },
     {
@@ -130,7 +130,7 @@
     },
     {
       "code": "SHUTDOWN",
-      "reward": "1x Large Power Potion and 1x Universal Key ( )",
+      "reward": "1x Large Power Potion and 1x Universal Key",
       "status": "active"
     },
     {
@@ -245,7 +245,7 @@
     },
     {
       "code": "update28",
-      "reward": "1x Large Power Potion and 1x Universal Key ( )",
+      "reward": "1x Large Power Potion and 1x Universal Key",
       "status": "active"
     },
     {
@@ -329,11 +329,6 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "bugsfixed",
       "reward": "Expired reward",
       "status": "expired"
@@ -355,11 +350,6 @@
     },
     {
       "code": "NOEXPLOITERS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Power",
       "reward": "Expired reward",
       "status": "expired"
     },

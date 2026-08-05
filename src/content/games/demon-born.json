@@ -69,22 +69,12 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BDA10",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Betarelease",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blade",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -110,16 +100,6 @@
     },
     {
       "code": "CUP",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Demon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Demonfall",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,16 +154,6 @@
       "status": "expired"
     },
     {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RESETGENDERNEW",
       "reward": "Expired reward",
       "status": "expired"
@@ -214,21 +184,6 @@
       "status": "expired"
     },
     {
-      "code": "Rogue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Slayer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SORRYBBUGS5",
       "reward": "Expired reward",
       "status": "expired"
@@ -250,11 +205,6 @@
     },
     {
       "code": "SORRYSHUTDOWN2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soul",
       "reward": "Expired reward",
       "status": "expired"
     },

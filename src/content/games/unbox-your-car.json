@@ -40,7 +40,7 @@
     },
     {
       "code": "ThanksPlain",
-      "reward": "Get 3 Enchanted Crates ( )",
+      "reward": "Get 3 Enchanted Crates",
       "status": "active"
     },
     {
@@ -49,137 +49,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Along",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Car",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dealership",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "directly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Don",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Driving",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Empire",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Factory",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Games!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Habit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "incorrectly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "milestone",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,37 +59,7 @@
       "status": "expired"
     },
     {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "relaxing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "rewarding",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "sensitive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tell",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -229,22 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Unbox",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Which",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

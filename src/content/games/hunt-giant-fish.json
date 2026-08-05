@@ -105,7 +105,7 @@
     },
     {
       "code": "FISH50KK",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -145,7 +145,7 @@
     },
     {
       "code": "PRISE50",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "code": "SIRENSONG",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -164,97 +164,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8230",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "accounts",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "characters",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "description",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "difficult",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ENTER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "entering",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fisch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fish",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fishing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -265,101 +175,6 @@
     },
     {
       "code": "GiantTank",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hunt",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "incorrect",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Own",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Pond",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Star",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Start",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tracking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Try",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

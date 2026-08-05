@@ -79,27 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ASTROBACK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -114,27 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "challenging",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "compared",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "currently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CVSWARLOCK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dead",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -159,52 +124,7 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Last",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launcher",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Press",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rogue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SANDUPDATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simply",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -219,27 +139,12 @@
       "status": "expired"
     },
     {
-      "code": "Spells",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SRY4DELAY",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Stand",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "stunning",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     }

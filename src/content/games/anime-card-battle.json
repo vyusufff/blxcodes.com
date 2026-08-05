@@ -40,7 +40,7 @@
     },
     {
       "code": "NARUTODELAY",
-      "reward": "Potions, Tokens, and Rerolls ( )",
+      "reward": "Potions, Tokens, and Rerolls",
       "status": "active"
     },
     {
@@ -74,16 +74,6 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Battle",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BERSERK",
       "reward": "Expired reward",
       "status": "expired"
@@ -99,23 +89,18 @@
       "status": "expired"
     },
     {
-      "code": "Card",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CLOVER",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "DELAY",
-      "reward": "25 Battle Speed Potions, 50 Star Potions, 50 Corrupt Potions, 25 Boss Potions, 20 Speed IV Potions, 20 Luck IV Potions, 50 Weather Rerolls, and 10 Climate Potions ( )",
+      "reward": "25 Battle Speed Potions, 50 Star Potions, 50 Corrupt Potions, 25 Boss Potions, 20 Speed IV Potions, 20 Luck IV Potions, 50 Weather Rerolls, and 10 Climate Potions",
       "status": "expired"
     },
     {
       "code": "DELAYFATE",
-      "reward": "10 Raid Boss Potions, Rerolls, and Shards ( )",
+      "reward": "10 Raid Boss Potions, Rerolls, and Shards",
       "status": "expired"
     },
     {

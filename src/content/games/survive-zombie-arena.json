@@ -30,17 +30,17 @@
   "codes": [
     {
       "code": "BEWARETHETUNDRA",
-      "reward": "1 Artifact Crate spin ( )",
+      "reward": "1 Artifact Crate spin",
       "status": "active"
     },
     {
       "code": "COOLPFPSWAG",
-      "reward": "3 Bloodmoon spins and 2x Bloodmoon Shards for 4h ( )",
+      "reward": "3 Bloodmoon spins and 2x Bloodmoon Shards for 4h",
       "status": "active"
     },
     {
       "code": "DELAY",
-      "reward": "2,500 Credits and 1 Bloodmoon Crate ( )",
+      "reward": "2,500 Credits and 1 Bloodmoon Crate",
       "status": "active"
     },
     {
@@ -50,12 +50,12 @@
     },
     {
       "code": "LUVUGUYS",
-      "reward": "1 Bloodmoon spin ( )",
+      "reward": "1 Bloodmoon spin",
       "status": "active"
     },
     {
       "code": "UPDATEDAYSWAG",
-      "reward": "1,069 Credits and 1 Bloodmoon Crate ( )",
+      "reward": "1,069 Credits and 1 Bloodmoon Crate",
       "status": "active"
     },
     {
@@ -64,123 +64,13 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "accordingly",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "anything",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Arena",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Brainrot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "directly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "discussions",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Escape",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Furthermore",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Group",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "information",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Invalid",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Keep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Let",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MUTATE",
-      "reward": "10,500 Credits ( )",
+      "reward": "10,500 Credits",
       "status": "expired"
     },
     {
@@ -189,88 +79,8 @@
       "status": "expired"
     },
     {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "quickest",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "sometimes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SORRY4DELAY",
-      "reward": "5,000 Credits, 1 Bloodmoon Spin, and 2x Bloodmoon Shards for 12 hours ( )",
-      "status": "expired"
-    },
-    {
-      "code": "Steal",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Survive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tsunami",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zombie",
-      "reward": "Expired reward",
+      "reward": "5,000 Credits, 1 Bloodmoon Spin, and 2x Bloodmoon Shards for 12 hours",
       "status": "expired"
     }
   ]

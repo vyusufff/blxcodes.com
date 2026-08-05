@@ -30,66 +30,21 @@
   "codes": [
     {
       "code": "DUMPLINGCRATE",
-      "reward": "Dumpling Box ( )",
+      "reward": "Dumpling Box",
       "status": "active"
     },
     {
       "code": "ILOVEKEYCAPS",
-      "reward": "2x Money for 5 Minutes ( )",
+      "reward": "2x Money for 5 Minutes",
       "status": "active"
     },
     {
       "code": "THANK5K",
-      "reward": "500 XP ( )",
+      "reward": "500 XP",
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Also",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "assembling",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Box",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Build",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Card",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -99,147 +54,12 @@
       "status": "expired"
     },
     {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "customization",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Farm",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Getting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Just",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "keyboard",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Keyboard",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "milestones",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Most",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Press",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "problems",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "restarting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Squishy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "starting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Store",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

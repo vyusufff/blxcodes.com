@@ -69,11 +69,6 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Animev2",
       "reward": "Expired reward",
       "status": "expired"
@@ -94,11 +89,6 @@
       "status": "expired"
     },
     {
-      "code": "Defense",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "DJLeafdrop",
       "reward": "Expired reward",
       "status": "expired"
@@ -115,11 +105,6 @@
     },
     {
       "code": "FIGHTME",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Garden",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -165,11 +150,6 @@
     },
     {
       "code": "NEWMAP",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Nuke",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -230,11 +210,6 @@
     },
     {
       "code": "SURVIVE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
       "reward": "Expired reward",
       "status": "expired"
     },

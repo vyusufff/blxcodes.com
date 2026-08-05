@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "EXPPBOOSTT!",
-      "reward": "Boost Time 24 hours ( )",
+      "reward": "Boost Time 24 hours",
       "status": "active"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "code": "ReceResetFinall!",
-      "reward": "Race Reset ( )",
+      "reward": "Race Reset",
       "status": "active"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "code": "WBBeli!",
-      "reward": "2x Beli for 3 days ( )",
+      "reward": "2x Beli for 3 days",
       "status": "active"
     },
     {
@@ -80,12 +80,12 @@
     },
     {
       "code": "WBStat!",
-      "reward": "1x Stat points reset ( )",
+      "reward": "1x Stat points reset",
       "status": "active"
     },
     {
       "code": "WelcomeBack!",
-      "reward": "2x EXP for a week ( )",
+      "reward": "2x EXP for a week",
       "status": "active"
     },
     {
@@ -95,11 +95,6 @@
     },
     {
       "code": "75KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,17 +114,7 @@
       "status": "expired"
     },
     {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "collected",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Demon",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -150,11 +135,6 @@
     },
     {
       "code": "FOLLOWJAH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fruit",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,22 +179,7 @@
       "status": "expired"
     },
     {
-      "code": "Piece",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PrayForUs",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "probably",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -244,17 +209,7 @@
       "status": "expired"
     },
     {
-      "code": "Seas",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SlidetoTheX!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Some",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "CLEANLINES",
-      "reward": "10,000 Cash ( )",
+      "reward": "10,000 Cash",
       "status": "active"
     },
     {
       "code": "DESIGNKING",
-      "reward": "10,000 Cash ( )",
+      "reward": "10,000 Cash",
       "status": "active"
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "code": "TATTSZN",
-      "reward": "10,000 Cash ( )",
+      "reward": "10,000 Cash",
       "status": "active"
     },
     {
@@ -74,17 +74,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -94,37 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Biswas/Beebom",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -134,67 +94,7 @@
       "status": "expired"
     },
     {
-      "code": "consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Credit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "directly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Finally",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Image",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Input",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Just",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Let",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Lurk",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Military",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,42 +109,7 @@
       "status": "expired"
     },
     {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Restaurant",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "screenshot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Studio",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tattoo",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "thoughts",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -255,16 +120,6 @@
     },
     {
       "code": "Tycoons",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "What",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -35,7 +35,7 @@
     },
     {
       "code": "Skate",
-      "reward": "1 Golden Potion ( )",
+      "reward": "1 Golden Potion",
       "status": "active"
     },
     {
@@ -44,52 +44,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Basketball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Blades",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Brainrot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Car",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "character",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Club",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -99,32 +54,7 @@
       "status": "expired"
     },
     {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "difference",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dragon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "enjoying",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -134,112 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "Find",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Furthermore",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Input",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Instead",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launcher",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "like-minded",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "None",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Start",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tell",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "These",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Trainer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Training",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

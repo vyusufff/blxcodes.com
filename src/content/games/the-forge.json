@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "FORGEWEEKENDS13",
-      "reward": "15x Rerolls ( )",
+      "reward": "15x Rerolls",
       "status": "active"
     },
     {
@@ -60,11 +60,6 @@
     },
     {
       "code": "FORG!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Forge",
       "reward": "Expired reward",
       "status": "expired"
     },

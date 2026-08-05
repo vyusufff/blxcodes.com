@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "BATTLEPASS",
-      "reward": "1 Training Potion ( )",
+      "reward": "1 Training Potion",
       "status": "active"
     },
     {
       "code": "MUSCLE",
-      "reward": "1 Spin ( )",
+      "reward": "1 Spin",
       "status": "active"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "code": "UPDATE3",
-      "reward": "1 Spin ( )",
+      "reward": "1 Spin",
       "status": "active"
     },
     {
@@ -59,147 +59,7 @@
       "status": "active"
     },
     {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Always",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "available",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "continue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "correctly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "currently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Currently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gym",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "information",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "League",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Looking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Muscle",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "persists",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "physique",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "possible",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Press",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeemed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "requires",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,52 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "Showdown",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "top-left",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "training",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Transform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "When",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

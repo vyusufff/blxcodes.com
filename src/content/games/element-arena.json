@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "Bossfight",
-      "reward": "3 Tickets ( )",
+      "reward": "3 Tickets",
       "status": "active"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "code": "Hacker",
-      "reward": "20 Gems ( )",
+      "reward": "20 Gems",
       "status": "active"
     },
     {
@@ -59,57 +59,7 @@
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Arena",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Candy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "characters",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Combat",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,52 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "Duels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Each",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Element",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "extremely",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Head",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,87 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "mistakes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Murder",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "One",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "restarting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Saber",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "satisfied",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tell",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Update1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

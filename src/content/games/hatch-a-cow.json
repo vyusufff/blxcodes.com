@@ -60,7 +60,7 @@
     },
     {
       "code": "ROBOT",
-      "reward": "2500 Gems ( )",
+      "reward": "2500 Gems",
       "status": "active"
     },
     {
@@ -74,67 +74,7 @@
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8230",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "accounts",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Alongside",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Always",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bee",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "building",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Cavity",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claim",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -144,52 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "Crushers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "dedicated",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "diligently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "directly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "enjoying",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grow",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,77 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "incorrect",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "mistyping",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "One",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "possibility",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "releases",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Start",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "When",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

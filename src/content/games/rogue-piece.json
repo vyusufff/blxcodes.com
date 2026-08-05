@@ -40,7 +40,7 @@
     },
     {
       "code": "Noob",
-      "reward": "10,000,000 Gold, 5,000,000 Gems, and 100 Reroll Shards ( )",
+      "reward": "10,000,000 Gold, 5,000,000 Gems, and 100 Reroll Shards",
       "status": "active"
     },
     {
@@ -110,12 +110,7 @@
     },
     {
       "code": "OPCODE1",
-      "reward": "75 Rogue&#8217;s Blessings, 500 Clan Rerolls, 2 Ultimate Boxes, and 5 Violet Emblems ( )",
-      "status": "expired"
-    },
-    {
-      "code": "Piece",
-      "reward": "Expired reward",
+      "reward": "75 Rogue&#8217;s Blessings, 500 Clan Rerolls, 2 Ultimate Boxes, and 5 Violet Emblems",
       "status": "expired"
     },
     {
@@ -139,18 +134,13 @@
       "status": "expired"
     },
     {
-      "code": "Rogue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RukiaAwakens!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "SaberAlter!",
-      "reward": "500,000,000 Coins, 1,500,000 Gems, 500,000 Fragments of Rogue, 2 Violet Emblems, and 5 Lucky Boxes ( )",
+      "reward": "500,000,000 Coins, 1,500,000 Gems, 500,000 Fragments of Rogue, 2 Violet Emblems, and 5 Lucky Boxes",
       "status": "expired"
     },
     {

@@ -60,7 +60,7 @@
     },
     {
       "code": "UPDATE11",
-      "reward": "rewards ( )",
+      "reward": "rewards",
       "status": "active"
     },
     {
@@ -109,16 +109,6 @@
       "status": "expired"
     },
     {
-      "code": "Brainrot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Christmas1",
       "reward": "Expired reward",
       "status": "expired"
@@ -145,11 +135,6 @@
     },
     {
       "code": "CRYSTAL5000",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,11 +189,6 @@
       "status": "expired"
     },
     {
-      "code": "Plant",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "REDRESS",
       "reward": "Expired reward",
       "status": "expired"
@@ -225,11 +205,6 @@
     },
     {
       "code": "RELEASE3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
       "reward": "Expired reward",
       "status": "expired"
     },

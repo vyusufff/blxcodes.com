@@ -50,12 +50,12 @@
     },
     {
       "code": "STREAK_SUPERNOODLEJR09",
-      "reward": "Redeem for 25 million cash ( )",
+      "reward": "Redeem for 25 million cash",
       "status": "active"
     },
     {
       "code": "SUPERNOODLE_JR09",
-      "reward": "Redeem for 25 million cash ( )",
+      "reward": "Redeem for 25 million cash",
       "status": "active"
     },
     {
@@ -205,11 +205,6 @@
     },
     {
       "code": "NOTZERO69AGAIN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Project",
       "reward": "Expired reward",
       "status": "expired"
     },

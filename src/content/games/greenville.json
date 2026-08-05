@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "30K_CONCURRENT",
-      "reward": "Redeem for 2x drive-to-earn boost for 30 minutes ( )",
+      "reward": "Redeem for 2x drive-to-earn boost for 30 minutes",
       "status": "active"
     },
     {
@@ -50,12 +50,12 @@
     },
     {
       "code": "NEW_YEAR_26",
-      "reward": "Redeem for 3x interactive job earnings multiplier for 30 minutes ( )",
+      "reward": "Redeem for 3x interactive job earnings multiplier for 30 minutes",
       "status": "active"
     },
     {
       "code": "WINTER25_CASH",
-      "reward": "Redeem for $200,000 ( )",
+      "reward": "Redeem for $200,000",
       "status": "active"
     },
     {
@@ -79,47 +79,12 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8220",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8221",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Blox_Wheels",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Brookhaven",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "EASTER_25",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "especially",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -130,11 +95,6 @@
     },
     {
       "code": "FROST_KING_24",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -154,42 +114,12 @@
       "status": "expired"
     },
     {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LATE_VALENTINES_25",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Let",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "messages",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "NEWYEAR_24",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "real-time",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,17 +134,7 @@
       "status": "expired"
     },
     {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Shardrr",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -225,11 +145,6 @@
     },
     {
       "code": "SPRING_24",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Submit",
       "reward": "Expired reward",
       "status": "expired"
     },

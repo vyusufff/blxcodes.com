@@ -30,47 +30,47 @@
   "codes": [
     {
       "code": "BLESSINGS",
-      "reward": "300 Blessing Shards and 300 Gems ( )",
+      "reward": "300 Blessing Shards and 300 Gems",
       "status": "active"
     },
     {
       "code": "CASTLERUN",
-      "reward": "5 Demon Castle Tickets ( )",
+      "reward": "5 Demon Castle Tickets",
       "status": "active"
     },
     {
       "code": "HUNDREDFLAMES",
-      "reward": "8 Flame Souls, 8 Flame Quartzs, and 5 Sun Fragments ( )",
+      "reward": "8 Flame Souls, 8 Flame Quartzs, and 5 Sun Fragments",
       "status": "active"
     },
     {
       "code": "LUCKYSPIN",
-      "reward": "Lucky Spins ( )",
+      "reward": "Lucky Spins",
       "status": "active"
     },
     {
       "code": "SORRYFORSHUTDOWN",
-      "reward": "25 Cinder Marks and 40 Soul Embers ( )",
+      "reward": "25 Cinder Marks and 40 Soul Embers",
       "status": "active"
     },
     {
       "code": "THANKYOU12",
-      "reward": "400 Gems ( )",
+      "reward": "400 Gems",
       "status": "active"
     },
     {
       "code": "UPDATE12",
-      "reward": "2 Legendary Scrolls ( )",
+      "reward": "2 Legendary Scrolls",
       "status": "active"
     },
     {
       "code": "WAVEHUNTER",
-      "reward": "3 Stat Crystals ( )",
+      "reward": "3 Stat Crystals",
       "status": "active"
     },
     {
       "code": "WHITEFLAME",
-      "reward": "5 White Cinders and 3 Cinder Marks ( )",
+      "reward": "5 White Cinders and 3 Cinder Marks",
       "status": "active"
     },
     {
@@ -145,11 +145,6 @@
     },
     {
       "code": "GRAZIEITALIA",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hunters",
       "reward": "Expired reward",
       "status": "expired"
     },

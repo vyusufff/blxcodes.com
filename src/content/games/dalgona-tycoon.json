@@ -30,76 +30,16 @@
   "codes": [
     {
       "code": "bluemask",
-      "reward": "2x Shiny Potion ( )",
+      "reward": "2x Shiny Potion",
       "status": "active"
     },
     {
       "code": "lilo_present",
-      "reward": "1x Shiny Potion ( )",
+      "reward": "1x Shiny Potion",
       "status": "active"
     },
     {
       "code": "Dalgona",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "advantage",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Untitled",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Volleyball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Star",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defense",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Goalbound",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Want",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -109,77 +49,7 @@
       "status": "expired"
     },
     {
-      "code": "cakewalk",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Run",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Verify",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "starters",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Furthermore",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "xFrozen",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Studio",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "subscribe",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,52 +59,7 @@
       "status": "expired"
     },
     {
-      "code": "YouTube",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Biswas",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Win",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "World",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Championship",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -40,12 +40,12 @@
     },
     {
       "code": "ImperialSpeedUps",
-      "reward": "5x 24-hour Speed-ups ( )",
+      "reward": "5x 24-hour Speed-ups",
       "status": "active"
     },
     {
       "code": "ImperialSpeedUps2",
-      "reward": "5x 24-hour Speed-ups ( )",
+      "reward": "5x 24-hour Speed-ups",
       "status": "active"
     },
     {
@@ -79,36 +79,6 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "actively",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Below",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Characters",
       "reward": "Expired reward",
       "status": "expired"
@@ -124,21 +94,6 @@
       "status": "expired"
     },
     {
-      "code": "dedicated",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "difficult",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "directly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "distinguish",
       "reward": "Expired reward",
       "status": "expired"
@@ -149,47 +104,12 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Even",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "focusing",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Grass",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,17 +129,7 @@
       "status": "expired"
     },
     {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "overcome",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Piece",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -229,63 +139,18 @@
       "status": "expired"
     },
     {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "recommended",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "removing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sailor",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "separate",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SomeSpeedUps",
-      "reward": "10 speed-ups worth 5 minutes each ( )",
-      "status": "expired"
-    },
-    {
-      "code": "Sometimes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
+      "reward": "10 speed-ups worth 5 minutes each",
       "status": "expired"
     },
     {
       "code": "UseThisForGalaxies",
       "reward": "5 minutes worth of 2x Luck",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
       "status": "expired"
     }
   ]

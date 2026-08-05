@@ -60,7 +60,7 @@
     },
     {
       "code": "Delay",
-      "reward": "3500 Gems ( )",
+      "reward": "3500 Gems",
       "status": "active"
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "code": "HelicopterHelicopter",
-      "reward": "5000 Coins ( )",
+      "reward": "5000 Coins",
       "status": "active"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "code": "JusticeMattersMost",
-      "reward": "1261 Culling Points ( )",
+      "reward": "1261 Culling Points",
       "status": "active"
     },
     {
@@ -154,16 +154,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BindingVows",
       "reward": "Expired reward",
       "status": "expired"
@@ -179,32 +169,12 @@
       "status": "expired"
     },
     {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Countdown",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "CursedChild",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defenders",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defense",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -219,11 +189,6 @@
       "status": "expired"
     },
     {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Hakari",
       "reward": "Expired reward",
       "status": "expired"
@@ -234,17 +199,7 @@
       "status": "expired"
     },
     {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Jackpot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -269,16 +224,6 @@
       "status": "expired"
     },
     {
-      "code": "Normal",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Pinata",
       "reward": "Expired reward",
       "status": "expired"
@@ -294,27 +239,12 @@
       "status": "expired"
     },
     {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ResurrectedToji",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Shinjuku",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sorcerer",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -335,11 +265,6 @@
     },
     {
       "code": "TenShadows",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
       "reward": "Expired reward",
       "status": "expired"
     },

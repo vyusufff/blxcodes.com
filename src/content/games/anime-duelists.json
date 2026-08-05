@@ -70,7 +70,7 @@
     },
     {
       "code": "4MVISITS",
-      "reward": "200 Gems, 100 Trait Rerolls, 100 Stats Rerolls, 3 Coins II Boosts, 3 Damage II Boosts, 3 EXP II Boosts, 3 Super Luck Boosts, and 3 Star Speed Boosts ( )",
+      "reward": "200 Gems, 100 Trait Rerolls, 100 Stats Rerolls, 3 Coins II Boosts, 3 Damage II Boosts, 3 EXP II Boosts, 3 Super Luck Boosts, and 3 Star Speed Boosts",
       "status": "active"
     },
     {
@@ -119,52 +119,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "alongside",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Astral",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Building",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "complete",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "directly",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,67 +129,7 @@
       "status": "expired"
     },
     {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "fighters",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gakuran",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "grabbing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "hundreds",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "powerful",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -274,11 +169,6 @@
       "status": "expired"
     },
     {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SORRYSHUTDOWN",
       "reward": "Expired reward",
       "status": "expired"
@@ -289,32 +179,7 @@
       "status": "expired"
     },
     {
-      "code": "strongest",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "THANKSFORPLAYING",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Vanguards",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
       "reward": "Expired reward",
       "status": "expired"
     }

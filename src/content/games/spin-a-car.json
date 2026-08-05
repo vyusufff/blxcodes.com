@@ -30,41 +30,16 @@
   "codes": [
     {
       "code": "FINALLY_SETTINGS",
-      "reward": "1x Ultra Luck Potion and 2x Coin Potion ( )",
+      "reward": "1x Ultra Luck Potion and 2x Coin Potion",
       "status": "active"
     },
     {
       "code": "LAP_SHOP",
-      "reward": "3 Nitro and 1 Speedy Dice ( )",
+      "reward": "3 Nitro and 1 Speedy Dice",
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Another",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Becoming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Car",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -79,22 +54,7 @@
       "status": "expired"
     },
     {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "cross-checked",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Double-check",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -114,47 +74,7 @@
       "status": "expired"
     },
     {
-      "code": "Factory",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fishing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Frenzy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "in-game",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,77 +84,12 @@
       "status": "expired"
     },
     {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Nuke",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "possibilities",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Race",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Rollers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Spin",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Squishy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Then",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

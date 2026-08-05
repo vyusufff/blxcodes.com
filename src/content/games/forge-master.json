@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "QOL",
-      "reward": "300k Credits, 5x Hammer Box, and 250x Event currency ( )",
+      "reward": "300k Credits, 5x Hammer Box, and 250x Event currency",
       "status": "active"
     },
     {
@@ -74,17 +74,7 @@
       "status": "expired"
     },
     {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ADR",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -94,32 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "anime-inspired",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Basketball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CAVE!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -139,37 +104,12 @@
       "status": "expired"
     },
     {
-      "code": "First",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FIRSTDAYONLY",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Forge",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HAMMERBOXBUG",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Master",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -194,42 +134,12 @@
       "status": "expired"
     },
     {
-      "code": "Rangers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RELEASE!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Shadow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Studios",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tired",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Volleyball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "WHYNOTLOADING",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

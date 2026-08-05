@@ -55,17 +55,17 @@
     },
     {
       "code": "675K",
-      "reward": "Coins and Godly Potions ( )",
+      "reward": "Coins and Godly Potions",
       "status": "active"
     },
     {
       "code": "700K",
-      "reward": "Coins and Godly Potions ( )",
+      "reward": "Coins and Godly Potions",
       "status": "active"
     },
     {
       "code": "725K",
-      "reward": "Coins and Godly Potions ( )",
+      "reward": "Coins and Godly Potions",
       "status": "active"
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "code": "Atlantis",
-      "reward": "Coins and Godly Potions ( )",
+      "reward": "Coins and Godly Potions",
       "status": "active"
     },
     {
@@ -105,12 +105,12 @@
     },
     {
       "code": "Merchant",
-      "reward": "Coins and Godly Potions ( )",
+      "reward": "Coins and Godly Potions",
       "status": "active"
     },
     {
       "code": "Pickle",
-      "reward": "Coins and Godly Potions ( )",
+      "reward": "Coins and Godly Potions",
       "status": "active"
     },
     {
@@ -120,12 +120,12 @@
     },
     {
       "code": "Raven",
-      "reward": "Coins and Godly Potions ( )",
+      "reward": "Coins and Godly Potions",
       "status": "active"
     },
     {
       "code": "Sorry4Bugs",
-      "reward": "Coins and Godly Potions ( )",
+      "reward": "Coins and Godly Potions",
       "status": "active"
     },
     {
@@ -219,11 +219,6 @@
       "status": "expired"
     },
     {
-      "code": "Blade",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BREAKABLES",
       "reward": "Expired reward",
       "status": "expired"
@@ -249,11 +244,6 @@
       "status": "expired"
     },
     {
-      "code": "Fabled",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FreeWish",
       "reward": "Expired reward",
       "status": "expired"
@@ -274,11 +264,6 @@
       "status": "expired"
     },
     {
-      "code": "Legacy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MerryMerry",
       "reward": "Expired reward",
       "status": "expired"
@@ -290,11 +275,6 @@
     },
     {
       "code": "Nightmare2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Pixel",
       "reward": "Expired reward",
       "status": "expired"
     },

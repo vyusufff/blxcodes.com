@@ -40,7 +40,7 @@
     },
     {
       "code": "catcatcatcatcat",
-      "reward": "Free Cash ( )",
+      "reward": "Free Cash",
       "status": "active"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "code": "kmjsdns",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "code": "xltrelease",
-      "reward": "6767 Cash and 670 EXP ( )",
+      "reward": "6767 Cash and 670 EXP",
       "status": "active"
     },
     {
@@ -104,11 +104,6 @@
       "status": "expired"
     },
     {
-      "code": "Chasers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "compensation",
       "reward": "Expired reward",
       "status": "expired"
@@ -125,11 +120,6 @@
     },
     {
       "code": "DNSxMNLR21",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "enjoying",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -155,11 +145,6 @@
     },
     {
       "code": "HAPPYXMAS2025",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Highway",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -194,11 +179,6 @@
       "status": "expired"
     },
     {
-      "code": "Midnight",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PARZIGAMING",
       "reward": "Expired reward",
       "status": "expired"
@@ -220,11 +200,6 @@
     },
     {
       "code": "PLSMONEY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Racing",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -30,17 +30,17 @@
   "codes": [
     {
       "code": "KNEE_SLIDE",
-      "reward": "5 Lucky Ability Spins ( )",
+      "reward": "5 Lucky Ability Spins",
       "status": "active"
     },
     {
       "code": "LEAD_FEET_AGAIN",
-      "reward": "5 Lucky Style Spins ( )",
+      "reward": "5 Lucky Style Spins",
       "status": "active"
     },
     {
       "code": "UPDATE_81",
-      "reward": "5 Lucky Style Spins ( )",
+      "reward": "5 Lucky Style Spins",
       "status": "active"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "code": "ENCHO_NERF",
-      "reward": "5 Lucky Ability Spins ( )",
+      "reward": "5 Lucky Ability Spins",
       "status": "expired"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "code": "HIDARI_FINALLY",
-      "reward": "5 Lucky Style Spins ( )",
+      "reward": "5 Lucky Style Spins",
       "status": "expired"
     },
     {
@@ -110,11 +110,6 @@
     },
     {
       "code": "LEADERBOARD",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -245,16 +240,11 @@
     },
     {
       "code": "UPDATE_80",
-      "reward": "5 Lucky Style Spins ( )",
+      "reward": "5 Lucky Style Spins",
       "status": "expired"
     },
     {
       "code": "VINE_WALLS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Volleyball",
       "reward": "Expired reward",
       "status": "expired"
     }

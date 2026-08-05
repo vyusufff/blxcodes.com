@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "350KLIKES",
-      "reward": "200,000 Yen ( )",
+      "reward": "200,000 Yen",
       "status": "active"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "code": "ALotOfQuests",
-      "reward": "50 Battlepass Exp ( )",
+      "reward": "50 Battlepass Exp",
       "status": "active"
     },
     {
@@ -130,7 +130,7 @@
     },
     {
       "code": "Dim3Bugs",
-      "reward": "100 Battlepass Exp ( )",
+      "reward": "100 Battlepass Exp",
       "status": "active"
     },
     {
@@ -315,7 +315,7 @@
     },
     {
       "code": "QuestsFixedNow",
-      "reward": "250,000 Yen ( )",
+      "reward": "250,000 Yen",
       "status": "active"
     },
     {
@@ -355,7 +355,7 @@
     },
     {
       "code": "SomeExtraStuff",
-      "reward": "50 Trait Rerolls ( )",
+      "reward": "50 Trait Rerolls",
       "status": "active"
     },
     {

@@ -30,22 +30,22 @@
   "codes": [
     {
       "code": "10KLikes",
-      "reward": "1 Divine Luck Potion ( )",
+      "reward": "1 Divine Luck Potion",
       "status": "active"
     },
     {
       "code": "2MVisits",
-      "reward": "2 Ascendant Dice ( )",
+      "reward": "2 Ascendant Dice",
       "status": "active"
     },
     {
       "code": "Halloween",
-      "reward": "2 Diamond Dice ( )",
+      "reward": "2 Diamond Dice",
       "status": "active"
     },
     {
       "code": "HalloweenDice",
-      "reward": "1 Halloween Dice ( )",
+      "reward": "1 Halloween Dice",
       "status": "active"
     },
     {
@@ -64,32 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "Adhikary",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Anything",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Brainrot",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -99,52 +74,7 @@
       "status": "expired"
     },
     {
-      "code": "Brainrots",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Creationss",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "enjoying",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "exclusive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "grabbing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ishan",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Love",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -154,37 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "place!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Plants",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Race",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -194,57 +94,7 @@
       "status": "expired"
     },
     {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Spin",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "spinning",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Steal",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Store",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tell",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Thankfully",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Then",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Try",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "upcoming",
       "reward": "Expired reward",
       "status": "expired"
     }

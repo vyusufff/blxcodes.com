@@ -30,13 +30,8 @@
   "codes": [
     {
       "code": "COMMUNITY1",
-      "reward": "5 Large Luck Potions, 5 Large Roll Speed Potions, 2 Boss Chance Potions, 3 Greater Moon Cycle Reroll Potions, 2 Border Chance Potions, and 2 50,000x Instant Rolls ( )",
+      "reward": "5 Large Luck Potions, 5 Large Roll Speed Potions, 2 Boss Chance Potions, 3 Greater Moon Cycle Reroll Potions, 2 Border Chance Potions, and 2 50,000x Instant Rolls",
       "status": "active"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
     },
     {
       "code": "BLACKCLOVER1",
@@ -85,16 +80,6 @@
     },
     {
       "code": "BLACKCLOVER9",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Card",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Clash",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -75,7 +75,7 @@
     },
     {
       "code": "HAPPYHALLOWEEN99",
-      "reward": "1 Skill Reset Card, 1 Transmogrified Card, 1 Eternal Treasure Coupon, 2 Gold Eternal Key ( )",
+      "reward": "1 Skill Reset Card, 1 Transmogrified Card, 1 Eternal Treasure Coupon, 2 Gold Eternal Key",
       "status": "active"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "code": "HAPPYSPRING26",
-      "reward": "1 Transmogrified Card, 2 Eternal Treasure Coupon, 2 Gold Eternal Key ( )",
+      "reward": "1 Transmogrified Card, 2 Eternal Treasure Coupon, 2 Gold Eternal Key",
       "status": "active"
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "code": "HURYXMAS2025",
-      "reward": "1 Skill Reset Card, 5 Gold Eternal Key, 5 Eternal Treasure Coupon ( )",
+      "reward": "1 Skill Reset Card, 5 Gold Eternal Key, 5 Eternal Treasure Coupon",
       "status": "active"
     },
     {
@@ -234,11 +234,6 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Accept",
       "reward": "Expired reward",
       "status": "expired"
@@ -249,32 +244,7 @@
       "status": "expired"
     },
     {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BOSSIJBNCIQ5AS64",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Clover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Credit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Done",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dress",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -284,37 +254,7 @@
       "status": "expired"
     },
     {
-      "code": "Fabled",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "fashionable",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Find",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gear",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Girl",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -324,42 +264,7 @@
       "status": "expired"
     },
     {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Image",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Impress",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ishan",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legacy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Options",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -379,57 +284,7 @@
       "status": "expired"
     },
     {
-      "code": "Screenshot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "subscribe",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sword",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Warriors",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Warriors/Roblox",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "YouTube",
       "reward": "Expired reward",
       "status": "expired"
     }

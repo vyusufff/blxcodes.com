@@ -90,7 +90,7 @@
     },
     {
       "code": "TR4IN",
-      "reward": "200 RC ( )",
+      "reward": "200 RC",
       "status": "active"
     },
     {
@@ -174,11 +174,6 @@
       "status": "expired"
     },
     {
-      "code": "Demon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FREEMOVESETS",
       "reward": "Expired reward",
       "status": "expired"
@@ -205,11 +200,6 @@
     },
     {
       "code": "RDMOTES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rogue",
       "reward": "Expired reward",
       "status": "expired"
     },

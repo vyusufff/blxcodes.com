@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "aarwds",
-      "reward": "2,000 Rift Coins, 40 Treasure Shovels, and 1 Golden Winged Sacred Egg ()",
+      "reward": "2,000 Rift Coins, 40 Treasure Shovels, and 1 Golden Winged Sacred Egg",
       "status": "active"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "code": "antpanter",
-      "reward": "30 Treasure Shovels and 4 Genesis Fruit ( )",
+      "reward": "30 Treasure Shovels and 4 Genesis Fruit",
       "status": "active"
     },
     {
@@ -50,12 +50,12 @@
     },
     {
       "code": "bjnemdy",
-      "reward": "XP and Coin Potions ( )",
+      "reward": "XP and Coin Potions",
       "status": "active"
     },
     {
       "code": "breeding",
-      "reward": "2,000 Rift Coins and 2 Genesis Fruits ()",
+      "reward": "2,000 Rift Coins and 2 Genesis Fruits",
       "status": "active"
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "code": "dmupner",
-      "reward": "XP and Coin Potions ( )",
+      "reward": "XP and Coin Potions",
       "status": "active"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "code": "lolteag",
-      "reward": "XP and Coin Potions ( )",
+      "reward": "XP and Coin Potions",
       "status": "active"
     },
     {
@@ -115,12 +115,12 @@
     },
     {
       "code": "PSYPEON",
-      "reward": "Pure Chaos Elixir ( )",
+      "reward": "Pure Chaos Elixir",
       "status": "active"
     },
     {
       "code": "rcoinfix",
-      "reward": "2,000 Rift Coins, 20 Treasure Shovels, and 2 Genesis Fruits ()",
+      "reward": "2,000 Rift Coins, 20 Treasure Shovels, and 2 Genesis Fruits",
       "status": "active"
     },
     {
@@ -130,7 +130,7 @@
     },
     {
       "code": "seltraph",
-      "reward": "30 Treasure Shovels, 1 Chaos Potion, and 2 Mythical Chests ()",
+      "reward": "30 Treasure Shovels, 1 Chaos Potion, and 2 Mythical Chests",
       "status": "active"
     },
     {
@@ -149,22 +149,7 @@
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "aetherpanther",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Apart",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -179,57 +164,12 @@
       "status": "expired"
     },
     {
-      "code": "Brainrots",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Catch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "category",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Defense",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dragon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "emberwolf",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Evolution",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -240,11 +180,6 @@
     },
     {
       "code": "kitsunine",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -269,47 +204,7 @@
       "status": "expired"
     },
     {
-      "code": "Monster",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Plant",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Plants",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "rankA",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -320,26 +215,6 @@
     },
     {
       "code": "ssentinel",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Studios",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },

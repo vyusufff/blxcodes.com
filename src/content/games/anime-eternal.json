@@ -75,16 +75,11 @@
     },
     {
       "code": "Update57",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "AllCodesInOneUpdate43",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -105,11 +100,6 @@
     },
     {
       "code": "EasterCode9",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Eternal",
       "reward": "Expired reward",
       "status": "expired"
     },

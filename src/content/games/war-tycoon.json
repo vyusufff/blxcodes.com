@@ -45,7 +45,7 @@
     },
     {
       "code": "MapUpdate",
-      "reward": "15-minute Double Cash Boost ( )",
+      "reward": "15-minute Double Cash Boost",
       "status": "active"
     },
     {
@@ -55,12 +55,12 @@
     },
     {
       "code": "ONEBILLION",
-      "reward": "Neon Nightfall skin, 3 Elite Camo Case, 1000000 Cash, and 15 Medals ( )",
+      "reward": "Neon Nightfall skin, 3 Elite Camo Case, 1000000 Cash, and 15 Medals",
       "status": "active"
     },
     {
       "code": "WAR1MIL",
-      "reward": "1 Research Instant Unlock, 1 Elite Camo Case, 1000000 cash, and 10 medals ( )",
+      "reward": "1 Research Instant Unlock, 1 Elite Camo Case, 1000000 cash, and 10 medals",
       "status": "active"
     },
     {
@@ -84,37 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "available",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BlueBird",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Camo",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -124,32 +94,7 @@
       "status": "expired"
     },
     {
-      "code": "existing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Finally",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Fireworks24",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -159,22 +104,7 @@
       "status": "expired"
     },
     {
-      "code": "Half",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Hooray50K",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "in-game",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -184,47 +114,7 @@
       "status": "expired"
     },
     {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Let",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Mil",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,37 +124,7 @@
       "status": "expired"
     },
     {
-      "code": "training",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Until",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Victory450k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "War",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

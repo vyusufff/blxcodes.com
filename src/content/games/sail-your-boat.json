@@ -30,56 +30,21 @@
   "codes": [
     {
       "code": "likes1k",
-      "reward": "2 sail speed for 5 minutes ( )",
+      "reward": "2 sail speed for 5 minutes",
       "status": "active"
     },
     {
       "code": "members100k",
-      "reward": "2 cash for 5 minutes ( )",
+      "reward": "2 cash for 5 minutes",
       "status": "active"
     },
     {
       "code": "update1",
-      "reward": "x2 fuel xp for 5 minutes ( )",
+      "reward": "x2 fuel xp for 5 minutes",
       "status": "active"
     },
     {
       "code": "2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8230",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "accounts",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcement",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -89,27 +54,7 @@
       "status": "expired"
     },
     {
-      "code": "Boat",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BOAT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -124,32 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "directly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Evomon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -159,42 +79,12 @@
       "status": "expired"
     },
     {
-      "code": "Look",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "mistyping",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "progression",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -214,32 +104,7 @@
       "status": "expired"
     },
     {
-      "code": "Tell",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Upgrading",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "When",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

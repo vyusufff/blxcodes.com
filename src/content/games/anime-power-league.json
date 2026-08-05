@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "4thofjuly",
-      "reward": "Token Boost ( )",
+      "reward": "Token Boost",
       "status": "active"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "code": "Aegishasfemboy",
-      "reward": "169420 base Tokens ( )",
+      "reward": "169420 base Tokens",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "code": "FREEMEGA",
-      "reward": "1 Mega Reserve ( )",
+      "reward": "1 Mega Reserve",
       "status": "active"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "code": "HBombReference",
-      "reward": "200K base Tokens ( )",
+      "reward": "200K base Tokens",
       "status": "active"
     },
     {
@@ -95,12 +95,12 @@
     },
     {
       "code": "MofuMofu",
-      "reward": "Double Training Stats for 60 Minutes ( )",
+      "reward": "Double Training Stats for 60 Minutes",
       "status": "active"
     },
     {
       "code": "NEWUPDATE",
-      "reward": "1 Freedom Dominus ( )",
+      "reward": "1 Freedom Dominus",
       "status": "active"
     },
     {
@@ -179,11 +179,6 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "AssociacaoHunterBR",
       "reward": "Expired reward",
       "status": "expired"
@@ -200,11 +195,6 @@
     },
     {
       "code": "BossFixCoalitionOnTop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Box",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -274,11 +264,6 @@
       "status": "expired"
     },
     {
-      "code": "League",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LegsWithTeeth",
       "reward": "Expired reward",
       "status": "expired"
@@ -330,11 +315,6 @@
     },
     {
       "code": "PlaySubnautica2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Power",
       "reward": "Expired reward",
       "status": "expired"
     },

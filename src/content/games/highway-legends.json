@@ -40,7 +40,7 @@
     },
     {
       "code": "100mvisits",
-      "reward": "Free Cash ( )",
+      "reward": "Free Cash",
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "code": "200klikes",
-      "reward": "Free Cash ( )",
+      "reward": "Free Cash",
       "status": "active"
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "code": "7mfavorites",
-      "reward": "Free Cash ( )",
+      "reward": "Free Cash",
       "status": "active"
     },
     {
@@ -184,92 +184,12 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8220",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8221",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "announced",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "behindgarage",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Car",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Clicker",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "constantly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "development",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Driving",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Empire",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gear",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "generally",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -285,61 +205,6 @@
     },
     {
       "code": "hiddenfountain",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Highway",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Input",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Let",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Race",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "requires",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

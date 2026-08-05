@@ -70,7 +70,7 @@
     },
     {
       "code": "Offline",
-      "reward": "2 Double Power Potion ( )",
+      "reward": "2 Double Power Potion",
       "status": "active"
     },
     {
@@ -120,7 +120,7 @@
     },
     {
       "code": "X20",
-      "reward": "2 Double Power Potion ( )",
+      "reward": "2 Double Power Potion",
       "status": "active"
     },
     {
@@ -134,197 +134,12 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Apart",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "challenges",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "claiming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Clicker",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Even",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "exciting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Finding",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Friend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gear",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Have",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Horse",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "multiple",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "occasionally",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Race",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "scavenger",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "time-consuming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Want",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Winning",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Yeet",
       "reward": "Expired reward",
       "status": "expired"
     }

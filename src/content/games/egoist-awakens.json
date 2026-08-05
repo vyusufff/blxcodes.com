@@ -60,37 +60,37 @@
     },
     {
       "code": "CLAN2025",
-      "reward": "clan reroll ( )",
+      "reward": "clan reroll",
       "status": "active"
     },
     {
       "code": "CLAN2025THREE",
-      "reward": "clan reroll ( )",
+      "reward": "clan reroll",
       "status": "active"
     },
     {
       "code": "CLAN2025TWO",
-      "reward": "clan reroll ( )",
+      "reward": "clan reroll",
       "status": "active"
     },
     {
       "code": "HAIRCOLOR2025",
-      "reward": "hair color ( )",
+      "reward": "hair color",
       "status": "active"
     },
     {
       "code": "HAIRCOLOR2025TWO",
-      "reward": "hair color ( )",
+      "reward": "hair color",
       "status": "active"
     },
     {
       "code": "TALENTRESET2025",
-      "reward": "talent reset ( )",
+      "reward": "talent reset",
       "status": "active"
     },
     {
       "code": "TALENTRESETREWORKCOMING",
-      "reward": "talent reset ( )",
+      "reward": "talent reset",
       "status": "active"
     },
     {
@@ -100,17 +100,17 @@
     },
     {
       "code": "TRAITREROLL2025",
-      "reward": "trait reroll ( )",
+      "reward": "trait reroll",
       "status": "active"
     },
     {
       "code": "TRAITREROLL2025THREE",
-      "reward": "trait reroll ( )",
+      "reward": "trait reroll",
       "status": "active"
     },
     {
       "code": "TRAITREROLL2025TWO",
-      "reward": "trait reroll ( )",
+      "reward": "trait reroll",
       "status": "active"
     },
     {
@@ -139,47 +139,7 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Awakens",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Biswas",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Chakrabarti",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Championship",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,72 +149,12 @@
       "status": "expired"
     },
     {
-      "code": "condition",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Egoist",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Fans",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "football",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Football",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Input",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LOCKED",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ready",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -269,17 +169,7 @@
       "status": "expired"
     },
     {
-      "code": "Sanmay",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "STRESSTEST",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Submit",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -289,27 +179,7 @@
       "status": "expired"
     },
     {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "TypeTheCodesHere",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Win",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "World",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -40,16 +40,11 @@
     },
     {
       "code": "MARSH",
-      "reward": "10,000 Gems, 1x Large XP Boost, 1x Large Growth Boost, 1x Emberjaw Tarbosaurus, 1x Moonfrill Dilophosaurus, 1x Nothosaurus ( )",
+      "reward": "10,000 Gems, 1x Large XP Boost, 1x Large Growth Boost, 1x Emberjaw Tarbosaurus, 1x Moonfrill Dilophosaurus, 1x Nothosaurus",
       "status": "active"
     },
     {
       "code": "75LIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8216",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -79,21 +74,6 @@
       "status": "expired"
     },
     {
-      "code": "Brainrot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Build",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CAPI",
       "reward": "Expired reward",
       "status": "expired"
@@ -109,11 +89,6 @@
       "status": "expired"
     },
     {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CHOTU",
       "reward": "Expired reward",
       "status": "expired"
@@ -124,22 +99,12 @@
       "status": "expired"
     },
     {
-      "code": "Dino",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Dinosaur",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "EGGCELLENT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Farm",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -155,11 +120,6 @@
     },
     {
       "code": "game-updates",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,37 +149,12 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Primal",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Pursuit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
       "reward": "Expired reward",
       "status": "expired"
     },

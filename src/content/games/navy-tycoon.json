@@ -30,53 +30,13 @@
   "codes": [
     {
       "code": "BOMBERS",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "CLANS",
-      "reward": "1 Spin ( )",
+      "reward": "1 Spin",
       "status": "active"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8230",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "accounts",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Army",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Battle",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
     },
     {
       "code": "Chest",
@@ -104,37 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Find",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "haphazardly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HOVERCRAFT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -154,31 +84,6 @@
       "status": "expired"
     },
     {
-      "code": "Navy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NAVY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Noob",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "notified",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "OCEAN",
       "reward": "Expired reward",
       "status": "expired"
@@ -189,52 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "Player",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "prerequisites",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "restrictive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sorcerer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "suggestions",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     }

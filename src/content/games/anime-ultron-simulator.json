@@ -35,12 +35,12 @@
     },
     {
       "code": "2millionvisits",
-      "reward": "Gems ( )",
+      "reward": "Gems",
       "status": "active"
     },
     {
       "code": "30kfavorites",
-      "reward": "Gems ( )",
+      "reward": "Gems",
       "status": "active"
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "code": "LONGDELAY",
-      "reward": "Gems, Potions ( )",
+      "reward": "Gems, Potions",
       "status": "active"
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "code": "SHADOWS",
-      "reward": "Get 10x of each key, 5000 exchange tokens ( )",
+      "reward": "Get 10x of each key, 5000 exchange tokens",
       "status": "active"
     },
     {
@@ -105,17 +105,17 @@
     },
     {
       "code": "SINS",
-      "reward": "Exchange Coins ( )",
+      "reward": "Exchange Coins",
       "status": "active"
     },
     {
       "code": "SOLO",
-      "reward": "Get 100 gems, 10x each potion ( )",
+      "reward": "Get 100 gems, 10x each potion",
       "status": "active"
     },
     {
       "code": "SummerBugs",
-      "reward": "Get 2500x Dungeon Tokens, 300x Gems, 2x of each potion ( )",
+      "reward": "Get 2500x Dungeon Tokens, 300x Gems, 2x of each potion",
       "status": "active"
     },
     {
@@ -129,177 +129,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "alongside",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "available",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Base",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Card",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "collecting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "discover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Farm",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fighting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "First",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Good",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "immediately",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "in-game",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "possible",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "problems",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "required",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "significant",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -309,22 +139,7 @@
       "status": "expired"
     },
     {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Ultron",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -35,7 +35,7 @@
     },
     {
       "code": "50kdiscord",
-      "reward": "3 Ultra Lucky Potion ( )",
+      "reward": "3 Ultra Lucky Potion",
       "status": "active"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "code": "fighters",
-      "reward": "1 Clan Token ( )",
+      "reward": "1 Clan Token",
       "status": "active"
     },
     {
@@ -60,86 +60,11 @@
     },
     {
       "code": "volcanoBOOOM",
-      "reward": "4 Lucky Potion ( )",
+      "reward": "4 Lucky Potion",
       "status": "active"
     },
     {
       "code": "2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8230",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Biswas",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blade",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Demon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "fighting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -154,112 +79,12 @@
       "status": "expired"
     },
     {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "in-game",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "League",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Let",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Looking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "preferences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "strongest",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sword",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "swordmaster",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "teamwork",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "visiting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Which",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Win",
       "reward": "Expired reward",
       "status": "expired"
     }

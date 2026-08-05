@@ -234,11 +234,6 @@
       "status": "expired"
     },
     {
-      "code": "Money",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MRSATIRE",
       "reward": "Expired reward",
       "status": "expired"
@@ -259,17 +254,7 @@
       "status": "expired"
     },
     {
-      "code": "One",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Patched",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Piece",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -295,11 +280,6 @@
     },
     {
       "code": "Spooky",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Try",
       "reward": "Expired reward",
       "status": "expired"
     },

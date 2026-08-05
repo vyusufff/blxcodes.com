@@ -130,12 +130,12 @@
     },
     {
       "code": "murica250wow",
-      "reward": "Rerun Stars, Digital Camo, Cell Camo, and Cam wraps ( )",
+      "reward": "Rerun Stars, Digital Camo, Cell Camo, and Cam wraps",
       "status": "active"
     },
     {
       "code": "mustacheuquestion",
-      "reward": "Mustache Front Mod, 30k Cash, and Formula Hazard Light Rear Mod ( )",
+      "reward": "Mustache Front Mod, 30k Cash, and Formula Hazard Light Rear Mod",
       "status": "active"
     },
     {
@@ -214,11 +214,6 @@
       "status": "expired"
     },
     {
-      "code": "Car",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CHECKED110K",
       "reward": "Expired reward",
       "status": "expired"
@@ -239,22 +234,12 @@
       "status": "expired"
     },
     {
-      "code": "Dealership",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "DONTSEEME",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "DOUBLEFIVES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Drive",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -294,11 +279,6 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LIKESOVERLOAD",
       "reward": "Expired reward",
       "status": "expired"
@@ -319,11 +299,6 @@
       "status": "expired"
     },
     {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "STRUCKGOLD",
       "reward": "Expired reward",
       "status": "expired"
@@ -339,22 +314,7 @@
       "status": "expired"
     },
     {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "understand",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "winterfestival",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "World",
       "reward": "Expired reward",
       "status": "expired"
     },

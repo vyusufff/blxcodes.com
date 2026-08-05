@@ -55,12 +55,12 @@
     },
     {
       "code": "165KLIKES!",
-      "reward": "10k Yens, 3 Stat Reset, 10 grimoire spins, 10 Broom Spins, 10 Race Spins, and 25 Trait Spins ( )",
+      "reward": "10k Yens, 3 Stat Reset, 10 grimoire spins, 10 Broom Spins, 10 Race Spins, and 25 Trait Spins",
       "status": "active"
     },
     {
       "code": "170KLIKES!",
-      "reward": "10k Yens, 3 Stat Reset, 10 grimoire spins, 10 Broom Spins, 10 Race Spins, and 25 Trait Spins ( )",
+      "reward": "10k Yens, 3 Stat Reset, 10 grimoire spins, 10 Broom Spins, 10 Race Spins, and 25 Trait Spins",
       "status": "active"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "code": "22MILLIONVISITS!",
-      "reward": "10k Yens, 3 Stat Reset, 10 grimoire spins, 10 Broom Spins, 10 Race Spins, and 25 Trait Spins ( )",
+      "reward": "10k Yens, 3 Stat Reset, 10 grimoire spins, 10 Broom Spins, 10 Race Spins, and 25 Trait Spins",
       "status": "active"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "code": "RELEASEUPCOMING!",
-      "reward": "10k Yens, 3 Stat Reset, 10 grimoire spins, 10 Broom Spins, 10 Race Spins, and 25 Trait Spins ( )",
+      "reward": "10k Yens, 3 Stat Reset, 10 grimoire spins, 10 Broom Spins, 10 Race Spins, and 25 Trait Spins",
       "status": "active"
     },
     {
@@ -230,11 +230,6 @@
     },
     {
       "code": "BUGFIXES14!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Clover",
       "reward": "Expired reward",
       "status": "expired"
     },

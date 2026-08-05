@@ -40,7 +40,7 @@
     },
     {
       "code": "STARLIGHT",
-      "reward": "Cash, Seeds, and Sprinklers ( )",
+      "reward": "Cash, Seeds, and Sprinklers",
       "status": "active"
     },
     {
@@ -50,21 +50,6 @@
     },
     {
       "code": "5MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -79,32 +64,12 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "anime-inspired",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Basketball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BLOODMOON",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "BUGS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,27 +84,12 @@
       "status": "expired"
     },
     {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FAIRYUPDATE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "favorite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FUSIONUPDATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -154,22 +104,7 @@
       "status": "expired"
     },
     {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PETS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rangers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Run",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -180,11 +115,6 @@
     },
     {
       "code": "Seed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shadow",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,21 +134,6 @@
       "status": "expired"
     },
     {
-      "code": "SUPPORT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tired",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "VALENTINE",
       "reward": "Expired reward",
       "status": "expired"
@@ -229,17 +144,7 @@
       "status": "expired"
     },
     {
-      "code": "Volleyball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "WEATHER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

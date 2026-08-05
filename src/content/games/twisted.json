@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "America250",
-      "reward": "Redeem for $25,000 ( )",
+      "reward": "Redeem for $25,000",
       "status": "active"
     },
     {
@@ -74,16 +74,6 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "aprilfooled",
       "reward": "Expired reward",
       "status": "expired"
@@ -94,37 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Biswas/Beebom",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Credit",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -134,37 +94,7 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Fortunately",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gear",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Image",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,52 +104,7 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Murder",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Mystery",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PATCHTWO",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Promo",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "screenshot",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -230,11 +115,6 @@
     },
     {
       "code": "Twisted/Roblox",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

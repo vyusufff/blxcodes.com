@@ -59,17 +59,7 @@
       "status": "expired"
     },
     {
-      "code": "Bite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BONUSbonusBONUS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "complete",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -89,11 +79,6 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "giveMeLuckNOW",
       "reward": "Expired reward",
       "status": "expired"
@@ -109,27 +94,7 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "mechanics",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Night",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "outofthisworld",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "progress",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -144,37 +109,12 @@
       "status": "expired"
     },
     {
-      "code": "requirements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RNG",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Seas",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "situation",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Slime",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,22 +144,12 @@
       "status": "expired"
     },
     {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "THATSHUGE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "time2Grind",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
       "reward": "Expired reward",
       "status": "expired"
     },

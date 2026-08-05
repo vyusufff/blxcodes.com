@@ -214,11 +214,6 @@
       "status": "expired"
     },
     {
-      "code": "Fishing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FreeReroll",
       "reward": "Expired reward",
       "status": "expired"
@@ -230,11 +225,6 @@
     },
     {
       "code": "Golden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Heavyweight",
       "reward": "Expired reward",
       "status": "expired"
     },

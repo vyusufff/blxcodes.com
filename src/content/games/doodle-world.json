@@ -40,7 +40,7 @@
     },
     {
       "code": "HuntMe",
-      "reward": "Free Tinted Calamander ( )",
+      "reward": "Free Tinted Calamander",
       "status": "active"
     },
     {
@@ -55,12 +55,12 @@
     },
     {
       "code": "Semiquincentennial",
-      "reward": "Free Plumir ( )",
+      "reward": "Free Plumir",
       "status": "active"
     },
     {
       "code": "SevenEleven",
-      "reward": "Chain Booster ( )",
+      "reward": "Chain Booster",
       "status": "active"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "code": "ActualLake",
-      "reward": "500 Gems ( )",
+      "reward": "500 Gems",
       "status": "expired"
     },
     {
@@ -150,7 +150,7 @@
     },
     {
       "code": "DootDoot",
-      "reward": "Free DootDoot Victory animation ( )",
+      "reward": "Free DootDoot Victory animation",
       "status": "expired"
     },
     {
@@ -170,7 +170,7 @@
     },
     {
       "code": "FloralSwarmBag",
-      "reward": "Free Floral Swarm Snack ( )",
+      "reward": "Free Floral Swarm Snack",
       "status": "expired"
     },
     {
@@ -280,7 +280,7 @@
     },
     {
       "code": "Starsticker",
-      "reward": "Free Star Sticker ( )",
+      "reward": "Free Star Sticker",
       "status": "expired"
     },
     {
@@ -305,11 +305,6 @@
     },
     {
       "code": "TIGROUSELUPDATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "World",
       "reward": "Expired reward",
       "status": "expired"
     },

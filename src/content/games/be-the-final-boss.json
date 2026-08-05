@@ -75,12 +75,12 @@
     },
     {
       "code": "noherocanwin",
-      "reward": "3 Epic Fusion Shards and 1 Shard Drop Boost ( )",
+      "reward": "3 Epic Fusion Shards and 1 Shard Drop Boost",
       "status": "active"
     },
     {
       "code": "raidthecastle",
-      "reward": "6 Uncommon Fusion Shards and 3 Forge Stones ( )",
+      "reward": "6 Uncommon Fusion Shards and 3 Forge Stones",
       "status": "active"
     },
     {
@@ -99,42 +99,12 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "advantage",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Apparently",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Base",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Boss",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Champions",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -154,117 +124,7 @@
       "status": "expired"
     },
     {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "currently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "dedicated",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "defending",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "discover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Every",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Final",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "hundreds",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Instead",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "limited-time",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "milestone",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "multiple",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "occasionally",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platforms",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Press",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rangers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -274,27 +134,7 @@
       "status": "expired"
     },
     {
-      "code": "Studio",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tired",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Trello",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Try",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Whether",
       "reward": "Expired reward",
       "status": "expired"
     }

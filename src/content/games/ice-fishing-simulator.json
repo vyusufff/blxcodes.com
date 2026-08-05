@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "ChristmasTree",
-      "reward": "500 Gems ( )",
+      "reward": "500 Gems",
       "status": "active"
     },
     {
@@ -44,22 +44,7 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "AUTORARITY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -74,52 +59,12 @@
       "status": "expired"
     },
     {
-      "code": "correctly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "discussion",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FISH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fishing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ice",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -134,42 +79,12 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "milestone",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ROTATE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Scarecrow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,32 +104,12 @@
       "status": "expired"
     },
     {
-      "code": "Speed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Strongman",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "THANKS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "up-to-date",
       "reward": "Expired reward",
       "status": "expired"
     },

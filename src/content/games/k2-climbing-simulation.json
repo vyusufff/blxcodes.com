@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "40KMEMBERS",
-      "reward": "50 Points ( )",
+      "reward": "50 Points",
       "status": "active"
     },
     {
@@ -64,31 +64,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Climb",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "climbing",
       "reward": "Expired reward",
       "status": "expired"
@@ -104,57 +79,12 @@
       "status": "expired"
     },
     {
-      "code": "everyone",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Heaven",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Hell",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Infinity",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -169,42 +99,7 @@
       "status": "expired"
     },
     {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "revealed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Search",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Simulation",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Studios",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "suggestions",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Then",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -214,27 +109,7 @@
       "status": "expired"
     },
     {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "WEARESOBACK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

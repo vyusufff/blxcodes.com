@@ -149,17 +149,7 @@
       "status": "expired"
     },
     {
-      "code": "King",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "KioruV2PowerUp",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legacy",
       "reward": "Expired reward",
       "status": "expired"
     },

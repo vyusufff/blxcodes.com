@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "BANANAS",
-      "reward": "500 Gems ( )",
+      "reward": "500 Gems",
       "status": "active"
     },
     {
       "code": "ECONOMY",
-      "reward": "500 Gems ( )",
+      "reward": "500 Gems",
       "status": "active"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "code": "IMPOSSIBLE",
-      "reward": "450 Gems & 750 Coins ( )",
+      "reward": "450 Gems & 750 Coins",
       "status": "active"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "code": "RAIDS",
-      "reward": "500 Gems ( )",
+      "reward": "500 Gems",
       "status": "active"
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "code": "TradePlaza",
-      "reward": "450 Coins & 150 Gems ( )",
+      "reward": "450 Coins & 150 Gems",
       "status": "active"
     },
     {
@@ -114,32 +114,7 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "addictive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "complete",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -149,57 +124,7 @@
       "status": "expired"
     },
     {
-      "code": "currently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defense",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ENTER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "everything",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "flattened",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Last",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -239,17 +164,7 @@
       "status": "expired"
     },
     {
-      "code": "Noob",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "NTD",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -259,37 +174,7 @@
       "status": "expired"
     },
     {
-      "code": "Stand",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "thoroughly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Vanguards",
       "reward": "Expired reward",
       "status": "expired"
     }

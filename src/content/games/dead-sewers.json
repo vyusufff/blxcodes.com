@@ -40,7 +40,7 @@
     },
     {
       "code": "DISCORDYES",
-      "reward": "10 Cheese Bonds ( )",
+      "reward": "10 Cheese Bonds",
       "status": "active"
     },
     {
@@ -50,12 +50,12 @@
     },
     {
       "code": "HAPPYNEWY2026",
-      "reward": "20 Cheese Bonds ( )",
+      "reward": "20 Cheese Bonds",
       "status": "active"
     },
     {
       "code": "TREEBLESS",
-      "reward": "50 Cheese Bonds ( )",
+      "reward": "50 Cheese Bonds",
       "status": "active"
     },
     {
@@ -69,152 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Biswas",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Currently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dead",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "favorite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "in-game",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Join",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "notifications",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Player",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "providing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rails",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sails",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -224,22 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "Spells",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Surviving",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Tales",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Try",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -255,11 +95,6 @@
     },
     {
       "code": "Waters",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
       "reward": "Expired reward",
       "status": "expired"
     }

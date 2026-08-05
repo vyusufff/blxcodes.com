@@ -80,7 +80,7 @@
     },
     {
       "code": "Secretpinerileycodeapple",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -105,16 +105,11 @@
     },
     {
       "code": "worldcupsecret",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "49kmembers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8230",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -134,37 +129,7 @@
       "status": "expired"
     },
     {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "celebrations",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "easter2025",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "extremely",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -179,22 +144,7 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Getting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "incredibly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -205,26 +155,6 @@
     },
     {
       "code": "justdeony",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Make",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Meta",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -249,62 +179,12 @@
       "status": "expired"
     },
     {
-      "code": "Playing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Robloxpls",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SLS25",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soccer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "sometimes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Super",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

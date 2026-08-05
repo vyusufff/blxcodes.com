@@ -30,22 +30,22 @@
   "codes": [
     {
       "code": "EMERGENCY",
-      "reward": "XP boost ( )",
+      "reward": "XP boost",
       "status": "active"
     },
     {
       "code": "HAMBURG2026",
-      "reward": "Free in-game cash ( )",
+      "reward": "Free in-game cash",
       "status": "active"
     },
     {
       "code": "JULY4TH",
-      "reward": "Seasonal reward bundle ( )",
+      "reward": "Seasonal reward bundle",
       "status": "active"
     },
     {
       "code": "RESPONDER",
-      "reward": "Currency bonus ( )",
+      "reward": "Currency bonus",
       "status": "active"
     },
     {
@@ -54,32 +54,7 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "below!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Brookhaven",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -99,32 +74,7 @@
       "status": "expired"
     },
     {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Did",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Emergency",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "exploring",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -135,21 +85,6 @@
     },
     {
       "code": "FIRSTRESPONDER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,22 +109,7 @@
       "status": "expired"
     },
     {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LAUNCH2025",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Let",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,17 +119,7 @@
       "status": "expired"
     },
     {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RobberyWeek24",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "roleplaying",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,17 +144,7 @@
       "status": "expired"
     },
     {
-      "code": "These",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Update333",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

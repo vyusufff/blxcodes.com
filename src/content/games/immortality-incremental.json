@@ -130,7 +130,7 @@
     },
     {
       "code": "DUNGEON",
-      "reward": "10 tickets and 5 of each potion ( )",
+      "reward": "10 tickets and 5 of each potion",
       "status": "active"
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "code": "GEAR",
-      "reward": "20 Jade ( )",
+      "reward": "20 Jade",
       "status": "active"
     },
     {
@@ -180,7 +180,7 @@
     },
     {
       "code": "IDONTKNOW",
-      "reward": "10 Jade ( )",
+      "reward": "10 Jade",
       "status": "active"
     },
     {
@@ -309,67 +309,7 @@
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blade",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Clicker",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "clickers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "disappointed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "favorites",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Getting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Head",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -380,46 +320,6 @@
     },
     {
       "code": "Idle",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Immortality",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Incremental",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Input",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "multiple",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -439,72 +339,7 @@
       "status": "expired"
     },
     {
-      "code": "Race",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "satisfied",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SORRYFORMISTAKE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "stronger",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "suggestions",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Use",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

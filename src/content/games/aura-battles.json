@@ -40,12 +40,12 @@
     },
     {
       "code": "LIKES170K",
-      "reward": "250 Gems and 50 Points ( )",
+      "reward": "250 Gems and 50 Points",
       "status": "active"
     },
     {
       "code": "LIKES180K",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -59,17 +59,7 @@
       "status": "expired"
     },
     {
-      "code": "Aura",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BANHAMMER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Battles",
       "reward": "Expired reward",
       "status": "expired"
     },

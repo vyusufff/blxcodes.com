@@ -119,32 +119,12 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ALPHA",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "birthday",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Build",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -155,11 +135,6 @@
     },
     {
       "code": "EarlyBird",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,11 +164,6 @@
       "status": "expired"
     },
     {
-      "code": "Island",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "milkshake",
       "reward": "Expired reward",
       "status": "expired"
@@ -209,32 +179,7 @@
       "status": "expired"
     },
     {
-      "code": "Piece",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Plane",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Restaurant",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RT3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Saga",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -249,17 +194,7 @@
       "status": "expired"
     },
     {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "snowball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -284,17 +219,7 @@
       "status": "expired"
     },
     {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ultraweats",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Universal",
       "reward": "Expired reward",
       "status": "expired"
     },

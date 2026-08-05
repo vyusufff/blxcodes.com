@@ -30,13 +30,8 @@
   "codes": [
     {
       "code": "RALLY",
-      "reward": "Get 7500 Coins ( )",
+      "reward": "Get 7500 Coins",
       "status": "active"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
     },
     {
       "code": "Arcade",
@@ -64,17 +59,7 @@
       "status": "expired"
     },
     {
-      "code": "Basketball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BIGMAN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -84,22 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Champions",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Complete",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,32 +89,12 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HANGIN",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "HOLLYWOOD",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "interested",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -159,42 +109,12 @@
       "status": "expired"
     },
     {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "OGCHAMP",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PLAYOFFS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -219,23 +139,13 @@
       "status": "expired"
     },
     {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "UFO",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "YACHT",
-      "reward": "Get 7500 Coins ( )",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
-      "reward": "Expired reward",
+      "reward": "Get 7500 Coins",
       "status": "expired"
     }
   ]

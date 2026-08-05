@@ -45,12 +45,12 @@
     },
     {
       "code": "FOLLOWSTRAIN",
-      "reward": "500 snowflakes ( )",
+      "reward": "500 snowflakes",
       "status": "active"
     },
     {
       "code": "KINGCLOCKMAN",
-      "reward": "750 snowflakes ( )",
+      "reward": "750 snowflakes",
       "status": "active"
     },
     {
@@ -79,27 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "AppleBottomJeans",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -115,11 +95,6 @@
     },
     {
       "code": "commands",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defense",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -154,17 +129,7 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "GLITCH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grab",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,22 +139,7 @@
       "status": "expired"
     },
     {
-      "code": "Just",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LASTDELAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Meta",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,11 +154,6 @@
       "status": "expired"
     },
     {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "sinister",
       "reward": "Expired reward",
       "status": "expired"
@@ -219,42 +164,12 @@
       "status": "expired"
     },
     {
-      "code": "Skibidi",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "thankyou",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Then",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Toilet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Traits",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Want",
       "reward": "Expired reward",
       "status": "expired"
     },

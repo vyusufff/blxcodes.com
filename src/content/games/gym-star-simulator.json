@@ -115,7 +115,7 @@
     },
     {
       "code": "SUMMERHEAT",
-      "reward": "1250 Gym Tokens ( )",
+      "reward": "1250 Gym Tokens",
       "status": "active"
     },
     {
@@ -125,16 +125,11 @@
     },
     {
       "code": "WORLDCUP",
-      "reward": "4x Spins and 100x Enchant Crystals ( )",
+      "reward": "4x Spins and 100x Enchant Crystals",
       "status": "active"
     },
     {
       "code": "2026RESOLUTION",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -144,27 +139,7 @@
       "status": "expired"
     },
     {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Club/Roblox",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Credit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "difficult",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,22 +149,7 @@
       "status": "expired"
     },
     {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "GSS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gym",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,37 +159,7 @@
       "status": "expired"
     },
     {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Image",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "League",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LIFTSANDGIFTS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Luckily",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -249,46 +179,6 @@
       "status": "expired"
     },
     {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "satisfied",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SPRING",
       "reward": "Expired reward",
       "status": "expired"
@@ -299,27 +189,12 @@
       "status": "expired"
     },
     {
-      "code": "Star",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "strength",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Superhero",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "up-to-date",
       "reward": "Expired reward",
       "status": "expired"
     },

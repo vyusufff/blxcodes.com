@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "GARPMONKEY",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "KAIDOISHERE",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -94,11 +94,6 @@
       "status": "expired"
     },
     {
-      "code": "Piece",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SUKUNAUPDATE",
       "reward": "Expired reward",
       "status": "expired"
@@ -144,26 +139,6 @@
       "status": "expired"
     },
     {
-      "code": "One",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sailor",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whatever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Reedeming",
       "reward": "Expired reward",
       "status": "expired"
@@ -174,117 +149,12 @@
       "status": "expired"
     },
     {
-      "code": "Simply",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "keyboard",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "actively",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tracking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "respective",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "sometimes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "creating",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "confusion",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "removing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "incorrect",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "updating",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Finally",
       "reward": "Expired reward",
       "status": "expired"
     }

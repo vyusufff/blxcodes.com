@@ -30,106 +30,31 @@
   "codes": [
     {
       "code": "MINIUPDATE1",
-      "reward": "1x Hex Portal Tier 1, 1x Hex Portal Tier 2, 1x Hex Portal Tier 3, and 1x Hex Portal Tier 4 ( )",
+      "reward": "1x Hex Portal Tier 1, 1x Hex Portal Tier 2, 1x Hex Portal Tier 3, and 1x Hex Portal Tier 4",
       "status": "active"
     },
     {
       "code": "MINIUPDATE2",
-      "reward": "1x Hex Portal Tier 1, 1x Hex Portal Tier 2, 1x Hex Portal Tier 3, and 1x Hex Portal Tier 4 ( )",
+      "reward": "1x Hex Portal Tier 1, 1x Hex Portal Tier 2, 1x Hex Portal Tier 3, and 1x Hex Portal Tier 4",
       "status": "active"
     },
     {
       "code": "sorry4shutdown2",
-      "reward": "2 Hatcher Shards ( )",
+      "reward": "2 Hatcher Shards",
       "status": "active"
     },
     {
       "code": "SORRYFORTHEDELAY",
-      "reward": "30 Gems ( )",
+      "reward": "30 Gems",
       "status": "active"
     },
     {
       "code": "UPDATE2",
-      "reward": "10 Gems, 1x Hex Portal Tier 1, 1x Hex Portal Tier 2, 1x Hex Portal Tier 3, and 1x Hex Portal Tier 4 ( )",
+      "reward": "10 Gems, 1x Hex Portal Tier 1, 1x Hex Portal Tier 2, 1x Hex Portal Tier 3, and 1x Hex Portal Tier 4",
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8230",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Although",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Apart",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BLUELOCK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "completing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "features",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fighters",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Find",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "gameplay",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -139,42 +64,12 @@
       "status": "expired"
     },
     {
-      "code": "in-game",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Infinity",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "missions",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Moreover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "NOEXPLOITERS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,37 +84,12 @@
       "status": "expired"
     },
     {
-      "code": "quickest",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rangers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "reliable",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "resources",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Royale",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shadow",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -230,26 +100,6 @@
     },
     {
       "code": "SORRYFORSHUTDOWN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "valuable",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Where",
       "reward": "Expired reward",
       "status": "expired"
     }

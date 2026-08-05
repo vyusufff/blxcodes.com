@@ -40,7 +40,7 @@
     },
     {
       "code": "BPEXP",
-      "reward": "400 Battle Pass XP ( )",
+      "reward": "400 Battle Pass XP",
       "status": "active"
     },
     {
@@ -50,22 +50,22 @@
     },
     {
       "code": "DIM2FASTFIX",
-      "reward": "500 Tensei Shards and 1 Server Boost ( )",
+      "reward": "500 Tensei Shards and 1 Server Boost",
       "status": "active"
     },
     {
       "code": "DIM2FIXES",
-      "reward": "1 Temp Server Boost and 500 Tensei Shards ( )",
+      "reward": "1 Temp Server Boost and 500 Tensei Shards",
       "status": "active"
     },
     {
       "code": "DIMENSION2",
-      "reward": "500 Tensei Shards, 2 Yen Boosts, 2 Stat Boosts, and 2 Speed Training Boosts ( )",
+      "reward": "500 Tensei Shards, 2 Yen Boosts, 2 Stat Boosts, and 2 Speed Training Boosts",
       "status": "active"
     },
     {
       "code": "FIVEUPDATE",
-      "reward": "2000 Chikara, 2 Stat boosts, 2 Yen boosts, and 2 Training speed boosts ( )",
+      "reward": "2000 Chikara, 2 Stat boosts, 2 Yen boosts, and 2 Training speed boosts",
       "status": "active"
     },
     {
@@ -75,12 +75,12 @@
     },
     {
       "code": "LIBERATION",
-      "reward": "2 Stat Boost, 2 Yen Boost, 1000 Chikara, and 1 Server Boost ( )",
+      "reward": "2 Stat Boost, 2 Yen Boost, 1000 Chikara, and 1 Server Boost",
       "status": "active"
     },
     {
       "code": "MIDBUGFIX",
-      "reward": "1000 Chikara, 1 Server Boost, 2 Stat Boosts, and 2 Yen Boosts ( )",
+      "reward": "1000 Chikara, 1 Server Boost, 2 Stat Boosts, and 2 Yen Boosts",
       "status": "active"
     },
     {
@@ -100,17 +100,17 @@
     },
     {
       "code": "RUMBLING",
-      "reward": "4 Stat Boosts, 2 Training Boosts, 10 Trait Rerolls, and 1 Temp Server Boost ( )",
+      "reward": "4 Stat Boosts, 2 Training Boosts, 10 Trait Rerolls, and 1 Temp Server Boost",
       "status": "active"
     },
     {
       "code": "SHUTDOWNBOOST",
-      "reward": "Temporary Server Boost ( )",
+      "reward": "Temporary Server Boost",
       "status": "active"
     },
     {
       "code": "SWORDINCIDENT",
-      "reward": "4 Stat Boosts, 2 Yen Boosts, 1000 Chikara, and 2 Limbo Keys ( )",
+      "reward": "4 Stat Boosts, 2 Yen Boosts, 1000 Chikara, and 2 Limbo Keys",
       "status": "active"
     },
     {
@@ -130,7 +130,7 @@
     },
     {
       "code": "UPD4RELEASE",
-      "reward": "3 Stat Boosts, 2 Yen Boosts, 1000 Chikara, and 2 Fruit Rolls ( )",
+      "reward": "3 Stat Boosts, 2 Yen Boosts, 1000 Chikara, and 2 Fruit Rolls",
       "status": "active"
     },
     {
@@ -145,56 +145,21 @@
     },
     {
       "code": "UPDATEWED",
-      "reward": "2 Stat Boosts, 2 Yen Boosts, 1000 Chikara, and 1 Server Boost ( )",
+      "reward": "2 Stat Boosts, 2 Yen Boosts, 1000 Chikara, and 1 Server Boost",
       "status": "active"
     },
     {
       "code": "UPDFIXES",
-      "reward": "1 Temporary Server Boost ( )",
+      "reward": "1 Temporary Server Boost",
       "status": "active"
     },
     {
       "code": "WTOPSPEED",
-      "reward": "1 Temp Server Boost ( )",
+      "reward": "1 Temp Server Boost",
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Base",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BUGPATCH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,57 +169,7 @@
       "status": "expired"
     },
     {
-      "code": "Defend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "fighting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fighting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Head",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LIKES10K",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Looking",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -274,47 +189,7 @@
       "status": "expired"
     },
     {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "required",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Sadly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simply",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -340,21 +215,6 @@
     },
     {
       "code": "THANKSFOR20K",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tired",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     }

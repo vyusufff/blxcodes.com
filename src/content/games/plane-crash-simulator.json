@@ -35,23 +35,8 @@
     },
     {
       "code": "TAKEOFF55",
-      "reward": "Get 7000 Crash Points ( )",
+      "reward": "Get 7000 Crash Points",
       "status": "active"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "addition",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
     },
     {
       "code": "BANK35",
@@ -59,27 +44,7 @@
       "status": "expired"
     },
     {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Cabin",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "connection",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -94,82 +59,7 @@
       "status": "expired"
     },
     {
-      "code": "Crew",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gift",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "interact",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lastly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MAYDAY25",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "One",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Plane",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,32 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "right-hand",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Shoot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "spelling",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Training",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -225,16 +90,6 @@
     },
     {
       "code": "username",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

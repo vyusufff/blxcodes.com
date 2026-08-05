@@ -45,7 +45,7 @@
     },
     {
       "code": "ASCEND",
-      "reward": "50,000 Gems ( )",
+      "reward": "50,000 Gems",
       "status": "active"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "code": "CUSTOMIZE",
-      "reward": "30,000 Gems ( )",
+      "reward": "30,000 Gems",
       "status": "active"
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "code": "MAJESTIC",
-      "reward": "500 Crystals ( )",
+      "reward": "500 Crystals",
       "status": "active"
     },
     {
@@ -180,7 +180,7 @@
     },
     {
       "code": "ROYAL",
-      "reward": "30,000 Gems ( )",
+      "reward": "30,000 Gems",
       "status": "active"
     },
     {
@@ -249,11 +249,6 @@
       "status": "expired"
     },
     {
-      "code": "Ball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BANANAWAR",
       "reward": "Expired reward",
       "status": "expired"
@@ -295,11 +290,6 @@
     },
     {
       "code": "ELFECHOES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Even",
       "reward": "Expired reward",
       "status": "expired"
     },

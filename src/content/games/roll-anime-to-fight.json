@@ -40,7 +40,7 @@
     },
     {
       "code": "EVOLUTIONMACHINE!",
-      "reward": "200k Gold, Gold Gyomei, 25 Trait Shards, 3 Cursed Fingers, and 1 Six Eyes ( )",
+      "reward": "200k Gold, Gold Gyomei, 25 Trait Shards, 3 Cursed Fingers, and 1 Six Eyes",
       "status": "active"
     },
     {
@@ -50,78 +50,33 @@
     },
     {
       "code": "SLAYERSISHERE!",
-      "reward": "200000 Gold, Diamond Ulquiorra, 25 Trait Shards, and 5 Infinite Tickets ( )",
+      "reward": "200000 Gold, Diamond Ulquiorra, 25 Trait Shards, and 5 Infinite Tickets",
       "status": "active"
     },
     {
       "code": "SORCERERISHERE!",
-      "reward": "150k Gold, Diamond Rengoku, 25 Trait Shards, and 5 God Essence ( )",
+      "reward": "150k Gold, Diamond Rengoku, 25 Trait Shards, and 5 God Essence",
       "status": "active"
     },
     {
       "code": "SORCERERPART2!",
-      "reward": "200k Gold, Diamond Toji, 3 Time Potions, and 2 Luck Potions ( )",
+      "reward": "200k Gold, Diamond Toji, 3 Time Potions, and 2 Luck Potions",
       "status": "active"
     },
     {
       "code": "SRRYFORSHUTDOWN",
-      "reward": "200k Gold, 25 Trait Shards, 1 Cursed Finger, and 1 Six Eyes ( )",
+      "reward": "200k Gold, 25 Trait Shards, 1 Cursed Finger, and 1 Six Eyes",
       "status": "active"
     },
     {
       "code": "SRYFORSHUTDOWN!",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "SRYFORSHUTDOWN2!",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
-    },
-    {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Alongside",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Base",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Build",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defend",
-      "reward": "Expired reward",
-      "status": "expired"
     },
     {
       "code": "defending",
@@ -129,152 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "enjoying",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fight",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "incorrectly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "League",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "milestones",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Military",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Only",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "persists",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Power",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "required",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Roll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "spelling",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "suggestions",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Take",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tell",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "trusting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "When",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

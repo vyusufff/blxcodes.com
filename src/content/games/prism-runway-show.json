@@ -34,27 +34,12 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Baddies",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "BLACKFRIDAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dress",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -79,27 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FRIDAYEGG",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -115,21 +80,6 @@
     },
     {
       "code": "HOTCOCOA",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Impress",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Keeping",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -150,11 +100,6 @@
     },
     {
       "code": "PATCHUP",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Piece",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -184,16 +129,6 @@
       "status": "expired"
     },
     {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RIVALS",
       "reward": "Expired reward",
       "status": "expired"
@@ -209,27 +144,12 @@
       "status": "expired"
     },
     {
-      "code": "Sailor",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Show",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SMOOTHJOURNEY",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "SWEETCHOCO",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Those",
       "reward": "Expired reward",
       "status": "expired"
     }

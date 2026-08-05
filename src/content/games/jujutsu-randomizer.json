@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "10MVISITS",
-      "reward": "400 Yen ( )",
+      "reward": "400 Yen",
       "status": "active"
     },
     {
       "code": "SEEYOUNEXTMONTH",
-      "reward": "150 Yen ( )",
+      "reward": "150 Yen",
       "status": "active"
     },
     {
@@ -50,21 +50,6 @@
     },
     {
       "code": "6MILLIONSVISITSYAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Abyss",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -89,27 +74,12 @@
       "status": "expired"
     },
     {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "EGG",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "FRAMEGUYCOMEBACK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Horizons",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -124,27 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "Jujutsu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "KADERPRIME",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Kaisen",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "KINGOFCURSE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legacy",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -156,11 +111,6 @@
     {
       "code": "MASSGIRLBALANCE",
       "reward": "Free Rewards",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
-      "reward": "Expired reward",
       "status": "expired"
     },
     {
@@ -185,11 +135,6 @@
     },
     {
       "code": "SIMPLEUPDATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -250,11 +195,6 @@
     },
     {
       "code": "WATERISCOOL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

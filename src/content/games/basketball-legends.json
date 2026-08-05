@@ -50,7 +50,7 @@
     },
     {
       "code": "BLOCKS",
-      "reward": "Summer Effect Case ( )",
+      "reward": "Summer Effect Case",
       "status": "active"
     },
     {
@@ -65,12 +65,12 @@
     },
     {
       "code": "GREEN",
-      "reward": "Summer Skin Case ( )",
+      "reward": "Summer Skin Case",
       "status": "active"
     },
     {
       "code": "HELMET",
-      "reward": "Summer Skin Case ( )",
+      "reward": "Summer Skin Case",
       "status": "active"
     },
     {
@@ -80,12 +80,12 @@
     },
     {
       "code": "PASSES",
-      "reward": "Summer Skin Case ( )",
+      "reward": "Summer Skin Case",
       "status": "active"
     },
     {
       "code": "SUMMER",
-      "reward": "Summer Effect Case ( )",
+      "reward": "Summer Effect Case",
       "status": "active"
     },
     {
@@ -125,11 +125,6 @@
     },
     {
       "code": "ANIMEBOSSRAID",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Basketball",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -195,11 +190,6 @@
     },
     {
       "code": "JAMALCHOCOLATEPUDDING",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
       "reward": "Expired reward",
       "status": "expired"
     },

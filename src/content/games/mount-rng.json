@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "CORTISOL",
-      "reward": "Free exclusive Mount ( )",
+      "reward": "Free exclusive Mount",
       "status": "active"
     },
     {
@@ -84,16 +84,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ANIMEISHERE",
       "reward": "Expired reward",
       "status": "expired"
@@ -134,22 +124,7 @@
       "status": "expired"
     },
     {
-      "code": "Card",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claiming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CNY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -160,11 +135,6 @@
     },
     {
       "code": "FIREINSNOW",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Football",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -30,17 +30,17 @@
   "codes": [
     {
       "code": "180KLIKES",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "190KLIKES",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "PUNCH",
-      "reward": "2 Super Circuit, 2 Stat Circuit, and 2 Trait Crystal ( )",
+      "reward": "2 Super Circuit, 2 Stat Circuit, and 2 Trait Crystal",
       "status": "active"
     },
     {
@@ -144,17 +144,7 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "95KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -184,21 +174,6 @@
       "status": "expired"
     },
     {
-      "code": "Fight",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Guardians",
       "reward": "Expired reward",
       "status": "expired"
@@ -209,17 +184,7 @@
       "status": "expired"
     },
     {
-      "code": "Own",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "REALM6",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
       "reward": "Expired reward",
       "status": "expired"
     },

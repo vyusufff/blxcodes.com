@@ -30,41 +30,11 @@
   "codes": [
     {
       "code": "freecash",
-      "reward": "5,000 Cash ( )",
+      "reward": "5,000 Cash",
       "status": "active"
     },
     {
       "code": "1mvisits",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Brainrot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "cakewalk",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -79,27 +49,7 @@
       "status": "expired"
     },
     {
-      "code": "Egoist",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Especially",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "favorite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hunting",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -114,77 +64,12 @@
       "status": "expired"
     },
     {
-      "code": "limited-time",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Luckily",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "One",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Piece",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "progresses",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Project",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Sale",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sell",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,37 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "Steal",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "time-consuming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "top-tier",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Yard",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

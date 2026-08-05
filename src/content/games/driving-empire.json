@@ -90,7 +90,7 @@
     },
     {
       "code": "USA250",
-      "reward": "Redeem for Rocket Car ( )",
+      "reward": "Redeem for Rocket Car",
       "status": "active"
     },
     {
@@ -164,16 +164,6 @@
       "status": "expired"
     },
     {
-      "code": "8220",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8221",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "850kLikes",
       "reward": "Expired reward",
       "status": "expired"
@@ -194,37 +184,7 @@
       "status": "expired"
     },
     {
-      "code": "bottom-left",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Car",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CARCRUSHERS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dealership",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Drive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Driving",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Empire",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,22 +194,7 @@
       "status": "expired"
     },
     {
-      "code": "Grab",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HAPPYXMAS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Input",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Just",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -259,17 +204,7 @@
       "status": "expired"
     },
     {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "OOPSMYBADLOL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -289,22 +224,12 @@
       "status": "expired"
     },
     {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "VALENTINES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Winterfest2023",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "World",
       "reward": "Expired reward",
       "status": "expired"
     }

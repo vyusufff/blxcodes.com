@@ -40,7 +40,7 @@
     },
     {
       "code": "CRASHLANDING",
-      "reward": "Free Credits ( )",
+      "reward": "Free Credits",
       "status": "active"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "code": "ROLLINGHOUSE",
-      "reward": "Free Credits ( )",
+      "reward": "Free Credits",
       "status": "active"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "code": "STORMCHASING",
-      "reward": "Free Credits ( )",
+      "reward": "Free Credits",
       "status": "active"
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "code": "URBANVELOCITY",
-      "reward": "Free Credits ( )",
+      "reward": "Free Credits",
       "status": "active"
     },
     {
@@ -114,17 +114,7 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "AIRSTUNT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Car",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -149,11 +139,6 @@
       "status": "expired"
     },
     {
-      "code": "Crushers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CUSTOMBUILT",
       "reward": "Expired reward",
       "status": "expired"
@@ -164,27 +149,7 @@
       "status": "expired"
     },
     {
-      "code": "Driving",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Empire",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FINALLYRELEASED",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Florida",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,22 +169,7 @@
       "status": "expired"
     },
     {
-      "code": "Jupiter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Next",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RALLYMASTER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ready",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -250,11 +200,6 @@
     },
     {
       "code": "SPRINGFLIGHT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Start",
       "reward": "Expired reward",
       "status": "expired"
     },

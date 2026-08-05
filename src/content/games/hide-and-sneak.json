@@ -39,11 +39,6 @@
       "status": "active"
     },
     {
-      "code": "Hide",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Sneak",
       "reward": "Expired reward",
       "status": "expired"
@@ -84,57 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "multiplayer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Murder",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Mystery",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Survive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Killer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8220",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -144,52 +89,12 @@
       "status": "expired"
     },
     {
-      "code": "8221",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Reedem",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "scrolling",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "time-consuming",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,32 +109,7 @@
       "status": "expired"
     },
     {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Girl",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Biswas",
       "reward": "Expired reward",
       "status": "expired"
     },

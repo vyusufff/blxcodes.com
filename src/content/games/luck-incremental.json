@@ -35,7 +35,7 @@
     },
     {
       "code": "150KMEMBERS",
-      "reward": "30 minutes of 2x Rune Luck ( )",
+      "reward": "30 minutes of 2x Rune Luck",
       "status": "active"
     },
     {
@@ -50,12 +50,12 @@
     },
     {
       "code": "300KMEMBERS",
-      "reward": "1 hour of 2x Trait Luck ( )",
+      "reward": "1 hour of 2x Trait Luck",
       "status": "active"
     },
     {
       "code": "3MVISITS",
-      "reward": "1 hour of 2x Rune luck ( )",
+      "reward": "1 hour of 2x Rune luck",
       "status": "active"
     },
     {
@@ -79,47 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "affected",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Arise",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Car",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Credit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Crossover",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -129,27 +89,7 @@
       "status": "expired"
     },
     {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FAQReader",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Image",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Incremental",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,27 +104,7 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Luck",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "mechanics",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Press",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -195,11 +115,6 @@
     },
     {
       "code": "RNG",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Screenshot",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -215,16 +130,6 @@
     },
     {
       "code": "SORRY4SHUTDOWN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Spin",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },

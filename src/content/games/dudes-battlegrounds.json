@@ -35,7 +35,7 @@
     },
     {
       "code": "180KLIKES",
-      "reward": "Get 500 Vialites ( )",
+      "reward": "Get 500 Vialites",
       "status": "active"
     },
     {
@@ -45,12 +45,12 @@
     },
     {
       "code": "2MFAVS",
-      "reward": "Get 500 Vialites ( )",
+      "reward": "Get 500 Vialites",
       "status": "active"
     },
     {
       "code": "2MGROUP",
-      "reward": "Get 500 Vialites ( )",
+      "reward": "Get 500 Vialites",
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "code": "RANKEDREWARDS",
-      "reward": "Get 500 Vialites ( )",
+      "reward": "Get 500 Vialites",
       "status": "active"
     },
     {
@@ -165,11 +165,6 @@
     },
     {
       "code": "APPL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Battlegrounds",
       "reward": "Expired reward",
       "status": "expired"
     },

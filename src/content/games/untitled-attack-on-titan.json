@@ -70,7 +70,7 @@
     },
     {
       "code": "800Players",
-      "reward": "free rewards ( )",
+      "reward": "free rewards",
       "status": "active"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "code": "CrystalCave",
-      "reward": "free rewards ( )",
+      "reward": "free rewards",
       "status": "active"
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "code": "Necromancer",
-      "reward": "free rewards ( )",
+      "reward": "free rewards",
       "status": "active"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "code": "UTD!",
-      "reward": "free rewards ( )",
+      "reward": "free rewards",
       "status": "active"
     },
     {
@@ -170,11 +170,6 @@
     },
     {
       "code": "apology4thebugs!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Attack",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,17 +229,7 @@
       "status": "expired"
     },
     {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "perksrework!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Press",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -279,22 +264,12 @@
       "status": "expired"
     },
     {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ThanksForWaiting",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "thankyou4anotheryear!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Titan",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -310,11 +285,6 @@
     },
     {
       "code": "unexpected!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Untitled",
       "reward": "Expired reward",
       "status": "expired"
     }

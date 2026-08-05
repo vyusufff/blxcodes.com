@@ -35,7 +35,7 @@
     },
     {
       "code": "40MVISITS",
-      "reward": "40 Coins ( )",
+      "reward": "40 Coins",
       "status": "active"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "code": "COB",
-      "reward": "20 Coins ( )",
+      "reward": "20 Coins",
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "code": "FREDDYMOLHO",
-      "reward": "3 Coins ( )",
+      "reward": "3 Coins",
       "status": "active"
     },
     {
@@ -94,16 +94,6 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Also",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BONNIE",
       "reward": "Expired reward",
       "status": "expired"
@@ -129,21 +119,6 @@
       "status": "expired"
     },
     {
-      "code": "District",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Eternal",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "EVILCUPCAKE",
       "reward": "Expired reward",
       "status": "expired"
@@ -154,17 +129,7 @@
       "status": "expired"
     },
     {
-      "code": "Five",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FNAF",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,11 +164,6 @@
       "status": "expired"
     },
     {
-      "code": "Hunted",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "JINGLEBELL",
       "reward": "Expired reward",
       "status": "expired"
@@ -219,17 +179,7 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MERRYCHRISTMAS2025",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Nights",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -239,22 +189,7 @@
       "status": "expired"
     },
     {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PUMPKINKING",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -275,11 +210,6 @@
     },
     {
       "code": "STORE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "survival",
       "reward": "Expired reward",
       "status": "expired"
     },

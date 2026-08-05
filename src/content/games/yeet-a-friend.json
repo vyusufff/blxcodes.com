@@ -220,7 +220,7 @@
     },
     {
       "code": "YEETLEGEND",
-      "reward": "5x Free Energy Boost, Power Boost, and Luck Boost ( )",
+      "reward": "5x Free Energy Boost, Power Boost, and Luck Boost",
       "status": "active"
     },
     {
@@ -229,27 +229,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8220",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8221",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Alien",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -264,31 +244,6 @@
       "status": "expired"
     },
     {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ENTER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Friend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HALFMILLIONINSANITY",
       "reward": "Expired reward",
       "status": "expired"
@@ -299,32 +254,7 @@
       "status": "expired"
     },
     {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Input",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "JackoLantern",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "King",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legacy",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -364,22 +294,7 @@
       "status": "expired"
     },
     {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Sewer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Stand",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -399,11 +314,6 @@
       "status": "expired"
     },
     {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Trading",
       "reward": "Expired reward",
       "status": "expired"
@@ -414,17 +324,7 @@
       "status": "expired"
     },
     {
-      "code": "Yeet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "YeetA250k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

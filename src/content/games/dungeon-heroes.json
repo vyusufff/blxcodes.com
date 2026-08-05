@@ -55,7 +55,7 @@
     },
     {
       "code": "REAPER",
-      "reward": "three distilled health potion, three times luck booster, XP booster ( )",
+      "reward": "three distilled health potion, three times luck booster, XP booster",
       "status": "active"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "code": "SORRY-BP",
-      "reward": "three shrimp fried rice, three prime rib, and six distilled health potions ( )",
+      "reward": "three shrimp fried rice, three prime rib, and six distilled health potions",
       "status": "active"
     },
     {
@@ -164,11 +164,6 @@
       "status": "expired"
     },
     {
-      "code": "Dungeon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "EVENTSOON",
       "reward": "Expired reward",
       "status": "expired"
@@ -210,11 +205,6 @@
     },
     {
       "code": "HAPPYHALLOWEEN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Heroes",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "NEWMAP2",
-      "reward": "200,000 Coins ( )",
+      "reward": "200,000 Coins",
       "status": "active"
     },
     {
@@ -99,11 +99,6 @@
       "status": "expired"
     },
     {
-      "code": "Heroes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HEY345",
       "reward": "Expired reward",
       "status": "expired"
@@ -135,11 +130,6 @@
     },
     {
       "code": "MERRYCHRISTMAS123",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Online",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -225,11 +215,6 @@
     },
     {
       "code": "WEEWOOWAA",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "World",
       "reward": "Expired reward",
       "status": "expired"
     }

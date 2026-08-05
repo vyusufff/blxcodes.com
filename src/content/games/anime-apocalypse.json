@@ -30,17 +30,17 @@
   "codes": [
     {
       "code": "EYEPATCH",
-      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts ( )",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "active"
     },
     {
       "code": "SORRYFORARESTART",
-      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts ( )",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "active"
     },
     {
       "code": "WHITEREAPER",
-      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts ( )",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "active"
     },
     {
@@ -59,17 +59,7 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ANTIMAGIC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Apocalypse",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -125,7 +115,7 @@
     },
     {
       "code": "KINGOFCURSESEVO",
-      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts ( )",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "expired"
     },
     {

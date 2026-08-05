@@ -225,7 +225,7 @@
     },
     {
       "code": "TenTickles",
-      "reward": "2 hours of x2 Gold ( )",
+      "reward": "2 hours of x2 Gold",
       "status": "active"
     },
     {
@@ -279,57 +279,7 @@
       "status": "expired"
     },
     {
-      "code": "Adopt",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bee",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Biswas",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Catchers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Championship",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Collect",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -344,27 +294,7 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "IfYouAintFirst",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -374,57 +304,12 @@
       "status": "expired"
     },
     {
-      "code": "Pet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Pets",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ProsperousGrounds",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Shinier",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "simulators",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Submit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Swarm",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -439,37 +324,7 @@
       "status": "expired"
     },
     {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "TwoZoos",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "valuable",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Win",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "World",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -70,7 +70,7 @@
     },
     {
       "code": "HITBOXFIXED",
-      "reward": "250,000 XP ( )",
+      "reward": "250,000 XP",
       "status": "active"
     },
     {
@@ -85,12 +85,12 @@
     },
     {
       "code": "NEWCHESTSOON",
-      "reward": "25,000 Gems ( )",
+      "reward": "25,000 Gems",
       "status": "active"
     },
     {
       "code": "NEWPORTALS",
-      "reward": "200,000 XP ( )",
+      "reward": "200,000 XP",
       "status": "active"
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "code": "PREPAREYOURGEMS",
-      "reward": "20,000 Gems ( )",
+      "reward": "20,000 Gems",
       "status": "active"
     },
     {
@@ -189,67 +189,7 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Adhikary",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Animals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "anything",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "competing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "exclusive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -259,117 +199,12 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gone",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grand",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Heads",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hunting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ishan",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "King",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lastly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legacy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Next",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Oct",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Raise",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tank",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tell",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tick",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "What",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -30,22 +30,22 @@
   "codes": [
     {
       "code": "1000YearsMaintenance!",
-      "reward": "10 Perfect Cubes ( )",
+      "reward": "10 Perfect Cubes",
       "status": "active"
     },
     {
       "code": "MUDAMUDAMUDA!",
-      "reward": "5k Crusader Bill ( )",
+      "reward": "5k Crusader Bill",
       "status": "active"
     },
     {
       "code": "SorryForBalancingIssues",
-      "reward": "100 Trait Shards, and 1.5k Gems ( )",
+      "reward": "100 Trait Shards, and 1.5k Gems",
       "status": "active"
     },
     {
       "code": "100YearsMaintenance!",
-      "reward": "100 Trait Shards ( )",
+      "reward": "100 Trait Shards",
       "status": "expired"
     },
     {
@@ -80,11 +80,6 @@
     },
     {
       "code": "AdminAbuseSoon!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -145,7 +140,7 @@
     },
     {
       "code": "ObtainmentFixed!",
-      "reward": "100 Trait Shards, and 1k Gems ( )",
+      "reward": "100 Trait Shards, and 1k Gems",
       "status": "expired"
     },
     {
@@ -200,7 +195,7 @@
     },
     {
       "code": "StarterShinobi!",
-      "reward": "1 Shuriken, 5k Gold, 50 Headband, 30 Genjutsu Fog Vial, Binding Cloth, 100 Shinobi Bone, 200 Narutomaki, and 1 Rizzuto ( )",
+      "reward": "1 Shuriken, 5k Gold, 50 Headband, 30 Genjutsu Fog Vial, Binding Cloth, 100 Shinobi Bone, 200 Narutomaki, and 1 Rizzuto",
       "status": "expired"
     },
     {

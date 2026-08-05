@@ -40,7 +40,7 @@
     },
     {
       "code": "HOTFIX",
-      "reward": "3 Enchant Spins ( )",
+      "reward": "3 Enchant Spins",
       "status": "active"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "code": "SHIPWRECK",
-      "reward": "3 Enchant Spins ( )",
+      "reward": "3 Enchant Spins",
       "status": "active"
     },
     {
@@ -64,52 +64,7 @@
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventures",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "assistance",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "candidates",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Catch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "catching",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,47 +74,7 @@
       "status": "expired"
     },
     {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "completing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Cook",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "distract",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "fast-moving",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "gameplay",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -169,37 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Instead",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "intrigues",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,57 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "Restaurant",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "separate",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shells",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "specifically",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "sticking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "TikTok",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tracking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     }

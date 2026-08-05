@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "event60m",
-      "reward": "2 speed potions, 2 luck potions, 2 coin potions, and 2 damage potions ( )",
+      "reward": "2 speed potions, 2 luck potions, 2 coin potions, and 2 damage potions",
       "status": "active"
     },
     {
@@ -45,61 +45,16 @@
     },
     {
       "code": "update16",
-      "reward": "2 speed potions, 2 luck potions, 2 coin potions, and 2 damage potions ( )",
+      "reward": "2 speed potions, 2 luck potions, 2 coin potions, and 2 damage potions",
       "status": "active"
     },
     {
       "code": "update17",
-      "reward": "2 speed potions, 2 luck potions, 2 coin potions, and 2 damage potions ( )",
+      "reward": "2 speed potions, 2 luck potions, 2 coin potions, and 2 damage potions",
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Army",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Base",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Block",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Build",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "christmas",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Credit",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -114,31 +69,6 @@
       "status": "expired"
     },
     {
-      "code": "Image",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lucky",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Military",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Noob",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "part2",
       "reward": "Expired reward",
       "status": "expired"
@@ -149,42 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "spending",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "straightforward",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
       "reward": "Expired reward",
       "status": "expired"
     },

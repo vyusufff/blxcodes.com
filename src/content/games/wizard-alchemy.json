@@ -55,7 +55,7 @@
     },
     {
       "code": "POISON",
-      "reward": "5 Race Rerolls ( )",
+      "reward": "5 Race Rerolls",
       "status": "active"
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "code": "SPIDER",
-      "reward": "5 Race Rerolls ( )",
+      "reward": "5 Race Rerolls",
       "status": "active"
     },
     {
@@ -94,21 +94,6 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Alchemy",
       "reward": "Expired reward",
       "status": "expired"
@@ -129,16 +114,6 @@
       "status": "expired"
     },
     {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "complete",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "component",
       "reward": "Expired reward",
       "status": "expired"
@@ -154,22 +129,7 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Ingredient",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,22 +149,7 @@
       "status": "expired"
     },
     {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Otherwise",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PIRATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -219,37 +164,12 @@
       "status": "expired"
     },
     {
-      "code": "Shells",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Slime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SUMMON",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "TREASURE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },

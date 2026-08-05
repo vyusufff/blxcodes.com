@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "CHAOS_AND_RAGE",
-      "reward": "1000 Credits and 750 Aether ( )",
+      "reward": "1000 Credits and 750 Aether",
       "status": "active"
     },
     {
       "code": "OK_LATE_AGAIN",
-      "reward": "1000 Credits and 750 Aether ( )",
+      "reward": "1000 Credits and 750 Aether",
       "status": "active"
     },
     {
@@ -134,11 +134,6 @@
       "status": "expired"
     },
     {
-      "code": "Combat",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "dsffdsiufds",
       "reward": "Expired reward",
       "status": "expired"
@@ -225,11 +220,6 @@
     },
     {
       "code": "VALENTINES_SORRY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Warriors",
       "reward": "Expired reward",
       "status": "expired"
     },

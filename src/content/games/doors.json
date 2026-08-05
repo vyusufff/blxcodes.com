@@ -55,7 +55,7 @@
     },
     {
       "code": "FE4R_RBX",
-      "reward": "5 Knobs ( )",
+      "reward": "5 Knobs",
       "status": "active"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "code": "NO_DATA",
-      "reward": "5 Knobs ( )",
+      "reward": "5 Knobs",
       "status": "active"
     },
     {
@@ -134,31 +134,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "accounts",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "actively",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Done",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Doors",
       "reward": "Expired reward",
       "status": "expired"
@@ -169,27 +144,7 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "fearlessness",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Five",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -200,11 +155,6 @@
     },
     {
       "code": "increase",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Joining",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -229,22 +179,12 @@
       "status": "expired"
     },
     {
-      "code": "Nights",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "obtaining",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "ONEBLLIONVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -264,16 +204,6 @@
       "status": "expired"
     },
     {
-      "code": "Rangers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SIX2025",
       "reward": "Expired reward",
       "status": "expired"
@@ -285,16 +215,6 @@
     },
     {
       "code": "SORRYFORDELAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Store",
       "reward": "Expired reward",
       "status": "expired"
     },

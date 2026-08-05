@@ -30,18 +30,13 @@
   "codes": [
     {
       "code": "FREEFORTICKETORPULL",
-      "reward": "3750 Cash ( )",
+      "reward": "3750 Cash",
       "status": "active"
     },
     {
       "code": "NEOGALAXY",
-      "reward": "2500 Cash ( )",
+      "reward": "2500 Cash",
       "status": "active"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
     },
     {
       "code": "BANNER",
@@ -144,11 +139,6 @@
       "status": "expired"
     },
     {
-      "code": "Racing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RELEASECUH",
       "reward": "Expired reward",
       "status": "expired"
@@ -165,16 +155,6 @@
     },
     {
       "code": "SORRYFORDELAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Speed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tank",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,17 +179,7 @@
       "status": "expired"
     },
     {
-      "code": "Training",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "UFFUEWANTTOMATO",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Uma",
       "reward": "Expired reward",
       "status": "expired"
     },

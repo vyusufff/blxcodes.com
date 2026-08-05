@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "LIKES1M350K",
-      "reward": "300 Spins, 1 2x Luck Potion [1H], 1 2x Gold Potion [1H], 1 2x XP Potion [1H], and 10 Emperor Keys ( )",
+      "reward": "300 Spins, 1 2x Luck Potion [1H], 1 2x Gold Potion [1H], 1 2x XP Potion [1H], and 10 Emperor Keys",
       "status": "active"
     },
     {
@@ -170,11 +170,6 @@
     },
     {
       "code": "PLAYERS100K",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Revolution",
       "reward": "Expired reward",
       "status": "expired"
     },

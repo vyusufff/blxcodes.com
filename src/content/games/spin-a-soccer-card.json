@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "HERO-CRYSTAL",
-      "reward": "2x packs (at rebirth level) and 3x extra spins ( )",
+      "reward": "2x packs (at rebirth level) and 3x extra spins",
       "status": "active"
     },
     {
@@ -64,11 +64,6 @@
       "status": "expired"
     },
     {
-      "code": "Card",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CHAMP-CRYSTAL",
       "reward": "Expired reward",
       "status": "expired"
@@ -95,7 +90,7 @@
     },
     {
       "code": "DRAGON-PRIME",
-      "reward": "2 Of Each Pack and 3 Spins ( )",
+      "reward": "2 Of Each Pack and 3 Spins",
       "status": "expired"
     },
     {
@@ -135,11 +130,6 @@
     },
     {
       "code": "LETSWISH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Make",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -190,16 +180,6 @@
     },
     {
       "code": "RUBY-PRIME",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soccer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Spin",
       "reward": "Expired reward",
       "status": "expired"
     },

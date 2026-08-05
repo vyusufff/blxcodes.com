@@ -40,7 +40,7 @@
     },
     {
       "code": "SUPPORTANIMEOVERSEAS",
-      "reward": "15 legendary orbs, 5 reroll ability potions, and 80 spins ( )",
+      "reward": "15 legendary orbs, 5 reroll ability potions, and 80 spins",
       "status": "active"
     },
     {
@@ -180,11 +180,6 @@
     },
     {
       "code": "PMXMAS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Project",
       "reward": "Expired reward",
       "status": "expired"
     },

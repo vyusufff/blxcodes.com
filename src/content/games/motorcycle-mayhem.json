@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "CRAZY310K",
-      "reward": "Redeem for 1k Gears ( )",
+      "reward": "Redeem for 1k Gears",
       "status": "active"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "code": "MEGA230K",
-      "reward": "Redeem for 1k Gears ( )",
+      "reward": "Redeem for 1k Gears",
       "status": "active"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "code": "VICTORY290K",
-      "reward": "Redeem for 1k Gears ( )",
+      "reward": "Redeem for 1k Gears",
       "status": "active"
     },
     {
@@ -60,51 +60,11 @@
     },
     {
       "code": "YAY300K",
-      "reward": "Redeem for 1k Gears ( )",
+      "reward": "Redeem for 1k Gears",
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Basketball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Box",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Breakneck",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Chasers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Clicker",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -114,37 +74,7 @@
       "status": "expired"
     },
     {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enjoying",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Finally",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Find",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "frequent",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "haphazardly",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -159,32 +89,12 @@
       "status": "expired"
     },
     {
-      "code": "Highway",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HYPE160K",
       "reward": "Redeem for 1k Gears",
       "status": "expired"
     },
     {
-      "code": "Input",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Interactive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -194,22 +104,7 @@
       "status": "expired"
     },
     {
-      "code": "Midnight",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Motorcycle",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "NEWUPDATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -219,42 +114,7 @@
       "status": "expired"
     },
     {
-      "code": "Race",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Racing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "real-time",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Redeem!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tell",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Where",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -266,11 +126,6 @@
     {
       "code": "YES170K",
       "reward": "Redeem for 1k Gears",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
-      "reward": "Expired reward",
       "status": "expired"
     }
   ]

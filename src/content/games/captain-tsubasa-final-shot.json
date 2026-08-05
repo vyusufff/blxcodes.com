@@ -50,22 +50,22 @@
     },
     {
       "code": "NOBLE",
-      "reward": "8 LUCKY SPINS, 8 TALENT LUCKY SPINS ( )",
+      "reward": "8 LUCKY SPINS, 8 TALENT LUCKY SPINS",
       "status": "active"
     },
     {
       "code": "NOTPOWERFUL",
-      "reward": "Free Lucky Spins ( )",
+      "reward": "Free Lucky Spins",
       "status": "active"
     },
     {
       "code": "PRINCE",
-      "reward": "3LUCKY SPINS, 3TALENT LUCKY SPINS ( )",
+      "reward": "3LUCKY SPINS, 3TALENT LUCKY SPINS",
       "status": "active"
     },
     {
       "code": "RAINING",
-      "reward": "10 Lucky Spins, 8 Talent Lucky Spins ( )",
+      "reward": "10 Lucky Spins, 8 Talent Lucky Spins",
       "status": "active"
     },
     {
@@ -84,42 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8230",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Basketball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Both",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Captain",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Community",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -134,22 +99,7 @@
       "status": "expired"
     },
     {
-      "code": "ENTER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "EVENT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "exciting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Final",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -159,97 +109,12 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "haphazardly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "INTERESTED",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launcher",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LIGHTWORK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Like",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Looking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Meta",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "multiple",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platforms",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Start",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -260,21 +125,6 @@
     },
     {
       "code": "Tsubasa",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Volleyball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -50,7 +50,7 @@
     },
     {
       "code": "OSMENORBOM",
-      "reward": "30k Cash ( )",
+      "reward": "30k Cash",
       "status": "active"
     },
     {
@@ -60,12 +60,12 @@
     },
     {
       "code": "TRADINGSOON",
-      "reward": "20k Cash and 400 Teeth ( )",
+      "reward": "20k Cash and 400 Teeth",
       "status": "active"
     },
     {
       "code": "UPD4",
-      "reward": "35k Cash and 2x Cash for 5 Minutes ( )",
+      "reward": "35k Cash and 2x Cash for 5 Minutes",
       "status": "active"
     },
     {
@@ -84,112 +84,12 @@
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "available",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Build",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Catch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "condition",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dino",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Dinosaurs",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "incorrectly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "literally",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "milestones",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Most",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,82 +104,7 @@
       "status": "expired"
     },
     {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "requirements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "simulation",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Store",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Tame",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tired",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tracking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zoo",
       "reward": "Expired reward",
       "status": "expired"
     }

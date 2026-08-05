@@ -40,7 +40,7 @@
     },
     {
       "code": "FREECURSEDFINGERS",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "code": "SMALLFIXES",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -184,17 +184,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "anime-style",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,47 +194,7 @@
       "status": "expired"
     },
     {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "correctly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "definitely",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "destroying",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "directly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enjoying",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "First",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -259,22 +209,7 @@
       "status": "expired"
     },
     {
-      "code": "Head",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "incredible",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Infinite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -284,52 +219,7 @@
       "status": "expired"
     },
     {
-      "code": "Jujutsu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LIGHTNINGHIM",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "mistakes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "notifications",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -339,27 +229,7 @@
       "status": "expired"
     },
     {
-      "code": "Sorcerer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SUPERSFINGER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Then",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tired",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -369,17 +239,7 @@
       "status": "expired"
     },
     {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "WORLDBOSS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

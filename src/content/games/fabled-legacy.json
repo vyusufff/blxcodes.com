@@ -50,7 +50,7 @@
     },
     {
       "code": "DAWNBREAK",
-      "reward": "5000 Dawnbreak Coins ( )",
+      "reward": "5000 Dawnbreak Coins",
       "status": "active"
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "code": "MORECURRENCY",
-      "reward": "Free Gems ( )",
+      "reward": "Free Gems",
       "status": "active"
     },
     {
@@ -164,11 +164,6 @@
       "status": "expired"
     },
     {
-      "code": "Fabled",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FARLANDS",
       "reward": "Expired reward",
       "status": "expired"
@@ -200,11 +195,6 @@
     },
     {
       "code": "KINGDOM",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legacy",
       "reward": "Expired reward",
       "status": "expired"
     },

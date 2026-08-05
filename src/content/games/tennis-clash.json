@@ -95,12 +95,12 @@
     },
     {
       "code": "H7KR3B953ZN",
-      "reward": "Redeem for 3 Lucky Spins ( )",
+      "reward": "Redeem for 3 Lucky Spins",
       "status": "active"
     },
     {
       "code": "HC2YTYDK325",
-      "reward": "Redeem for 5 Lucky Spins ( )",
+      "reward": "Redeem for 5 Lucky Spins",
       "status": "active"
     },
     {
@@ -125,12 +125,12 @@
     },
     {
       "code": "PEGEPJGC8DB",
-      "reward": "Redeem for 3 Lucky Spins ( )",
+      "reward": "Redeem for 3 Lucky Spins",
       "status": "active"
     },
     {
       "code": "Q4WG4WPEBSX",
-      "reward": "Redeem for 3 Lucky Spins ( )",
+      "reward": "Redeem for 3 Lucky Spins",
       "status": "active"
     },
     {
@@ -150,7 +150,7 @@
     },
     {
       "code": "T4PP67H6DZ7",
-      "reward": "Redeem for 5 Lucky Spins ( )",
+      "reward": "Redeem for 5 Lucky Spins",
       "status": "active"
     },
     {
@@ -184,127 +184,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Basketball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Clash",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "confusion",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "difficult",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "including",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Join",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Just",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Last",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Make",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Neo",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -314,72 +194,12 @@
       "status": "expired"
     },
     {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Remember",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "scavenger",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Serving",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Stand",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Tennis",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Vanguards",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

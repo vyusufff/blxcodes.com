@@ -30,27 +30,27 @@
   "codes": [
     {
       "code": "DDSDRIVERTAXIONLINEUPDATE",
-      "reward": "30M Cash ( )",
+      "reward": "30M Cash",
       "status": "active"
     },
     {
       "code": "DDSTHX150KROADTO175KLIKES",
-      "reward": "30M Cash ( )",
+      "reward": "30M Cash",
       "status": "active"
     },
     {
       "code": "DELAYXIXIORDERANDOUBLE",
-      "reward": "25M Cash ( )",
+      "reward": "25M Cash",
       "status": "active"
     },
     {
       "code": "DRAGDRIVESIMULATORJULY26",
-      "reward": "35M Cash ( )",
+      "reward": "35M Cash",
       "status": "active"
     },
     {
       "code": "HAPPYSCHOOLHOLIDAYS26",
-      "reward": "35M Cash ( )",
+      "reward": "35M Cash",
       "status": "active"
     },
     {
@@ -64,27 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ALAMAKDELAYDIKIT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bottom-left",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "But",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Chasers",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -110,7 +90,7 @@
     },
     {
       "code": "DDSSUPERMANSTYLE",
-      "reward": "30M Cash ( )",
+      "reward": "30M Cash",
       "status": "expired"
     },
     {
@@ -125,7 +105,7 @@
     },
     {
       "code": "DELAYDIKITAMBILRAPOR",
-      "reward": "25M Cash ( )",
+      "reward": "25M Cash",
       "status": "expired"
     },
     {
@@ -155,7 +135,7 @@
     },
     {
       "code": "DRAGDRIVESIMULATORJUNE26",
-      "reward": "35M Cash ( )",
+      "reward": "35M Cash",
       "status": "expired"
     },
     {
@@ -165,11 +145,6 @@
     },
     {
       "code": "DRAGDRIVESIMULATORMAY26",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Drive",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -184,22 +159,7 @@
       "status": "expired"
     },
     {
-      "code": "Highway",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LUNARNEWYEAR2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Midnight",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -210,16 +170,11 @@
     },
     {
       "code": "MOREPROPSPAWNERUPDATE",
-      "reward": "30M Cash ( )",
+      "reward": "30M Cash",
       "status": "expired"
     },
     {
       "code": "motorbikes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Motorcycle",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -229,27 +184,7 @@
       "status": "expired"
     },
     {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Racing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SABARDELAYDIKITYAK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -260,11 +195,6 @@
     },
     {
       "code": "THX4MILLIONADVCOMMUNITY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tokyo",
       "reward": "Expired reward",
       "status": "expired"
     },

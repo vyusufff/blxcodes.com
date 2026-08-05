@@ -60,7 +60,7 @@
     },
     {
       "code": "BUGHUNTERS",
-      "reward": "50 Wand Shards, 3 Damage/Luck boosts ( )",
+      "reward": "50 Wand Shards, 3 Damage/Luck boosts",
       "status": "active"
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "code": "GROUNDED",
-      "reward": "75 Passive Tokens, 25 Heavenly Fruits ( )",
+      "reward": "75 Passive Tokens, 25 Heavenly Fruits",
       "status": "active"
     },
     {
@@ -145,7 +145,7 @@
     },
     {
       "code": "OPCODE1",
-      "reward": "5 Mega Boosts (all types), 100 Wistoria Shards, 150 Passive Tokens, 200 Requiem Tokens, 50 Heavenly Fruits, 5 Mysterious Keys ( )",
+      "reward": "5 Mega Boosts (all types), 100 Wistoria Shards, 150 Passive Tokens, 200 Requiem Tokens, 50 Heavenly Fruits, 5 Mysterious Keys",
       "status": "active"
     },
     {

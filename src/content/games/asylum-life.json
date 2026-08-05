@@ -35,7 +35,7 @@
     },
     {
       "code": "BODYGUARD",
-      "reward": "3x EXP Booster ( )",
+      "reward": "3x EXP Booster",
       "status": "active"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "code": "RECRUIT",
-      "reward": "3x EXP Booster ( )",
+      "reward": "3x EXP Booster",
       "status": "active"
     },
     {
@@ -180,16 +180,11 @@
     },
     {
       "code": "WEREGOINGCOMP",
-      "reward": "3x EXP Booster ( )",
+      "reward": "3x EXP Booster",
       "status": "active"
     },
     {
       "code": "20M",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -205,11 +200,6 @@
     },
     {
       "code": "BEEZLEBUB",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Besides",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -249,17 +239,7 @@
       "status": "expired"
     },
     {
-      "code": "Escape",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ESCAPE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -279,22 +259,12 @@
       "status": "expired"
     },
     {
-      "code": "interesting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "JAMMER",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "LEVELS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Life",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -340,11 +310,6 @@
     },
     {
       "code": "REVAMP",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Room",
       "reward": "Expired reward",
       "status": "expired"
     },

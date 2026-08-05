@@ -45,12 +45,12 @@
     },
     {
       "code": "MYLEDX",
-      "reward": "810 fragments ( )",
+      "reward": "810 fragments",
       "status": "active"
     },
     {
       "code": "SecondBloxpurgis",
-      "reward": "405 Fragments, 300 Paid Fragments, 2 Mega reflection tickets ( )",
+      "reward": "405 Fragments, 300 Paid Fragments, 2 Mega reflection tickets",
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "code": "UrbanPlague",
-      "reward": "405 fragments ( )",
+      "reward": "405 fragments",
       "status": "active"
     },
     {
@@ -75,11 +75,6 @@
     },
     {
       "code": "4MFChange",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -129,22 +124,12 @@
       "status": "expired"
     },
     {
-      "code": "ENTER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FauvistStudents",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "FTeamIndex",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FULL-STOP",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -184,11 +169,6 @@
       "status": "expired"
     },
     {
-      "code": "Magic",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Majika",
       "reward": "Expired reward",
       "status": "expired"
@@ -220,11 +200,6 @@
     },
     {
       "code": "PrescriptTime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Project",
       "reward": "Expired reward",
       "status": "expired"
     },

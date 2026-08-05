@@ -35,12 +35,12 @@
     },
     {
       "code": "JIMOTHY",
-      "reward": "Jimothy ( )",
+      "reward": "Jimothy",
       "status": "active"
     },
     {
       "code": "SEASON22",
-      "reward": "50 Guild coins ( )",
+      "reward": "50 Guild coins",
       "status": "active"
     },
     {
@@ -230,16 +230,6 @@
     },
     {
       "code": "WILDFIRE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "World",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

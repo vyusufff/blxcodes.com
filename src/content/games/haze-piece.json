@@ -40,7 +40,7 @@
     },
     {
       "code": "CRIMSONEMPEROR",
-      "reward": "5 Race Spins ( )",
+      "reward": "5 Race Spins",
       "status": "active"
     },
     {
@@ -85,12 +85,12 @@
     },
     {
       "code": "PHANTOMSHIP",
-      "reward": "5 Race Spins ( )",
+      "reward": "5 Race Spins",
       "status": "active"
     },
     {
       "code": "SPIDERCYBORG",
-      "reward": "5 Race Spins ( )",
+      "reward": "5 Race Spins",
       "status": "active"
     },
     {
@@ -164,47 +164,12 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Battlegrounds",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "DRAGONUPDATE23",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fruit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "GEAR5TH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -224,27 +189,12 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LETSGET450K2024",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "LETSGO375KHAZE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Menu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "milestone",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -264,42 +214,7 @@
       "status": "expired"
     },
     {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Seas",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SHUTDOWN4",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Studios",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tap",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -310,11 +225,6 @@
     },
     {
       "code": "VALENTINES2024",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -330,11 +240,6 @@
     },
     {
       "code": "XMAS2023",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
       "reward": "Expired reward",
       "status": "expired"
     }

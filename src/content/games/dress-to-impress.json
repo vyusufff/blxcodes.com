@@ -125,7 +125,7 @@
     },
     {
       "code": "LANADOLLDRESS",
-      "reward": "Reworked Lana Tutu ( )",
+      "reward": "Reworked Lana Tutu",
       "status": "active"
     },
     {
@@ -209,22 +209,12 @@
       "status": "expired"
     },
     {
-      "code": "Avenue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "B3APL4YS_D0L1E",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "BADDIE4LIFE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Berry",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -259,22 +249,12 @@
       "status": "expired"
     },
     {
-      "code": "Dress",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "DTI",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "ELPHABA",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -294,11 +274,6 @@
       "status": "expired"
     },
     {
-      "code": "Getting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "GLINDA",
       "reward": "Expired reward",
       "status": "expired"
@@ -309,27 +284,12 @@
       "status": "expired"
     },
     {
-      "code": "Impress",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LNY2025",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "M0T0PRINCESSWAV",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -350,11 +310,6 @@
     },
     {
       "code": "REWARD4CLASS1C",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "roleplaying",
       "reward": "Expired reward",
       "status": "expired"
     },

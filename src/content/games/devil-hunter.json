@@ -30,37 +30,37 @@
   "codes": [
     {
       "code": "DEVILSGALORE",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "LARGEPATCH",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "MAKIMABLOODLINE",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "NINJABOYLC",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "SORRYBOYS",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "SPAINWC",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "VULTURE",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -165,11 +165,6 @@
     },
     {
       "code": "GUNDEVIL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hunters",
       "reward": "Expired reward",
       "status": "expired"
     },

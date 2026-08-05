@@ -40,7 +40,7 @@
     },
     {
       "code": "AIZEN",
-      "reward": "3 Command Seals ( )",
+      "reward": "3 Command Seals",
       "status": "active"
     },
     {
@@ -60,12 +60,12 @@
     },
     {
       "code": "BLEACHPART1",
-      "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates ( )",
+      "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates",
       "status": "active"
     },
     {
       "code": "BLEACHPT2",
-      "reward": "50 Premium Crates ( )",
+      "reward": "50 Premium Crates",
       "status": "active"
     },
     {
@@ -185,7 +185,7 @@
     },
     {
       "code": "SOULSOCIETY",
-      "reward": "1 Sovereign Pot ( )",
+      "reward": "1 Sovereign Pot",
       "status": "active"
     },
     {
@@ -210,7 +210,7 @@
     },
     {
       "code": "THXFORSUPPORT",
-      "reward": "25 Premium Crates ( )",
+      "reward": "25 Premium Crates",
       "status": "active"
     },
     {
@@ -225,7 +225,7 @@
     },
     {
       "code": "UNSEALING",
-      "reward": "25 Premium Crates ( )",
+      "reward": "25 Premium Crates",
       "status": "active"
     },
     {
@@ -235,7 +235,7 @@
     },
     {
       "code": "YOKOSO",
-      "reward": "1 Sovereign Pot, 25 Premium Potion Crates, and 25 Premium Goodie Crates ( )",
+      "reward": "1 Sovereign Pot, 25 Premium Potion Crates, and 25 Premium Goodie Crates",
       "status": "active"
     },
     {

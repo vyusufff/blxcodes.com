@@ -65,12 +65,12 @@
     },
     {
       "code": "happysun",
-      "reward": "Use for 2x Energy for 30 mins ( )",
+      "reward": "Use for 2x Energy for 30 mins",
       "status": "active"
     },
     {
       "code": "happyvalentinespump",
-      "reward": "Use for 2x Workout Speed for 20 mins ( )",
+      "reward": "Use for 2x Workout Speed for 20 mins",
       "status": "active"
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "code": "speedygains2000",
-      "reward": "Use for 2x Workout Speed for 20 mins ( )",
+      "reward": "Use for 2x Workout Speed for 20 mins",
       "status": "active"
     },
     {
@@ -105,17 +105,17 @@
     },
     {
       "code": "summertime",
-      "reward": "Use for 2x Coins for 60 mins ( )",
+      "reward": "Use for 2x Coins for 60 mins",
       "status": "active"
     },
     {
       "code": "sunshine",
-      "reward": "Use for 2x Energy for 30 mins ( )",
+      "reward": "Use for 2x Energy for 30 mins",
       "status": "active"
     },
     {
       "code": "time4gains",
-      "reward": "Use for 50x Workout for 20 mins ( )",
+      "reward": "Use for 50x Workout for 20 mins",
       "status": "active"
     },
     {
@@ -134,72 +134,12 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Biswas",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Chad",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "channels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "concludes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "constantly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defenders",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Did",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dress",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -214,47 +154,12 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HOLIDAY",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Ideally",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Impress",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "internet",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Let",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -265,21 +170,6 @@
     },
     {
       "code": "Limit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Promo",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -295,31 +185,6 @@
     },
     {
       "code": "Tactical",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Use",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "well-known",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "yourself",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "YouTube",
       "reward": "Expired reward",
       "status": "expired"
     }

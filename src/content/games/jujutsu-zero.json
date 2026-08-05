@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "100MVISITSTY",
-      "reward": "1000 Cursed Crystals, 10K Lumens, and 100 Clan Rolls ( )",
+      "reward": "1000 Cursed Crystals, 10K Lumens, and 100 Clan Rolls",
       "status": "active"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "code": "MAHORAGA",
-      "reward": "500 Cursed Crystals, 3.5k Lumens, and 50 Clan Rolls ( )",
+      "reward": "500 Cursed Crystals, 3.5k Lumens, and 50 Clan Rolls",
       "status": "active"
     },
     {
@@ -164,11 +164,6 @@
       "status": "expired"
     },
     {
-      "code": "Jujutsu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LOTSOFBUGFIXES",
       "reward": "Expired reward",
       "status": "expired"
@@ -235,7 +230,7 @@
     },
     {
       "code": "SUMMERBLADE",
-      "reward": "500 Cursed Crystals, 3.5k Lumens, and 50 Clan Rolls ( )",
+      "reward": "500 Cursed Crystals, 3.5k Lumens, and 50 Clan Rolls",
       "status": "expired"
     },
     {
@@ -260,11 +255,6 @@
     },
     {
       "code": "ZENIN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

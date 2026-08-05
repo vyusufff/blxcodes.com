@@ -65,12 +65,12 @@
     },
     {
       "code": "chainsawman",
-      "reward": "50k Summer Tokens, 150 Trait Tokens, and 1 Monarch Ticket ( )",
+      "reward": "50k Summer Tokens, 150 Trait Tokens, and 1 Monarch Ticket",
       "status": "active"
     },
     {
       "code": "controldevil",
-      "reward": "60 Summer Treasure Chests and 75 Summer Tokens ( )",
+      "reward": "60 Summer Treasure Chests and 75 Summer Tokens",
       "status": "active"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "code": "kyzoisgoated",
-      "reward": "20 Ascended Orb and 250 Trait Tokens ( )",
+      "reward": "20 Ascended Orb and 250 Trait Tokens",
       "status": "active"
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "code": "summereventp2",
-      "reward": "50 Summer Treasure Chests and 50 Meta Orb ( )",
+      "reward": "50 Summer Treasure Chests and 50 Meta Orb",
       "status": "active"
     },
     {
@@ -220,11 +220,6 @@
     },
     {
       "code": "Alpha",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -370,11 +365,6 @@
     },
     {
       "code": "Vampire",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Weapon",
       "reward": "Expired reward",
       "status": "expired"
     },

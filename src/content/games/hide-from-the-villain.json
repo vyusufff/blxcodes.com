@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "AUG1ST",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -104,32 +104,7 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8230",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "bugcompensation",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Die",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -139,37 +114,7 @@
       "status": "expired"
     },
     {
-      "code": "Each",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Every",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "GAMEISBACK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "gameplay",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hide",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,37 +134,7 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Night",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "NPC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Paint",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -235,11 +150,6 @@
     },
     {
       "code": "SORRY4SHUTDOWN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },

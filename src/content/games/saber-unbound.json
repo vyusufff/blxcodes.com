@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "10MILLETSGO",
-      "reward": "10,000 Credits ( )",
+      "reward": "10,000 Credits",
       "status": "active"
     },
     {
@@ -59,11 +59,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "8MILLETSGO",
       "reward": "Expired reward",
       "status": "expired"
@@ -74,17 +69,7 @@
       "status": "expired"
     },
     {
-      "code": "Arena",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BACTATANK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Battle",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -109,22 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "Fighting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FIXESFIXESFIXES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Grievous",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Group",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -144,47 +119,12 @@
       "status": "expired"
     },
     {
-      "code": "Join",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "League",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeemed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RNG",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Saber",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SABERUNBOUND",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "searching",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,27 +149,12 @@
       "status": "expired"
     },
     {
-      "code": "straightforward",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sword",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "uiupdate",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Unbound",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Weapon",
       "reward": "Expired reward",
       "status": "expired"
     },

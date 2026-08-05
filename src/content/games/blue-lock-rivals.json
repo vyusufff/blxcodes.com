@@ -30,17 +30,17 @@
   "codes": [
     {
       "code": "NESSNEXTWEEK",
-      "reward": "5 Lucky Style Spins and 5 Lucky Flows ( )",
+      "reward": "5 Lucky Style Spins and 5 Lucky Flows",
       "status": "active"
     },
     {
       "code": "TEAMBRAZIL",
-      "reward": "5 Lucky Style Spins ( )",
+      "reward": "5 Lucky Style Spins",
       "status": "active"
     },
     {
       "code": "TEAMSPAIN",
-      "reward": "5 Lucky Flows ( )",
+      "reward": "5 Lucky Flows",
       "status": "active"
     },
     {
@@ -55,11 +55,6 @@
     },
     {
       "code": "BEARCLAW",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -100,11 +95,6 @@
     },
     {
       "code": "KUNIGAMIW",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -160,7 +150,7 @@
     },
     {
       "code": "NEWMAP",
-      "reward": "5 Lucky Flows ( )",
+      "reward": "5 Lucky Flows",
       "status": "expired"
     },
     {
@@ -199,18 +189,13 @@
       "status": "expired"
     },
     {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SAEW",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "SEMIFINALS",
-      "reward": "5 Lucky Spins and 5 Lucky Flow ( )",
+      "reward": "5 Lucky Spins and 5 Lucky Flow",
       "status": "expired"
     },
     {
@@ -250,7 +235,7 @@
     },
     {
       "code": "WORLDTOURNAMENTPART3",
-      "reward": "5 Lucky Spins ( )",
+      "reward": "5 Lucky Spins",
       "status": "expired"
     },
     {

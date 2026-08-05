@@ -45,7 +45,7 @@
     },
     {
       "code": "BEGI2COLD",
-      "reward": "300k Coins, 1 Random Manual, and 1 Celebration Spin ( )",
+      "reward": "300k Coins, 1 Random Manual, and 1 Celebration Spin",
       "status": "active"
     },
     {
@@ -144,11 +144,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "9000LIKES",
       "reward": "Expired reward",
       "status": "expired"
@@ -160,11 +155,6 @@
     },
     {
       "code": "BALANCE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Blue",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -194,22 +184,7 @@
       "status": "expired"
     },
     {
-      "code": "Fisch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "GODCANNON",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grow",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -229,16 +204,6 @@
       "status": "expired"
     },
     {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MAINTENANCE",
       "reward": "Expired reward",
       "status": "expired"
@@ -250,16 +215,6 @@
     },
     {
       "code": "OGREENDING",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rivals",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -290,11 +245,6 @@
     },
     {
       "code": "VERIFIED",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Volleyball",
       "reward": "Expired reward",
       "status": "expired"
     },

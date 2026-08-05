@@ -254,27 +254,12 @@
       "status": "expired"
     },
     {
-      "code": "Adhikary",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "APPLY",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Aug",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bee",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -289,22 +274,7 @@
       "status": "expired"
     },
     {
-      "code": "Car",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Chakrabarti",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "codelist",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -314,32 +284,7 @@
       "status": "expired"
     },
     {
-      "code": "Dealership",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ishan",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Jan",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Leave",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -349,37 +294,7 @@
       "status": "expired"
     },
     {
-      "code": "Monkey",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Open",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Reply",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Restaurant",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sanmay",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -389,52 +304,7 @@
       "status": "expired"
     },
     {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Spending",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Swarm",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tags",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tell",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Think",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tired",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "War",
       "reward": "Expired reward",
       "status": "expired"
     }

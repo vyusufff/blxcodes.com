@@ -45,12 +45,12 @@
     },
     {
       "code": "SUBMARINES",
-      "reward": "10 Kelp ( )",
+      "reward": "10 Kelp",
       "status": "active"
     },
     {
       "code": "SUNKEN",
-      "reward": "10 Forgotten Clam ( )",
+      "reward": "10 Forgotten Clam",
       "status": "active"
     },
     {
@@ -69,11 +69,6 @@
       "status": "expired"
     },
     {
-      "code": "Animals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BACKROOMS",
       "reward": "Expired reward",
       "status": "expired"
@@ -84,22 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Brainrot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CANDYBLOSSOM",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Catch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -129,17 +109,7 @@
       "status": "expired"
     },
     {
-      "code": "Evolution",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FISHINGKIT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Forge",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -159,27 +129,12 @@
       "status": "expired"
     },
     {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MAGMA",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Moonrises",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Raise",
       "reward": "Expired reward",
       "status": "expired"
     },

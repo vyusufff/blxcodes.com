@@ -60,7 +60,7 @@
     },
     {
       "code": "NEWRECORD",
-      "reward": "1 Gacha Tix ( )",
+      "reward": "1 Gacha Tix",
       "status": "active"
     },
     {
@@ -155,11 +155,6 @@
     },
     {
       "code": "ES7LSY1AGPM",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gacha",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -40,7 +40,7 @@
     },
     {
       "code": "BeachTime",
-      "reward": "50 Trait Rerolls, 5 Stat Boosters, 5 Dr. Megga Punk, and 15,000 Beachballs ( )",
+      "reward": "50 Trait Rerolls, 5 Stat Boosters, 5 Dr. Megga Punk, and 15,000 Beachballs",
       "status": "active"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "code": "delaRXy2",
-      "reward": "200-250 Trait Rerolls, 100 Cursed Fingers, 5 Stat Boosters, 30 of Each Universe, and 10,000 Beachballs ( )",
+      "reward": "200-250 Trait Rerolls, 100 Cursed Fingers, 5 Stat Boosters, 30 of Each Universe, and 10,000 Beachballs",
       "status": "active"
     },
     {
@@ -235,11 +235,6 @@
     },
     {
       "code": "NEWSKINS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Rangers",
       "reward": "Expired reward",
       "status": "expired"
     },

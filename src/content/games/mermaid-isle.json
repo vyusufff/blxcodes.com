@@ -80,7 +80,7 @@
     },
     {
       "code": "GameRevampSoon",
-      "reward": "Fallen Warrior: Urania, Bubble Pixie: Prismatic, and 250 Pearls ( )",
+      "reward": "Fallen Warrior: Urania, Bubble Pixie: Prismatic, and 250 Pearls",
       "status": "active"
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "code": "HeartfeltUpdate",
-      "reward": "3333 Pearls ( )",
+      "reward": "3333 Pearls",
       "status": "active"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "code": "Mermay",
-      "reward": "3000 Pearls ( )",
+      "reward": "3000 Pearls",
       "status": "active"
     },
     {
@@ -170,12 +170,12 @@
     },
     {
       "code": "ThankYou50k",
-      "reward": "Fateful Wish Cherished Moments ( )",
+      "reward": "Fateful Wish Cherished Moments",
       "status": "active"
     },
     {
       "code": "ValentinesDay",
-      "reward": "Eternal Vow Something ( )",
+      "reward": "Eternal Vow Something",
       "status": "active"
     },
     {
@@ -204,22 +204,7 @@
       "status": "expired"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "altogether",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -234,22 +219,7 @@
       "status": "expired"
     },
     {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CorruptGoddes07",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dress",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -264,52 +234,7 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Find",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HASHTAGBLESSED",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Impress",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Isle",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Keep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launcher",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -324,37 +249,7 @@
       "status": "expired"
     },
     {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Saga",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Start",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SwimSwimSwim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Try",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -370,11 +265,6 @@
     },
     {
       "code": "Wagarashi",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Where",
       "reward": "Expired reward",
       "status": "expired"
     }

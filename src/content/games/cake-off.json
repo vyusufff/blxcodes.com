@@ -45,7 +45,7 @@
     },
     {
       "code": "MERRYCAKEMAS",
-      "reward": "2,000 Gems ( )",
+      "reward": "2,000 Gems",
       "status": "active"
     },
     {
@@ -79,16 +79,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "addition",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "baker99",
       "reward": "Expired reward",
       "status": "expired"
@@ -114,17 +104,7 @@
       "status": "expired"
     },
     {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Coins",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "community",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -154,27 +134,12 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Flipping",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Freeplay10",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,22 +154,7 @@
       "status": "expired"
     },
     {
-      "code": "Furthermore",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Gems",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -239,22 +189,7 @@
       "status": "expired"
     },
     {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Restaurant",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Sweetest12",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
       "reward": "Expired reward",
       "status": "expired"
     },

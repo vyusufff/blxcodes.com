@@ -30,86 +30,51 @@
   "codes": [
     {
       "code": "BIGDILL",
-      "reward": "124150 Cash ( )",
+      "reward": "124150 Cash",
       "status": "active"
     },
     {
       "code": "CONCRABULATIONS",
-      "reward": "3450 Cash ( )",
+      "reward": "3450 Cash",
       "status": "active"
     },
     {
       "code": "CRABCAKES",
-      "reward": "25650 Cash ( )",
+      "reward": "25650 Cash",
       "status": "active"
     },
     {
       "code": "DUNEDIGGER",
-      "reward": "23210 Cash ( )",
+      "reward": "23210 Cash",
       "status": "active"
     },
     {
       "code": "PINCHPERFECT",
-      "reward": "12720 Cash ( )",
+      "reward": "12720 Cash",
       "status": "active"
     },
     {
       "code": "RIPTIDE",
-      "reward": "6430 Cash ( )",
+      "reward": "6430 Cash",
       "status": "active"
     },
     {
       "code": "SHELLABALOO",
-      "reward": "31210 Cash ( )",
+      "reward": "31210 Cash",
       "status": "active"
     },
     {
       "code": "SHELLO",
-      "reward": "25650 Cash ( )",
+      "reward": "25650 Cash",
       "status": "active"
     },
     {
       "code": "TIDEPOOL",
-      "reward": "24550 Cash ( )",
+      "reward": "24550 Cash",
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "actively",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BESTCRABS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "channels",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,42 +84,12 @@
       "status": "expired"
     },
     {
-      "code": "Crab",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Devil",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Evomon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hunter",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,11 +109,6 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "manually",
       "reward": "Expired reward",
       "status": "expired"
@@ -186,21 +116,6 @@
     {
       "code": "MOLTMANIA",
       "reward": "24200 Cash",
-      "status": "expired"
-    },
-    {
-      "code": "Moreover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "multiple",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
       "status": "expired"
     },
     {
@@ -215,27 +130,12 @@
     },
     {
       "code": "PETPALS",
-      "reward": "25650 Cash ( )",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
+      "reward": "25650 Cash",
       "status": "expired"
     },
     {
       "code": "REEFRIOT",
       "reward": "17790 Cash",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "requirements",
-      "reward": "Expired reward",
       "status": "expired"
     },
     {
@@ -259,11 +159,6 @@
       "status": "expired"
     },
     {
-      "code": "Shells",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SHELLYEAH",
       "reward": "Expired reward",
       "status": "expired"
@@ -279,38 +174,8 @@
       "status": "expired"
     },
     {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "WAVERIDER",
       "reward": "22000 Cash",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
       "status": "expired"
     }
   ]

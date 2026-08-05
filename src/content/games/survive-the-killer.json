@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "luckyduck",
-      "reward": "Trance Fang ( )",
+      "reward": "Trance Fang",
       "status": "active"
     },
     {
@@ -149,11 +149,6 @@
       "status": "expired"
     },
     {
-      "code": "Killer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LUCKY2020",
       "reward": "Expired reward",
       "status": "expired"
@@ -230,11 +225,6 @@
     },
     {
       "code": "STK2YEARS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Survive",
       "reward": "Expired reward",
       "status": "expired"
     },

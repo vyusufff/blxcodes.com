@@ -30,22 +30,22 @@
   "codes": [
     {
       "code": "GPCAPREMOVAL",
-      "reward": "750 GP ( )",
+      "reward": "750 GP",
       "status": "active"
     },
     {
       "code": "GREBUGFIXES",
-      "reward": "500 GP ( )",
+      "reward": "500 GP",
       "status": "active"
     },
     {
       "code": "HTH",
-      "reward": "1000 GP ( )",
+      "reward": "1000 GP",
       "status": "active"
     },
     {
       "code": "HTHGAMES",
-      "reward": "500 GP ( )",
+      "reward": "500 GP",
       "status": "active"
     },
     {
@@ -74,11 +74,6 @@
       "status": "expired"
     },
     {
-      "code": "Ghoul",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "GHOULRETWITTER",
       "reward": "Expired reward",
       "status": "expired"
@@ -90,7 +85,7 @@
     },
     {
       "code": "grewillbegreatagain",
-      "reward": "300 GP ( )",
+      "reward": "300 GP",
       "status": "expired"
     },
     {
@@ -185,7 +180,7 @@
     },
     {
       "code": "rerererelease",
-      "reward": "300 GP ( )",
+      "reward": "300 GP",
       "status": "expired"
     },
     {
@@ -260,7 +255,7 @@
     },
     {
       "code": "welcomehomelorn",
-      "reward": "500 GP ( )",
+      "reward": "500 GP",
       "status": "expired"
     }
   ]

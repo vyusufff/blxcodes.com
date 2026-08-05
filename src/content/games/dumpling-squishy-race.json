@@ -35,12 +35,12 @@
     },
     {
       "code": "2MFavorites",
-      "reward": "500 Gems, 1 Power Potion, and Luck Potion ( )",
+      "reward": "500 Gems, 1 Power Potion, and Luck Potion",
       "status": "active"
     },
     {
       "code": "50KLikes",
-      "reward": "500 Gems, 1 Power Potion, and Luck Potion ( )",
+      "reward": "500 Gems, 1 Power Potion, and Luck Potion",
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "code": "SummerEvent",
-      "reward": "500 Gems, 1 Power Potion, and Luck Potion ( )",
+      "reward": "500 Gems, 1 Power Potion, and Luck Potion",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "code": "Update6",
-      "reward": "1000 Gems, 1 Power Potion, and Luck Potion ( )",
+      "reward": "1000 Gems, 1 Power Potion, and Luck Potion",
       "status": "active"
     },
     {
@@ -84,32 +84,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ABX",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventures",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "alongside",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,52 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "Car",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "collection",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Crushers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "customization",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Dealership",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "disappear",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "discover",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Driving",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -179,57 +114,7 @@
       "status": "expired"
     },
     {
-      "code": "Empire",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "everything",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "high-speed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Looking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Luckily",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Popular",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Race",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -244,42 +129,12 @@
       "status": "expired"
     },
     {
-      "code": "redemption",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "speed-focused",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "surprise",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     }

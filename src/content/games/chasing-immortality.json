@@ -30,36 +30,21 @@
   "codes": [
     {
       "code": "DELAYS",
-      "reward": "1 Heavens Pill ( )",
+      "reward": "1 Heavens Pill",
       "status": "active"
     },
     {
       "code": "FINALDEMONIC",
-      "reward": "100 Souls Fragments ( )",
+      "reward": "100 Souls Fragments",
       "status": "active"
     },
     {
       "code": "NOWAYUPDATE",
-      "reward": "250 Souls Fragments ( )",
+      "reward": "250 Souls Fragments",
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "9KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Abyss",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "alongside",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -69,67 +54,12 @@
       "status": "expired"
     },
     {
-      "code": "community",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "DEMONIC",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "favorites",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "File",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fisch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Horizons",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Immortality",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "important",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Joining",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -159,11 +89,6 @@
       "status": "expired"
     },
     {
-      "code": "Piece",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PRAY",
       "reward": "Expired reward",
       "status": "expired"
@@ -174,47 +99,7 @@
       "status": "expired"
     },
     {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sailor",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Save",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SHORTUPDATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Submit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "There",
       "reward": "Expired reward",
       "status": "expired"
     },

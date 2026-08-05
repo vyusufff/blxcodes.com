@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "BUTTERFLY",
-      "reward": "1000 Gems ( )",
+      "reward": "1000 Gems",
       "status": "active"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "code": "END",
-      "reward": "350,000 Stars ( )",
+      "reward": "350,000 Stars",
       "status": "active"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "code": "SUNGLASSES",
-      "reward": "500,000 Stars ( )",
+      "reward": "500,000 Stars",
       "status": "active"
     },
     {
@@ -139,16 +139,6 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Battle",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BATTLEPASS",
       "reward": "Expired reward",
       "status": "expired"
@@ -179,16 +169,6 @@
       "status": "expired"
     },
     {
-      "code": "Hunty",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Last",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "NEWYEAR",
       "reward": "Expired reward",
       "status": "expired"
@@ -204,17 +184,7 @@
       "status": "expired"
     },
     {
-      "code": "Plants",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "REAPER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RETURN",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -225,11 +195,6 @@
     },
     {
       "code": "SORRYFORDELAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Stand",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -255,11 +220,6 @@
     },
     {
       "code": "VALENTINE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zombies",
       "reward": "Expired reward",
       "status": "expired"
     }

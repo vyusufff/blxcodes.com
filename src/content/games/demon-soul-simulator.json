@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "100members",
-      "reward": "50 Epic Chests ( )",
+      "reward": "50 Epic Chests",
       "status": "active"
     },
     {
       "code": "200members",
-      "reward": "10 Legendary Chests ( )",
+      "reward": "10 Legendary Chests",
       "status": "active"
     },
     {
@@ -45,12 +45,12 @@
     },
     {
       "code": "400members",
-      "reward": "5 Mythic Chests ( )",
+      "reward": "5 Mythic Chests",
       "status": "active"
     },
     {
       "code": "50members",
-      "reward": "100 Rare Chests ( )",
+      "reward": "100 Rare Chests",
       "status": "active"
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "code": "wnxu8d",
-      "reward": "40k gold ( )",
+      "reward": "40k gold",
       "status": "active"
     },
     {
@@ -175,11 +175,6 @@
     },
     {
       "code": "bugfixed_1011",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Demon",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -260,16 +255,6 @@
     },
     {
       "code": "newzenitsu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soul",
       "reward": "Expired reward",
       "status": "expired"
     },

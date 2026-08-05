@@ -55,7 +55,7 @@
     },
     {
       "code": "FOURTH26",
-      "reward": "Redeem for 2,444,444 DHC ( )",
+      "reward": "Redeem for 2,444,444 DHC",
       "status": "active"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "code": "WORLDCUP26",
-      "reward": "Redeem for 2M DHC ( )",
+      "reward": "Redeem for 2M DHC",
       "status": "active"
     },
     {
@@ -120,11 +120,6 @@
     },
     {
       "code": "DAUP",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Duck",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -255,11 +250,6 @@
     },
     {
       "code": "VIP",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Watch",
       "reward": "Expired reward",
       "status": "expired"
     },

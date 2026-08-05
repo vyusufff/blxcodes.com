@@ -40,7 +40,7 @@
     },
     {
       "code": "REACTORDELAY",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -75,11 +75,6 @@
     },
     {
       "code": "APEXCOLLECTION",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Arena",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -124,11 +119,6 @@
       "status": "expired"
     },
     {
-      "code": "Enjoying",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "GAMEBROKE",
       "reward": "Expired reward",
       "status": "expired"
@@ -139,22 +129,7 @@
       "status": "expired"
     },
     {
-      "code": "Gone",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HELLENA",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hunting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hypershot",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -210,16 +185,6 @@
     },
     {
       "code": "SUPERSOAKED",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Take",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "These",
       "reward": "Expired reward",
       "status": "expired"
     },

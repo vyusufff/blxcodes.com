@@ -59,11 +59,6 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ASTRAL",
       "reward": "Expired reward",
       "status": "expired"
@@ -230,11 +225,6 @@
     },
     {
       "code": "UPDATE29",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Vanguards",
       "reward": "Expired reward",
       "status": "expired"
     },

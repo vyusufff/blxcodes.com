@@ -35,7 +35,7 @@
     },
     {
       "code": "HONEYFIXED",
-      "reward": "Logs and Honey Potions ( )",
+      "reward": "Logs and Honey Potions",
       "status": "active"
     },
     {
@@ -60,21 +60,11 @@
     },
     {
       "code": "VOIDPOTIONS",
-      "reward": "1x Void Dice, 5x of all Potions ( )",
+      "reward": "1x Void Dice, 5x of all Potions",
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ADMINABUSESOON",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Arena",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -89,32 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Car",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Cavity",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "communicate",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Crushers",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -124,32 +89,12 @@
       "status": "expired"
     },
     {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Element",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "everyone",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Flipper",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,32 +109,7 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Paint",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PATCHY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -199,27 +119,12 @@
       "status": "expired"
     },
     {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RNG",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Seek",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -250,16 +155,6 @@
     },
     {
       "code": "ULTRAX2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Want",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "whenever",
       "reward": "Expired reward",
       "status": "expired"
     }

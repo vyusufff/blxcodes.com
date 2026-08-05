@@ -60,31 +60,21 @@
     },
     {
       "code": "SIXLEGS",
-      "reward": "$500k Cash ( )",
+      "reward": "$500k Cash",
       "status": "active"
     },
     {
       "code": "SKYOCTOPUSGAME",
-      "reward": "$500k Cash ( )",
+      "reward": "$500k Cash",
       "status": "active"
     },
     {
       "code": "TRADING",
-      "reward": "$1M Cash and 1x Outfit Case ( )",
+      "reward": "$1M Cash and 1x Outfit Case",
       "status": "active"
     },
     {
       "code": "25MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -94,42 +84,12 @@
       "status": "expired"
     },
     {
-      "code": "Credit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Finding",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "finishing",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Game-like",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Game/Roblox",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -149,16 +109,6 @@
       "status": "expired"
     },
     {
-      "code": "Image",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "information",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "inspired",
       "reward": "Expired reward",
       "status": "expired"
@@ -169,17 +119,7 @@
       "status": "expired"
     },
     {
-      "code": "Ishan",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Jex",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -194,22 +134,12 @@
       "status": "expired"
     },
     {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "original",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Out",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platforms",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -224,52 +154,12 @@
       "status": "expired"
     },
     {
-      "code": "redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Redz",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Screenshot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SOSOSORRYFORTHEBUGS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Squid",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Studios",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "time-consuming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -30,12 +30,12 @@
   "codes": [
     {
       "code": "happy250",
-      "reward": "25 Emeralds ( )",
+      "reward": "25 Emeralds",
       "status": "active"
     },
     {
       "code": "NEWCHAPTER2731",
-      "reward": "25 Emeralds ( )",
+      "reward": "25 Emeralds",
       "status": "active"
     },
     {
@@ -49,27 +49,7 @@
       "status": "expired"
     },
     {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Apocalypse",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "apocalypseperks",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Basketball",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -80,21 +60,6 @@
     },
     {
       "code": "bloodharvest",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claim",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -114,22 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "Forge",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "hardmode62",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -139,22 +89,7 @@
       "status": "expired"
     },
     {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Looking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MIf",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MILITARY",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -179,21 +114,6 @@
       "status": "expired"
     },
     {
-      "code": "Racing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Survive",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "survivor",
       "reward": "Expired reward",
       "status": "expired"
@@ -204,42 +124,12 @@
       "status": "expired"
     },
     {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tired",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "twomonths",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Uma",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Volleyball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "weaponupgrade",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

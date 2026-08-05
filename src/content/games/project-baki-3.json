@@ -390,7 +390,7 @@
     },
     {
       "code": "WTestersThankYouSoMuch",
-      "reward": "Get 2M Yen ( )",
+      "reward": "Get 2M Yen",
       "status": "active"
     },
     {
@@ -535,11 +535,6 @@
     },
     {
       "code": "PORPOISEPARTY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Project",
       "reward": "Expired reward",
       "status": "expired"
     },

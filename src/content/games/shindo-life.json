@@ -60,7 +60,7 @@
     },
     {
       "code": "6YearsofShindoSoon!",
-      "reward": "Spins and Rellcoins ( )",
+      "reward": "Spins and Rellcoins",
       "status": "active"
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "code": "FACEIDFIXUPD!",
-      "reward": "150 Spins and 15k Rellcoins ( )",
+      "reward": "150 Spins and 15k Rellcoins",
       "status": "active"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "code": "FixingShindoBuggyTimes!",
-      "reward": "Spins and Rellcoins ( )",
+      "reward": "Spins and Rellcoins",
       "status": "active"
     },
     {
@@ -170,7 +170,7 @@
     },
     {
       "code": "LetsGOOOO40k!",
-      "reward": "Spins and Rellcoins ( )",
+      "reward": "Spins and Rellcoins",
       "status": "active"
     },
     {
@@ -225,7 +225,7 @@
     },
     {
       "code": "PatchUpdate249point5!",
-      "reward": "Spins and Rellcoins ( )",
+      "reward": "Spins and Rellcoins",
       "status": "active"
     },
     {
@@ -345,7 +345,7 @@
     },
     {
       "code": "ThankYouForPatience249Patch!",
-      "reward": "Spins and Rellcoins ( )",
+      "reward": "Spins and Rellcoins",
       "status": "active"
     },
     {
@@ -365,7 +365,7 @@
     },
     {
       "code": "TickDamageBugs!",
-      "reward": "Spins and Rellcoins ( )",
+      "reward": "Spins and Rellcoins",
       "status": "active"
     },
     {
@@ -505,11 +505,6 @@
     },
     {
       "code": "JankSwanky!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Life",
       "reward": "Expired reward",
       "status": "expired"
     },

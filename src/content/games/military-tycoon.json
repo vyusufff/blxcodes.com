@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "b21raider",
-      "reward": "1 Daily crate ( )",
+      "reward": "1 Daily crate",
       "status": "active"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "code": "loadsofdiamonds",
-      "reward": "50 Diamonds ( )",
+      "reward": "50 Diamonds",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "code": "wewantmore",
-      "reward": "1 Daily crate ( )",
+      "reward": "1 Daily crate",
       "status": "active"
     },
     {
@@ -229,11 +229,6 @@
       "status": "expired"
     },
     {
-      "code": "Military",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "military2022!",
       "reward": "Expired reward",
       "status": "expired"
@@ -265,11 +260,6 @@
     },
     {
       "code": "thereturn",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
       "reward": "Expired reward",
       "status": "expired"
     },

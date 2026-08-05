@@ -100,7 +100,7 @@
     },
     {
       "code": "CLANREWORK",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -115,12 +115,12 @@
     },
     {
       "code": "HURDLE",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "SEASON5",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -249,22 +249,7 @@
       "status": "expired"
     },
     {
-      "code": "Basketball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Football",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -274,17 +259,7 @@
       "status": "expired"
     },
     {
-      "code": "Infinity",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Legend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -299,27 +274,12 @@
       "status": "expired"
     },
     {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RNG",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "satisfied",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SCENARIO",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simply",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -345,11 +305,6 @@
     },
     {
       "code": "TYFOR100K",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ultimate",
       "reward": "Expired reward",
       "status": "expired"
     },

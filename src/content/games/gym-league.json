@@ -70,7 +70,7 @@
     },
     {
       "code": "Bonusgains",
-      "reward": "50 Cosmic, Shadow, Lightning, and Blood potions ( )",
+      "reward": "50 Cosmic, Shadow, Lightning, and Blood potions",
       "status": "active"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "code": "christmasgains",
-      "reward": "10 Candy Cane, 10 Gingerbread, 10 Protein Ham ( )",
+      "reward": "10 Candy Cane, 10 Gingerbread, 10 Protein Ham",
       "status": "active"
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "code": "frozen",
-      "reward": "10 Ice Cube, 10 Glacial Punch, 10 Cryo Charge ( )",
+      "reward": "10 Ice Cube, 10 Glacial Punch, 10 Cryo Charge",
       "status": "active"
     },
     {
@@ -165,7 +165,7 @@
     },
     {
       "code": "Junglegames",
-      "reward": "5 Sacred Flowers and 5 Bananas ( )",
+      "reward": "5 Sacred Flowers and 5 Bananas",
       "status": "active"
     },
     {
@@ -295,12 +295,12 @@
     },
     {
       "code": "Update30p2",
-      "reward": "3 Breakfast of champions, 3 Warriors lunch, and 3 Dinner of legends ( )",
+      "reward": "3 Breakfast of champions, 3 Warriors lunch, and 3 Dinner of legends",
       "status": "active"
     },
     {
       "code": "update31",
-      "reward": "5 Breakfast of champions, 5 Warriors Lunch, 5 Dinner of Legends ( )",
+      "reward": "5 Breakfast of champions, 5 Warriors Lunch, 5 Dinner of Legends",
       "status": "active"
     },
     {
@@ -364,11 +364,6 @@
       "status": "expired"
     },
     {
-      "code": "Being",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BETTERTOGETHER",
       "reward": "Expired reward",
       "status": "expired"
@@ -404,11 +399,6 @@
       "status": "expired"
     },
     {
-      "code": "Gym",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HALLOWEEN",
       "reward": "Expired reward",
       "status": "expired"
@@ -420,11 +410,6 @@
     },
     {
       "code": "HugeUpdateSoon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "League",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -475,11 +460,6 @@
     },
     {
       "code": "SORRYFORDELAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "strongest",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -50,7 +50,7 @@
     },
     {
       "code": "LimitlessV2",
-      "reward": "Race, Clan, and Technique spins ( )",
+      "reward": "Race, Clan, and Technique spins",
       "status": "active"
     },
     {
@@ -149,11 +149,6 @@
       "status": "expired"
     },
     {
-      "code": "Apart",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BloodManipulation",
       "reward": "Expired reward",
       "status": "expired"
@@ -164,17 +159,7 @@
       "status": "expired"
     },
     {
-      "code": "characters",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Christmas1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "collecting",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -185,11 +170,6 @@
     },
     {
       "code": "DisasterFlames",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "favorite",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -214,16 +194,6 @@
       "status": "expired"
     },
     {
-      "code": "Infinite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Infinity",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Ishigori",
       "reward": "Expired reward",
       "status": "expired"
@@ -239,22 +209,7 @@
       "status": "expired"
     },
     {
-      "code": "Jujutsu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Krampus",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legacy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -285,11 +240,6 @@
     },
     {
       "code": "WChristmas",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

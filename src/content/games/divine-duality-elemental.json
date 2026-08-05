@@ -150,7 +150,7 @@
     },
     {
       "code": "GRAVITY",
-      "reward": "Free Shards ( )",
+      "reward": "Free Shards",
       "status": "active"
     },
     {
@@ -339,32 +339,7 @@
       "status": "expired"
     },
     {
-      "code": "Duels",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "elemental",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Elemental",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grounds",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Have",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -414,17 +389,7 @@
       "status": "expired"
     },
     {
-      "code": "Take",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ThanksMrKaisel",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Use",
       "reward": "Expired reward",
       "status": "expired"
     },

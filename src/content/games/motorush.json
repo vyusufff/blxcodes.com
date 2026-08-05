@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "100KLIKES!",
-      "reward": "Redeem for 2000 Cash ( )",
+      "reward": "Redeem for 2000 Cash",
       "status": "active"
     },
     {
@@ -104,11 +104,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "8MVISITS",
       "reward": "Expired reward",
       "status": "expired"
@@ -124,42 +119,12 @@
       "status": "expired"
     },
     {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Credit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FREEBIKE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "Gaining",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Gift",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,32 +139,7 @@
       "status": "expired"
     },
     {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Image",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "League",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Motorcycle",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -219,22 +159,7 @@
       "status": "expired"
     },
     {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Racing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ReadyForNewMap",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "screenshot",
       "reward": "Expired reward",
       "status": "expired"
     },

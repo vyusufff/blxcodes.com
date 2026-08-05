@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "AbsoluteComedy",
-      "reward": "Get 200 Gems ( )",
+      "reward": "Get 200 Gems",
       "status": "active"
     },
     {
@@ -40,17 +40,17 @@
     },
     {
       "code": "FreeFrozen",
-      "reward": "Get 200 Gems ( )",
+      "reward": "Get 200 Gems",
       "status": "active"
     },
     {
       "code": "HeavenboundComplete",
-      "reward": "Get 200 Gems ( )",
+      "reward": "Get 200 Gems",
       "status": "active"
     },
     {
       "code": "JogoatAwakening",
-      "reward": "Get 200 Gems ( )",
+      "reward": "Get 200 Gems",
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "code": "MerryChristmas",
-      "reward": "Get 200 Gems ( )",
+      "reward": "Get 200 Gems",
       "status": "active"
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "code": "TojiAwk2",
-      "reward": "Get 150 Gems ( )",
+      "reward": "Get 150 Gems",
       "status": "active"
     },
     {
@@ -109,32 +109,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "alternatives",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Although",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Basketball",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -144,47 +119,7 @@
       "status": "expired"
     },
     {
-      "code": "Being",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "completely",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Don",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "explore!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "First",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Follow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -194,17 +129,7 @@
       "status": "expired"
     },
     {
-      "code": "Infinite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "JJK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jujutsu",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -214,52 +139,12 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Piece",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RagaSummon",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ShinjukuStrongest",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Simply",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "something",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -274,37 +159,12 @@
       "status": "expired"
     },
     {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Universal",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "username",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Verify",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "VIVEdevs",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Volleyball",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zero",
       "reward": "Expired reward",
       "status": "expired"
     }

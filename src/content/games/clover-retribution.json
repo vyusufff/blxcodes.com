@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "!beastmagic",
-      "reward": "300 trait spins, three hours of double EXP boost, and three hours of double drop boost ( )",
+      "reward": "300 trait spins, three hours of double EXP boost, and three hours of double drop boost",
       "status": "active"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "code": "!earlybirdgetsdaspins",
-      "reward": "250 spins of all types ( )",
+      "reward": "250 spins of all types",
       "status": "active"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "code": "!gravitydevilstuff",
-      "reward": "Spins of all types and one trait storage slot ( )",
+      "reward": "Spins of all types and one trait storage slot",
       "status": "active"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "code": "!snowmagic",
-      "reward": "300 race spins and one trait storage slot ( )",
+      "reward": "300 race spins and one trait storage slot",
       "status": "active"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "code": "!threadmagic",
-      "reward": "300 magic spins and one race storage slot ( )",
+      "reward": "300 magic spins and one race storage slot",
       "status": "active"
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "code": "!wspainplusdelay",
-      "reward": "250 spins of all types, 1 race storage and 1 trait storage ( )",
+      "reward": "250 spins of all types, 1 race storage and 1 trait storage",
       "status": "active"
     },
     {
@@ -280,11 +280,6 @@
     },
     {
       "code": "!wizardkingcontest",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Clover",
       "reward": "Expired reward",
       "status": "expired"
     },

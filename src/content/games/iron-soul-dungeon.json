@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "CELEBRATEFOR150KMEMBER",
-      "reward": "10 Race Reroll ( )",
+      "reward": "10 Race Reroll",
       "status": "active"
     },
     {
@@ -60,17 +60,17 @@
     },
     {
       "code": "IRONSOULWEEKEND17",
-      "reward": "3 Race Reroll ( )",
+      "reward": "3 Race Reroll",
       "status": "active"
     },
     {
       "code": "IRONSOULWEEKEND18",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "NEWMAP",
-      "reward": "5 Crystal Flake, 3 Crystal Prism, and 2 Race Reroll ( )",
+      "reward": "5 Crystal Flake, 3 Crystal Prism, and 2 Race Reroll",
       "status": "active"
     },
     {
@@ -80,12 +80,12 @@
     },
     {
       "code": "SCYTHEWEAPON",
-      "reward": "200 Origin Shards and 2 Race Reroll ( )",
+      "reward": "200 Origin Shards and 2 Race Reroll",
       "status": "active"
     },
     {
       "code": "SEASON2ENDING",
-      "reward": "Free Rewards ( )",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -134,17 +134,7 @@
       "status": "expired"
     },
     {
-      "code": "Dungeon",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "EXPEDITIONFIX",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fabled",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -229,16 +219,6 @@
       "status": "expired"
     },
     {
-      "code": "Legacy",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "LIMITEDGIFT1",
       "reward": "Expired reward",
       "status": "expired"
@@ -285,11 +265,6 @@
     },
     {
       "code": "ReWritten",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Soul",
       "reward": "Expired reward",
       "status": "expired"
     },

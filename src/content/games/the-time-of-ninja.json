@@ -30,7 +30,7 @@
   "codes": [
     {
       "code": "80MilVisits!",
-      "reward": "10 Spins of all types ( )",
+      "reward": "10 Spins of all types",
       "status": "active"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "code": "CustomChakraColors!",
-      "reward": "15 Spins of all types ( )",
+      "reward": "15 Spins of all types",
       "status": "active"
     },
     {
@@ -155,12 +155,12 @@
     },
     {
       "code": "MovesetUIRework!",
-      "reward": "15 Spins of all types ( )",
+      "reward": "15 Spins of all types",
       "status": "active"
     },
     {
       "code": "NewChakraJump!",
-      "reward": "15 Spins of all types ( )",
+      "reward": "15 Spins of all types",
       "status": "active"
     },
     {
@@ -190,7 +190,7 @@
     },
     {
       "code": "Reworks!",
-      "reward": "15 Spins of all types ( )",
+      "reward": "15 Spins of all types",
       "status": "active"
     },
     {
@@ -215,7 +215,7 @@
     },
     {
       "code": "SmallPatch!",
-      "reward": "10 Spins of all types ( )",
+      "reward": "10 Spins of all types",
       "status": "active"
     },
     {
@@ -250,7 +250,7 @@
     },
     {
       "code": "ThanksFor3KInterested!",
-      "reward": "50 Spins of all types ( )",
+      "reward": "50 Spins of all types",
       "status": "active"
     },
     {
@@ -460,11 +460,6 @@
     },
     {
       "code": "Throwables!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Time",
       "reward": "Expired reward",
       "status": "expired"
     },

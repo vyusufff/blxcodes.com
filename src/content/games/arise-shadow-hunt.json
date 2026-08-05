@@ -200,7 +200,7 @@
     },
     {
       "code": "Ou5N9z",
-      "reward": "6x Gilded Leaf Surge, 1x Luck Potion, 2x Rank Down Potion, 6x Cash Rolls, 6x Easter Box, 6x Red Core ( )",
+      "reward": "6x Gilded Leaf Surge, 1x Luck Potion, 2x Rank Down Potion, 6x Cash Rolls, 6x Easter Box, 6x Red Core",
       "status": "active"
     },
     {
@@ -359,32 +359,12 @@
       "status": "expired"
     },
     {
-      "code": "Arise",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BETA1",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Blade",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "cKZbwM",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -409,42 +389,7 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hunt",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "kX8KM0",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Project",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -454,37 +399,7 @@
       "status": "expired"
     },
     {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shadow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "shopping",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Slayer",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Slayers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "sSqfgA",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "straightforward",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -500,11 +415,6 @@
     },
     {
       "code": "URJXRK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "World",
       "reward": "Expired reward",
       "status": "expired"
     },

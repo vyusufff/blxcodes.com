@@ -45,17 +45,17 @@
     },
     {
       "code": "BUNGFRO2LUCK",
-      "reward": "5 Luck boost for 2 hours ( )",
+      "reward": "5 Luck boost for 2 hours",
       "status": "active"
     },
     {
       "code": "BUNGFRO2MONEY",
-      "reward": "5 Luck boost for 2 hours ( )",
+      "reward": "5 Luck boost for 2 hours",
       "status": "active"
     },
     {
       "code": "BUNGFROEXTRA",
-      "reward": "5 times money boost for 2 hours ( )",
+      "reward": "5 times money boost for 2 hours",
       "status": "active"
     },
     {
@@ -95,12 +95,12 @@
     },
     {
       "code": "SORRYFORRESTOCK",
-      "reward": "5 times Luck for 5 hours ( )",
+      "reward": "5 times Luck for 5 hours",
       "status": "active"
     },
     {
       "code": "SORRYFORRESTOCK2",
-      "reward": "3 times stock quantity for 2 hours ( )",
+      "reward": "3 times stock quantity for 2 hours",
       "status": "active"
     },
     {
@@ -119,92 +119,7 @@
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventures",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Announcement",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Card",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Collect",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "collection",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Collection",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Currently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "everything",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "following",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "freebies",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Grow",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -214,107 +129,7 @@
       "status": "expired"
     },
     {
-      "code": "interesting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "like-minded",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Making",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Not",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Other",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Pets",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Roll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Store",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "These",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "upcoming",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Verify",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Waifu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -50,7 +50,7 @@
     },
     {
       "code": "BLUEMOON",
-      "reward": "1 Deep Bucket ( )",
+      "reward": "1 Deep Bucket",
       "status": "active"
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "code": "FOSSILHUNT",
-      "reward": "1 Advanced Shovel ( )",
+      "reward": "1 Advanced Shovel",
       "status": "active"
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "code": "SUMMERPART2",
-      "reward": "1 Fossil Bucket ( )",
+      "reward": "1 Fossil Bucket",
       "status": "active"
     },
     {
@@ -214,11 +214,6 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "AXOPARTY",
       "reward": "Expired reward",
       "status": "expired"
@@ -239,27 +234,12 @@
       "status": "expired"
     },
     {
-      "code": "catching",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "DEEPSEA",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "ECHOINGDEEP",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fisch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Fish",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -334,17 +314,7 @@
       "status": "expired"
     },
     {
-      "code": "Own",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "POLISHES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Pond",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -385,11 +355,6 @@
     },
     {
       "code": "SUMMERWEEK3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Try",
       "reward": "Expired reward",
       "status": "expired"
     },

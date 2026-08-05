@@ -115,7 +115,7 @@
     },
     {
       "code": "GLORY7K4M9Q2X8P",
-      "reward": "160 Glory Prism ( )",
+      "reward": "160 Glory Prism",
       "status": "active"
     },
     {
@@ -175,12 +175,12 @@
     },
     {
       "code": "ZOO1STGIFTA",
-      "reward": "3x Hourglass and 1x Mint Jelly ( )",
+      "reward": "3x Hourglass and 1x Mint Jelly",
       "status": "active"
     },
     {
       "code": "ZOO1STY2026",
-      "reward": "1000 Diamond, 60 Climbing Trophy, and 3 Admin Speed Hourglass ( )",
+      "reward": "1000 Diamond, 60 Climbing Trophy, and 3 Admin Speed Hourglass",
       "status": "active"
     },
     {
@@ -199,16 +199,6 @@
       "status": "active"
     },
     {
-      "code": "8216",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ACORN251204",
       "reward": "Expired reward",
       "status": "expired"
@@ -219,27 +209,7 @@
       "status": "expired"
     },
     {
-      "code": "Also",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Brainrot",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BugFix829",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Build",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -254,22 +224,7 @@
       "status": "expired"
     },
     {
-      "code": "complete",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "definitely",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "E5GSDBK7ATX",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -279,17 +234,7 @@
       "status": "expired"
     },
     {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "HOLIDAYFUN1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Looking",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -304,22 +249,7 @@
       "status": "expired"
     },
     {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ROMANCEBLOOMS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Run",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -334,47 +264,12 @@
       "status": "expired"
     },
     {
-      "code": "Scroll",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SeasonOne",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Shop",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Steal",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Studio",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SurpriseGift",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tattoo",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "tutorial",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -390,11 +285,6 @@
     },
     {
       "code": "WEEKENDJOY5",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Zoo",
       "reward": "Expired reward",
       "status": "expired"
     }

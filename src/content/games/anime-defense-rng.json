@@ -38,7 +38,7 @@
     },
     {
       "code": "EISENBERNCASTLE",
-      "reward": "Cursed Fingers and Divine Rerolls ( )",
+      "reward": "Cursed Fingers and Divine Rerolls",
       "status": "active"
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "code": "SORRYFORSHUTDOWN6",
-      "reward": "Cursed Fingers and Divine Rerolls ( )",
+      "reward": "Cursed Fingers and Divine Rerolls",
       "status": "active"
     },
     {
@@ -128,12 +128,12 @@
     },
     {
       "code": "UPDATE5",
-      "reward": "Cursed Fingers and Divine Rerolls ( )",
+      "reward": "Cursed Fingers and Divine Rerolls",
       "status": "active"
     },
     {
       "code": "UPDATE6",
-      "reward": "Cursed Fingers and Divine Rerolls ( )",
+      "reward": "Cursed Fingers and Divine Rerolls",
       "status": "active"
     },
     {
@@ -142,97 +142,7 @@
       "status": "active"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "adventure",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Are",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "character",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "confusion",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defense",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "experiences",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "frequently",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "game-codes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Getting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Head",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Just",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "multiple",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -242,42 +152,12 @@
       "status": "expired"
     },
     {
-      "code": "prepared",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "protagonists",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Rails",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "recommend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "RNG",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Run",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Saga",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -292,52 +172,7 @@
       "status": "expired"
     },
     {
-      "code": "strongest",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Taking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "That",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "understand",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "understandable",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Well",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Why",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Wild",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -90,7 +90,7 @@
     },
     {
       "code": "MORETOKENS",
-      "reward": "10 Apex Tokens, 2 Orb of Potential ( )",
+      "reward": "10 Apex Tokens, 2 Orb of Potential",
       "status": "active"
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "code": "PLAYANIMEAPEX",
-      "reward": "200 Gems, 10 Orb of Potential ( )",
+      "reward": "200 Gems, 10 Orb of Potential",
       "status": "active"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "code": "SPIRIT",
-      "reward": "500 Gems, 5 Orb of Potential ( )",
+      "reward": "500 Gems, 5 Orb of Potential",
       "status": "active"
     },
     {
@@ -150,7 +150,7 @@
     },
     {
       "code": "UPDATE6",
-      "reward": "250 Gems, 2 Orb of Potential ( )",
+      "reward": "250 Gems, 2 Orb of Potential",
       "status": "active"
     },
     {
@@ -169,37 +169,7 @@
       "status": "expired"
     },
     {
-      "code": "Anime",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "announcements",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Apex",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Arise",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bipradeep",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bookmark",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,57 +179,7 @@
       "status": "expired"
     },
     {
-      "code": "characters",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Check",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Claim",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "collecting",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "comments",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "different",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "discussions",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "fruitful",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Get",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Hunt",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -269,32 +189,7 @@
       "status": "expired"
     },
     {
-      "code": "Infinite",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "JJK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Jujutsu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Let",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Love",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -304,62 +199,12 @@
       "status": "expired"
     },
     {
-      "code": "Otherwise",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PLAYNOW",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "regularly",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Select",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Shadow",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Then",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Try",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Type",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "UPDATE3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Want",
       "reward": "Expired reward",
       "status": "expired"
     }

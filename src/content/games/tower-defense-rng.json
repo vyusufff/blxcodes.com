@@ -50,7 +50,7 @@
     },
     {
       "code": "WeekendReward",
-      "reward": "Redeem code for 2 Rubies, 3 Ultra Luck Boosts, and 3 Roll Speed Boosts ( )",
+      "reward": "Redeem code for 2 Rubies, 3 Ultra Luck Boosts, and 3 Roll Speed Boosts",
       "status": "active"
     },
     {
@@ -85,11 +85,6 @@
     },
     {
       "code": "BIGWISH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defense",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -220,11 +215,6 @@
     },
     {
       "code": "theWeekend",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -30,51 +30,11 @@
   "codes": [
     {
       "code": "H4PPYH4LLOW33N",
-      "reward": "Get Pastel Trail ( )",
+      "reward": "Get Pastel Trail",
       "status": "active"
     },
     {
       "code": "2026",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "accounts",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "additional",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Adhikary",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Articles",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmark",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bookmarking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dandy",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -84,27 +44,7 @@
       "status": "expired"
     },
     {
-      "code": "developers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "difficult",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Evade",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Find",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -114,32 +54,12 @@
       "status": "expired"
     },
     {
-      "code": "Gift",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "However",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Hyper",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Ishan",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ITSBEENAMINUTE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,16 +84,6 @@
       "status": "expired"
     },
     {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "occasionally",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Pyro",
       "reward": "Expired reward",
       "status": "expired"
@@ -184,37 +94,7 @@
       "status": "expired"
     },
     {
-      "code": "Related",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "released",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Runner",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Sanmay",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Speed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Still",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Take",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -225,11 +105,6 @@
     },
     {
       "code": "vXbeHgs1V5",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "World",
       "reward": "Expired reward",
       "status": "expired"
     }

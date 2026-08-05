@@ -9,6 +9,7 @@
 import fs from 'fs';
 import path from 'path';
 import { execFileSync } from 'child_process';
+import { isProseToken } from './prose-words.mjs';
 
 const ROOT = process.cwd();
 const GAMES_DIR = path.join(ROOT, 'src/content/games');
@@ -70,7 +71,11 @@ function decodeEntities(s) {
     .replace(/&#39;/g, "'")
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
-    .replace(/&nbsp;/g, ' ');
+    .replace(/&nbsp;/g, ' ')
+    // Smart quotes and ellipses arrive as numeric entities; left undecoded their
+    // digits survive tokenizing and look like codes ("8216", "8230").
+    .replace(/&#(\d{2,5});/g, (_, dec) => String.fromCodePoint(Number(dec)))
+    .replace(/&#x([0-9a-f]{2,5});/gi, (_, hex) => String.fromCodePoint(parseInt(hex, 16)));
 }
 
 function htmlToText(html) {
@@ -112,6 +117,34 @@ function findExpiredSplit(text) {
   return best;
 }
 
+/** Prose sections that follow the expired list; scanning them yields fake codes. */
+const AFTER_EXPIRED = [
+  /how to redeem/i,
+  /how to use/i,
+  /how to get (more|new)/i,
+  /how do (i|you)/i,
+  /how can (i|you)/i,
+  /other free rewards/i,
+  /where to find/i,
+  /related articles/i,
+  /recommended articles/i,
+  /more in gaming/i,
+  /frequently asked/i,
+  /leave a comment/i,
+  /about the author/i,
+];
+
+function findExpiredEnd(text, from) {
+  const tail = text.slice(from);
+  let end = text.length;
+  for (const re of AFTER_EXPIRED) {
+    const m = re.exec(tail);
+    // Skip a match at the very start: that is the heading we just split on.
+    if (m && m.index > 0) end = Math.min(end, from + m.index);
+  }
+  return end;
+}
+
 function parseRewardPairs(section) {
   const pairs = new Map();
   const lines = section.split('\n').map((l) => l.trim()).filter(Boolean);
@@ -126,7 +159,12 @@ function parseRewardPairs(section) {
     );
     if (!m) continue;
     const code = m[1].trim();
-    const reward = m[2].replace(/\s+/g, ' ').trim();
+    // Stripping the "NEW" badge can leave empty brackets behind.
+    const reward = m[2]
+      .replace(/\(\s*\)/g, '')
+      .replace(/\[\s*\]/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
     if (!looksLikeCode(code)) continue;
     if (!reward || reward.length < 2 || reward.length > 180) continue;
     pairs.set(code, reward);
@@ -134,12 +172,25 @@ function parseRewardPairs(section) {
   return pairs;
 }
 
+/**
+ * A bare token (no "code - reward" pair to vouch for it) is only trusted when it
+ * carries code-like shape. Plain prose words are the main source of fake codes.
+ */
+function looksLikeBareCode(token) {
+  if (isProseToken(token)) return false;
+  // Hyphens are common in prose ("step-by-step"), so they do not vouch for a code.
+  if (/[0-9_!]/.test(token)) return true;
+  if (/^[A-Z]+$/.test(token)) return token.length >= 4;
+  const uppercase = (token.match(/[A-Z]/g) || []).length;
+  return uppercase >= 3 && token.length >= 8;
+}
+
 function parseBareCodes(section) {
   const out = new Map();
   const tokens = section.match(/[A-Za-z0-9!_\-/]{3,48}/g) || [];
   for (const t of tokens) {
     if (!looksLikeCode(t)) continue;
-    if (/^[a-z]+$/.test(t) && t.length < 8) continue;
+    if (!looksLikeBareCode(t)) continue;
     out.set(t, 'Expired reward');
   }
   return out;
@@ -151,7 +202,7 @@ function parseSource(text) {
   }
   const idx = findExpiredSplit(text);
   const activeText = idx >= 0 ? text.slice(0, idx) : text;
-  const expiredText = idx >= 0 ? text.slice(idx) : '';
+  const expiredText = idx >= 0 ? text.slice(idx, findExpiredEnd(text, idx)) : '';
   const working =
     /all\s+working[\s\w]*codes|working\s+[\w\s]{0,40}codes|active\s+[\w\s]{0,40}codes|all\s+new[\s\w]*codes/i.exec(
       activeText,

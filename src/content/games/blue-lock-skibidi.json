@@ -40,7 +40,7 @@
     },
     {
       "code": "ItsASecretCode",
-      "reward": "100k Cash ( )",
+      "reward": "100k Cash",
       "status": "active"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "code": "SorryForRestartServer",
-      "reward": "100k Cash ( )",
+      "reward": "100k Cash",
       "status": "active"
     },
     {
@@ -79,17 +79,7 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Aiku",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Apart",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -104,27 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "Blue",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Chigiri",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "donlorenzo",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Forge",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -144,21 +119,6 @@
       "status": "expired"
     },
     {
-      "code": "Launch",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Legends",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Lock",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "MERRYCHRISTMAS!!!",
       "reward": "Expired reward",
       "status": "expired"
@@ -169,17 +129,7 @@
       "status": "expired"
     },
     {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "realreoawk",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Redeeming",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -189,17 +139,7 @@
       "status": "expired"
     },
     {
-      "code": "Rivals",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Santa!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Skibidi",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -229,17 +169,7 @@
       "status": "expired"
     },
     {
-      "code": "step-by-step",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "TheKing",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Volleyball",
       "reward": "Expired reward",
       "status": "expired"
     },

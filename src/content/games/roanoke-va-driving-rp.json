@@ -35,7 +35,7 @@
     },
     {
       "code": "EXCUSE",
-      "reward": "80k Cash ( )",
+      "reward": "80k Cash",
       "status": "active"
     },
     {
@@ -80,11 +80,6 @@
     },
     {
       "code": "CHOCOLATEBUNNY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Driving",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -64,11 +64,6 @@
       "status": "expired"
     },
     {
-      "code": "Blade",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "BUGFIXAGAIN",
       "reward": "Expired reward",
       "status": "expired"
@@ -90,11 +85,6 @@
     },
     {
       "code": "DEFEATJACK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Demon",
       "reward": "Expired reward",
       "status": "expired"
     },

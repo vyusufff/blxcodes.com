@@ -280,7 +280,7 @@
     },
     {
       "code": "MagneticUpgrade",
-      "reward": "2x drop 1 hour ( )",
+      "reward": "2x drop 1 hour",
       "status": "active"
     },
     {
@@ -375,7 +375,7 @@
     },
     {
       "code": "REALPUNK!!!",
-      "reward": "2x xp for 30 mins ( )",
+      "reward": "2x xp for 30 mins",
       "status": "active"
     },
     {
@@ -655,11 +655,6 @@
     },
     {
       "code": "OnePieceUpdSoon!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Part",
       "reward": "Expired reward",
       "status": "expired"
     },

@@ -35,7 +35,7 @@
     },
     {
       "code": "4THJULY",
-      "reward": "Redeem for $80,000 ( )",
+      "reward": "Redeem for $80,000",
       "status": "active"
     },
     {
@@ -225,7 +225,7 @@
     },
     {
       "code": "MX5CUP",
-      "reward": "Redeem for $80,000 ( )",
+      "reward": "Redeem for $80,000",
       "status": "active"
     },
     {
@@ -344,11 +344,6 @@
       "status": "expired"
     },
     {
-      "code": "Car",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "COLLECTORCAR",
       "reward": "Expired reward",
       "status": "expired"
@@ -360,11 +355,6 @@
     },
     {
       "code": "CUSTOM200",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Dealership",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -490,11 +480,6 @@
     },
     {
       "code": "TRADING",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tycoon",
       "reward": "Expired reward",
       "status": "expired"
     },

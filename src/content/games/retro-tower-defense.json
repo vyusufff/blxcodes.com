@@ -75,7 +75,7 @@
     },
     {
       "code": "MMMPIZZA",
-      "reward": "500 Tix and 10 3x Luck Summons ( )",
+      "reward": "500 Tix and 10 3x Luck Summons",
       "status": "active"
     },
     {
@@ -109,37 +109,12 @@
       "status": "expired"
     },
     {
-      "code": "8217",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ANOMALY",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "checking",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CHICKEN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "consider",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Credit",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Defense",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -164,32 +139,12 @@
       "status": "expired"
     },
     {
-      "code": "Enter",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "FreeBoosts",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Garden",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Image",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "Inventory",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Launch",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,26 +164,6 @@
       "status": "expired"
     },
     {
-      "code": "Now",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Once",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "platform",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "pop-up",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "REALCODE",
       "reward": "Expired reward",
       "status": "expired"
@@ -244,16 +179,6 @@
       "status": "expired"
     },
     {
-      "code": "Simulator",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Since",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "SKINSMEANWINS",
       "reward": "Expired reward",
       "status": "expired"
@@ -265,11 +190,6 @@
     },
     {
       "code": "SUMMONER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Tower",
       "reward": "Expired reward",
       "status": "expired"
     },
