@@ -1,0 +1,97 @@
+{
+  "title": "Shovel It Codes (August 2026)",
+  "gameName": "Shovel It",
+  "description": "Working Shovel It codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-05",
+  "checkedAt": "2026-08-05",
+  "featured": true,
+  "cover": "/images/games/card/shovel-it.webp",
+  "placeId": 133832344745984,
+  "howTo": [
+    "Launch Shovel It on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Shovel It codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Shovel It code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Shovel It codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "UPDATE4",
+      "reward": "8 minutes of 2x Power and 75,000 Coins",
+      "status": "active"
+    },
+    {
+      "code": "IHATEDELAYS",
+      "reward": "250,000 Coins",
+      "status": "active"
+    },
+    {
+      "code": "OPTIMIZATION",
+      "reward": "10 minutes of 2x Luck and 10,000 Coins",
+      "status": "active"
+    },
+    {
+      "code": "2MVISITS",
+      "reward": "10 minutes of 2x strength and 10 minutes of 2x luck",
+      "status": "active"
+    },
+    {
+      "code": "QOL",
+      "reward": "100k money",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE2",
+      "reward": "5 minutes 2x Power",
+      "status": "active"
+    },
+    {
+      "code": "RADU",
+      "reward": "5 minutes of 2x Power",
+      "status": "active"
+    },
+    {
+      "code": "SECONDUPDATE",
+      "reward": "1 Lost Relic Rerolls and 5 minutes of 2x Luck",
+      "status": "active"
+    },
+    {
+      "code": "1MVISITS",
+      "reward": "50,000 Coins, 1 Lost Relic Rerolls, 5 minutes of 2x Mining Power and 5 minutes of 2x Luck",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORSHUTDOWN3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFORSHUTDOWN2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FIRSTUPDATE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BUGFIXES",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}

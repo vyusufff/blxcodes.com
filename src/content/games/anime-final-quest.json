@@ -2,8 +2,8 @@
   "title": "Anime Final Quest Codes (August 2026)",
   "gameName": "Anime Final Quest",
   "description": "Working Anime Final Quest codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-08-05",
+  "checkedAt": "2026-08-05",
   "featured": true,
   "cover": "/images/games/card/anime-final-quest.webp",
   "placeId": 100744519298647,
@@ -66,6 +66,11 @@
     {
       "code": "PROMISEDCODE",
       "reward": "20 Statue Crowns, 20 Soul Manipulator Hands and 3 Million Gold",
+      "status": "active"
+    },
+    {
+      "code": "QUESTANDTOWERFIX",
+      "reward": "50 Raid Tickets, 100 Weapon Lucky Spins, 50 Gear Lucky Spins, 150 Runes, 1M Gold, and 10 Statue’s Crowns",
       "status": "active"
     },
     {

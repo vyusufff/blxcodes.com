@@ -1,0 +1,77 @@
+{
+  "title": "Southwest Florida Codes (August 2026)",
+  "gameName": "Southwest Florida",
+  "description": "Working Southwest Florida codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-05",
+  "checkedAt": "2026-08-05",
+  "featured": true,
+  "cover": "/images/games/card/southwest-florida.webp",
+  "placeId": 5104202731,
+  "howTo": [
+    "Launch Southwest Florida on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Southwest Florida codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Southwest Florida code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Southwest Florida codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "XMASLIGHTS",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "CHRISTMAS24",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "GULL1BL3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "INDEV",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MUTUALLYASSUREDDESTRUCTION",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CHRISTMAS22",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SUMMER2022",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2022",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "YABOII",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}
