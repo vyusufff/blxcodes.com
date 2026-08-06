@@ -1,0 +1,77 @@
+{
+  "title": "Vesteria Codes (August 2026)",
+  "gameName": "Vesteria",
+  "description": "Working Vesteria codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-06",
+  "checkedAt": "2026-08-06",
+  "featured": true,
+  "cover": "/images/games/card/vesteria.webp",
+  "placeId": 2376885433,
+  "howTo": [
+    "Launch Vesteria on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Vesteria codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Vesteria code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Vesteria codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "MushFriend",
+      "reward": "baby mush pet",
+      "status": "active"
+    },
+    {
+      "code": "ImHappy",
+      "reward": "free rewards",
+      "status": "active"
+    },
+    {
+      "code": "RealFreeStuff",
+      "reward": "free rewards",
+      "status": "active"
+    },
+    {
+      "code": "StatReset",
+      "reward": "free rewards",
+      "status": "active"
+    },
+    {
+      "code": "OceanLaunch22",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "VesteriaBDay",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "4thBday",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "KySK_01V",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Surprise!",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}

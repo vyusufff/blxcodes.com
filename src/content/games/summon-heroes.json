@@ -1,9 +1,9 @@
 {
-  "title": "Summon Heroes Codes (July 2026)",
+  "title": "Summon Heroes Codes (August 2026)",
   "gameName": "Summon Heroes",
   "description": "Working Summon Heroes codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-06",
+  "checkedAt": "2026-08-06",
   "featured": true,
   "cover": "/images/games/card/summon-heroes.webp",
   "placeId": 117381420723145,
@@ -44,13 +44,13 @@
       "status": "active"
     },
     {
-      "code": "DIVINE",
-      "reward": "5x Trait Rerolls",
+      "code": "DUNGEONZ",
+      "reward": "3x Mythic Shards",
       "status": "active"
     },
     {
-      "code": "DUNGEONZ",
-      "reward": "3x Mythic Shards",
+      "code": "GEAROUTNOW",
+      "reward": "250 gems and 5 Fusion Crystals",
       "status": "active"
     },
     {
@@ -74,26 +74,6 @@
       "status": "active"
     },
     {
-      "code": "RUNEHYPE",
-      "reward": "10x Trait Rerolls",
-      "status": "active"
-    },
-    {
-      "code": "RUNELAUNCH",
-      "reward": "10x Trait Rerolls",
-      "status": "active"
-    },
-    {
-      "code": "SECRETWEEK",
-      "reward": "10x Trait Rerolls",
-      "status": "active"
-    },
-    {
-      "code": "SORRY4DELAY",
-      "reward": "20x Trait Rerolls",
-      "status": "active"
-    },
-    {
       "code": "SUMMERHYPE",
       "reward": "5x Summon Tickets",
       "status": "active"
@@ -101,16 +81,6 @@
     {
       "code": "SUNSET",
       "reward": "5x Legendary Crystals",
-      "status": "active"
-    },
-    {
-      "code": "TIDESEASON",
-      "reward": "10x Trait Rerolls",
-      "status": "active"
-    },
-    {
-      "code": "TIDESWEEKTWO",
-      "reward": "500 Gems and 5 Rare Fusion Crystals",
       "status": "active"
     },
     {
@@ -122,6 +92,11 @@
       "code": "ULTIMATE",
       "reward": "5x Trait Rerolls",
       "status": "active"
+    },
+    {
+      "code": "DIVINE",
+      "reward": "5x Trait Rerolls",
+      "status": "expired"
     },
     {
       "code": "DIVINEORSERAPH",
@@ -159,8 +134,38 @@
       "status": "expired"
     },
     {
+      "code": "RUNEHYPE",
+      "reward": "10x Trait Rerolls",
+      "status": "expired"
+    },
+    {
+      "code": "RUNELAUNCH",
+      "reward": "10x Trait Rerolls",
+      "status": "expired"
+    },
+    {
+      "code": "SECRETWEEK",
+      "reward": "10x Trait Rerolls",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY4DELAY",
+      "reward": "20x Trait Rerolls",
+      "status": "expired"
+    },
+    {
       "code": "Summon",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TIDESEASON",
+      "reward": "10x Trait Rerolls",
+      "status": "expired"
+    },
+    {
+      "code": "TIDESWEEKTWO",
+      "reward": "500 Gems and 5 Rare Fusion Crystals",
       "status": "expired"
     },
     {
