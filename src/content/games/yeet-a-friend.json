@@ -1,9 +1,9 @@
 {
-  "title": "Yeet a Friend Codes (July 2026)",
+  "title": "Yeet a Friend Codes (August 2026)",
   "gameName": "Yeet a Friend",
   "description": "Working Yeet a Friend codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-06",
+  "checkedAt": "2026-08-06",
   "featured": true,
   "cover": "/images/games/card/yeet-a-friend.webp",
   "placeId": 11708967881,
@@ -36,6 +36,11 @@
     {
       "code": "Aztec",
       "reward": "3x Wheel Spins",
+      "status": "active"
+    },
+    {
+      "code": "BEACHDAY",
+      "reward": "4x Wheel Spins",
       "status": "active"
     },
     {
@@ -169,6 +174,11 @@
       "status": "active"
     },
     {
+      "code": "SUMMERYEET",
+      "reward": "5000x Seashells",
+      "status": "active"
+    },
+    {
       "code": "SUPERCAR",
       "reward": "3x Wheel Spins",
       "status": "active"
@@ -181,6 +191,11 @@
     {
       "code": "TOPYEET",
       "reward": "10K Stars",
+      "status": "active"
+    },
+    {
+      "code": "TRIPLETROUBLE",
+      "reward": "1x Luck and Energy Boost",
       "status": "active"
     },
     {

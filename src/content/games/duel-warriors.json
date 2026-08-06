@@ -2,8 +2,8 @@
   "title": "Duel Warriors Codes (August 2026)",
   "gameName": "Duel Warriors",
   "description": "Working Duel Warriors codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-04",
-  "checkedAt": "2026-08-04",
+  "updatedAt": "2026-08-06",
+  "checkedAt": "2026-08-06",
   "featured": true,
   "cover": "/images/games/card/duel-warriors.webp",
   "placeId": 100400297022629,
@@ -69,6 +69,11 @@
       "status": "active"
     },
     {
+      "code": "GEM20260806",
+      "reward": "50 Gems",
+      "status": "active"
+    },
+    {
       "code": "GOLD20260618",
       "reward": "5k Gold",
       "status": "active"
@@ -100,6 +105,11 @@
     },
     {
       "code": "GOLD20260730",
+      "reward": "5k Gold",
+      "status": "active"
+    },
+    {
+      "code": "GOLD20260806",
       "reward": "5k Gold",
       "status": "active"
     },

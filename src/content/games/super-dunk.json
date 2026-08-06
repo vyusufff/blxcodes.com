@@ -1,0 +1,82 @@
+{
+  "title": "Super Dunk Codes (August 2026)",
+  "gameName": "Super Dunk",
+  "description": "Working Super Dunk codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-06",
+  "checkedAt": "2026-08-06",
+  "featured": true,
+  "cover": "/images/games/card/super-dunk.webp",
+  "placeId": 12244208211,
+  "howTo": [
+    "Launch Super Dunk on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Super Dunk codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Super Dunk code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Super Dunk codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "SUPEROP",
+      "reward": "OP pet",
+      "status": "active"
+    },
+    {
+      "code": "LEVELUP",
+      "reward": "power",
+      "status": "active"
+    },
+    {
+      "code": "SUPERPOWER",
+      "reward": "power",
+      "status": "active"
+    },
+    {
+      "code": "POWERSUPPLY",
+      "reward": "power",
+      "status": "active"
+    },
+    {
+      "code": "SOSHINY",
+      "reward": "gold three egg",
+      "status": "active"
+    },
+    {
+      "code": "BEANS",
+      "reward": "1k power",
+      "status": "active"
+    },
+    {
+      "code": "25HUNDO",
+      "reward": "gold two egg",
+      "status": "active"
+    },
+    {
+      "code": "BEEPBOOP",
+      "reward": "happy bot pet",
+      "status": "active"
+    },
+    {
+      "code": "BIGDUNK",
+      "reward": "1k wins and 1k power",
+      "status": "active"
+    },
+    {
+      "code": "BOSSCAT",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}
