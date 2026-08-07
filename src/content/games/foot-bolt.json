@@ -1,0 +1,47 @@
+{
+  "title": "Foot Bolt Codes (August 2026)",
+  "gameName": "Foot Bolt",
+  "description": "Working Foot Bolt codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-07",
+  "checkedAt": "2026-08-07",
+  "featured": true,
+  "cover": "/images/games/card/foot-bolt.webp",
+  "placeId": 98484885893001,
+  "howTo": [
+    "Launch Foot Bolt on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Foot Bolt codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Foot Bolt code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Foot Bolt codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "SORRYFORTHEBUGSAGAIN",
+      "reward": "4000 Cash",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORBUGS",
+      "reward": "4000 Cash",
+      "status": "active"
+    },
+    {
+      "code": "THINGBUGGEDAGAIN",
+      "reward": "4000 Cash",
+      "status": "active"
+    }
+  ]
+}
