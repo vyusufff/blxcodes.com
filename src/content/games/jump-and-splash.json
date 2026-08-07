@@ -1,0 +1,47 @@
+{
+  "title": "Jump and Splash Codes (August 2026)",
+  "gameName": "Jump and Splash",
+  "description": "Working Jump and Splash codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-07",
+  "checkedAt": "2026-08-07",
+  "featured": true,
+  "cover": "/images/games/card/jump-and-splash.webp",
+  "placeId": 123890198221958,
+  "howTo": [
+    "Launch Jump and Splash on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Jump and Splash codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Jump and Splash code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Jump and Splash codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "Season",
+      "reward": "1 Double Coins Potion",
+      "status": "active"
+    },
+    {
+      "code": "JUMP",
+      "reward": "1 Double Coins Potion",
+      "status": "active"
+    },
+    {
+      "code": "WATER",
+      "reward": "1 Golden Potion",
+      "status": "active"
+    }
+  ]
+}

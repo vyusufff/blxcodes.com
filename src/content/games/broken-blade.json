@@ -1,9 +1,9 @@
 {
-  "title": "Broken Blade Codes (July 2026)",
+  "title": "Broken Blade Codes (August 2026)",
   "gameName": "Broken Blade",
   "description": "Working Broken Blade codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-07",
+  "checkedAt": "2026-08-07",
   "featured": true,
   "cover": "/images/games/card/broken-blade.webp",
   "placeId": 97387256206808,
@@ -86,6 +86,11 @@
     {
       "code": "BBDC65K",
       "reward": "3 Red Orb and 3 Igniter ( , limited to 70k claims)",
+      "status": "active"
+    },
+    {
+      "code": "ENDLESSTOWER",
+      "reward": "1 Dmg Potion, 1 Unbroken Potion, 1 Wisdom Potion, 1 Cooldown Potion, 1 Luck Potion, and 1 EXP Potion ( , limited to 70k claims)",
       "status": "active"
     },
     {
