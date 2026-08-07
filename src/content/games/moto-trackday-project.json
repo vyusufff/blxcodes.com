@@ -1,9 +1,9 @@
 {
-  "title": "Moto Trackday Project Codes (July 2026)",
+  "title": "Moto Trackday Project Codes (August 2026)",
   "gameName": "Moto Trackday Project",
   "description": "Working Moto Trackday Project codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-07",
+  "checkedAt": "2026-08-07",
   "featured": true,
   "cover": "/images/games/card/moto-trackday-project.webp",
   "placeId": 14060589927,
@@ -49,12 +49,22 @@
       "status": "active"
     },
     {
+      "code": "MTPS6_APIALVERO556",
+      "reward": "Redeem for IDR",
+      "status": "active"
+    },
+    {
       "code": "STREAK_SUPERNOODLEJR09",
       "reward": "Redeem for 25 million cash",
       "status": "active"
     },
     {
       "code": "SUPERNOODLE_JR09",
+      "reward": "Redeem for 25 million cash",
+      "status": "active"
+    },
+    {
+      "code": "WSUPERNOODLE_JR09",
       "reward": "Redeem for 25 million cash",
       "status": "active"
     },

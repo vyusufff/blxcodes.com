@@ -1,9 +1,9 @@
 {
-  "title": "Restaurant Tycoon 3 Codes (July 2026)",
+  "title": "Restaurant Tycoon 3 Codes (August 2026)",
   "gameName": "Restaurant Tycoon 3",
   "description": "Working Restaurant Tycoon 3 codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-07",
+  "checkedAt": "2026-08-07",
   "featured": true,
   "cover": "/images/games/card/restaurant-tycoon-3.webp",
   "placeId": 119048529960596,
@@ -31,6 +31,11 @@
     {
       "code": "africa",
       "reward": "Get 10 Diamonds",
+      "status": "active"
+    },
+    {
+      "code": "banana26",
+      "reward": "Get Free Rewards",
       "status": "active"
     },
     {

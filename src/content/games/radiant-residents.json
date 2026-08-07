@@ -1,0 +1,67 @@
+{
+  "title": "Radiant Residents Codes (August 2026)",
+  "gameName": "Radiant Residents",
+  "description": "Working Radiant Residents codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-07",
+  "checkedAt": "2026-08-07",
+  "featured": true,
+  "cover": "/images/games/card/radiant-residents.webp",
+  "placeId": 13950108612,
+  "howTo": [
+    "Launch Radiant Residents on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Radiant Residents codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Radiant Residents code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Radiant Residents codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "WACKYWORLDS",
+      "reward": "200 sanity points (!)",
+      "status": "active"
+    },
+    {
+      "code": "BBQ",
+      "reward": "350 sanity points",
+      "status": "active"
+    },
+    {
+      "code": "Outbreak",
+      "reward": "400 sanity points",
+      "status": "active"
+    },
+    {
+      "code": "1YEAR",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CHRISTMAS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BETA",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UmmmOkayWhat",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}
