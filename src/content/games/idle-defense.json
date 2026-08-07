@@ -2,8 +2,8 @@
   "title": "Idle Defense Codes (August 2026)",
   "gameName": "Idle Defense",
   "description": "Working Idle Defense codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-05",
-  "checkedAt": "2026-08-05",
+  "updatedAt": "2026-08-07",
+  "checkedAt": "2026-08-07",
   "featured": true,
   "cover": "/images/games/card/idle-defense.webp",
   "placeId": 81505591700031,
@@ -29,39 +29,14 @@
   ],
   "codes": [
     {
-      "code": "50DARKAURA",
-      "reward": "50 dark aura",
-      "status": "active"
-    },
-    {
       "code": "LONELYTREE25",
       "reward": "25 dark aura",
       "status": "active"
     },
     {
-      "code": "FREE50DARKAURA1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FREE50DARKAURA2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NEWBIE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BROCKTHEPIRATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SUMMEREVENT25",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "OLYMPUSEVENT25",
+      "reward": "rewards (!)",
+      "status": "active"
     },
     {
       "code": "15MILVISITS",
@@ -69,23 +44,18 @@
       "status": "expired"
     },
     {
-      "code": "RANDOMDARKAURACODE25",
+      "code": "2026",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "ICOULDNOTTHINKOFACODENAME",
+      "code": "3DS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "RETROSLOPSKIN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RETROEVENT10",
-      "reward": "Expired reward",
+      "code": "50DARKAURA",
+      "reward": "50 dark aura",
       "status": "expired"
     },
     {
@@ -99,17 +69,52 @@
       "status": "expired"
     },
     {
+      "code": "BROCKTHEPIRATE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FREE50DARKAURA1",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FREE50DARKAURA2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "HAPPYEASTER50",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "ICOULDNOTTHINKOFACODENAME",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "3DS",
+      "code": "NEWBIE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RANDOMDARKAURACODE25",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RETROEVENT10",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RETROSLOPSKIN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SUMMEREVENT25",
       "reward": "Expired reward",
       "status": "expired"
     }

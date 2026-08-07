@@ -2,8 +2,8 @@
   "title": "Anime Fighting Simulator Codes (August 2026)",
   "gameName": "Anime Fighting Simulator",
   "description": "Working Anime Fighting Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-04",
-  "checkedAt": "2026-08-04",
+  "updatedAt": "2026-08-07",
+  "checkedAt": "2026-08-07",
   "featured": true,
   "cover": "/images/games/card/anime-fighting-simulator.webp",
   "placeId": 100429474155186,
@@ -81,6 +81,11 @@
     {
       "code": "MIDBUGFIX",
       "reward": "1000 Chikara, 1 Server Boost, 2 Stat Boosts, and 2 Yen Boosts",
+      "status": "active"
+    },
+    {
+      "code": "MIDWEEK",
+      "reward": "500 Tensei Shards, 2 Training Speed Boosts, 2 Yen Boosts, and 10 Trait Rerolls",
       "status": "active"
     },
     {

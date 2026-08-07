@@ -2,8 +2,8 @@
   "title": "Build a Military Base Codes (August 2026)",
   "gameName": "Build a Military Base",
   "description": "Working Build a Military Base codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-01",
-  "checkedAt": "2026-08-01",
+  "updatedAt": "2026-08-07",
+  "checkedAt": "2026-08-07",
   "featured": true,
   "cover": "/images/games/card/build-a-military-base.webp",
   "placeId": 91440994157417,
@@ -31,6 +31,11 @@
     {
       "code": "120000LIKES",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "123BUGFIX",
+      "reward": "1 Premium Crate",
       "status": "active"
     },
     {
