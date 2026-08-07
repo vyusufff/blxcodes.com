@@ -1,0 +1,52 @@
+{
+  "title": "Rob The Place Codes (August 2026)",
+  "gameName": "Rob The Place",
+  "description": "Working Rob The Place codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-07",
+  "checkedAt": "2026-08-07",
+  "featured": true,
+  "cover": "/images/games/card/rob-the-place.webp",
+  "placeId": 17483941801,
+  "howTo": [
+    "Launch Rob The Place on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Rob The Place codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Rob The Place code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Rob The Place codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "100KLIKES",
+      "reward": "$500 and two wooden crates",
+      "status": "active"
+    },
+    {
+      "code": "2MFAVS",
+      "reward": "$150 and one golden crate",
+      "status": "active"
+    },
+    {
+      "code": "NEWUPDATE10",
+      "reward": "$400",
+      "status": "active"
+    },
+    {
+      "code": "20KPLAYERS",
+      "reward": "one wheel spin",
+      "status": "active"
+    }
+  ]
+}
