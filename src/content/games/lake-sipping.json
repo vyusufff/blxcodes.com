@@ -1,9 +1,9 @@
 {
-  "title": "Lake Sipping Codes (July 2026)",
+  "title": "Lake Sipping Codes (August 2026)",
   "gameName": "Lake Sipping",
   "description": "Working Lake Sipping codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-07",
+  "checkedAt": "2026-08-07",
   "featured": true,
   "cover": "/images/games/card/lake-sipping.webp",
   "placeId": 119715129239364,
@@ -36,6 +36,11 @@
     {
       "code": "Cthulhu",
       "reward": "50 Bones",
+      "status": "active"
+    },
+    {
+      "code": "Mineral",
+      "reward": "2 Class Rerolls",
       "status": "active"
     },
     {
