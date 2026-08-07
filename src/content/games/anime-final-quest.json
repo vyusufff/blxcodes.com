@@ -2,8 +2,8 @@
   "title": "Anime Final Quest Codes (August 2026)",
   "gameName": "Anime Final Quest",
   "description": "Working Anime Final Quest codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-05",
-  "checkedAt": "2026-08-05",
+  "updatedAt": "2026-08-07",
+  "checkedAt": "2026-08-07",
   "featured": true,
   "cover": "/images/games/card/anime-final-quest.webp",
   "placeId": 100744519298647,
@@ -56,6 +56,11 @@
     {
       "code": "NEWXPREWARDS",
       "reward": "100 Gear Lucky Spins, and 50K Cash",
+      "status": "active"
+    },
+    {
+      "code": "NEZHADELAYAPOLOGY",
+      "reward": "100 Raid Tickets, 100 Lucky Weapon Spins, 100 Runes, 1M Gold, 15 Statue Crowns",
       "status": "active"
     },
     {
