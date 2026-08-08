@@ -29,8 +29,8 @@
   ],
   "codes": [
     {
-      "code": "30KLIKES",
-      "reward": "five spins",
+      "code": "35KLIKES",
+      "reward": "five spins (!)",
       "status": "active"
     },
     {
@@ -44,7 +44,7 @@
       "status": "active"
     },
     {
-      "code": "UPDATE05",
+      "code": "10KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -54,7 +54,7 @@
       "status": "expired"
     },
     {
-      "code": "25KLIKES",
+      "code": "2026",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -64,17 +64,17 @@
       "status": "expired"
     },
     {
-      "code": "7500LIKES",
+      "code": "25KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "10KLIKES",
-      "reward": "Expired reward",
+      "code": "30KLIKES",
+      "reward": "five spins",
       "status": "expired"
     },
     {
-      "code": "BUGFIXES",
+      "code": "500LIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -84,7 +84,12 @@
       "status": "expired"
     },
     {
-      "code": "500LIKES",
+      "code": "7500LIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BUGFIXES",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -94,7 +99,7 @@
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "UPDATE05",
       "reward": "Expired reward",
       "status": "expired"
     }
