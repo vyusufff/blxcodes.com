@@ -2,8 +2,8 @@
   "title": "Catch a Monster Codes (August 2026)",
   "gameName": "Catch a Monster",
   "description": "Working Catch a Monster codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-05",
-  "checkedAt": "2026-08-05",
+  "updatedAt": "2026-08-08",
+  "checkedAt": "2026-08-08",
   "featured": true,
   "cover": "/images/games/card/catch-a-monster.webp",
   "placeId": 98664161516921,
@@ -140,6 +140,16 @@
     },
     {
       "code": "solguard",
+      "reward": "XP and Coin Potions",
+      "status": "active"
+    },
+    {
+      "code": "splash",
+      "reward": "1 Mythical Chest",
+      "status": "active"
+    },
+    {
+      "code": "sylvar",
       "reward": "XP and Coin Potions",
       "status": "active"
     },
