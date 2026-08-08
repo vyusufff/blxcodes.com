@@ -1,9 +1,9 @@
 {
-  "title": "Roanoke VA Driving RP Codes (July 2026)",
+  "title": "Roanoke VA Driving RP Codes (August 2026)",
   "gameName": "Roanoke VA Driving RP",
   "description": "Working Roanoke VA Driving RP codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-08",
+  "checkedAt": "2026-08-08",
   "featured": true,
   "cover": "/images/games/card/roanoke-va-driving-rp.webp",
   "placeId": 2418863943,
@@ -45,6 +45,11 @@
     },
     {
       "code": "LARP",
+      "reward": "Free Cash",
+      "status": "active"
+    },
+    {
+      "code": "MANSIONS",
       "reward": "Free Cash",
       "status": "active"
     },

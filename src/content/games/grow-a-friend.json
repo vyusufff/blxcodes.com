@@ -1,0 +1,92 @@
+{
+  "title": "Grow a Friend Codes (August 2026)",
+  "gameName": "Grow a Friend",
+  "description": "Working Grow a Friend codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-08",
+  "checkedAt": "2026-08-08",
+  "featured": true,
+  "cover": "/images/games/card/grow-a-friend.webp",
+  "placeId": 108826369112155,
+  "howTo": [
+    "Launch Grow a Friend on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Grow a Friend codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Grow a Friend code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Grow a Friend codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "UPD5",
+      "reward": "1 Basic Incubator",
+      "status": "active"
+    },
+    {
+      "code": "WHOOPS",
+      "reward": "1 Advanced Incubator",
+      "status": "active"
+    },
+    {
+      "code": "UPD4",
+      "reward": "1 Basic Crystallarium",
+      "status": "active"
+    },
+    {
+      "code": "LUCK",
+      "reward": "1 Totem",
+      "status": "active"
+    },
+    {
+      "code": "WEALTH",
+      "reward": "1 Totem",
+      "status": "active"
+    },
+    {
+      "code": "EFFICIENCY",
+      "reward": "1 Totem",
+      "status": "active"
+    },
+    {
+      "code": "CHANGE",
+      "reward": "1 Totem",
+      "status": "active"
+    },
+    {
+      "code": "UPD3",
+      "reward": "1 Summer Egg",
+      "status": "active"
+    },
+    {
+      "code": "UPD2",
+      "reward": "Swamp Plot Skin",
+      "status": "active"
+    },
+    {
+      "code": "1MVISITS",
+      "reward": "Pastel Plot Skin",
+      "status": "active"
+    },
+    {
+      "code": "SOLAR",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FLARE",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}

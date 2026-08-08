@@ -29,6 +29,11 @@
   ],
   "codes": [
     {
+      "code": "BugFix1",
+      "reward": "1,500 Pearls",
+      "status": "active"
+    },
+    {
       "code": "BugShutDown",
       "reward": "1000 pearls",
       "status": "active"

@@ -2,8 +2,8 @@
   "title": "Build a Military Base Codes (August 2026)",
   "gameName": "Build a Military Base",
   "description": "Working Build a Military Base codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-07",
-  "checkedAt": "2026-08-07",
+  "updatedAt": "2026-08-08",
+  "checkedAt": "2026-08-08",
   "featured": true,
   "cover": "/images/games/card/build-a-military-base.webp",
   "placeId": 91440994157417,
@@ -31,11 +31,6 @@
     {
       "code": "120000LIKES",
       "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "123BUGFIX",
-      "reward": "1 Premium Crate",
       "status": "active"
     },
     {
@@ -74,6 +69,11 @@
       "status": "active"
     },
     {
+      "code": "2XSPEED",
+      "reward": "1 Premium Crate",
+      "status": "active"
+    },
+    {
       "code": "ARCTICFORTRESS",
       "reward": "1 Premium Crate",
       "status": "active"
@@ -85,16 +85,6 @@
     },
     {
       "code": "CARRIERHASARRIVED",
-      "reward": "1 Premium Crate",
-      "status": "active"
-    },
-    {
-      "code": "CHIMERA",
-      "reward": "1 Premium Crate",
-      "status": "active"
-    },
-    {
-      "code": "FLAMEON",
       "reward": "1 Premium Crate",
       "status": "active"
     },
@@ -124,13 +114,18 @@
       "status": "active"
     },
     {
-      "code": "OUTPOSTS",
+      "code": "NEMESIS",
       "reward": "1 Premium Crate",
       "status": "active"
     },
     {
       "code": "PREMIUMDELAY",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "QOL",
+      "reward": "1 Premium Crate",
       "status": "active"
     },
     {
@@ -176,6 +171,11 @@
     {
       "code": "115000LIKES",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "123BUGFIX",
+      "reward": "1 Premium Crate",
       "status": "expired"
     },
     {
@@ -309,6 +309,11 @@
       "status": "expired"
     },
     {
+      "code": "CHIMERA",
+      "reward": "1 Premium Crate",
+      "status": "expired"
+    },
+    {
       "code": "CLOWN",
       "reward": "Expired reward",
       "status": "expired"
@@ -319,8 +324,18 @@
       "status": "expired"
     },
     {
+      "code": "FLAMEON",
+      "reward": "1 Premium Crate",
+      "status": "expired"
+    },
+    {
       "code": "KABOOM",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "OUTPOSTS",
+      "reward": "1 Premium Crate",
       "status": "expired"
     },
     {

@@ -2,8 +2,8 @@
   "title": "Huzz RNG Codes (August 2026)",
   "gameName": "Huzz RNG",
   "description": "Working Huzz RNG codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-08-08",
+  "checkedAt": "2026-08-08",
   "featured": true,
   "cover": "/images/games/card/huzz-rng.webp",
   "placeId": 89100823864844,
@@ -31,6 +31,16 @@
     {
       "code": "4KCCU",
       "reward": "75 Premium Potion Crates, 75 Premium Goodie Crates, and 1 Glitched Potion",
+      "status": "active"
+    },
+    {
+      "code": "500HEAVENPOTS",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "90PERCENT",
+      "reward": "1 Sovereign Pot, 50 Premium Potion Crates, and 50 Premium Goodie Crates",
       "status": "active"
     },
     {
@@ -79,8 +89,18 @@
       "status": "active"
     },
     {
+      "code": "COMMUNITYUPD",
+      "reward": "1 Sovereign Pot",
+      "status": "active"
+    },
+    {
       "code": "COMPENSATION",
       "reward": "30 StarCallers",
+      "status": "active"
+    },
+    {
+      "code": "COOLCODEEZ",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -189,8 +209,18 @@
       "status": "active"
     },
     {
+      "code": "STORYGOAT",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "SUGGESTIONS!",
       "reward": "25 Premium Goodie Crates and 25 Premium Potion Crates",
+      "status": "active"
+    },
+    {
+      "code": "SUGGESTIONSPT2",
+      "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates",
       "status": "active"
     },
     {
@@ -221,6 +251,11 @@
     {
       "code": "UGC",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "UMA",
+      "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates",
       "status": "active"
     },
     {
