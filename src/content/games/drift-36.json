@@ -1,135 +1,170 @@
 {
-  "title": "Soccer Zero Codes (August 2026)",
-  "gameName": "Soccer Zero",
-  "description": "Working Soccer Zero codes for free in-game rewards. Updated regularly.",
+  "title": "Drift 36 Codes (August 2026)",
+  "gameName": "Drift 36",
+  "description": "Working Drift 36 codes for free in-game rewards. Updated regularly.",
   "updatedAt": "2026-08-08",
   "checkedAt": "2026-08-08",
   "featured": true,
-  "cover": "/images/games/card/soccer-zero.webp",
-  "placeId": 75462869229229,
+  "cover": "/images/games/card/drift-36.webp",
+  "placeId": 109170650911069,
   "howTo": [
-    "Launch Soccer Zero on Roblox.",
+    "Launch Drift 36 on Roblox.",
     "Open the codes or redeem menu in the game UI.",
     "Paste a working code exactly as shown.",
     "Confirm to claim your rewards."
   ],
   "faq": [
     {
-      "q": "Are these Soccer Zero codes free?",
+      "q": "Are these Drift 36 codes free?",
       "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
     },
     {
-      "q": "Why did a Soccer Zero code not work?",
+      "q": "Why did a Drift 36 code not work?",
       "a": "It is usually expired, mistyped, or already redeemed on your account."
     },
     {
-      "q": "How often are Soccer Zero codes updated?",
+      "q": "How often are Drift 36 codes updated?",
       "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
     }
   ],
   "codes": [
     {
-      "code": "GAMEMODES",
-      "reward": "5 Lucky Style Spins and Lucky Flow Spins",
+      "code": "120KLIKES",
+      "reward": "35k cash",
       "status": "active"
     },
     {
-      "code": "QOLUPD",
-      "reward": "5 Lucky Style Spins and Lucky Flow Spins",
+      "code": "115KLIKES",
+      "reward": "30k cash",
       "status": "active"
     },
     {
-      "code": "SORRY4DELAY",
-      "reward": "3 Lucky Flow Spins",
+      "code": "110KLIKES",
+      "reward": "30k cash",
       "status": "active"
     },
     {
-      "code": "30MREWORK",
+      "code": "400KMEMBER",
+      "reward": "30k cash",
+      "status": "active"
+    },
+    {
+      "code": "100KLIKES",
+      "reward": "30k cash",
+      "status": "active"
+    },
+    {
+      "code": "90KLIKES",
+      "reward": "15k cash",
+      "status": "active"
+    },
+    {
+      "code": "80KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "30MWILDCARD",
-      "reward": "6 Lucky Style and Flow Spins",
-      "status": "expired"
-    },
-    {
-      "code": "BROTHERS",
+      "code": "75KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "BROTHERSSOON",
+      "code": "70KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "code-list",
+      "code": "60KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "DAY3",
+      "code": "5KACTIVE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "DAY4",
+      "code": "FASTANDRIDERS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "DAY5",
+      "code": "NEWYEAR",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "DAY6",
+      "code": "NEWBODYKITS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "flowspins",
+      "code": "THANKSFOR15K",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "GUARDIAN",
+      "code": "DRAGRACE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "LAZY",
+      "code": "THANKYOU2K",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "NEWBEGINNINGS",
-      "reward": "5 Lucky Style and Flow Spins",
-      "status": "expired"
-    },
-    {
-      "code": "NEWPATCHESW",
+      "code": "992GT3",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "playtest",
+      "code": "NEWRACES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "REWORK",
+      "code": "600KVISIT",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "WILDCARD",
-      "reward": "5 Lucky Style and Flow Spins",
+      "code": "NEWCARS",
+      "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "WPATCH",
+      "code": "300KVISIT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "150KVISIT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NEWUPDATE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "20KVISIT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "50KVISIT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2024",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2026",
       "reward": "Expired reward",
       "status": "expired"
     }

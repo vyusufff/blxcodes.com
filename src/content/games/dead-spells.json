@@ -1,9 +1,9 @@
 {
-  "title": "Dead Spells Codes (July 2026)",
+  "title": "Dead Spells Codes (August 2026)",
   "gameName": "Dead Spells",
   "description": "Working Dead Spells codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-08",
+  "checkedAt": "2026-08-08",
   "featured": true,
   "cover": "/images/games/card/dead-spells.webp",
   "placeId": 104770044244450,
@@ -29,13 +29,13 @@
   ],
   "codes": [
     {
-      "code": "115KMEMBERS",
-      "reward": "200 Burgers",
+      "code": "117KFAVORITES",
+      "reward": "100 Burgers",
       "status": "active"
     },
     {
-      "code": "117KFAVORITES",
-      "reward": "100 Burgers",
+      "code": "123KMEMBERS",
+      "reward": "200 Burgers",
       "status": "active"
     },
     {
@@ -46,11 +46,6 @@
     {
       "code": "70KLIKES",
       "reward": "75 Burgers",
-      "status": "active"
-    },
-    {
-      "code": "IlIlIllIlIlIlIIlIlIllIlIlIlIIlIlIllIlIlIlI",
-      "reward": "1 Burger",
       "status": "active"
     },
     {
@@ -86,6 +81,11 @@
     {
       "code": "112KFAVORITES",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "115KMEMBERS",
+      "reward": "200 Burgers",
       "status": "expired"
     },
     {
@@ -176,6 +176,11 @@
     {
       "code": "Happy",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "IlIlIllIlIlIlIIlIlIllIlIlIlIIlIlIllIlIlIlI",
+      "reward": "1 Burger",
       "status": "expired"
     },
     {
