@@ -1,0 +1,112 @@
+{
+  "title": "Chasing Codes (August 2026)",
+  "gameName": "Chasing",
+  "description": "Working Chasing codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-08",
+  "checkedAt": "2026-08-08",
+  "featured": true,
+  "cover": "/images/games/card/chasing.webp",
+  "placeId": 126331002216562,
+  "howTo": [
+    "Launch Chasing on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Chasing codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Chasing code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Chasing codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "SANGORNA",
+      "reward": "five rolls",
+      "status": "active"
+    },
+    {
+      "code": "FINALLYUPDATE",
+      "reward": "ten rolls",
+      "status": "active"
+    },
+    {
+      "code": "10MVISITS",
+      "reward": "eight rolls",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE3",
+      "reward": "12 rolls",
+      "status": "active"
+    },
+    {
+      "code": "1000RollsCode",
+      "reward": "20 rolls",
+      "status": "active"
+    },
+    {
+      "code": "80klikes",
+      "reward": "five rolls",
+      "status": "active"
+    },
+    {
+      "code": "HappyEaster26",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFORTHELONGWAIT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CHRISTMAS2025",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SEBASTIAN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "50KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE1",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "1000LIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PCGamesN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}
