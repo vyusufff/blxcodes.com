@@ -2,8 +2,8 @@
   "title": "TR Legacy Codes (August 2026) Codes (July 2026)",
   "gameName": "TR Legacy Codes (July 2026)",
   "description": "Working TR Legacy Codes (July 2026) codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-06",
-  "checkedAt": "2026-08-06",
+  "updatedAt": "2026-08-08",
+  "checkedAt": "2026-08-08",
   "featured": true,
   "cover": "/images/games/card/tr-legacy.webp",
   "placeId": 127089247654125,
@@ -41,6 +41,11 @@
     {
       "code": "THANKS10KTHUMBSUP",
       "reward": "30,000 Cash and 1,000 XP",
+      "status": "active"
+    },
+    {
+      "code": "THX435KLIKES",
+      "reward": "50,000 Cash and 1,000 XP",
       "status": "active"
     },
     {
