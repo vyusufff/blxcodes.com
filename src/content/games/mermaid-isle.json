@@ -1,9 +1,9 @@
 {
-  "title": "Mermaid Isle Codes (July 2026)",
+  "title": "Mermaid Isle Codes (August 2026)",
   "gameName": "Mermaid Isle",
   "description": "Working Mermaid Isle codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-08",
+  "checkedAt": "2026-08-08",
   "featured": true,
   "cover": "/images/games/card/mermaid-isle.webp",
   "placeId": 18956320538,
@@ -61,6 +61,11 @@
     {
       "code": "DolphinsComeBackSoon",
       "reward": "500 pearls",
+      "status": "active"
+    },
+    {
+      "code": "Elegy",
+      "reward": "1212 Pearls",
       "status": "active"
     },
     {
@@ -124,6 +129,11 @@
       "status": "active"
     },
     {
+      "code": "ReefRefresh",
+      "reward": "2500 Pearls",
+      "status": "active"
+    },
+    {
       "code": "ReefUpdate",
       "reward": "Special Shimmering Fantasea Tail",
       "status": "active"
@@ -169,6 +179,11 @@
       "status": "active"
     },
     {
+      "code": "SummerSplash",
+      "reward": "Summer Splash Blue Lagoon",
+      "status": "active"
+    },
+    {
       "code": "ThankYou50k",
       "reward": "Fateful Wish Cherished Moments",
       "status": "active"
@@ -176,6 +191,11 @@
     {
       "code": "ValentinesDay",
       "reward": "Eternal Vow Something",
+      "status": "active"
+    },
+    {
+      "code": "Viscoria",
+      "reward": "1212 Pearls",
       "status": "active"
     },
     {

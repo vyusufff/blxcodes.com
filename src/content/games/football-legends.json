@@ -1,9 +1,9 @@
 {
-  "title": "Football Legends Codes (July 2026)",
+  "title": "Football Legends Codes (August 2026)",
   "gameName": "Football Legends",
   "description": "Working Football Legends codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-08",
+  "checkedAt": "2026-08-08",
   "featured": true,
   "cover": "/images/games/card/football-legends.webp",
   "placeId": 90913221847091,
@@ -69,6 +69,11 @@
       "status": "active"
     },
     {
+      "code": "60KLIKES",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "ANGLING",
       "reward": "2000 Coins",
       "status": "active"
@@ -94,6 +99,11 @@
       "status": "active"
     },
     {
+      "code": "CATCH",
+      "reward": "1 Summer Skin Case",
+      "status": "active"
+    },
+    {
       "code": "CHRISTMASCOOKIES",
       "reward": "1 Gingerbread Cookies Skin",
       "status": "active"
@@ -116,6 +126,11 @@
     {
       "code": "HURDLE",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "PARKHELMETS",
+      "reward": "1 Summer Trail Case",
       "status": "active"
     },
     {
