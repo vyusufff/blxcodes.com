@@ -1,0 +1,47 @@
+{
+  "title": "Creature Chaos Codes (August 2026)",
+  "gameName": "Creature Chaos",
+  "description": "Working Creature Chaos codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-08",
+  "checkedAt": "2026-08-08",
+  "featured": true,
+  "cover": "/images/games/card/creature-chaos.webp",
+  "placeId": 10785055221,
+  "howTo": [
+    "Launch Creature Chaos on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Creature Chaos codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Creature Chaos code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Creature Chaos codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "GAMERETURN",
+      "reward": "300 tokens and 100 points (!)",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE3",
+      "reward": "350 tokens and 100 points",
+      "status": "active"
+    },
+    {
+      "code": "TRICKORTREAT",
+      "reward": "300 tokens and 150 points",
+      "status": "active"
+    }
+  ]
+}

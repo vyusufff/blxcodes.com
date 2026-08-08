@@ -2,8 +2,8 @@
   "title": "Jujutsu Zero Codes (August 2026)",
   "gameName": "Jujutsu Zero",
   "description": "Working Jujutsu Zero codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-04",
-  "checkedAt": "2026-08-04",
+  "updatedAt": "2026-08-08",
+  "checkedAt": "2026-08-08",
   "featured": true,
   "cover": "/images/games/card/jujutsu-zero.webp",
   "placeId": 128451689942376,
@@ -34,13 +34,13 @@
       "status": "active"
     },
     {
-      "code": "180KLIKES",
-      "reward": "3k Lumens, 175 Cursed Crystals, and 30 Clan Rolls",
+      "code": "190KLIKES",
+      "reward": "3500 Lumens, 250 Cursed Crystals, and 35 Clan Rolls",
       "status": "active"
     },
     {
-      "code": "190KLIKES",
-      "reward": "3500 Lumens, 250 Cursed Crystals, and 35 Clan Rolls",
+      "code": "200KLIKES",
+      "reward": "500 Cursed Crystals, 3.5k Lumens, and 50 Clan Rolls",
       "status": "active"
     },
     {
@@ -54,7 +54,7 @@
       "status": "active"
     },
     {
-      "code": "MAHORAGA",
+      "code": "SukunaMark",
       "reward": "500 Cursed Crystals, 3.5k Lumens, and 50 Clan Rolls",
       "status": "active"
     },
@@ -91,6 +91,11 @@
     {
       "code": "170KLIKES",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "180KLIKES",
+      "reward": "3k Lumens, 175 Cursed Crystals, and 30 Clan Rolls",
       "status": "expired"
     },
     {
@@ -171,6 +176,11 @@
     {
       "code": "LUCKY",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MAHORAGA",
+      "reward": "500 Cursed Crystals, 3.5k Lumens, and 50 Clan Rolls",
       "status": "expired"
     },
     {

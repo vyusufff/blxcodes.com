@@ -2,8 +2,8 @@
   "title": "Brainrot Evolution Codes (August 2026)",
   "gameName": "Brainrot Evolution",
   "description": "Working Brainrot Evolution codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-01",
-  "checkedAt": "2026-08-01",
+  "updatedAt": "2026-08-08",
+  "checkedAt": "2026-08-08",
   "featured": true,
   "cover": "/images/games/card/brainrot-evolution.webp",
   "placeId": 111989938562194,
@@ -45,6 +45,11 @@
     },
     {
       "code": "Beowl",
+      "reward": "2x EXP Potions",
+      "status": "active"
+    },
+    {
+      "code": "Bombondino",
       "reward": "2x EXP Potions",
       "status": "active"
     },

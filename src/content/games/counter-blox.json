@@ -1,135 +1,175 @@
 {
-  "title": "Survive the Apocalypse Codes (August 2026)",
-  "gameName": "Survive the Apocalypse",
-  "description": "Working Survive the Apocalypse codes for free in-game rewards. Updated regularly.",
+  "title": "Counter Blox Codes (August 2026)",
+  "gameName": "Counter Blox",
+  "description": "Working Counter Blox codes for free in-game rewards. Updated regularly.",
   "updatedAt": "2026-08-08",
   "checkedAt": "2026-08-08",
   "featured": true,
-  "cover": "/images/games/card/survive-the-apocalypse.webp",
-  "placeId": 90148635862803,
+  "cover": "/images/games/card/counter-blox.webp",
+  "placeId": 301549746,
   "howTo": [
-    "Launch Survive the Apocalypse on Roblox.",
+    "Launch Counter Blox on Roblox.",
     "Open the codes or redeem menu in the game UI.",
     "Paste a working code exactly as shown.",
     "Confirm to claim your rewards."
   ],
   "faq": [
     {
-      "q": "Are these Survive the Apocalypse codes free?",
+      "q": "Are these Counter Blox codes free?",
       "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
     },
     {
-      "q": "Why did a Survive the Apocalypse code not work?",
+      "q": "Why did a Counter Blox code not work?",
       "a": "It is usually expired, mistyped, or already redeemed on your account."
     },
     {
-      "q": "How often are Survive the Apocalypse codes updated?",
+      "q": "How often are Counter Blox codes updated?",
       "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
     }
   ],
   "codes": [
     {
-      "code": "happy250",
-      "reward": "25 Emeralds",
+      "code": "4THOFJULY",
+      "reward": "100 credits",
       "status": "active"
     },
     {
-      "code": "NEWCHAPTER2731",
-      "reward": "25 Emeralds",
+      "code": "JUNE26",
+      "reward": "100 credits",
       "status": "active"
     },
     {
-      "code": "100million",
+      "code": "CBUNRESTRICTED2",
+      "reward": "100 credits",
+      "status": "active"
+    },
+    {
+      "code": "SPRINGPART2",
+      "reward": "150 credits",
+      "status": "active"
+    },
+    {
+      "code": "SPRINGUPDATE",
+      "reward": "200 credits",
+      "status": "active"
+    },
+    {
+      "code": "HEARTS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "apocalypseperks",
+      "code": "CHRISTMASMIRACLE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "birthday",
+      "code": "CB2026",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "bloodharvest",
+      "code": "tyfor30kmembers",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "commands",
+      "code": "XMASDELAY",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Emeralds",
+      "code": "creditsfordelay2",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "forestpt2",
+      "code": "67isreal",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "hardmode62",
+      "code": "HEADWINDVERIFIED",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "lazyslygems",
+      "code": "SORRYFORDELEAY",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "MIf",
+      "code": "tyfor10kmembers",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Militarytwo",
+      "code": "CBHALLOWEENUPDATE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "monitoring",
+      "code": "CB2025",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "newclasses",
+      "code": "CBXMASUP8DELAY",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "onemillion",
+      "code": "ILOVECB",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "outlaw627",
-      "reward": "25 Emeralds",
-      "status": "expired"
-    },
-    {
-      "code": "survivor",
+      "code": "SPOOK",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "tenmillion",
+      "code": "holiday18",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "twomonths",
+      "code": "GOODTIMES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "weaponupgrade",
+      "code": "BESTOFCB",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "JRPG",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FFXIV",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FFVII",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PCGamesN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Flip7",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2026",
       "reward": "Expired reward",
       "status": "expired"
     }
