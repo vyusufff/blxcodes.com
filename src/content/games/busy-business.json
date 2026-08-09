@@ -1,0 +1,77 @@
+{
+  "title": "Busy Business Codes (August 2026)",
+  "gameName": "Busy Business",
+  "description": "Working Busy Business codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-09",
+  "checkedAt": "2026-08-09",
+  "featured": true,
+  "cover": "/images/games/card/busy-business.webp",
+  "placeId": 10914683361,
+  "howTo": [
+    "Launch Busy Business on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Busy Business codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Busy Business code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Busy Business codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "30KLIKES",
+      "reward": "prep boost",
+      "status": "active"
+    },
+    {
+      "code": "25KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CHRISTMAS2022",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "15KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "8KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BUSYBOOST",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TIMBERGUY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FREEGEMS",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}

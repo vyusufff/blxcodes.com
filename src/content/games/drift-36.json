@@ -2,8 +2,8 @@
   "title": "Drift 36 Codes (August 2026)",
   "gameName": "Drift 36",
   "description": "Working Drift 36 codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-08",
-  "checkedAt": "2026-08-08",
+  "updatedAt": "2026-08-09",
+  "checkedAt": "2026-08-09",
   "featured": true,
   "cover": "/images/games/card/drift-36.webp",
   "placeId": 109170650911069,
@@ -29,12 +29,7 @@
   ],
   "codes": [
     {
-      "code": "120KLIKES",
-      "reward": "35k cash",
-      "status": "active"
-    },
-    {
-      "code": "115KLIKES",
+      "code": "100KLIKES",
       "reward": "30k cash",
       "status": "active"
     },
@@ -44,13 +39,23 @@
       "status": "active"
     },
     {
+      "code": "115KLIKES",
+      "reward": "30k cash",
+      "status": "active"
+    },
+    {
+      "code": "120KLIKES",
+      "reward": "35k cash",
+      "status": "active"
+    },
+    {
       "code": "400KMEMBER",
       "reward": "30k cash",
       "status": "active"
     },
     {
-      "code": "100KLIKES",
-      "reward": "30k cash",
+      "code": "825KMEMBER",
+      "reward": "40k cash (!)",
       "status": "active"
     },
     {
@@ -59,102 +64,7 @@
       "status": "active"
     },
     {
-      "code": "80KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "75KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "70KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "60KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "5KACTIVE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FASTANDRIDERS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NEWYEAR",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NEWBODYKITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "THANKSFOR15K",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "DRAGRACE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "THANKYOU2K",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "992GT3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NEWRACES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "600KVISIT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NEWCARS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "300KVISIT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "150KVISIT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NEWUPDATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "20KVISIT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "50KVISIT",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -165,6 +75,101 @@
     },
     {
       "code": "2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "20KVISIT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "300KVISIT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "50KVISIT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "5KACTIVE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "600KVISIT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "60KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "70KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "75KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "80KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "992GT3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DRAGRACE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FASTANDRIDERS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NEWBODYKITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NEWCARS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NEWRACES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NEWUPDATE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NEWYEAR",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THANKSFOR15K",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THANKYOU2K",
       "reward": "Expired reward",
       "status": "expired"
     }

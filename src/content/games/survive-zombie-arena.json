@@ -2,8 +2,8 @@
   "title": "Survive Zombie Arena Codes (August 2026)",
   "gameName": "Survive Zombie Arena",
   "description": "Working Survive Zombie Arena codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-02",
-  "checkedAt": "2026-08-02",
+  "updatedAt": "2026-08-09",
+  "checkedAt": "2026-08-09",
   "featured": true,
   "cover": "/images/games/card/survive-zombie-arena.webp",
   "placeId": 114204398207377,
@@ -34,6 +34,11 @@
       "status": "active"
     },
     {
+      "code": "BOSSRUSH",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
       "code": "COOLPFPSWAG",
       "reward": "3 Bloodmoon spins and 2x Bloodmoon Shards for 4h",
       "status": "active"
@@ -44,6 +49,11 @@
       "status": "active"
     },
     {
+      "code": "DELAYSAHUR",
+      "reward": "Free rewards",
+      "status": "active"
+    },
+    {
       "code": "GALACTIC",
       "reward": "2x Void Shard boost",
       "status": "active"
@@ -51,6 +61,11 @@
     {
       "code": "LUVUGUYS",
       "reward": "1 Bloodmoon spin",
+      "status": "active"
+    },
+    {
+      "code": "TUNDRASZN",
+      "reward": "Free rewards",
       "status": "active"
     },
     {
