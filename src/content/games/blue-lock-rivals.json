@@ -2,8 +2,8 @@
   "title": "Blue Lock Rivals Codes (August 2026)",
   "gameName": "Blue Lock Rivals",
   "description": "Working Blue Lock Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-01",
-  "checkedAt": "2026-08-01",
+  "updatedAt": "2026-08-09",
+  "checkedAt": "2026-08-09",
   "featured": true,
   "cover": "/images/games/card/blue-lock-rivals.webp",
   "placeId": 18668065416,
@@ -29,18 +29,18 @@
   ],
   "codes": [
     {
-      "code": "NESSNEXTWEEK",
+      "code": "BIGTRAILERSOON",
+      "reward": "5 Lucky Flows",
+      "status": "active"
+    },
+    {
+      "code": "MAGICIAN",
       "reward": "5 Lucky Style Spins and 5 Lucky Flows",
       "status": "active"
     },
     {
-      "code": "TEAMBRAZIL",
+      "code": "NESSTODAY",
       "reward": "5 Lucky Style Spins",
-      "status": "active"
-    },
-    {
-      "code": "TEAMSPAIN",
-      "reward": "5 Lucky Flows",
       "status": "active"
     },
     {
@@ -144,6 +144,11 @@
       "status": "expired"
     },
     {
+      "code": "NESSNEXTWEEK",
+      "reward": "5 Lucky Style Spins and 5 Lucky Flows",
+      "status": "expired"
+    },
+    {
       "code": "NEWCHEMSOON",
       "reward": "Expired reward",
       "status": "expired"
@@ -211,6 +216,16 @@
     {
       "code": "SUMMERUPDATE",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TEAMBRAZIL",
+      "reward": "5 Lucky Style Spins",
+      "status": "expired"
+    },
+    {
+      "code": "TEAMSPAIN",
+      "reward": "5 Lucky Flows",
       "status": "expired"
     },
     {

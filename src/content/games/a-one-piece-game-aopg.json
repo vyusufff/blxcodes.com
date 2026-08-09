@@ -1,9 +1,9 @@
 {
-  "title": "AOPG Codes (July 2026)",
+  "title": "AOPG Codes (August 2026)",
   "gameName": "AOPG",
   "description": "Working AOPG codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-09",
+  "checkedAt": "2026-08-09",
   "featured": true,
   "cover": "/images/games/card/a-one-piece-game-aopg.webp",
   "placeId": 8396586868,
@@ -264,6 +264,16 @@
       "status": "active"
     },
     {
+      "code": "LibraryOfRuina!",
+      "reward": "2x-EXP for 60min",
+      "status": "active"
+    },
+    {
+      "code": "LimbusCompany!",
+      "reward": "2x-Drop for 60min",
+      "status": "active"
+    },
+    {
       "code": "LOADOUTS!",
       "reward": "x2 Luck 1h",
       "status": "active"
@@ -346,6 +356,11 @@
     {
       "code": "PrimalSayian",
       "reward": "2x drop 1 hour",
+      "status": "active"
+    },
+    {
+      "code": "ProjectMoonHype!",
+      "reward": "1x Book",
       "status": "active"
     },
     {

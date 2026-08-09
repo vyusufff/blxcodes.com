@@ -2,8 +2,8 @@
   "title": "Kaizen Codes (August 2026)",
   "gameName": "Kaizen",
   "description": "Working Kaizen codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-08-09",
+  "checkedAt": "2026-08-09",
   "featured": true,
   "cover": "/images/games/card/kaizen.webp",
   "placeId": 17662297954,
@@ -44,8 +44,18 @@
       "status": "active"
     },
     {
+      "code": "Dagon!",
+      "reward": "8 Lucky Clan Spins, and 8 Binding Vows",
+      "status": "active"
+    },
+    {
       "code": "DelayExp!",
       "reward": "5 Lucky Spins and 5 Binding Vows",
+      "status": "active"
+    },
+    {
+      "code": "DisasterTides",
+      "reward": "12 Lucky Clan Spins, and 12 Binding Vows",
       "status": "active"
     },
     {

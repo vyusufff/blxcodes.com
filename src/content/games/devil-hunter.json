@@ -1,9 +1,9 @@
 {
-  "title": "Devil Hunter Codes (July 2026)",
+  "title": "Devil Hunter Codes (August 2026)",
   "gameName": "Devil Hunter",
   "description": "Working Devil Hunter codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-09",
+  "checkedAt": "2026-08-09",
   "featured": true,
   "cover": "/images/games/card/devil-hunter.webp",
   "placeId": 131079272918660,
@@ -45,6 +45,11 @@
     },
     {
       "code": "NINJABOYLC",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SOMEREROLLS",
       "reward": "Free Rewards",
       "status": "active"
     },
