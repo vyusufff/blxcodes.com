@@ -2,8 +2,8 @@
   "title": "Ghoul Re Codes (August 2026)",
   "gameName": "Ghoul Re",
   "description": "Working Ghoul Re codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/ghoul-re.webp",
   "placeId": 72368345999613,
@@ -29,6 +29,11 @@
   ],
   "codes": [
     {
+      "code": "FRICKGRANPA",
+      "reward": "650 Ghoul Points",
+      "status": "active"
+    },
+    {
       "code": "GPCAPREMOVAL",
       "reward": "750 GP",
       "status": "active"
@@ -39,6 +44,11 @@
       "status": "active"
     },
     {
+      "code": "HBDSIN20",
+      "reward": "650 Ghoul Points",
+      "status": "active"
+    },
+    {
       "code": "HTH",
       "reward": "1000 GP",
       "status": "active"
@@ -46,6 +56,26 @@
     {
       "code": "HTHGAMES",
       "reward": "500 GP",
+      "status": "active"
+    },
+    {
+      "code": "HTHGames2",
+      "reward": "1000 Ghoul Points",
+      "status": "active"
+    },
+    {
+      "code": "KenRework",
+      "reward": "1000 Ghoul Points",
+      "status": "active"
+    },
+    {
+      "code": "PointLimit",
+      "reward": "1500 Ghoul Points",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFOR3HOURDELAY",
+      "reward": "900 Ghoul Points",
       "status": "active"
     },
     {
