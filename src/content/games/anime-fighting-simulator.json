@@ -2,8 +2,8 @@
   "title": "Anime Fighting Simulator Codes (August 2026)",
   "gameName": "Anime Fighting Simulator",
   "description": "Working Anime Fighting Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-07",
-  "checkedAt": "2026-08-07",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/anime-fighting-simulator.webp",
   "placeId": 100429474155186,
@@ -69,6 +69,11 @@
       "status": "active"
     },
     {
+      "code": "FLAMEBREATHING",
+      "reward": "5,000 Chikara, 750 Tensei Shards, 5 Stat Boosts, 5 Training Speed Boosts, and 5 Yen Boosts",
+      "status": "active"
+    },
+    {
       "code": "HOTFIXPATCH",
       "reward": "3000 Chikara, 2 Fruit Rolls, and 2 Stat Boosts",
       "status": "active"
@@ -91,6 +96,11 @@
     {
       "code": "MIDWEEKUPD",
       "reward": "3 Stat Boost, 3 Yen Boost, 3 Fruit rolls, and 1000 Chikara",
+      "status": "active"
+    },
+    {
+      "code": "MOREFIXES",
+      "reward": "1 Server Boost, 2 Stat Boosts, 750 Tensei Shards, and 2 Yen Boosts",
       "status": "active"
     },
     {

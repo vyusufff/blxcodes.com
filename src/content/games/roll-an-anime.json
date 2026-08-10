@@ -2,8 +2,8 @@
   "title": "Roll an Anime Codes (August 2026)",
   "gameName": "Roll an Anime",
   "description": "Working Roll an Anime codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-06",
-  "checkedAt": "2026-08-06",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/roll-an-anime.webp",
   "placeId": 93999763241813,
@@ -36,6 +36,16 @@
     {
       "code": "BELUGA",
       "reward": "Double Cash for 2 Hours",
+      "status": "active"
+    },
+    {
+      "code": "BUNGAACASH2",
+      "reward": "5 times cash boost for 2h hours",
+      "status": "active"
+    },
+    {
+      "code": "BUNGAALUCK2",
+      "reward": "10 times luck boost for 2 hours",
       "status": "active"
     },
     {

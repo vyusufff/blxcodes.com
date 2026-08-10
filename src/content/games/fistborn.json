@@ -2,8 +2,8 @@
   "title": "Fistborn Codes (August 2026)",
   "gameName": "Fistborn",
   "description": "Working Fistborn codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-07",
-  "checkedAt": "2026-08-07",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/fistborn.webp",
   "placeId": 106051943710043,
@@ -29,8 +29,8 @@
   ],
   "codes": [
     {
-      "code": "WeLoveYall",
-      "reward": "50k Tokens",
+      "code": "E8XMQX",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -39,92 +39,12 @@
       "status": "active"
     },
     {
-      "code": "wow3klikes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksfor1mil",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksfor4k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "sorry4delay",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ty2klikes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ADVANCE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ty1500likes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksfor2k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksfor1k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MODESOON",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "WEBACK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "TALENTS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksfor750",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "sorry4shutdown",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ty5kccu",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ty4klikes",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "WeLoveYall",
+      "reward": "50k Tokens",
+      "status": "active"
     },
     {
       "code": "1KFollowersThanks!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "TheGreatBlackBox",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -134,37 +54,17 @@
       "status": "expired"
     },
     {
-      "code": "tyfor20kmembers",
+      "code": "ADVANCE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "ty35kmembers",
+      "code": "AIReplacementTookAWrongTurn",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "ty7klikes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ty40kmembers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ty6klikes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ty30kmembers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ty5klikes",
+      "code": "BigUpdateSoon",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -184,22 +84,12 @@
       "status": "expired"
     },
     {
-      "code": "ty9klikes",
+      "code": "extendedtime2",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "ty8klikes",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ty5mvisits",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "WeHateGluttony",
+      "code": "GluttonyIsFatAf",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -214,27 +104,142 @@
       "status": "expired"
     },
     {
+      "code": "MODESOON",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "Phase1Woo",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "extendedtime2",
+      "code": "sorry4delay",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "BigUpdateSoon",
+      "code": "sorry4shutdown",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "GluttonyIsFatAf",
+      "code": "TALENTS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "AIReplacementTookAWrongTurn",
+      "code": "thanksfor1k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor1mil",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor2k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor4k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor750",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TheGreatBlackBox",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ty1500likes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ty2klikes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ty30kmembers",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ty35kmembers",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ty40kmembers",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ty4klikes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ty5kccu",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ty5klikes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ty5mvisits",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ty6klikes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ty7klikes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ty8klikes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ty9klikes",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "tyfor20kmembers",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WEBACK",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WeHateGluttony",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "wow3klikes",
       "reward": "Expired reward",
       "status": "expired"
     }

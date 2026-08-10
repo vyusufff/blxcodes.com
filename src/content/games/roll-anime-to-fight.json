@@ -2,8 +2,8 @@
   "title": "Roll Anime to Fight Codes (August 2026) Codes (July 2026)",
   "gameName": "Roll Anime to Fight Codes (July 2026)",
   "description": "Working Roll Anime to Fight Codes (July 2026) codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-04",
-  "checkedAt": "2026-08-04",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/roll-anime-to-fight.webp",
   "placeId": 107653945083776,
@@ -44,8 +44,18 @@
       "status": "active"
     },
     {
+      "code": "FACTIONUPDATE!",
+      "reward": "350,000 Gold, Gold Kashimo, Mythic Capsule, and Infinite Ticket",
+      "status": "active"
+    },
+    {
       "code": "INFINITETOWER!",
       "reward": "200000 Gold, Gold Kenpachi, 25 Trait Shards, and 3 Infinite Tickets (reach wave 76)",
+      "status": "active"
+    },
+    {
+      "code": "NINJAUPDATEPART1!",
+      "reward": "300,000 Gold, Diamond Tobi, Mythic Capsule, and Trading Ticket",
       "status": "active"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "title": "VV ULTIMATUM Codes (July 2026)",
+  "title": "VV ULTIMATUM Codes (August 2026)",
   "gameName": "VV ULTIMATUM",
   "description": "Working VV ULTIMATUM codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/vv-ultimatum.webp",
   "placeId": 6270290407,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "GOODMORNING",
+      "reward": "Tokens and Ability Rerolls",
+      "status": "active"
+    },
     {
       "code": "LINI_MOZZARELLA",
       "reward": "10 Ability Rerolls",

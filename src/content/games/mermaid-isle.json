@@ -2,8 +2,8 @@
   "title": "Mermaid Isle Codes (August 2026)",
   "gameName": "Mermaid Isle",
   "description": "Working Mermaid Isle codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-08",
-  "checkedAt": "2026-08-08",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/mermaid-isle.webp",
   "placeId": 18956320538,
@@ -31,6 +31,16 @@
     {
       "code": "BugFix1",
       "reward": "1,500 Pearls",
+      "status": "active"
+    },
+    {
+      "code": "BugFix2",
+      "reward": "1,000 pearls",
+      "status": "active"
+    },
+    {
+      "code": "BugFix3",
+      "reward": "500 pearls",
       "status": "active"
     },
     {

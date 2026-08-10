@@ -2,8 +2,8 @@
   "title": "Noob Incremental Codes (August 2026)",
   "gameName": "Noob Incremental",
   "description": "Working Noob Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-04",
-  "checkedAt": "2026-08-04",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/noob-incremental.webp",
   "placeId": 76911729991355,
@@ -94,13 +94,33 @@
       "status": "active"
     },
     {
+      "code": "MASTERIESAREHERE!",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "MINIUPDATE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SOMEFIXUPDATE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SOMEOTHERFIXUPDATE",
       "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "SORRYSHUTDOWN67",
       "reward": "50 Enchant Tokens",
+      "status": "active"
+    },
+    {
+      "code": "SORRYSHUTDOWNx",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {

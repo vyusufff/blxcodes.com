@@ -1,9 +1,9 @@
 {
-  "title": "Fabled Legacy Codes (July 2026)",
+  "title": "Fabled Legacy Codes (August 2026)",
   "gameName": "Fabled Legacy",
   "description": "Working Fabled Legacy codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/fabled-legacy.webp",
   "placeId": 11872917490,
@@ -76,6 +76,11 @@
     {
       "code": "THREEYEARS",
       "reward": "500 Gems",
+      "status": "active"
+    },
+    {
+      "code": "TREASURE",
+      "reward": "Tidal Treasure",
       "status": "active"
     },
     {
