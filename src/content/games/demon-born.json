@@ -2,8 +2,8 @@
   "title": "Demon Born Codes (August 2026)",
   "gameName": "Demon Born",
   "description": "Working Demon Born codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-05",
-  "checkedAt": "2026-08-05",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/demon-born.webp",
   "placeId": 79833666916700,
@@ -56,6 +56,11 @@
     {
       "code": "BLOODMOON",
       "reward": "10 Blood Art Spins ( , level 10)",
+      "status": "active"
+    },
+    {
+      "code": "FATHER2026",
+      "reward": "Blood Art Spins ( , level 10)",
       "status": "active"
     },
     {
