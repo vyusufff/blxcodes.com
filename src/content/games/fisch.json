@@ -2,7 +2,7 @@
   "title": "Fisch Codes (August 2026)",
   "gameName": "Fisch",
   "description": "Working Fisch Roblox codes for coins, items, skins, and fishing rewards.",
-  "updatedAt": "2026-08-08",
+  "updatedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/fisch.webp",
   "placeId": 16732694052,
@@ -33,28 +33,13 @@
       "status": "active"
     },
     {
-      "code": "HarpoonGunsAreAwesome",
-      "reward": "1000 Coins, Chaotic Crasher Harpoon skin, 5x Icy Fisch&#8217;n Dots, 5x Coral Pearl, 5x Cotton Candy Pieces, 5x Tropical Fruit mix, and a Random Totem",
-      "status": "active"
-    },
-    {
       "code": "scarlet",
       "reward": "Scarlet skin for Nate's Blade",
       "status": "active"
     },
     {
-      "code": "SorryForShopShenanigans",
-      "reward": "150 Shady Scrips and 1x Rainbow Totem",
-      "status": "active"
-    },
-    {
       "code": "TemporarySubmarine",
       "reward": "Submarine parts",
-      "status": "active"
-    },
-    {
-      "code": "TheDeepIsVeryDeep",
-      "reward": "1000 Coins, Free skin, 5x Icy Fisch’n Dots, 5x Coral Pearl, 5x Cotton Candy Pieces, 5x Tropical Fruit mix, and a Random Totem",
       "status": "active"
     },
     {
@@ -278,6 +263,11 @@
       "status": "expired"
     },
     {
+      "code": "HarpoonGunsAreAwesome",
+      "reward": "1000 Coins, Chaotic Crasher Harpoon skin, 5x Icy Fisch&#8217;n Dots, 5x Coral Pearl, 5x Cotton Candy Pieces, 5x Tropical Fruit mix, and a Random Totem",
+      "status": "expired"
+    },
+    {
       "code": "HarpoonGunsNextWeek",
       "reward": "1000 Coins, Grandpa Horseshoe Crab, 5x Coral Pearl, 5x Icy Fish'n Dots, 5x Cotton Candy Pieces, 5x Tropical Fruit Mix, and a random item",
       "status": "expired"
@@ -468,6 +458,11 @@
       "status": "expired"
     },
     {
+      "code": "SorryForShopShenanigans",
+      "reward": "150 Shady Scrips and 1x Rainbow Totem",
+      "status": "expired"
+    },
+    {
       "code": "SorryforShutdown",
       "reward": "Event reward",
       "status": "expired"
@@ -533,6 +528,11 @@
       "status": "expired"
     },
     {
+      "code": "TheDeepIsVeryDeep",
+      "reward": "1000 Coins, Free skin, 5x Icy Fisch’n Dots, 5x Coral Pearl, 5x Cotton Candy Pieces, 5x Tropical Fruit mix, and a Random Totem",
+      "status": "expired"
+    },
+    {
       "code": "TheDepths",
       "reward": "Event reward",
       "status": "expired"
@@ -588,5 +588,5 @@
       "status": "expired"
     }
   ],
-  "checkedAt": "2026-08-08"
+  "checkedAt": "2026-08-10"
 }
