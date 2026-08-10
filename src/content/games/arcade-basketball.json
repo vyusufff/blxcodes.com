@@ -1,9 +1,9 @@
 {
-  "title": "Arcade Basketball Codes (July 2026)",
+  "title": "Arcade Basketball Codes (August 2026)",
   "gameName": "Arcade Basketball",
   "description": "Working Arcade Basketball codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/arcade-basketball.webp",
   "placeId": 134558434771720,
@@ -81,6 +81,11 @@
     {
       "code": "MAYHEM",
       "reward": "10 Normal Tickets",
+      "status": "active"
+    },
+    {
+      "code": "METERS",
+      "reward": "1x Limited Crate",
       "status": "active"
     },
     {

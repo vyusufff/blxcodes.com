@@ -2,8 +2,8 @@
   "title": "Anime RNG Defense Codes (August 2026)",
   "gameName": "Anime RNG Defense",
   "description": "Working Anime RNG Defense codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "howTo": [
     "Launch Anime RNG Defense on Roblox.",
@@ -39,6 +39,11 @@
     {
       "code": "EISENBERNCASTLE",
       "reward": "Cursed Fingers and Divine Rerolls",
+      "status": "active"
+    },
+    {
+      "code": "EXTREMERAID",
+      "reward": "Cursed Fingers and Divine Rerolls ( , requires 100K Rolls to redeem)",
       "status": "active"
     },
     {
@@ -134,6 +139,16 @@
     {
       "code": "UPDATE6",
       "reward": "Cursed Fingers and Divine Rerolls",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE7",
+      "reward": "Cursed Fingers and Divine Rerolls",
+      "status": "active"
+    },
+    {
+      "code": "VAHRWELT",
+      "reward": "Cursed Fingers and Divine Rerolls ( , requires 10K Rolls to redeem)",
       "status": "active"
     },
     {

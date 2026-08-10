@@ -2,8 +2,8 @@
   "title": "Anime Fighters Codes (August 2026)",
   "gameName": "Anime Fighters",
   "description": "Working Anime Fighters codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/anime-fighters-simulator.webp",
   "placeId": 6299805723,
@@ -51,6 +51,11 @@
     {
       "code": "AFSXCOMINGSOON!!",
       "reward": "250 Cursed Orbs",
+      "status": "active"
+    },
+    {
+      "code": "AKIRACODE",
+      "reward": "20x Mega Boosts (all types), 100 Heavenly Fruit, 100 Cursed Orbs, 200 Requiem Tokens, and 200 Passive Tokens",
       "status": "active"
     },
     {

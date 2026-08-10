@@ -1,9 +1,9 @@
 {
-  "title": "Reaper 2 Codes (July 2026)",
+  "title": "Reaper 2 Codes (August 2026)",
   "gameName": "Reaper 2",
   "description": "Working Reaper 2 codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/reaper-2.webp",
   "placeId": 7056922815,
@@ -326,6 +326,11 @@
     {
       "code": "THEVISIONARY",
       "reward": "Redeem for 40k cash",
+      "status": "active"
+    },
+    {
+      "code": "ThousandYearlyBugsWar",
+      "reward": "100,000 Cash",
       "status": "active"
     },
     {

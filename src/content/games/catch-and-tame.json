@@ -2,8 +2,8 @@
   "title": "Catch and Tame Codes (August 2026)",
   "gameName": "Catch and Tame",
   "description": "Working Catch and Tame codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/catch-and-tame.webp",
   "placeId": 96645548064314,
@@ -31,6 +31,11 @@
     {
       "code": "FARMING",
       "reward": "10 Fruit Basket",
+      "status": "active"
+    },
+    {
+      "code": "FISHINGCLAW",
+      "reward": "10 Sunken Coconut",
       "status": "active"
     },
     {
