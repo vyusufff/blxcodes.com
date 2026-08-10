@@ -2,8 +2,8 @@
   "title": "Anime Card Battle Codes (August 2026)",
   "gameName": "Anime Card Battle",
   "description": "Working Anime Card Battle codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/anime-card-battle.webp",
   "placeId": 130253630950453,
@@ -29,28 +29,33 @@
   ],
   "codes": [
     {
-      "code": "FEMBOYWEATHER",
-      "reward": "Potions, Tokens, and Rerolls ( , 200k roll rq)",
+      "code": "BANKAI",
+      "reward": "200 BS, 100 CR, 25 Luck IV, 25 Speed IV, 5 Fountain, 5 Weather Tokens, and 5 XP Book II ( , 300k Rolls)",
       "status": "active"
     },
     {
-      "code": "NARUTO",
-      "reward": "Potions, Tokens, and Rerolls ( , 150k roll req)",
+      "code": "BLEACHDELAY",
+      "reward": "300 CR, 1,000 WRR, 5 Fountain, and 5 Weather Tokens ( , 150k Rolls)",
       "status": "active"
     },
     {
-      "code": "NARUTODELAY",
-      "reward": "Potions, Tokens, and Rerolls",
+      "code": "BLEACHTYBW",
+      "reward": "150 CR, 400 WRR, 75 Luck IV, and 75 Speed IV ( , 350k Rolls)",
       "status": "active"
     },
     {
-      "code": "NEWRAID",
-      "reward": "Potions, Tokens, and Rerolls ( , 100k roll req)",
+      "code": "NEWEVENT",
+      "reward": "75 CR, 350 WRR, and 5 XP Book I ( , 100k Rolls)",
       "status": "active"
     },
     {
-      "code": "UPD10",
-      "reward": "Potions, Tokens, and Rerolls ( , 300k roll req)",
+      "code": "NEWTOWER",
+      "reward": "300 BS, 150 CR, 40 Luck IV, and 40 Speed IV ( , 300k Rolls)",
+      "status": "active"
+    },
+    {
+      "code": "UPD11",
+      "reward": "100 CR, 200 WRR, 5 Fountain, and 5 Weather Tokens ( , 400k Rolls)",
       "status": "active"
     },
     {
@@ -119,6 +124,11 @@
       "status": "expired"
     },
     {
+      "code": "FEMBOYWEATHER",
+      "reward": "Potions, Tokens, and Rerolls ( , 200k roll rq)",
+      "status": "expired"
+    },
+    {
       "code": "GLOBALBOSS",
       "reward": "10 Raid Boss Potions ( , 100k roll req)",
       "status": "expired"
@@ -144,8 +154,23 @@
       "status": "expired"
     },
     {
+      "code": "NARUTO",
+      "reward": "Potions, Tokens, and Rerolls ( , 150k roll req)",
+      "status": "expired"
+    },
+    {
+      "code": "NARUTODELAY",
+      "reward": "Potions, Tokens, and Rerolls",
+      "status": "expired"
+    },
+    {
       "code": "NEWACCESSORIES",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NEWRAID",
+      "reward": "Potions, Tokens, and Rerolls ( , 100k roll req)",
       "status": "expired"
     },
     {
@@ -226,6 +251,11 @@
     {
       "code": "TOKYOGHOUL",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPD10",
+      "reward": "Potions, Tokens, and Rerolls ( , 300k roll req)",
       "status": "expired"
     },
     {

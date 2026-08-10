@@ -1,9 +1,9 @@
 {
-  "title": "Flashpoint Worlds Collide Codes (July 2026)",
+  "title": "Flashpoint Worlds Collide Codes (August 2026)",
   "gameName": "Flashpoint Worlds Collide",
   "description": "Working Flashpoint Worlds Collide codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/flashpoint-worlds-collide.webp",
   "placeId": 13796645198,
@@ -41,6 +41,11 @@
     {
       "code": "MartyZealousTooQuick",
       "reward": "Zealous Suit",
+      "status": "active"
+    },
+    {
+      "code": "mobilebuttonsfixed",
+      "reward": "25,000 Exp and 3 Rebirth Tokens",
       "status": "active"
     },
     {

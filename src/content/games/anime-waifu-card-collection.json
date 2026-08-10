@@ -1,9 +1,9 @@
 {
-  "title": "Anime Waifu Card Collection Codes (July 2026)",
+  "title": "Anime Waifu Card Collection Codes (August 2026)",
   "gameName": "Anime Waifu Card Collection",
   "description": "Working Anime Waifu Card Collection codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/anime-waifu-card-collection.webp",
   "placeId": 109715918987082,
@@ -39,8 +39,43 @@
       "status": "active"
     },
     {
+      "code": "17M",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "19M",
+      "reward": "160 Grade Tokens and 1 XX Token",
+      "status": "active"
+    },
+    {
       "code": "20K",
       "reward": "120 Grade Tokens and 1 Grade SS Token",
+      "status": "active"
+    },
+    {
+      "code": "20M",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "21M",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "22M",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "24M",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "25M",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -84,8 +119,23 @@
       "status": "active"
     },
     {
+      "code": "BEYONDZ",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "BINDER",
       "reward": "Free Binder and Plot Skin",
+      "status": "active"
+    },
+    {
+      "code": "CASEYBDAY",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "DAN5TIME",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -104,13 +154,38 @@
       "status": "active"
     },
     {
+      "code": "LAUNCH",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "MUTANT",
       "reward": "1 Rainbow Mutant Pack",
       "status": "active"
     },
     {
+      "code": "NEWXP",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "PITY",
       "reward": "1 S Coin & 50 Grade Coins",
+      "status": "active"
+    },
+    {
+      "code": "RIPBEYOND",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SABERLIFEBDAY",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SABSAB",
+      "reward": "2 Random Solaris Packs",
       "status": "active"
     },
     {

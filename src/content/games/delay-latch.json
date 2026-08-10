@@ -2,8 +2,8 @@
   "title": "Delay Latch Codes (August 2026)",
   "gameName": "Delay Latch",
   "description": "Working Delay Latch codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/delay-latch.webp",
   "placeId": 94647229517154,
@@ -36,6 +36,11 @@
     {
       "code": "LATE60KCCUCODE",
       "reward": "SSJ4 MVP",
+      "status": "active"
+    },
+    {
+      "code": "PINGOVERHAUL",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {

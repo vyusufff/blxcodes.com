@@ -2,8 +2,8 @@
   "title": "Five Nights TD Codes (August 2026)",
   "gameName": "Five Nights TD",
   "description": "Working Five Nights TD codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/five-nights-td.webp",
   "placeId": 70400654680508,
@@ -29,18 +29,33 @@
   ],
   "codes": [
     {
-      "code": "CHALLENGES",
-      "reward": "10k tokens, 250 souls and 25 season presents",
+      "code": "CCU10k!",
+      "reward": "6,000 Untradable Souls and 5 Anniversary Presents",
       "status": "active"
     },
     {
-      "code": "UPDATE41",
-      "reward": "5k tokens, 100 souls, 50 endo chips, 50 soldering irons and 5 season presents",
+      "code": "CCU11k!",
+      "reward": "6,000 Untradable Souls and 40 Anniversary Presents",
       "status": "active"
     },
     {
-      "code": "VESSEL",
-      "reward": "25k tokens, 350 souls, 50 season presents and 5 raid coins",
+      "code": "Happy12YearsFNAF!",
+      "reward": "50 Anniversary Presents, 12k Tokens, 1200 Untradable Souls, 120 Boss Raid Tokens, 12 Remnant, and 120 Apocalypse Presents",
+      "status": "active"
+    },
+    {
+      "code": "SEASON6",
+      "reward": "10k Tokens, 250 Souls, and 25 Season Presents",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE42",
+      "reward": "5k Tokens, 100 Souls, 50 Endo Chips, 50 Soldering Irons and 5 Season Presents",
+      "status": "active"
+    },
+    {
+      "code": "VENGEFULSPIRIT",
+      "reward": "25k Tokens, 350 Souls, 50 Season Presents, 5 Anniversary Presents and 5 Raid Coins",
       "status": "active"
     },
     {
@@ -55,6 +70,11 @@
     },
     {
       "code": "ARRRRR",
+      "reward": "10k tokens, 250 souls and 25 season presents",
+      "status": "expired"
+    },
+    {
+      "code": "CHALLENGES",
       "reward": "10k tokens, 250 souls and 25 season presents",
       "status": "expired"
     },
@@ -256,6 +276,16 @@
     {
       "code": "UPDATE40",
       "reward": "100 souls, 50 endo chips, 50 soldering irons and 5 season presents",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE41",
+      "reward": "5k tokens, 100 souls, 50 endo chips, 50 soldering irons and 5 season presents",
+      "status": "expired"
+    },
+    {
+      "code": "VESSEL",
+      "reward": "25k tokens, 350 souls, 50 season presents and 5 raid coins",
       "status": "expired"
     },
     {

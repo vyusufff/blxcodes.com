@@ -1,9 +1,9 @@
 {
-  "title": "Anime Last Stand Codes (July 2026)",
+  "title": "Anime Last Stand Codes (August 2026)",
   "gameName": "Anime Last Stand",
   "description": "Working Anime Last Stand codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-10",
+  "checkedAt": "2026-08-10",
   "featured": true,
   "cover": "/images/games/card/anime-last-stand.webp",
   "placeId": 12886143095,
@@ -29,6 +29,11 @@
   ],
   "codes": [
     {
+      "code": "ALSREVERT",
+      "reward": "100 Technique Shards, 40k Emeralds, 10 Mythic Shards, and 20 Essence Selectors",
+      "status": "active"
+    },
+    {
       "code": "ALSUPD1",
       "reward": "15 Rerolls, 2,000 Diamonds",
       "status": "active"
@@ -36,6 +41,11 @@
     {
       "code": "ALSUPD2",
       "reward": "15 Rerolls and 2,000 Diamonds",
+      "status": "active"
+    },
+    {
+      "code": "ALSWORLD2",
+      "reward": "50 Technique Shards, 15 Mythic Shards, 10k Jewels, and 20 Perfect Stat Cubes",
       "status": "active"
     },
     {
@@ -81,6 +91,11 @@
     {
       "code": "ReleaseCode!",
       "reward": "10 Rerolls, and 500 Diamonds",
+      "status": "active"
+    },
+    {
+      "code": "RRSFORDAYS!",
+      "reward": "125 Technique Shards, 30 Perfect Stat Cubes, 50 Stat Cubes, and 5 Skill Tree Resets",
       "status": "active"
     },
     {
@@ -131,6 +146,11 @@
     {
       "code": "Update83!",
       "reward": "10 Premium Rerolls",
+      "status": "active"
+    },
+    {
+      "code": "WelcomeBack!",
+      "reward": "10k Jewels, 25k Emeralds, 50 Technique Shards, and 10 Skill Tree Resets",
       "status": "active"
     },
     {
