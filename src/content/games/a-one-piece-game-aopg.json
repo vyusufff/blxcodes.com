@@ -2,8 +2,8 @@
   "title": "AOPG Codes (August 2026)",
   "gameName": "AOPG",
   "description": "Working AOPG codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-09",
-  "checkedAt": "2026-08-09",
+  "updatedAt": "2026-08-11",
+  "checkedAt": "2026-08-11",
   "featured": true,
   "cover": "/images/games/card/a-one-piece-game-aopg.webp",
   "placeId": 8396586868,
@@ -391,6 +391,21 @@
     {
       "code": "REALPUNK!!!",
       "reward": "2x xp for 30 mins",
+      "status": "active"
+    },
+    {
+      "code": "ReAOPG",
+      "reward": "200M beli",
+      "status": "active"
+    },
+    {
+      "code": "ReAOPG2",
+      "reward": "12k Gems",
+      "status": "active"
+    },
+    {
+      "code": "ReAOPG3",
+      "reward": "25 poneglyphs",
       "status": "active"
     },
     {

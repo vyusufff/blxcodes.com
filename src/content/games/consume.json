@@ -1,0 +1,67 @@
+{
+  "title": "Consume Codes (August 2026)",
+  "gameName": "Consume",
+  "description": "Working Consume codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-11",
+  "checkedAt": "2026-08-11",
+  "featured": true,
+  "cover": "/images/games/card/consume.webp",
+  "placeId": 12967963941,
+  "howTo": [
+    "Launch Consume on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Consume codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Consume code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Consume codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "halloween2024",
+      "reward": "100 candy",
+      "status": "active"
+    },
+    {
+      "code": "journallogs",
+      "reward": "2k cultist coins",
+      "status": "active"
+    },
+    {
+      "code": "100kfavourites",
+      "reward": "1k cultist coins",
+      "status": "active"
+    },
+    {
+      "code": "2mvisits",
+      "reward": "2k cultist coins",
+      "status": "active"
+    },
+    {
+      "code": "1k1kes",
+      "reward": "1k cultist coins",
+      "status": "active"
+    },
+    {
+      "code": "1kplayers",
+      "reward": "3k cultist coins",
+      "status": "active"
+    },
+    {
+      "code": "consumerelease",
+      "reward": "1k cultist coins",
+      "status": "active"
+    }
+  ]
+}

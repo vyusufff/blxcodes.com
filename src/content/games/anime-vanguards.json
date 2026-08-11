@@ -1,9 +1,9 @@
 {
-  "title": "Anime Vanguards Codes (July 2026)",
+  "title": "Anime Vanguards Codes (August 2026)",
   "gameName": "Anime Vanguards",
   "description": "Working Anime Vanguards codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-11",
+  "checkedAt": "2026-08-11",
   "featured": true,
   "cover": "/images/games/card/anime-vanguards.webp",
   "placeId": 16146832113,
@@ -29,13 +29,13 @@
   ],
   "codes": [
     {
-      "code": "1DayL8",
-      "reward": "500 Trait Rerolls ( , Requires Level 30)",
+      "code": "1DayDelay",
+      "reward": "200 Trait Rerolls ( , Requires Level 30)",
       "status": "active"
     },
     {
-      "code": "ExecutionPart2",
-      "reward": "50 Trait Rerolls and 20 Copycat Tokens ( , Requires Level 30)",
+      "code": "25thHour",
+      "reward": "50 Trait Rerolls and 50 Memoria Shards ( , Requires Level 30)",
       "status": "active"
     },
     {
@@ -44,8 +44,18 @@
       "status": "active"
     },
     {
+      "code": "LetTheLarpingBegin",
+      "reward": "50 Controller Tokens, 10k Gems, and 50k Gold",
+      "status": "active"
+    },
+    {
       "code": "150KYT",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "1DayL8",
+      "reward": "500 Trait Rerolls ( , Requires Level 30)",
       "status": "expired"
     },
     {
@@ -111,6 +121,11 @@
     {
       "code": "EternalAdversaries",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ExecutionPart2",
+      "reward": "50 Trait Rerolls and 20 Copycat Tokens ( , Requires Level 30)",
       "status": "expired"
     },
     {
