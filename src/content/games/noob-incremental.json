@@ -2,8 +2,8 @@
   "title": "Noob Incremental Codes (August 2026)",
   "gameName": "Noob Incremental",
   "description": "Working Noob Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-10",
-  "checkedAt": "2026-08-10",
+  "updatedAt": "2026-08-11",
+  "checkedAt": "2026-08-11",
   "featured": true,
   "cover": "/images/games/card/noob-incremental.webp",
   "placeId": 76911729991355,
@@ -91,6 +91,11 @@
     {
       "code": "LABUPDATE",
       "reward": "10 Enhant Tokens and 1 Rune Bulk Potion",
+      "status": "active"
+    },
+    {
+      "code": "LITTLEUPDATE777",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
