@@ -2,8 +2,8 @@
   "title": "Anime Last Stand Codes (August 2026)",
   "gameName": "Anime Last Stand",
   "description": "Working Anime Last Stand codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-10",
-  "checkedAt": "2026-08-10",
+  "updatedAt": "2026-08-12",
+  "checkedAt": "2026-08-12",
   "featured": true,
   "cover": "/images/games/card/anime-last-stand.webp",
   "placeId": 12886143095,
@@ -104,6 +104,11 @@
       "status": "active"
     },
     {
+      "code": "ShhhThisIsASecret!",
+      "reward": "5 Skill Tree Resets, 30 Technique Shards, and 5,000 Jewels",
+      "status": "active"
+    },
+    {
       "code": "SorryForDelay1",
       "reward": "10 Rerolls, 750 Diamonds, and 2 of each energy",
       "status": "active"
@@ -126,6 +131,11 @@
     {
       "code": "SUPERDELAY",
       "reward": "500 premium shards, 500 shard locks, and 500 dusk pearl",
+      "status": "active"
+    },
+    {
+      "code": "ThankYouForBelieving!",
+      "reward": "20 of Every Essence, 25,000 Emeralds, 10,000 Jewels, 20 Stat Cubes, 10 Perfect Stat Cubes, and 60 Technique Shards",
       "status": "active"
     },
     {

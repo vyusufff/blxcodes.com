@@ -2,8 +2,8 @@
   "title": "Untitled Gym League Codes (August 2026)",
   "gameName": "Untitled Gym League",
   "description": "Working Untitled Gym League codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-01",
-  "checkedAt": "2026-08-01",
+  "updatedAt": "2026-08-12",
+  "checkedAt": "2026-08-12",
   "featured": true,
   "cover": "/images/games/card/untitled-gym-game.webp",
   "placeId": 17450551531,
@@ -49,8 +49,18 @@
       "status": "active"
     },
     {
+      "code": "SoloDevIsA_W",
+      "reward": "30 minutes of 1.5x gains & liftspeed",
+      "status": "active"
+    },
+    {
       "code": "Starter",
       "reward": "$999, 5 Whey, 5 Creatine, 2x Gains for 60 minutes",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE_BRUH",
+      "reward": "30 minutes of 1.5x gains & liftspeed",
       "status": "active"
     },
     {
