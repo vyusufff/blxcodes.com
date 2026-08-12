@@ -2,8 +2,8 @@
   "title": "Excuse Me Sir Codes (August 2026)",
   "gameName": "Excuse Me Sir",
   "description": "Working Excuse Me Sir codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-05",
-  "checkedAt": "2026-08-05",
+  "updatedAt": "2026-08-12",
+  "checkedAt": "2026-08-12",
   "featured": true,
   "cover": "/images/games/card/excuse-me-sir.webp",
   "placeId": 136101424666302,
@@ -29,21 +29,6 @@
   ],
   "codes": [
     {
-      "code": "REWORK",
-      "reward": "ten lucky rolls",
-      "status": "active"
-    },
-    {
-      "code": "GUILD",
-      "reward": "ten lucky rolls",
-      "status": "active"
-    },
-    {
-      "code": "TRADING",
-      "reward": "ten lucky rolls",
-      "status": "active"
-    },
-    {
       "code": "140KMEMBERS",
       "reward": "five lucky rolls",
       "status": "active"
@@ -54,17 +39,32 @@
       "status": "active"
     },
     {
-      "code": "WEATHER",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "ATOMIC",
+      "reward": "20 lucky rolls (!)",
+      "status": "active"
     },
     {
-      "code": "5KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "GUILD",
+      "reward": "ten lucky rolls",
+      "status": "active"
     },
     {
-      "code": "CRAFTUPD",
+      "code": "REWORK",
+      "reward": "ten lucky rolls",
+      "status": "active"
+    },
+    {
+      "code": "TRADING",
+      "reward": "ten lucky rolls",
+      "status": "active"
+    },
+    {
+      "code": "WORLD2",
+      "reward": "ten lucky rolls (!)",
+      "status": "active"
+    },
+    {
+      "code": "2026",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -74,22 +74,7 @@
       "status": "expired"
     },
     {
-      "code": "PURPLE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "LIGHT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "GIFTING",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "DELETED",
+      "code": "5KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -99,17 +84,7 @@
       "status": "expired"
     },
     {
-      "code": "SORRYFORBUG",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "CODERUBYCRATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "DELAY",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -119,12 +94,47 @@
       "status": "expired"
     },
     {
+      "code": "CRAFTUPD",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DELAY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DELETED",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GIFTING",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LIGHT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "PCGamesN",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "PURPLE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFORBUG",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WEATHER",
       "reward": "Expired reward",
       "status": "expired"
     }
