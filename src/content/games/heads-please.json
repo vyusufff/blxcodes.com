@@ -1,9 +1,9 @@
 {
-  "title": "Heads Please Codes (July 2026)",
+  "title": "Heads Please Codes (August 2026)",
   "gameName": "Heads Please",
   "description": "Working Heads Please codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-12",
+  "checkedAt": "2026-08-12",
   "featured": true,
   "cover": "/images/games/card/heads-please.webp",
   "placeId": 121116694547285,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "2kCCU",
+      "reward": "10 Enchant Books and 10 Accessory Tickets",
+      "status": "active"
+    },
     {
       "code": "7updpt2",
       "reward": "Free Rewards",
@@ -109,6 +114,11 @@
       "status": "active"
     },
     {
+      "code": "sorryforlagging",
+      "reward": "Drinks",
+      "status": "active"
+    },
+    {
       "code": "sry4bugs",
       "reward": "Free Rewards",
       "status": "active"
@@ -131,6 +141,16 @@
     {
       "code": "thankyou4playing8",
       "reward": "10 EnchantBook",
+      "status": "active"
+    },
+    {
+      "code": "ThankYouFor1kCCU",
+      "reward": "Drinks",
+      "status": "active"
+    },
+    {
+      "code": "Trinity",
+      "reward": "3 Coins, 3 Enchant Books, and 3 Accessory Tickets",
       "status": "active"
     },
     {

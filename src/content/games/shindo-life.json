@@ -1,9 +1,9 @@
 {
-  "title": "Shindo Life Codes (July 2026)",
+  "title": "Shindo Life Codes (August 2026)",
   "gameName": "Shindo Life",
   "description": "Working Shindo Life codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-12",
+  "checkedAt": "2026-08-12",
   "featured": true,
   "cover": "/images/games/card/shindo-life.webp",
   "placeId": 4616652839,
@@ -35,6 +35,11 @@
     },
     {
       "code": "2025RELLmas!",
+      "reward": "Spins and Rellcoins",
+      "status": "active"
+    },
+    {
+      "code": "20NewCloaksAdded!",
       "reward": "Spins and Rellcoins",
       "status": "active"
     },
@@ -119,6 +124,11 @@
       "status": "active"
     },
     {
+      "code": "FixUpdateIsOutEarly!",
+      "reward": "Spins and Rellcoins",
+      "status": "active"
+    },
+    {
       "code": "forTheFuture!",
       "reward": "Spins and Rellcoins",
       "status": "active"
@@ -190,6 +200,16 @@
     },
     {
       "code": "neverENDING!",
+      "reward": "Spins and Rellcoins",
+      "status": "active"
+    },
+    {
+      "code": "NewBugPatchandFixes250!",
+      "reward": "Spins and Rellcoins",
+      "status": "active"
+    },
+    {
+      "code": "NewFREEFALLings2026!",
       "reward": "Spins and Rellcoins",
       "status": "active"
     },
@@ -345,6 +365,11 @@
     },
     {
       "code": "ThankYouForPatience249Patch!",
+      "reward": "Spins and Rellcoins",
+      "status": "active"
+    },
+    {
+      "code": "ThankYouForPatience250Patch!",
       "reward": "Spins and Rellcoins",
       "status": "active"
     },
