@@ -2,8 +2,8 @@
   "title": "Ultimate Tower Defense Simulator Codes (August 2026)",
   "gameName": "Ultimate Tower Defense Simulator",
   "description": "Working Ultimate Tower Defense Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-09",
-  "checkedAt": "2026-08-09",
+  "updatedAt": "2026-08-13",
+  "checkedAt": "2026-08-13",
   "featured": true,
   "cover": "/images/games/card/ultimate-tower-defense-simulator.webp",
   "placeId": 5902977746,
@@ -29,33 +29,8 @@
   ],
   "codes": [
     {
-      "code": "Update53",
-      "reward": "75 perk rerolls, 75 trait rerolls, 12 impure souls, and ten lost chests (!)",
-      "status": "active"
-    },
-    {
-      "code": "UpdatedBanner2026",
-      "reward": "75 perk rerolls, 75 trait rerolls, 12 impure souls, seven lost chests, and two banner luck potions",
-      "status": "active"
-    },
-    {
-      "code": "ThankYouForFeedback2026",
-      "reward": "106 perk rerolls, 106 trait rerolls, 20 impure souls, and five lost chests",
-      "status": "active"
-    },
-    {
-      "code": "EidMubarakEveryone!",
-      "reward": "90 perk rerolls and 90 trait rerolls",
-      "status": "active"
-    },
-    {
-      "code": "VisitingFutureCity!",
-      "reward": "72 perk rerolls and 72 trait rerolls",
-      "status": "active"
-    },
-    {
-      "code": "Easter2026",
-      "reward": "20 lost chests",
+      "code": "1000ccuSummer2026",
+      "reward": "ten lost chests (!)",
       "status": "active"
     },
     {
@@ -64,8 +39,43 @@
       "status": "active"
     },
     {
+      "code": "1bVisits",
+      "reward": "rewards",
+      "status": "active"
+    },
+    {
       "code": "Conan!",
       "reward": "99 perk rerolls, 99 trait rerolls, and five ninja crates",
+      "status": "active"
+    },
+    {
+      "code": "Easter2026",
+      "reward": "20 lost chests",
+      "status": "active"
+    },
+    {
+      "code": "EidMubarakEveryone!",
+      "reward": "90 perk rerolls and 90 trait rerolls",
+      "status": "active"
+    },
+    {
+      "code": "ijoinedthegroup",
+      "reward": "rewards",
+      "status": "active"
+    },
+    {
+      "code": "K1L4",
+      "reward": "100% gold boost for 24 hours",
+      "status": "active"
+    },
+    {
+      "code": "ll_lounter",
+      "reward": "a shiny CC Counter unit",
+      "status": "active"
+    },
+    {
+      "code": "resetModifier",
+      "reward": "resets modifier",
       "status": "active"
     },
     {
@@ -79,18 +89,13 @@
       "status": "active"
     },
     {
-      "code": "ll_lounter",
-      "reward": "a shiny CC Counter unit",
+      "code": "SummerEvent2026",
+      "reward": "1,337 gold, 420 rubies, 67 trait rerolls, 67 perk rerolls, 22 impure souls, ten lost chests, and two pure souls (!)",
       "status": "active"
     },
     {
-      "code": "ijoinedthegroup",
-      "reward": "rewards",
-      "status": "active"
-    },
-    {
-      "code": "resetModifier",
-      "reward": "resets modifier",
+      "code": "ThankYouForFeedback2026",
+      "reward": "106 perk rerolls, 106 trait rerolls, 20 impure souls, and five lost chests",
       "status": "active"
     },
     {
@@ -99,37 +104,22 @@
       "status": "active"
     },
     {
-      "code": "1bVisits",
-      "reward": "rewards",
+      "code": "Update53",
+      "reward": "75 perk rerolls, 75 trait rerolls, 12 impure souls, and ten lost chests (!)",
       "status": "active"
     },
     {
-      "code": "K1L4",
-      "reward": "100% gold boost for 24 hours",
+      "code": "UpdatedBanner2026",
+      "reward": "75 perk rerolls, 75 trait rerolls, 12 impure souls, seven lost chests, and two banner luck potions",
       "status": "active"
     },
     {
-      "code": "England3rdPlace",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "VisitingFutureCity!",
+      "reward": "72 perk rerolls and 72 trait rerolls",
+      "status": "active"
     },
     {
-      "code": "UTDIsBack!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ClassicReworkHype",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BattlepassSeason9!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HeresSomeTraitRerolls!",
+      "code": "2024GivingThanks",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -139,7 +129,17 @@
       "status": "expired"
     },
     {
-      "code": "UltimateApril2026Delay",
+      "code": "BattlepassSeason5",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BattlepassSeason6",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BattlepassSeason7!",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -149,17 +149,72 @@
       "status": "expired"
     },
     {
+      "code": "BattlepassSeason9!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BleachPart2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Bugfixes!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ClassicReworkHype",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Easter!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "England3rdPlace",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FinalWeekOfSpooks!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "halloween25delayed",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HalloweenSoon!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "HappyNewYearEveryone!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "NearlyNewYear2026!",
+      "code": "HappySlothDay",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Xmas2025",
+      "code": "HaveSomeGold",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HeresSomeTraitRerolls!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "KeepUpTheGrind!",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -169,7 +224,62 @@
       "status": "expired"
     },
     {
-      "code": "TheInfallibleAssassin!",
+      "code": "MGH12L3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NearlyNewYear2026!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PlayersMayCry",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PumpkinsForAll!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Ram!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RubiesThanks2024",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SaveYourPumpkins!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SorryForCodeBug",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SpookyTime2025!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Summer2025!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SummerCalendar2025",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksGiving2024",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -184,67 +294,7 @@
       "status": "expired"
     },
     {
-      "code": "SpookyTime2025!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FinalWeekOfSpooks!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SaveYourPumpkins!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BattlepassSeason7!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "PumpkinsForAll!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "KeepUpTheGrind!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "halloween25delayed",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HappySlothDay",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Bugfixes!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HalloweenSoon!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Ram!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BattlepassSeason6",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SummerCalendar2025",
+      "code": "TheInfallibleAssassin!",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -254,57 +304,17 @@
       "status": "expired"
     },
     {
-      "code": "SorryForCodeBug",
+      "code": "UltimateApril2026Delay",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "HaveSomeGold",
+      "code": "UTDIsBack!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "PlayersMayCry",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BattlepassSeason5",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Summer2025!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "Easter!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BleachPart2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "2024GivingThanks",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksGiving2024",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RubiesThanks2024",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "MGH12L3",
+      "code": "Xmas2025",
       "reward": "Expired reward",
       "status": "expired"
     }
