@@ -2,8 +2,8 @@
   "title": "Roll an Anime Codes (August 2026)",
   "gameName": "Roll an Anime",
   "description": "Working Roll an Anime codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-10",
-  "checkedAt": "2026-08-10",
+  "updatedAt": "2026-08-13",
+  "checkedAt": "2026-08-13",
   "featured": true,
   "cover": "/images/games/card/roll-an-anime.webp",
   "placeId": 93999763241813,
@@ -101,6 +101,11 @@
     {
       "code": "Nebula",
       "reward": "2 Luck",
+      "status": "active"
+    },
+    {
+      "code": "ORIGINAL",
+      "reward": "25 times Cash boost",
       "status": "active"
     },
     {

@@ -2,8 +2,8 @@
   "title": "Anime Squadron Codes (August 2026)",
   "gameName": "Anime Squadron",
   "description": "Working Anime Squadron codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-08-13",
+  "checkedAt": "2026-08-13",
   "featured": true,
   "cover": "/images/games/card/anime-squadron.webp",
   "placeId": 71132543521245,
@@ -31,6 +31,16 @@
     {
       "code": "1000YearsMaintenance!",
       "reward": "10 Perfect Cubes",
+      "status": "active"
+    },
+    {
+      "code": "AdminAbuse!",
+      "reward": "50 Trait Shards, 5k Crusader Bill, and 3k Gold",
+      "status": "active"
+    },
+    {
+      "code": "AdminAbuse2!",
+      "reward": "100 Trait Shards",
       "status": "active"
     },
     {
