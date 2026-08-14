@@ -2,7 +2,7 @@
   "title": "Anime Expeditions Codes (August 2026)",
   "gameName": "Anime Expeditions",
   "description": "Working Anime Expeditions codes for Trait Crystals, Gems-related rewards, rerolls, and Villain Coins.",
-  "updatedAt": "2026-08-11",
+  "updatedAt": "2026-08-14",
   "featured": true,
   "cover": "/images/games/card/anime-expeditions.webp",
   "placeId": 84515722934860,
@@ -30,16 +30,6 @@
     {
       "code": "AnotherRestart",
       "reward": "50 Trait Crystals",
-      "status": "active"
-    },
-    {
-      "code": "ballin!",
-      "reward": "25 Trait Crystals, 10 Equipment Rerolls, 10 Stat Rerolls",
-      "status": "active"
-    },
-    {
-      "code": "sorry4longmaintenance",
-      "reward": "250 Trait Crystals, 25 Stat Locks, 25 Stat Rerolls",
       "status": "active"
     },
     {
@@ -118,6 +108,11 @@
       "status": "expired"
     },
     {
+      "code": "ballin!",
+      "reward": "25 Trait Crystals, 10 Equipment Rerolls, 10 Stat Rerolls",
+      "status": "expired"
+    },
+    {
       "code": "EA",
       "reward": "Expired reward",
       "status": "expired"
@@ -145,6 +140,11 @@
     {
       "code": "releasetournamentsorry",
       "reward": "50 Trait Crystals, 15 Stat Locks, 15 Stat Rerolls",
+      "status": "expired"
+    },
+    {
+      "code": "sorry4longmaintenance",
+      "reward": "250 Trait Crystals, 25 Stat Locks, 25 Stat Rerolls",
       "status": "expired"
     },
     {
@@ -188,5 +188,5 @@
       "status": "expired"
     }
   ],
-  "checkedAt": "2026-08-11"
+  "checkedAt": "2026-08-14"
 }
