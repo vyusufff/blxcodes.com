@@ -28,6 +28,11 @@
   ],
   "codes": [
     {
+      "code": "600mvisits",
+      "reward": "50 Trait Crystals, 30 Equipment Rerolls, 30 Stat Rerolls",
+      "status": "active"
+    },
+    {
       "code": "AnotherRestart",
       "reward": "50 Trait Crystals",
       "status": "active"
