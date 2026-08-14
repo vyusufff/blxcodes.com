@@ -1,9 +1,9 @@
 {
-  "title": "Be a Fish Bait Codes (July 2026)",
+  "title": "Be a Fish Bait Codes (August 2026)",
   "gameName": "Be a Fish Bait",
   "description": "Working Be a Fish Bait codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-14",
+  "checkedAt": "2026-08-14",
   "featured": true,
   "cover": "/images/games/card/be-a-fish-bait.webp",
   "placeId": 99702578544768,
@@ -61,6 +61,11 @@
     {
       "code": "BAITAURA",
       "reward": "1 Reroll",
+      "status": "active"
+    },
+    {
+      "code": "HOOLALALA",
+      "reward": "3 Aura Rerolls",
       "status": "active"
     },
     {

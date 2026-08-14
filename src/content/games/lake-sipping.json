@@ -2,8 +2,8 @@
   "title": "Lake Sipping Codes (August 2026)",
   "gameName": "Lake Sipping",
   "description": "Working Lake Sipping codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-07",
-  "checkedAt": "2026-08-07",
+  "updatedAt": "2026-08-14",
+  "checkedAt": "2026-08-14",
   "featured": true,
   "cover": "/images/games/card/lake-sipping.webp",
   "placeId": 119715129239364,
@@ -36,6 +36,11 @@
     {
       "code": "Cthulhu",
       "reward": "50 Bones",
+      "status": "active"
+    },
+    {
+      "code": "HydraChaos",
+      "reward": "2 Shadow Spins",
       "status": "active"
     },
     {
