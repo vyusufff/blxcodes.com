@@ -2,8 +2,8 @@
   "title": "Reign Piece Codes (August 2026)",
   "gameName": "Reign Piece",
   "description": "Working Reign Piece codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-07",
-  "checkedAt": "2026-08-07",
+  "updatedAt": "2026-08-14",
+  "checkedAt": "2026-08-14",
   "featured": true,
   "cover": "/images/games/card/reign-piece.webp",
   "placeId": 78466992256287,
@@ -29,36 +29,6 @@
   ],
   "codes": [
     {
-      "code": "HUECOMUNDOREVAMP",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "ICHIGOTYBWUPDATE",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "WELOVESLC",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "RESTRICTED",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "HUGEBALANCINGPATCH",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "SHADOWSARISE",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
       "code": "BEGINNERBOOST",
       "reward": "2500 Yen, 500 Crystal, 20 Race Token, and 10 Clan Relic",
       "status": "active"
@@ -69,8 +39,13 @@
       "status": "active"
     },
     {
-      "code": "SLCSOHUMBLE",
+      "code": "CODESFOREVERYONE",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "FREECLANRELICS",
+      "reward": "5 Clan Relics",
       "status": "active"
     },
     {
@@ -84,12 +59,92 @@
       "status": "active"
     },
     {
-      "code": "FREECLANRELICS",
-      "reward": "5 Clan Relics",
+      "code": "HUECOMUNDOREVAMP",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
-      "code": "SOON2026",
+      "code": "HUGEBALANCINGPATCH",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "ICHIGOTYBWUPDATE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "MODULO",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "RESTRICTED",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SHADOWSARISE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SLCSOHUMBLE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "WELOVESLC",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "1500CCU!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "750INTERESTED",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "AIZENANDSHADOW",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "AKAZASOON",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "AKAZAUPDATE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BERUUPD",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BLESSEDUPBYSLCTHEGOAT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DOUBLEDUNGEON",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ENELEVENT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FACTIONS",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -99,17 +154,32 @@
       "status": "expired"
     },
     {
-      "code": "rrSORRYFORSHUTDOWN",
+      "code": "FREEREROLLS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "THXFOR2KCCU",
+      "code": "GOATOFTHEESPADAS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "TENGENUPD",
+      "code": "GOLEM",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GYUTARO",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HUGEUPDATE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "IGRISUPDATE",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -124,17 +194,7 @@
       "status": "expired"
     },
     {
-      "code": "PATCH2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "GOLEM",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "XMAS",
+      "code": "MAHORAGA",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -149,22 +209,7 @@
       "status": "expired"
     },
     {
-      "code": "SORRY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ENELEVENT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "REQSMET!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SDSUPDATE",
+      "code": "PATCH2",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,67 +219,22 @@
       "status": "expired"
     },
     {
-      "code": "1500CCU!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HUGEUPDATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "AIZENANDSHADOW",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FACTIONS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "STARRKUPDATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PRIMERAESPADA",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "SORRYFORSLIGHTDELAY",
+      "code": "REQSMET!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "ULQUPDATE",
+      "code": "rrSORRYFORSHUTDOWN",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "GOATOFTHEESPADAS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "AKAZAUPDATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "750INTERESTED",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "AKAZASOON",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "GYUTARO",
+      "code": "SDSUPDATE",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -244,17 +244,12 @@
       "status": "expired"
     },
     {
-      "code": "BERUUPD",
+      "code": "SOON2026",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "THESUPREMEANTKING",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "DOUBLEDUNGEON",
+      "code": "SORRY",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -264,27 +259,42 @@
       "status": "expired"
     },
     {
+      "code": "SORRYFORSLIGHTDELAY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "STARRKUPDATE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "SUNGJINWOO",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "BLESSEDUPBYSLCTHEGOAT",
+      "code": "TENGENUPD",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "IGRISUPDATE",
+      "code": "THESUPREMEANTKING",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "FREEREROLLS",
+      "code": "THXFOR2KCCU",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "MAHORAGA",
+      "code": "ULQUPDATE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "XMAS",
       "reward": "Expired reward",
       "status": "expired"
     }

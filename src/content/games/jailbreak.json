@@ -1,9 +1,9 @@
 {
-  "title": "Jailbreak Codes (July 2026)",
+  "title": "Jailbreak Codes (August 2026)",
   "gameName": "Jailbreak",
   "description": "Working Jailbreak codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-14",
+  "checkedAt": "2026-08-14",
   "featured": true,
   "cover": "/images/games/card/jailbreak.webp",
   "placeId": 606849621,
@@ -31,6 +31,11 @@
     {
       "code": "20KCASH4U",
       "reward": "20,000 Cash",
+      "status": "active"
+    },
+    {
+      "code": "8billion",
+      "reward": "18,888 cash",
       "status": "active"
     },
     {
