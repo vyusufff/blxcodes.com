@@ -2,8 +2,8 @@
   "title": "Anime Final Strike Codes (August 2026)",
   "gameName": "Anime Final Strike",
   "description": "Working Anime Final Strike codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-13",
-  "checkedAt": "2026-08-13",
+  "updatedAt": "2026-08-14",
+  "checkedAt": "2026-08-14",
   "featured": true,
   "cover": "/images/games/card/anime-final-strike.webp",
   "placeId": 16946008847,
@@ -34,13 +34,23 @@
       "status": "active"
     },
     {
-      "code": "ESPADA",
-      "reward": "50 Rerolls and 5k Gems",
+      "code": "Bankai!",
+      "reward": "50 Rerolls and 25 of each Stat Chip Ting",
       "status": "active"
     },
     {
-      "code": "Bankai!",
-      "reward": "50 Rerolls and 25 of each Stat Chip Ting",
+      "code": "choppeddevkeepsrestarting",
+      "reward": "75 Rerolls",
+      "status": "active"
+    },
+    {
+      "code": "dontslimemeout",
+      "reward": "5k Gems",
+      "status": "active"
+    },
+    {
+      "code": "ESPADA",
+      "reward": "50 Rerolls and 5k Gems",
       "status": "active"
     },
     {
@@ -49,147 +59,17 @@
       "status": "active"
     },
     {
-      "code": "BERSERK!",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "sorryforshutdown67!",
+      "reward": "50 Rerolls",
+      "status": "active"
     },
     {
-      "code": "NEWRAID!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UPD4",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ONEDAYLATE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SorryForMaint",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "QUESTLINESFIX",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRYFORLATE4",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "QUESTLINES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ONEPUNCH",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "JJKPART2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "KINGOFCURSES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BOOGIETIME",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRY4RESET",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "OOPSBIGBUG",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "thatswhatfinalmeans",
+      "reward": "100 Rerolls",
+      "status": "active"
     },
     {
       "code": "0HOTFIX2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRYFOR3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRY4ENEL",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UPD3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ANIMEDELAYSTRIKE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "TOEJI",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UPDATE2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "PHEONIXTIME",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "AFSCOMEBACK",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FinalStrikeBroadcast",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "5ISOUT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NEWMANAGEMENT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "BRANDONTAKEOVER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SORRY4DELAY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "60kLikes",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -204,37 +84,27 @@
       "status": "expired"
     },
     {
-      "code": "UPD2",
+      "code": "5ISOUT",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "ELFUPRISING",
+      "code": "60kLikes",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "HARDATWORK",
+      "code": "AFSCOMEBACK",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "UPD1HALF",
+      "code": "ANIMEDELAYSTRIKE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "THANKSFOR50KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FORGOT40KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UPDATEONE",
+      "code": "BERSERK!",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -244,7 +114,157 @@
       "status": "expired"
     },
     {
+      "code": "BOOGIETIME",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BRANDONTAKEOVER",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ELFUPRISING",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FinalStrikeBroadcast",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FORGOT40KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HARDATWORK",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "JJKPART2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "KINGOFCURSES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "MBFORDELAY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NEWMANAGEMENT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NEWRAID!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ONEDAYLATE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ONEPUNCH",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "OOPSBIGBUG",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PHEONIXTIME",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "QUESTLINES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "QUESTLINESFIX",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY4DELAY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY4ENEL",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY4RESET",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFOR3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFORLATE4",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SorryForMaint",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THANKSFOR50KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TOEJI",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPD1HALF",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPD2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPD3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPD4",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATEONE",
       "reward": "Expired reward",
       "status": "expired"
     }
