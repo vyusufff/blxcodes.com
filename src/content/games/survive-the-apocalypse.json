@@ -2,8 +2,8 @@
   "title": "Survive the Apocalypse Codes (August 2026)",
   "gameName": "Survive the Apocalypse",
   "description": "Working Survive the Apocalypse codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-08",
-  "checkedAt": "2026-08-08",
+  "updatedAt": "2026-08-15",
+  "checkedAt": "2026-08-15",
   "featured": true,
   "cover": "/images/games/card/survive-the-apocalypse.webp",
   "placeId": 90148635862803,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "hacker1111",
+      "reward": "25 Emeralds",
+      "status": "active"
+    },
     {
       "code": "happy250",
       "reward": "25 Emeralds",

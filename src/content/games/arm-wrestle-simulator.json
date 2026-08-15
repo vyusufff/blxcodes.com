@@ -1,9 +1,9 @@
 {
-  "title": "Arm Wrestle Simulator Codes (July 2026)",
+  "title": "Arm Wrestle Simulator Codes (August 2026)",
   "gameName": "Arm Wrestle Simulator",
   "description": "Working Arm Wrestle Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-15",
+  "checkedAt": "2026-08-15",
   "featured": true,
   "cover": "/images/games/card/arm-wrestle-simulator.webp",
   "placeId": 13127800756,
@@ -149,6 +149,11 @@
       "status": "active"
     },
     {
+      "code": "dropthatnuke",
+      "reward": "Use for 3x stat boost for 72 hours",
+      "status": "active"
+    },
+    {
       "code": "dungeonsopen",
       "reward": "Use for 3x stat boost for 72 hours",
       "status": "active"
@@ -191,6 +196,11 @@
     {
       "code": "glassbridge",
       "reward": "Use for 3x stat boost for 48 hours",
+      "status": "active"
+    },
+    {
+      "code": "goodbyemining",
+      "reward": "Use for 3x stat boost for 72 hours",
       "status": "active"
     },
     {
@@ -281,6 +291,11 @@
     {
       "code": "performance",
       "reward": "Use for 3x boost for 24 hours",
+      "status": "active"
+    },
+    {
+      "code": "permamining",
+      "reward": "Use for 3x stat boost for 72 hours",
       "status": "active"
     },
     {

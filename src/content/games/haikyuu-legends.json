@@ -2,8 +2,8 @@
   "title": "Haikyuu Legends Codes (August 2026)",
   "gameName": "Haikyuu Legends",
   "description": "Working Haikyuu Legends codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-08",
-  "checkedAt": "2026-08-08",
+  "updatedAt": "2026-08-15",
+  "checkedAt": "2026-08-15",
   "featured": true,
   "cover": "/images/games/card/haikyuu-legends.webp",
   "placeId": 73956553001240,
@@ -29,18 +29,18 @@
   ],
   "codes": [
     {
-      "code": "JETPACK",
-      "reward": "5 Lucky Ability Spin",
+      "code": "MIKAGE_REVIVED",
+      "reward": "5 Lucky Style Spins",
       "status": "active"
     },
     {
-      "code": "ROKETTO",
-      "reward": "5 Lucky Style Spin",
+      "code": "SCHOOL_SOON",
+      "reward": "5 Lucky Ability Spins",
       "status": "active"
     },
     {
-      "code": "UPDATE_82",
-      "reward": "5 Lucky Style Spin",
+      "code": "UPDATE_83",
+      "reward": "5 Lucky Style Spins",
       "status": "active"
     },
     {
@@ -99,6 +99,11 @@
       "status": "expired"
     },
     {
+      "code": "JETPACK",
+      "reward": "5 Lucky Ability Spin",
+      "status": "expired"
+    },
+    {
       "code": "JUNE_2026",
       "reward": "Expired reward",
       "status": "expired"
@@ -151,6 +156,11 @@
     {
       "code": "ROBLOX_ISSUES",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ROKETTO",
+      "reward": "5 Lucky Style Spin",
       "status": "expired"
     },
     {
@@ -256,6 +266,11 @@
     {
       "code": "UPDATE_81",
       "reward": "5 Lucky Style Spins",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE_82",
+      "reward": "5 Lucky Style Spin",
       "status": "expired"
     },
     {

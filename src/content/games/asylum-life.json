@@ -1,9 +1,9 @@
 {
-  "title": "Asylum Life Codes (July 2026)",
+  "title": "Asylum Life Codes (August 2026)",
   "gameName": "Asylum Life",
   "description": "Working Asylum Life codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-15",
+  "checkedAt": "2026-08-15",
   "featured": true,
   "cover": "/images/games/card/asylum-life.webp",
   "placeId": 132352755769957,
@@ -30,6 +30,11 @@
   "codes": [
     {
       "code": "4THOFJULY",
+      "reward": "3x EXP Booster",
+      "status": "active"
+    },
+    {
+      "code": "BLUE_VOID",
       "reward": "3x EXP Booster",
       "status": "active"
     },
