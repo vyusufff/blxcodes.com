@@ -2,8 +2,8 @@
   "title": "Sol&#8217;s RNG Codes (August 2026)",
   "gameName": "Sol&#8217;s RNG",
   "description": "Working Sol&#8217;s RNG codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-01",
-  "checkedAt": "2026-08-01",
+  "updatedAt": "2026-08-15",
+  "checkedAt": "2026-08-15",
   "featured": true,
   "cover": "/images/games/card/sols-rng.webp",
   "placeId": 15532962292,
@@ -39,12 +39,22 @@
       "status": "active"
     },
     {
+      "code": "20260815UPD",
+      "reward": "20 Potion and 5 Rare Potion Chests",
+      "status": "active"
+    },
+    {
       "code": "BLAZINGSUN",
       "reward": "20 Potion and 5 Rare Potion Chests",
       "status": "active"
     },
     {
       "code": "SUMMER2026",
+      "reward": "20 Potion and 5 Rare Potion Chests",
+      "status": "active"
+    },
+    {
+      "code": "WEARESORRY",
       "reward": "20 Potion and 5 Rare Potion Chests",
       "status": "active"
     }
