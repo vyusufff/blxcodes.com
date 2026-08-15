@@ -1,0 +1,87 @@
+{
+  "title": "Plague Codes (August 2026)",
+  "gameName": "Plague",
+  "description": "Working Plague codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-15",
+  "checkedAt": "2026-08-15",
+  "featured": true,
+  "cover": "/images/games/card/plague.webp",
+  "placeId": 90652512740562,
+  "howTo": [
+    "Launch Plague on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Plague codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Plague code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Plague codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "SURVIVOR10",
+      "reward": "10 lucky survivor spins",
+      "status": "active"
+    },
+    {
+      "code": "ZOMBIE10",
+      "reward": "10 lucky zombie spins",
+      "status": "active"
+    },
+    {
+      "code": "THANKSSOMUCHGUYS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE4",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "1500LIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CALEBSPECIALCODE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPYNEWYEARS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SUNDAYPATCH",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FIRSTUPDATEYAY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MERRYCHRISTMAS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THANKYOUGUYS",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}
