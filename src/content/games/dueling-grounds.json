@@ -1,9 +1,9 @@
 {
-  "title": "Dueling Grounds Codes (July 2026)",
+  "title": "Dueling Grounds Codes (August 2026)",
   "gameName": "Dueling Grounds",
   "description": "Working Dueling Grounds codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-15",
+  "checkedAt": "2026-08-15",
   "featured": true,
   "cover": "/images/games/card/dueling-grounds.webp",
   "placeId": 94217045453265,
@@ -31,6 +31,11 @@
     {
       "code": "CreatorShowdown",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "DelayingGrounds2",
+      "reward": "500 Coins and 200 Gems",
       "status": "active"
     },
     {

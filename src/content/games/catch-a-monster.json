@@ -2,8 +2,8 @@
   "title": "Catch a Monster Codes (August 2026)",
   "gameName": "Catch a Monster",
   "description": "Working Catch a Monster codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-08",
-  "checkedAt": "2026-08-08",
+  "updatedAt": "2026-08-15",
+  "checkedAt": "2026-08-15",
   "featured": true,
   "cover": "/images/games/card/catch-a-monster.webp",
   "placeId": 98664161516921,
@@ -126,6 +126,11 @@
     {
       "code": "rcoinfix",
       "reward": "2,000 Rift Coins, 20 Treasure Shovels, and 2 Genesis Fruits",
+      "status": "active"
+    },
+    {
+      "code": "scaryharvest",
+      "reward": "1 Mythical Chest",
       "status": "active"
     },
     {

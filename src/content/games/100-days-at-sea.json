@@ -2,8 +2,8 @@
   "title": "100 Days At Sea Codes (August 2026)",
   "gameName": "100 Days At Sea",
   "description": "Working 100 Days At Sea codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-08",
-  "checkedAt": "2026-08-08",
+  "updatedAt": "2026-08-15",
+  "checkedAt": "2026-08-15",
   "featured": true,
   "cover": "/images/games/card/100-days-at-sea.webp",
   "placeId": 70411440483149,
@@ -29,27 +29,12 @@
   ],
   "codes": [
     {
-      "code": "CHAOS",
-      "reward": "+20 Pearls",
-      "status": "active"
-    },
-    {
-      "code": "CORRUPT",
-      "reward": "+20 Pearls",
-      "status": "active"
-    },
-    {
       "code": "DECORATE",
       "reward": "+20 Pearls",
       "status": "active"
     },
     {
-      "code": "HERO",
-      "reward": "+20 Pearls",
-      "status": "active"
-    },
-    {
-      "code": "POTION",
+      "code": "SURVIVOR",
       "reward": "+20 Pearls",
       "status": "active"
     },
@@ -74,6 +59,16 @@
       "status": "expired"
     },
     {
+      "code": "CHAOS",
+      "reward": "+20 Pearls",
+      "status": "expired"
+    },
+    {
+      "code": "CORRUPT",
+      "reward": "+20 Pearls",
+      "status": "expired"
+    },
+    {
       "code": "Days",
       "reward": "Expired reward",
       "status": "expired"
@@ -84,8 +79,18 @@
       "status": "expired"
     },
     {
+      "code": "HERO",
+      "reward": "+20 Pearls",
+      "status": "expired"
+    },
+    {
       "code": "maximize",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "POTION",
+      "reward": "+20 Pearls",
       "status": "expired"
     },
     {
