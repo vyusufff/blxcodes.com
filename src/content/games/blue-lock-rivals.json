@@ -2,8 +2,8 @@
   "title": "Blue Lock Rivals Codes (August 2026)",
   "gameName": "Blue Lock Rivals",
   "description": "Working Blue Lock Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-09",
-  "checkedAt": "2026-08-09",
+  "updatedAt": "2026-08-15",
+  "checkedAt": "2026-08-15",
   "featured": true,
   "cover": "/images/games/card/blue-lock-rivals.webp",
   "placeId": 18668065416,
@@ -29,18 +29,23 @@
   ],
   "codes": [
     {
-      "code": "BIGTRAILERSOON",
+      "code": "HALFBAKED",
       "reward": "5 Lucky Flows",
       "status": "active"
     },
     {
-      "code": "MAGICIAN",
-      "reward": "5 Lucky Style Spins and 5 Lucky Flows",
+      "code": "RINSOON",
+      "reward": "5 Lucky Spins and Flows",
       "status": "active"
     },
     {
-      "code": "NESSTODAY",
-      "reward": "5 Lucky Style Spins",
+      "code": "SAEREWORK",
+      "reward": "5 Lucky Spins",
+      "status": "active"
+    },
+    {
+      "code": "SAERRY4DELAY",
+      "reward": "5 Lucky Spins and Lucky Flows",
       "status": "active"
     },
     {
@@ -56,6 +61,11 @@
     {
       "code": "BEARCLAW",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BIGTRAILERSOON",
+      "reward": "5 Lucky Flows",
       "status": "expired"
     },
     {
@@ -96,6 +106,11 @@
     {
       "code": "KUNIGAMIW",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MAGICIAN",
+      "reward": "5 Lucky Style Spins and 5 Lucky Flows",
       "status": "expired"
     },
     {
@@ -146,6 +161,11 @@
     {
       "code": "NESSNEXTWEEK",
       "reward": "5 Lucky Style Spins and 5 Lucky Flows",
+      "status": "expired"
+    },
+    {
+      "code": "NESSTODAY",
+      "reward": "5 Lucky Style Spins",
       "status": "expired"
     },
     {
