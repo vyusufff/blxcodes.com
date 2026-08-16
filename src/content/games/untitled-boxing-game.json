@@ -1,9 +1,9 @@
 {
-  "title": "Untitled Boxing Game Codes (July 2026)",
+  "title": "Untitled Boxing Game Codes (August 2026)",
   "gameName": "Untitled Boxing Game",
   "description": "Working Untitled Boxing Game codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/untitled-boxing-game.webp",
   "placeId": 13621938427,
@@ -66,6 +66,16 @@
     {
       "code": "regularfish",
       "reward": "4 Free Spins",
+      "status": "active"
+    },
+    {
+      "code": "surgeon",
+      "reward": "8 Lucky Spins",
+      "status": "active"
+    },
+    {
+      "code": "thedoctorwillseeyousoon",
+      "reward": "7 Lucky Spins",
       "status": "active"
     },
     {
