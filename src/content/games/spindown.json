@@ -1,0 +1,52 @@
+{
+  "title": "Spindown Codes (August 2026)",
+  "gameName": "Spindown",
+  "description": "Working Spindown codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
+  "featured": true,
+  "cover": "/images/games/card/spindown.webp",
+  "placeId": 17863864204,
+  "howTo": [
+    "Launch Spindown on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Spindown codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Spindown code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Spindown codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "squabbleupdate",
+      "reward": "black gloves",
+      "status": "active"
+    },
+    {
+      "code": "spinner",
+      "reward": "75 chips",
+      "status": "active"
+    },
+    {
+      "code": "spinball",
+      "reward": "mushroom seat",
+      "status": "active"
+    },
+    {
+      "code": "posesupdate",
+      "reward": "swinging Pose",
+      "status": "active"
+    }
+  ]
+}

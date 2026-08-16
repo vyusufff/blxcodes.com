@@ -2,8 +2,8 @@
   "title": "Anime Vanguards Codes (August 2026)",
   "gameName": "Anime Vanguards",
   "description": "Working Anime Vanguards codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-11",
-  "checkedAt": "2026-08-11",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/anime-vanguards.webp",
   "placeId": 16146832113,
@@ -39,6 +39,11 @@
       "status": "active"
     },
     {
+      "code": "2BVisits",
+      "reward": "200 Trait Rerolls, 200 Mem Shards",
+      "status": "active"
+    },
+    {
       "code": "HeavyEyes",
       "reward": "50 Memoria Shards and 50 Extermination Tokens ( , Requires Level 30)",
       "status": "active"
@@ -46,6 +51,16 @@
     {
       "code": "LetTheLarpingBegin",
       "reward": "50 Controller Tokens, 10k Gems, and 50k Gold",
+      "status": "active"
+    },
+    {
+      "code": "Miniupdate1",
+      "reward": "50 Trait Rerolls, 50 Mem Shards",
+      "status": "active"
+    },
+    {
+      "code": "Prepare",
+      "reward": "Red Key",
       "status": "active"
     },
     {
