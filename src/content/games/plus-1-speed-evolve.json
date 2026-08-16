@@ -2,8 +2,8 @@
   "title": "+1 Speed Evolve Codes (August 2026)",
   "gameName": "+1 Speed Evolve",
   "description": "Working +1 Speed Evolve codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-10",
-  "checkedAt": "2026-08-10",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/plus-1-speed-evolve.webp",
   "placeId": 83569851223739,
@@ -44,7 +44,17 @@
       "status": "active"
     },
     {
+      "code": "3MMembers",
+      "reward": "2x Wins Boost for 10 min",
+      "status": "active"
+    },
+    {
       "code": "50MVisits",
+      "reward": "2x Speed Boost for 10 min",
+      "status": "active"
+    },
+    {
+      "code": "80MVisits",
       "reward": "2x Speed Boost for 10 min",
       "status": "active"
     },

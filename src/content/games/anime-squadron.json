@@ -2,8 +2,8 @@
   "title": "Anime Squadron Codes (August 2026)",
   "gameName": "Anime Squadron",
   "description": "Working Anime Squadron codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-13",
-  "checkedAt": "2026-08-13",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/anime-squadron.webp",
   "placeId": 71132543521245,
@@ -41,6 +41,16 @@
     {
       "code": "AdminAbuse2!",
       "reward": "100 Trait Shards",
+      "status": "active"
+    },
+    {
+      "code": "COMETOMERIKA!",
+      "reward": "1 Tanjaros Nichirin, 15 Demon Blood Crystal, 7.5k Gold, 200 Warding Mask, 65 Lightning Stone, and 200 Spirit Elixir",
+      "status": "active"
+    },
+    {
+      "code": "FreeTanjiroEvo!",
+      "reward": "3 Perfect Prism, and 30 Prism",
       "status": "active"
     },
     {

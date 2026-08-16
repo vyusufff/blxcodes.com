@@ -1,9 +1,9 @@
 {
-  "title": "Crab Tycoon Codes (July 2026)",
+  "title": "Crab Tycoon Codes (August 2026)",
   "gameName": "Crab Tycoon",
   "description": "Working Crab Tycoon codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/crab-tycoon.webp",
   "placeId": 92605157087535,
@@ -29,13 +29,18 @@
   ],
   "codes": [
     {
-      "code": "BIGDILL",
-      "reward": "124150 Cash",
+      "code": "BARNACLEBASH",
+      "reward": "26650 Cash",
       "status": "active"
     },
     {
-      "code": "CONCRABULATIONS",
-      "reward": "3450 Cash",
+      "code": "CLAWMACHINE",
+      "reward": "23650 Cash",
+      "status": "active"
+    },
+    {
+      "code": "CORALCARNIVAL",
+      "reward": "45650 Cash",
       "status": "active"
     },
     {
@@ -44,23 +49,8 @@
       "status": "active"
     },
     {
-      "code": "DUNEDIGGER",
-      "reward": "23210 Cash",
-      "status": "active"
-    },
-    {
-      "code": "PINCHPERFECT",
-      "reward": "12720 Cash",
-      "status": "active"
-    },
-    {
-      "code": "RIPTIDE",
-      "reward": "6430 Cash",
-      "status": "active"
-    },
-    {
-      "code": "SHELLABALOO",
-      "reward": "31210 Cash",
+      "code": "KELPWANTED",
+      "reward": "24650 Cash",
       "status": "active"
     },
     {
@@ -69,13 +59,13 @@
       "status": "active"
     },
     {
-      "code": "TIDEPOOL",
-      "reward": "24550 Cash",
-      "status": "active"
-    },
-    {
       "code": "BESTCRABS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BIGDILL",
+      "reward": "124150 Cash",
       "status": "expired"
     },
     {
@@ -84,8 +74,18 @@
       "status": "expired"
     },
     {
+      "code": "CONCRABULATIONS",
+      "reward": "3450 Cash",
+      "status": "expired"
+    },
+    {
       "code": "Devil",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DUNEDIGGER",
+      "reward": "23210 Cash",
       "status": "expired"
     },
     {
@@ -134,8 +134,18 @@
       "status": "expired"
     },
     {
+      "code": "PINCHPERFECT",
+      "reward": "12720 Cash",
+      "status": "expired"
+    },
+    {
       "code": "REEFRIOT",
       "reward": "17790 Cash",
+      "status": "expired"
+    },
+    {
+      "code": "RIPTIDE",
+      "reward": "6430 Cash",
       "status": "expired"
     },
     {
@@ -146,6 +156,11 @@
     {
       "code": "SANDDOLLAR",
       "reward": "8849 Cash",
+      "status": "expired"
+    },
+    {
+      "code": "SHELLABALOO",
+      "reward": "31210 Cash",
       "status": "expired"
     },
     {
@@ -171,6 +186,11 @@
     {
       "code": "THANKSFORPLAYING",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TIDEPOOL",
+      "reward": "24550 Cash",
       "status": "expired"
     },
     {

@@ -2,8 +2,8 @@
   "title": "Anime Final Strike Codes (August 2026)",
   "gameName": "Anime Final Strike",
   "description": "Working Anime Final Strike codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-14",
-  "checkedAt": "2026-08-14",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/anime-final-strike.webp",
   "placeId": 16946008847,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "3kCCU",
+      "reward": "100 Rerolls and 10k Pirate Coins",
+      "status": "active"
+    },
     {
       "code": "AFSISBACK!",
       "reward": "100 Rerolls",
