@@ -2,8 +2,8 @@
   "title": "Survive Zombie Arena Codes (August 2026)",
   "gameName": "Survive Zombie Arena",
   "description": "Working Survive Zombie Arena codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-10",
-  "checkedAt": "2026-08-10",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/survive-zombie-arena.webp",
   "placeId": 114204398207377,
@@ -64,8 +64,18 @@
       "status": "active"
     },
     {
+      "code": "NODELAYSWAG",
+      "reward": "2x Bloodmoon 48h, 2x Bloodmoon crates, and 5,000 credits",
+      "status": "active"
+    },
+    {
       "code": "patchboi",
       "reward": "2x arena credits for 4 hours",
+      "status": "active"
+    },
+    {
+      "code": "SWAGGYBOI",
+      "reward": "2x credits 12h and 2x Bloodmoon 24h",
       "status": "active"
     },
     {

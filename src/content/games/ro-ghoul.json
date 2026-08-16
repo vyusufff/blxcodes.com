@@ -1,9 +1,9 @@
 {
-  "title": "Ro Ghoul Codes (July 2026)",
+  "title": "Ro Ghoul Codes (August 2026)",
   "gameName": "Ro Ghoul",
   "description": "Working Ro Ghoul codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/ro-ghoul.webp",
   "placeId": 914010731,
@@ -55,6 +55,11 @@
     },
     {
       "code": "ANNIVERSARY-8",
+      "reward": "1M RC, 10M Yen, 30 Color Credits, and 20 hearts",
+      "status": "active"
+    },
+    {
+      "code": "Ayato1_And_2",
       "reward": "1M RC, 10M Yen, 30 Color Credits, and 20 hearts",
       "status": "active"
     },
