@@ -2,8 +2,8 @@
   "title": "Anime Fighting Simulator Codes (August 2026)",
   "gameName": "Anime Fighting Simulator",
   "description": "Working Anime Fighting Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-10",
-  "checkedAt": "2026-08-10",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/anime-fighting-simulator.webp",
   "placeId": 100429474155186,
@@ -116,6 +116,11 @@
     {
       "code": "RUMBLING",
       "reward": "4 Stat Boosts, 2 Training Boosts, 10 Trait Rerolls, and 1 Temp Server Boost",
+      "status": "active"
+    },
+    {
+      "code": "SEASON2",
+      "reward": "750 Tensei Shards, 4 Stat Boosts, 4 Training Speed Boosts, and 10 Trait Rerolls",
       "status": "active"
     },
     {

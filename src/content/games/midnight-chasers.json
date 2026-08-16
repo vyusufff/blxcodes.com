@@ -2,8 +2,8 @@
   "title": "Midnight Chasers Codes (August 2026)",
   "gameName": "Midnight Chasers",
   "description": "Working Midnight Chasers codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-05",
-  "checkedAt": "2026-08-05",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/midnight-chasers.webp",
   "placeId": 13822562292,
@@ -29,22 +29,7 @@
   ],
   "codes": [
     {
-      "code": "ThanksFor920k",
-      "reward": "Free Cash",
-      "status": "active"
-    },
-    {
-      "code": "ThanksFor910k",
-      "reward": "Free Cash",
-      "status": "active"
-    },
-    {
-      "code": "ThanksFor900k",
-      "reward": "Free Cash",
-      "status": "active"
-    },
-    {
-      "code": "ThxFor100Mil",
+      "code": "GeneralKiko",
       "reward": "Free Cash",
       "status": "active"
     },
@@ -59,122 +44,37 @@
       "status": "active"
     },
     {
-      "code": "GeneralKiko",
+      "code": "ThanksFor900k",
       "reward": "Free Cash",
       "status": "active"
     },
     {
-      "code": "SorryForDelay",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "ThanksFor910k",
+      "reward": "Free Cash",
+      "status": "active"
     },
     {
-      "code": "ThanksFor30k",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "ThanksFor920k",
+      "reward": "Free Cash",
+      "status": "active"
     },
     {
-      "code": "ThxFor5Mil!",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "ThanksFor930k",
+      "reward": "30k Cash",
+      "status": "active"
     },
     {
-      "code": "ThanksFor49k",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "ThanksFor940k",
+      "reward": "30k Cash",
+      "status": "active"
     },
     {
-      "code": "ThanksFor48k",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "ThxFor100Mil",
+      "reward": "Free Cash",
+      "status": "active"
     },
     {
-      "code": "ThanksFor47k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor46k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor45k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor43k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor42k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor41k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor40k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor39k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor38k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor37k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor36k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor35k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor34k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor33k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor32k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor31k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor29k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "ThanksFor28k",
+      "code": "Free2xBoosts",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -184,7 +84,17 @@
       "status": "expired"
     },
     {
-      "code": "ThanksFor25000",
+      "code": "HappyNewYear",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SorryForBreakingGame",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SorryForDelay",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -194,12 +104,112 @@
       "status": "expired"
     },
     {
-      "code": "ThankYouAll",
+      "code": "ThanksFor25000",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Free2xBoosts",
+      "code": "ThanksFor28k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor29k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor30k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor31k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor32k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor33k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor34k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor35k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor36k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor37k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor38k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor39k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor40k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor41k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor42k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor43k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor45k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor46k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor47k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor48k",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThanksFor49k",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -209,17 +219,7 @@
       "status": "expired"
     },
     {
-      "code": "ThxFor20Mil!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "ThanksFor53k",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SorryForBreakingGame",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -259,7 +259,17 @@
       "status": "expired"
     },
     {
-      "code": "HappyNewYear",
+      "code": "ThankYouAll",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThxFor20Mil!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ThxFor5Mil!",
       "reward": "Expired reward",
       "status": "expired"
     }

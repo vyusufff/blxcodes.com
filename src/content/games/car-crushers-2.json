@@ -2,8 +2,8 @@
   "title": "Car Crushers 2 Codes (August 2026)",
   "gameName": "Car Crushers 2",
   "description": "Working Car Crushers 2 codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-08",
-  "checkedAt": "2026-08-08",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/car-crushers-2.webp",
   "placeId": 654732683,
@@ -105,6 +105,11 @@
     },
     {
       "code": "URBANVELOCITY",
+      "reward": "Free Credits",
+      "status": "active"
+    },
+    {
+      "code": "VINTAGEFIXUP",
       "reward": "Free Credits",
       "status": "active"
     },

@@ -1,9 +1,9 @@
 {
-  "title": "Wanted Codes (July 2026)",
+  "title": "Wanted Codes (August 2026)",
   "gameName": "Wanted",
   "description": "Working Wanted codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/wanted.webp",
   "placeId": 14438406081,
@@ -41,6 +41,11 @@
     {
       "code": "DEVV",
       "reward": "10000 Cash",
+      "status": "active"
+    },
+    {
+      "code": "EVIDENCE",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {

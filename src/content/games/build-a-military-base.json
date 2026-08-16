@@ -2,8 +2,8 @@
   "title": "Build a Military Base Codes (August 2026)",
   "gameName": "Build a Military Base",
   "description": "Working Build a Military Base codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-14",
-  "checkedAt": "2026-08-14",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/build-a-military-base.webp",
   "placeId": 91440994157417,
@@ -69,7 +69,7 @@
       "status": "active"
     },
     {
-      "code": "2XSPEED",
+      "code": "ACHIEVEMENTS",
       "reward": "1 Premium Crate",
       "status": "active"
     },
@@ -89,12 +89,22 @@
       "status": "active"
     },
     {
+      "code": "INDEX",
+      "reward": "1 Premium Crate",
+      "status": "active"
+    },
+    {
       "code": "LOGI",
       "reward": "1 Logistics Warehouse",
       "status": "active"
     },
     {
       "code": "MAMMOTH",
+      "reward": "1 Premium Crate",
+      "status": "active"
+    },
+    {
+      "code": "MARAUDER",
       "reward": "1 Premium Crate",
       "status": "active"
     },
@@ -111,11 +121,6 @@
     {
       "code": "NAVY",
       "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "NEMESIS",
-      "reward": "1 Premium Crate",
       "status": "active"
     },
     {
@@ -146,11 +151,6 @@
     {
       "code": "WOWPREMIUM",
       "reward": "1 Research Lab",
-      "status": "active"
-    },
-    {
-      "code": "YAYMORECRATES",
-      "reward": "1 Premium Crate",
       "status": "active"
     },
     {
@@ -221,6 +221,11 @@
     {
       "code": "250LIKES",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2XSPEED",
+      "reward": "1 Premium Crate",
       "status": "expired"
     },
     {
@@ -339,6 +344,11 @@
       "status": "expired"
     },
     {
+      "code": "NEMESIS",
+      "reward": "1 Premium Crate",
+      "status": "expired"
+    },
+    {
       "code": "OUTPOSTS",
       "reward": "1 Premium Crate",
       "status": "expired"
@@ -371,6 +381,11 @@
     {
       "code": "VGU",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "YAYMORECRATES",
+      "reward": "1 Premium Crate",
       "status": "expired"
     }
   ]

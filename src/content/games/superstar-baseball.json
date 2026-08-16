@@ -2,8 +2,8 @@
   "title": "Superstar Baseball Codes (August 2026)",
   "gameName": "Superstar Baseball",
   "description": "Working Superstar Baseball codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/superstar-baseball.webp",
   "placeId": 101432174163538,
@@ -91,6 +91,11 @@
     {
       "code": "DEADEYE",
       "reward": "Free Spins",
+      "status": "active"
+    },
+    {
+      "code": "DUALSHOCK",
+      "reward": "5 Lucky Spins",
       "status": "active"
     },
     {

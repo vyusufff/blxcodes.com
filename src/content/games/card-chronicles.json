@@ -2,8 +2,8 @@
   "title": "Card Chronicles Codes (August 2026)",
   "gameName": "Card Chronicles",
   "description": "Working Card Chronicles codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-10",
-  "checkedAt": "2026-08-10",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/card-chronicles.webp",
   "placeId": 114758508835875,
@@ -74,6 +74,11 @@
       "status": "active"
     },
     {
+      "code": "GLOBALEVENT",
+      "reward": "Free Rewards ( , 100k rolls required)",
+      "status": "active"
+    },
+    {
       "code": "INFINITEBUG!",
       "reward": "Free Rewards (requires 50k rolls)",
       "status": "active"
@@ -86,6 +91,11 @@
     {
       "code": "MemoryCompensation!",
       "reward": "Free Rewards (requires 25k rolls)",
+      "status": "active"
+    },
+    {
+      "code": "NEWCARDS!",
+      "reward": "Free Rewards ( , 50k Rolls Required)",
       "status": "active"
     },
     {
@@ -130,6 +140,11 @@
     },
     {
       "code": "Update1!",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "VILLAINS!",
       "reward": "Free Rewards",
       "status": "active"
     },

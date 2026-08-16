@@ -2,8 +2,8 @@
   "title": "Huzz RNG Codes (August 2026)",
   "gameName": "Huzz RNG",
   "description": "Working Huzz RNG codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-08",
-  "checkedAt": "2026-08-08",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/huzz-rng.webp",
   "placeId": 89100823864844,
@@ -154,6 +154,11 @@
       "status": "active"
     },
     {
+      "code": "IWANTMYROLLS",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "KAISERXISAGI",
       "reward": "1 Eternal Pot, 25 Better Potion Crate, and 25 Better Goodie Crate",
       "status": "active"
@@ -169,6 +174,11 @@
       "status": "active"
     },
     {
+      "code": "NEWREWORKS",
+      "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates",
+      "status": "active"
+    },
+    {
       "code": "OBLITERATETESTERS",
       "reward": "25 Premium Goodie Crates and 25 Premium Potion Crates",
       "status": "active"
@@ -181,6 +191,11 @@
     {
       "code": "QUINTUPLETS!",
       "reward": "5 Eternal Pots, 55 Better Goodie Crates, and 55 Better Potion Crates",
+      "status": "active"
+    },
+    {
+      "code": "REWORKUPDATE",
+      "reward": "1 Sovereign Pot and 1 Omega Pot",
       "status": "active"
     },
     {
@@ -220,6 +235,11 @@
     },
     {
       "code": "SUGGESTIONSPT2",
+      "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates",
+      "status": "active"
+    },
+    {
+      "code": "SUGGESTREWORKS",
       "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates",
       "status": "active"
     },
