@@ -2,8 +2,8 @@
   "title": "Hunty Zombie Codes (August 2026)",
   "gameName": "Hunty Zombie",
   "description": "Working Hunty Zombie codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-09",
-  "checkedAt": "2026-08-09",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/hunty-zombies.webp",
   "placeId": 103754275310547,
@@ -29,38 +29,28 @@
   ],
   "codes": [
     {
-      "code": "AnniversarySoon!",
-      "reward": "150 Lucky Weapon Spins and 150 Lucky Perk Spins",
+      "code": "Anniversary!",
+      "reward": "100 Lucky Spins of each, 30 Traits",
       "status": "active"
     },
     {
-      "code": "BossRushRefresh!",
-      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits",
+      "code": "Dubstep!",
+      "reward": "100 Lucky Spins of each, 30 Traits",
       "status": "active"
     },
     {
-      "code": "Halberd!",
-      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits Halberd!:",
+      "code": "HappyBirthday!",
+      "reward": "30 Lucky Spins of each, 20 Traits",
       "status": "active"
     },
     {
-      "code": "KapsiHotFix",
-      "reward": "150 Lucky Weapon Spins and 150 Lucky Perk Spins",
+      "code": "PartyBreaker!",
+      "reward": "30 Lucky Spins of each, 20 Traits",
       "status": "active"
     },
     {
-      "code": "Movement!",
-      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits",
-      "status": "active"
-    },
-    {
-      "code": "Outbreak!",
-      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits",
-      "status": "active"
-    },
-    {
-      "code": "SaveHZ!",
-      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits",
+      "code": "ScytheEvolution!",
+      "reward": "100 Lucky Spins of each, 30 Traits",
       "status": "active"
     },
     {
@@ -89,6 +79,11 @@
       "status": "expired"
     },
     {
+      "code": "AnniversarySoon!",
+      "reward": "150 Lucky Weapon Spins and 150 Lucky Perk Spins",
+      "status": "expired"
+    },
+    {
       "code": "BATTLEPASS6",
       "reward": "Expired reward",
       "status": "expired"
@@ -106,6 +101,11 @@
     {
       "code": "BossRush!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BossRushRefresh!",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits",
       "status": "expired"
     },
     {
@@ -169,6 +169,11 @@
       "status": "expired"
     },
     {
+      "code": "Halberd!",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits Halberd!:",
+      "status": "expired"
+    },
+    {
       "code": "HappyBirthdayHZ",
       "reward": "Expired reward",
       "status": "expired"
@@ -181,6 +186,11 @@
     {
       "code": "HotfixADayKeepsLhamaAway!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "KapsiHotFix",
+      "reward": "150 Lucky Weapon Spins and 150 Lucky Perk Spins",
       "status": "expired"
     },
     {
@@ -209,6 +219,11 @@
       "status": "expired"
     },
     {
+      "code": "Movement!",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits",
+      "status": "expired"
+    },
+    {
       "code": "MunIsHappyAndKapsiIsTired",
       "reward": "Expired reward",
       "status": "expired"
@@ -226,6 +241,11 @@
     {
       "code": "NOMOREHZDELAYS!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Outbreak!",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits",
       "status": "expired"
     },
     {
@@ -251,6 +271,11 @@
     {
       "code": "Ressurrection",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SaveHZ!",
+      "reward": "30 Lucky Weapon Spins, 20 Lucky Perk Spins, and 20 Traits",
       "status": "expired"
     },
     {

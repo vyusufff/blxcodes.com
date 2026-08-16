@@ -1,9 +1,9 @@
 {
-  "title": "Sailor Piece Codes (July 2026)",
+  "title": "Sailor Piece Codes (August 2026)",
   "gameName": "Sailor Piece",
   "description": "Working Sailor Piece codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/sailor-piece.webp",
   "placeId": 77747658251236,
@@ -29,28 +29,18 @@
   ],
   "codes": [
     {
-      "code": "BROLYUPDATE",
-      "reward": "30x Power Shard, 50x Passive Shard, 14x Secret Chest, 100x Clan Reroll, 12x Aura Crate, and 10x Cosmetic Crate",
+      "code": "Fixbugs",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
-      "code": "SORRYFORANTICHEAT",
-      "reward": "30x Power Shard, 50x Passive Shard, 14x Secret Chest, 100x Clan Reroll, 12x Aura Crate, and 10x Cosmetic Crate",
+      "code": "RecodeUpdate",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
-      "code": "SORRYFORBROLYBUGANDWAIT",
-      "reward": "30x Power Shard, 50x Passive Shard, 14x Secret Chest, 100x Clan Reroll, 12x Aura Crate, and 10x Cosmetic Crate",
-      "status": "active"
-    },
-    {
-      "code": "SORRYFORBUGS",
-      "reward": "30x Power Shard, 50x Passive Shard, 14x Secret Chest, 100x Clan Reroll, 12x Aura Crate , and 10x Cosmetic Crate",
-      "status": "active"
-    },
-    {
-      "code": "SORRYFORTHEBANS",
-      "reward": "30x Power Shard, 50x Passive Shard, 14x Secret Chest, 100x Clan Reroll, 12x Aura Crate, and 10x Cosmetic Crate",
+      "code": "Sorryforthedealy",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -111,6 +101,11 @@
     {
       "code": "BIGDELAYSSORRYCODE",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BROLYUPDATE",
+      "reward": "30x Power Shard, 50x Passive Shard, 14x Secret Chest, 100x Clan Reroll, 12x Aura Crate, and 10x Cosmetic Crate",
       "status": "expired"
     },
     {
@@ -204,6 +199,21 @@
       "status": "expired"
     },
     {
+      "code": "SORRYFORANTICHEAT",
+      "reward": "30x Power Shard, 50x Passive Shard, 14x Secret Chest, 100x Clan Reroll, 12x Aura Crate, and 10x Cosmetic Crate",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFORBROLYBUGANDWAIT",
+      "reward": "30x Power Shard, 50x Passive Shard, 14x Secret Chest, 100x Clan Reroll, 12x Aura Crate, and 10x Cosmetic Crate",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFORBUGS",
+      "reward": "30x Power Shard, 50x Passive Shard, 14x Secret Chest, 100x Clan Reroll, 12x Aura Crate , and 10x Cosmetic Crate",
+      "status": "expired"
+    },
+    {
       "code": "SORRYFORRESTARTGUYSTPBUG",
       "reward": "Expired reward",
       "status": "expired"
@@ -216,6 +226,11 @@
     {
       "code": "SORRYFORRESTARTGUYSTPBUG3",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFORTHEBANS",
+      "reward": "30x Power Shard, 50x Passive Shard, 14x Secret Chest, 100x Clan Reroll, 12x Aura Crate, and 10x Cosmetic Crate",
       "status": "expired"
     },
     {
