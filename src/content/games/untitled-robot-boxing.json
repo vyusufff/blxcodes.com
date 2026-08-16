@@ -2,8 +2,8 @@
   "title": "Untitled Robot Boxing Codes (August 2026)",
   "gameName": "Untitled Robot Boxing",
   "description": "Working Untitled Robot Boxing codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-07",
-  "checkedAt": "2026-08-07",
+  "updatedAt": "2026-08-16",
+  "checkedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/untitled-robot-boxing.webp",
   "placeId": 111315883267255,
@@ -29,12 +29,22 @@
   ],
   "codes": [
     {
+      "code": "BETA",
+      "reward": "50k cash",
+      "status": "active"
+    },
+    {
       "code": "FINALLY",
       "reward": "50k cash",
       "status": "active"
     },
     {
-      "code": "BETA",
+      "code": "GAMEPLAYISBACK",
+      "reward": "free cash (!)",
+      "status": "active"
+    },
+    {
+      "code": "SORRY",
       "reward": "50k cash",
       "status": "active"
     },
@@ -44,17 +54,7 @@
       "status": "active"
     },
     {
-      "code": "SORRY",
-      "reward": "50k cash",
-      "status": "active"
-    },
-    {
-      "code": "WINTERCLANKER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SEVLIXY",
+      "code": "2026",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -64,7 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "WTESTERS",
+      "code": "PCGamesN",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -74,12 +74,17 @@
       "status": "expired"
     },
     {
-      "code": "PCGamesN",
+      "code": "SEVLIXY",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "WINTERCLANKER",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WTESTERS",
       "reward": "Expired reward",
       "status": "expired"
     }

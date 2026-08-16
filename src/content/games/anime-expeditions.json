@@ -2,7 +2,7 @@
   "title": "Anime Expeditions Codes (August 2026)",
   "gameName": "Anime Expeditions",
   "description": "Working Anime Expeditions codes for Trait Crystals, Gems-related rewards, rerolls, and Villain Coins.",
-  "updatedAt": "2026-08-14",
+  "updatedAt": "2026-08-16",
   "featured": true,
   "cover": "/images/games/card/anime-expeditions.webp",
   "placeId": 84515722934860,
@@ -27,11 +27,6 @@
     }
   ],
   "codes": [
-    {
-      "code": "600mvisits",
-      "reward": "50 Trait Crystals, 30 Equipment Rerolls, 30 Stat Rerolls",
-      "status": "active"
-    },
     {
       "code": "AnotherRestart",
       "reward": "50 Trait Crystals",
@@ -104,6 +99,11 @@
     },
     {
       "code": "500mvisits",
+      "reward": "50 Trait Crystals, 30 Equipment Rerolls, 30 Stat Rerolls",
+      "status": "expired"
+    },
+    {
+      "code": "600mvisits",
       "reward": "50 Trait Crystals, 30 Equipment Rerolls, 30 Stat Rerolls",
       "status": "expired"
     },
@@ -193,5 +193,5 @@
       "status": "expired"
     }
   ],
-  "checkedAt": "2026-08-14"
+  "checkedAt": "2026-08-16"
 }
