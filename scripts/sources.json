@@ -3961,5 +3961,15 @@
     "sources": [
       "https://beebom.com/project-power-codes/"
     ]
+  },
+  "maze-runner": {
+    "sources": [
+      "https://www.pockettactics.com/maze-runner/codes/"
+    ]
+  },
+  "ninja-star-simulator": {
+    "sources": [
+      "https://www.pockettactics.com/ninja-star-simulator/codes/"
+    ]
   }
 }
