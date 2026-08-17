@@ -2,8 +2,8 @@
   "title": "MonsterVerze Codes (August 2026)",
   "gameName": "MonsterVerze",
   "description": "Working MonsterVerze codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-08",
-  "checkedAt": "2026-08-08",
+  "updatedAt": "2026-08-17",
+  "checkedAt": "2026-08-17",
   "featured": true,
   "cover": "/images/games/card/monsterverze.webp",
   "placeId": 133679065471783,
@@ -44,8 +44,18 @@
       "status": "active"
     },
     {
+      "code": "CompM0d3!",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "DEADX5",
       "reward": "5,555 Ghoulars",
+      "status": "active"
+    },
+    {
+      "code": "FREEUS7",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {

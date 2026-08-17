@@ -2,8 +2,8 @@
   "title": "Card Chronicles Codes (August 2026)",
   "gameName": "Card Chronicles",
   "description": "Working Card Chronicles codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-08-17",
+  "checkedAt": "2026-08-17",
   "featured": true,
   "cover": "/images/games/card/card-chronicles.webp",
   "placeId": 114758508835875,
@@ -85,6 +85,11 @@
     },
     {
       "code": "LARPMONSTER!",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "LongevityCode",
       "reward": "Free Rewards",
       "status": "active"
     },
