@@ -2,8 +2,8 @@
   "title": "Ro Ghoul Codes (August 2026)",
   "gameName": "Ro Ghoul",
   "description": "Working Ro Ghoul codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-08-17",
+  "checkedAt": "2026-08-17",
   "featured": true,
   "cover": "/images/games/card/ro-ghoul.webp",
   "placeId": 914010731,
@@ -76,6 +76,11 @@
     {
       "code": "FakeCode",
       "reward": "2M RC, 20M Yen, 20 Levels, and 60 Color Credits",
+      "status": "active"
+    },
+    {
+      "code": "Farewell_CRH",
+      "reward": "80 hearts",
       "status": "active"
     },
     {

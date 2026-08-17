@@ -2,8 +2,8 @@
   "title": "Rogue Piece Codes (August 2026)",
   "gameName": "Rogue Piece",
   "description": "Working Rogue Piece codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-10",
-  "checkedAt": "2026-08-10",
+  "updatedAt": "2026-08-17",
+  "checkedAt": "2026-08-17",
   "featured": true,
   "cover": "/images/games/card/rogue-piece.webp",
   "placeId": 84988808589910,
@@ -29,8 +29,8 @@
   ],
   "codes": [
     {
-      "code": "BeerusIsFurious",
-      "reward": "5x of All 2x Potions ( , LEVEL 5,000 REQUIREMENT)",
+      "code": "BanishedSaiyan!!",
+      "reward": "15 Rogue’s Blessings, 15 Lucky Boxes, 150 Mythic Chests, 150 Legendary Chests, 250,000 Fragments of Rogue, 6 Triple Legends Box, and 4000 Summon Orbs( , LEVEL 10,000 REQUIREMENT)",
       "status": "active"
     },
     {
@@ -39,8 +39,8 @@
       "status": "active"
     },
     {
-      "code": "GodOfDestruction",
-      "reward": "Dragon Ball 1, Dragon Ball 2, Dragon Ball 3, and Cat Food 1 ( , LEVEL 5,000 REQUIREMENT)",
+      "code": "LegendarySuperSaiyan!",
+      "reward": "5x Luck Potions, 5x Gem Potions, and 2x ALL Other Potions ( , LEVEL 10,000 REQUIREMENT)",
       "status": "active"
     },
     {
@@ -64,6 +64,11 @@
       "status": "expired"
     },
     {
+      "code": "BeerusIsFurious",
+      "reward": "5x of All 2x Potions ( , LEVEL 5,000 REQUIREMENT)",
+      "status": "expired"
+    },
+    {
       "code": "Beginner",
       "reward": "Expired reward",
       "status": "expired"
@@ -76,6 +81,11 @@
     {
       "code": "FreshStart",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GodOfDestruction",
+      "reward": "Dragon Ball 1, Dragon Ball 2, Dragon Ball 3, and Cat Food 1 ( , LEVEL 5,000 REQUIREMENT)",
       "status": "expired"
     },
     {

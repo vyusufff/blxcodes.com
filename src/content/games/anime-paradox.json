@@ -1,9 +1,9 @@
 {
-  "title": "Anime Paradox Codes (July 2026)",
+  "title": "Anime Paradox Codes (August 2026)",
   "gameName": "Anime Paradox",
   "description": "Working Anime Paradox codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-17",
+  "checkedAt": "2026-08-17",
   "featured": true,
   "cover": "/images/games/card/anime-paradox.webp",
   "placeId": 76806550943352,
@@ -29,18 +29,23 @@
   ],
   "codes": [
     {
-      "code": "HARDWORKING!!",
-      "reward": "Gems and Trait Rerolls",
+      "code": "BeatTheHeat",
+      "reward": "65 Trait Rerolls, 2,500 Gems, 25 Stat Chips, and 40 Super Stat Chips",
       "status": "active"
     },
     {
-      "code": "QOLPATCH1",
-      "reward": "Gems and Trait Rerolls",
+      "code": "CoralCaverns",
+      "reward": "25 Trait Rerolls, 2,500 Gems, and 7,500 Gold",
       "status": "active"
     },
     {
-      "code": "SUMMERSOON",
-      "reward": "Gems and Trait Rerolls",
+      "code": "NoctisBoctisV3",
+      "reward": "3 Trait Rerolls, 3 Gems, and 3 Gold",
+      "status": "active"
+    },
+    {
+      "code": "SummaVibes",
+      "reward": "65 Trait Rerolls, 5,000 Gems, 7,500 Gold, and 25 Stat Chips",
       "status": "active"
     },
     {
@@ -114,6 +119,11 @@
       "status": "expired"
     },
     {
+      "code": "HARDWORKING!!",
+      "reward": "Gems and Trait Rerolls",
+      "status": "expired"
+    },
+    {
       "code": "HERESTHECODE",
       "reward": "Expired reward",
       "status": "expired"
@@ -151,6 +161,11 @@
     {
       "code": "PORTALREWORK",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "QOLPATCH1",
+      "reward": "Gems and Trait Rerolls",
       "status": "expired"
     },
     {
@@ -216,6 +231,11 @@
     {
       "code": "SUB2SISTERGUARD",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SUMMERSOON",
+      "reward": "Gems and Trait Rerolls",
       "status": "expired"
     },
     {
