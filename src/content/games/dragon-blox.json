@@ -2,8 +2,8 @@
   "title": "Dragon Blox Codes (August 2026)",
   "gameName": "Dragon Blox",
   "description": "Working Dragon Blox codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-09",
-  "checkedAt": "2026-08-09",
+  "updatedAt": "2026-08-17",
+  "checkedAt": "2026-08-17",
   "featured": true,
   "cover": "/images/games/card/dragon-blox.webp",
   "placeId": 3177438863,
@@ -29,13 +29,13 @@
   ],
   "codes": [
     {
-      "code": "RAIDSHOP",
-      "reward": "10x Premium Wish Token, 10x Race Spins, and 50x Raid Tickets",
+      "code": "FIXESNSTUFF",
+      "reward": "5x Premium Wish Token, and 5x Race Spins",
       "status": "active"
     },
     {
-      "code": "SSJBRETURNS",
-      "reward": "5x Premium Wish Token, and 5x Race Spins",
+      "code": "MORETICKETS",
+      "reward": "10x Premium Wish Token, 10x Race Spins, and 50x Raid Tickets",
       "status": "active"
     },
     {
@@ -179,6 +179,11 @@
       "status": "expired"
     },
     {
+      "code": "RAIDSHOP",
+      "reward": "10x Premium Wish Token, 10x Race Spins, and 50x Raid Tickets",
+      "status": "expired"
+    },
+    {
       "code": "REFINEMORE",
       "reward": "Expired reward",
       "status": "expired"
@@ -191,6 +196,11 @@
     {
       "code": "SNEAKSSOON",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SSJBRETURNS",
+      "reward": "5x Premium Wish Token, and 5x Race Spins",
       "status": "expired"
     },
     {
