@@ -1,9 +1,9 @@
 {
-  "title": "Lineage Piece Codes (July 2026)",
+  "title": "Lineage Piece Codes (August 2026)",
   "gameName": "Lineage Piece",
   "description": "Working Lineage Piece codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-17",
+  "checkedAt": "2026-08-17",
   "featured": true,
   "cover": "/images/games/card/lineage-piece.webp",
   "placeId": 104761395312874,
@@ -29,18 +29,23 @@
   ],
   "codes": [
     {
-      "code": "80KLIKES",
-      "reward": "Rerolls, Coins, and Gems rewards ( , level 750)",
-      "status": "active"
-    },
-    {
-      "code": "ALMOST8MVISITS",
-      "reward": "Rerolls, Coins, and Gems rewards ( , level 1000)",
-      "status": "active"
-    },
-    {
-      "code": "PEAKUPDSOON",
+      "code": "100KLIKES",
       "reward": "Rerolls, Coins, and Gems rewards ( , level 1250)",
+      "status": "active"
+    },
+    {
+      "code": "10KCCULPE",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 100)",
+      "status": "active"
+    },
+    {
+      "code": "10MVISITS",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 2500)",
+      "status": "active"
+    },
+    {
+      "code": "ICHIGOGOAT",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 100)",
       "status": "active"
     },
     {
@@ -49,7 +54,12 @@
       "status": "active"
     },
     {
-      "code": "UPDATE10",
+      "code": "TYFORMUCHCCU",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 750)",
+      "status": "active"
+    },
+    {
+      "code": "ULQUIORRAOMG",
       "reward": "Rerolls, Coins, and Gems rewards ( , level 500)",
       "status": "active"
     },
@@ -114,8 +124,18 @@
       "status": "expired"
     },
     {
+      "code": "80KLIKES",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 750)",
+      "status": "expired"
+    },
+    {
       "code": "Almost2MVisits",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ALMOST8MVISITS",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 1000)",
       "status": "expired"
     },
     {
@@ -166,6 +186,11 @@
     {
       "code": "OMGAIZEN",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PEAKUPDSOON",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 1250)",
       "status": "expired"
     },
     {
@@ -236,6 +261,11 @@
     {
       "code": "TYFOR400KFORVISITS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE10",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 500)",
       "status": "expired"
     },
     {
