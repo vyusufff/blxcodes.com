@@ -2,8 +2,8 @@
   "title": "FIFA Super Soccer Codes (August 2026)",
   "gameName": "FIFA Super Soccer",
   "description": "Working FIFA Super Soccer codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-14",
-  "checkedAt": "2026-08-14",
+  "updatedAt": "2026-08-17",
+  "checkedAt": "2026-08-17",
   "featured": true,
   "cover": "/images/games/card/fifa-super-soccer.webp",
   "placeId": 12177325772,
@@ -50,6 +50,11 @@
     },
     {
       "code": "bvb09",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "checkgoalpack",
       "reward": "Free Rewards",
       "status": "active"
     },

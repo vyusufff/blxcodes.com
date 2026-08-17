@@ -84,6 +84,11 @@
       "status": "active"
     },
     {
+      "code": "SORRYFORSHUTDOWN",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "SRRYFORSHUTDOWN",
       "reward": "200k Gold, 25 Trait Shards, 1 Cursed Finger, and 1 Six Eyes",
       "status": "active"
