@@ -2,8 +2,8 @@
   "title": "Noob Incremental Codes (August 2026)",
   "gameName": "Noob Incremental",
   "description": "Working Noob Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-17",
-  "checkedAt": "2026-08-17",
+  "updatedAt": "2026-08-18",
+  "checkedAt": "2026-08-18",
   "featured": true,
   "cover": "/images/games/card/noob-incremental.webp",
   "placeId": 76911729991355,
@@ -29,68 +29,13 @@
   ],
   "codes": [
     {
-      "code": "10MVISITS!",
-      "reward": "30 Chest, 10 Golden Chest, 3 Golden Dice, and 50 Enchant Token",
-      "status": "active"
-    },
-    {
-      "code": "13KCCU!!",
-      "reward": "200 Enchant Token, 10 Double Rune Luck potion, 10 Double Rune Speed potion, and 10 Double Rune Bulk potion",
-      "status": "active"
-    },
-    {
-      "code": "14KCCU!!",
-      "reward": "175 Enchant Token, 10 Double Rune Luck potion, 10 Double Rune Speed potion, and 10 Double Rune Bulk potion",
-      "status": "active"
-    },
-    {
-      "code": "15KCCU!!",
-      "reward": "200 Enchant Token, 10 Double Rune Luck potion, 10 Double Rune Speed potion, and 10 Double Rune Bulk potion",
-      "status": "active"
-    },
-    {
-      "code": "35KCOMMUNITYMEMBERS!!",
-      "reward": "200 Enchant Token, 10 Double Rune Luck potion, 10 Double Rune Speed potion, 10 Double Rune Bulk potion, and 30 Tickets",
-      "status": "active"
-    },
-    {
       "code": "500KGROUPMEMBERS!!!",
       "reward": "Free Rewards",
       "status": "active"
     },
     {
-      "code": "ANOTHERLITTLEUPDATE",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "BIGDELAYSORRY",
-      "reward": "50 Chests, 10 Golden Chests, 5 Golden Dice, 225 Enchant Tokens, 25 Tickets, and 180 Prism",
-      "status": "active"
-    },
-    {
-      "code": "CODEBECAUSEPEERLESSWASANGRY",
-      "reward": "5 Golden Dice, 5 Enchant Tokens, and 5 Tickets",
-      "status": "active"
-    },
-    {
       "code": "FOOTBALLEVENT",
       "reward": "50 Enchant Tokens, 5 Golden Chests, 1 Golden Dice, and 10 Tickets",
-      "status": "active"
-    },
-    {
-      "code": "GSPROMO",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "HOPERUNESFIXEDONG!",
-      "reward": "25 Chest, 5 Golden Chest, and 1 Golden Die",
-      "status": "active"
-    },
-    {
-      "code": "JUSTALITTLEUPDATE",
-      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -109,48 +54,18 @@
       "status": "active"
     },
     {
-      "code": "MINIUPDATE",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "PATCHUPDATE",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "SHUTDOWN",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
       "code": "SOMEFIXUPDATE",
       "reward": "Free Rewards",
       "status": "active"
     },
     {
-      "code": "SOMEOTHERFIXUPDATE",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "SORRYSHUTDOWN67",
-      "reward": "50 Enchant Tokens",
-      "status": "active"
-    },
-    {
-      "code": "SORRYSHUTDOWNx",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "SORRYWEIRDANDANNOYINGBUGS!!",
-      "reward": "25 Chest, 5 Golden Chest, 1 Golden Die, 10 Double Rune Luck potion, 10 Double Rune Speed potion, and 10 Double Rune Bulk potion",
-      "status": "active"
-    },
-    {
       "code": "SPACEREALMISOUT!",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SUPERLITTLEUPDATE",
+      "reward": "45 Card Token",
       "status": "active"
     },
     {
@@ -169,6 +84,11 @@
       "status": "expired"
     },
     {
+      "code": "10MVISITS!",
+      "reward": "30 Chest, 10 Golden Chest, 3 Golden Dice, and 50 Enchant Token",
+      "status": "expired"
+    },
+    {
       "code": "11KCCU!!",
       "reward": "Expired reward",
       "status": "expired"
@@ -179,6 +99,21 @@
       "status": "expired"
     },
     {
+      "code": "13KCCU!!",
+      "reward": "200 Enchant Token, 10 Double Rune Luck potion, 10 Double Rune Speed potion, and 10 Double Rune Bulk potion",
+      "status": "expired"
+    },
+    {
+      "code": "14KCCU!!",
+      "reward": "175 Enchant Token, 10 Double Rune Luck potion, 10 Double Rune Speed potion, and 10 Double Rune Bulk potion",
+      "status": "expired"
+    },
+    {
+      "code": "15KCCU!!",
+      "reward": "200 Enchant Token, 10 Double Rune Luck potion, 10 Double Rune Speed potion, and 10 Double Rune Bulk potion",
+      "status": "expired"
+    },
+    {
       "code": "1KLIKES!!",
       "reward": "Expired reward",
       "status": "expired"
@@ -186,6 +121,11 @@
     {
       "code": "2KCCU!!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "35KCOMMUNITYMEMBERS!!",
+      "reward": "200 Enchant Token, 10 Double Rune Luck potion, 10 Double Rune Speed potion, 10 Double Rune Bulk potion, and 30 Tickets",
       "status": "expired"
     },
     {
@@ -224,6 +164,16 @@
       "status": "expired"
     },
     {
+      "code": "ANOTHERLITTLEUPDATE",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "BIGDELAYSORRY",
+      "reward": "50 Chests, 10 Golden Chests, 5 Golden Dice, 225 Enchant Tokens, 25 Tickets, and 180 Prism",
+      "status": "expired"
+    },
+    {
       "code": "BUGFIX1",
       "reward": "Expired reward",
       "status": "expired"
@@ -244,8 +194,38 @@
       "status": "expired"
     },
     {
+      "code": "CODEBECAUSEPEERLESSWASANGRY",
+      "reward": "5 Golden Dice, 5 Enchant Tokens, and 5 Tickets",
+      "status": "expired"
+    },
+    {
+      "code": "GSPROMO",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "HOPERUNESFIXEDONG!",
+      "reward": "25 Chest, 5 Golden Chest, and 1 Golden Die",
+      "status": "expired"
+    },
+    {
       "code": "incremental",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "JUSTALITTLEUPDATE",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "MINIUPDATE",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "PATCHUPDATE",
+      "reward": "Free Rewards",
       "status": "expired"
     },
     {
@@ -254,8 +234,18 @@
       "status": "expired"
     },
     {
+      "code": "SHUTDOWN",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "SHUTDOWNBECAUSEOFNOOBS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SOMEOTHERFIXUPDATE",
+      "reward": "Free Rewards",
       "status": "expired"
     },
     {
@@ -266,6 +256,21 @@
     {
       "code": "SORRYSHUTDOWN",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYSHUTDOWN67",
+      "reward": "50 Enchant Tokens",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYSHUTDOWNx",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYWEIRDANDANNOYINGBUGS!!",
+      "reward": "25 Chest, 5 Golden Chest, 1 Golden Die, 10 Double Rune Luck potion, 10 Double Rune Speed potion, and 10 Double Rune Bulk potion",
       "status": "expired"
     }
   ]
