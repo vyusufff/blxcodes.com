@@ -2,8 +2,8 @@
   "title": "Reign Piece Codes (August 2026)",
   "gameName": "Reign Piece",
   "description": "Working Reign Piece codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-14",
-  "checkedAt": "2026-08-14",
+  "updatedAt": "2026-08-19",
+  "checkedAt": "2026-08-19",
   "featured": true,
   "cover": "/images/games/card/reign-piece.webp",
   "placeId": 78466992256287,
@@ -79,6 +79,11 @@
       "status": "active"
     },
     {
+      "code": "MOLTENEVENT",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "RESTRICTED",
       "reward": "Free Rewards",
       "status": "active"
@@ -90,6 +95,11 @@
     },
     {
       "code": "SLCSOHUMBLE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORBUG",
       "reward": "Free Rewards",
       "status": "active"
     },

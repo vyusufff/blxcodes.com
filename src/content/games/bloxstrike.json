@@ -2,8 +2,8 @@
   "title": "BloxStrike Codes (August 2026)",
   "gameName": "BloxStrike",
   "description": "Working BloxStrike codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-14",
-  "checkedAt": "2026-08-14",
+  "updatedAt": "2026-08-19",
+  "checkedAt": "2026-08-19",
   "featured": true,
   "cover": "/images/games/card/bloxstrike.webp",
   "placeId": 114234929420007,
@@ -41,6 +41,11 @@
     {
       "code": "LORE",
       "reward": "250 credits ( , limited to 3k uses)",
+      "status": "active"
+    },
+    {
+      "code": "MICHAELSRETURN",
+      "reward": "125 credits ( , limited to 7.5k uses)",
       "status": "active"
     },
     {
