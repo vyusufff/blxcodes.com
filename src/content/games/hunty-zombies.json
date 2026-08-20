@@ -2,8 +2,8 @@
   "title": "Hunty Zombie Codes (August 2026)",
   "gameName": "Hunty Zombie",
   "description": "Working Hunty Zombie codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-08-20",
+  "checkedAt": "2026-08-20",
   "featured": true,
   "cover": "/images/games/card/hunty-zombies.webp",
   "placeId": 103754275310547,
@@ -54,8 +54,18 @@
       "status": "active"
     },
     {
+      "code": "SorryForBadCode",
+      "reward": "100 Lucky Spins of each, 30 Traits",
+      "status": "active"
+    },
+    {
       "code": "SorryRestart",
       "reward": "50 Lucky Weapon Spins, 50 Lucky Perk Spins, and 50 Traits",
+      "status": "active"
+    },
+    {
+      "code": "VeryHotHotfixes",
+      "reward": "100 Lucky Spins of each, 30 Traits",
       "status": "active"
     },
     {
