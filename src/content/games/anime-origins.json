@@ -44,13 +44,13 @@
       "status": "active"
     },
     {
-      "code": "THANKYOU!",
-      "reward": "10 Trait Rerolls and 10 Perfect Stat Prisms",
+      "code": "HappyPatch!",
+      "reward": "25 Trait Rerolls, 1000 Gems, 10 Perfect Stat Prisms, and 10 Stat Prisms",
       "status": "active"
     },
     {
-      "code": "TYKaito!",
-      "reward": "25 Trait Rerolls, 5 Stat Prisms, and 1000 Gems",
+      "code": "Origins",
+      "reward": "20 Stat Prisms and 10 Perfect Stat Prisms",
       "status": "active"
     },
     {
@@ -59,8 +59,13 @@
       "status": "active"
     },
     {
-      "code": "Origins",
-      "reward": "20 Stat Prisms and 10 Perfect Stat Prisms",
+      "code": "THANKYOU!",
+      "reward": "10 Trait Rerolls and 10 Perfect Stat Prisms",
+      "status": "active"
+    },
+    {
+      "code": "TYKaito!",
+      "reward": "25 Trait Rerolls, 5 Stat Prisms, and 1000 Gems",
       "status": "active"
     },
     {
