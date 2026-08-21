@@ -2,8 +2,8 @@
   "title": "Anime Final Strike Codes (August 2026)",
   "gameName": "Anime Final Strike",
   "description": "Working Anime Final Strike codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-17",
-  "checkedAt": "2026-08-17",
+  "updatedAt": "2026-08-21",
+  "checkedAt": "2026-08-21",
   "featured": true,
   "cover": "/images/games/card/anime-final-strike.webp",
   "placeId": 16946008847,
@@ -61,6 +61,11 @@
     {
       "code": "FyeSavedUs!",
       "reward": "300 Rerolls and 30,000 Pirate Coins",
+      "status": "active"
+    },
+    {
+      "code": "SorryForDelay!",
+      "reward": "50 Trait Rerolls and 10K Gems",
       "status": "active"
     },
     {

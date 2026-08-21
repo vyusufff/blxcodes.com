@@ -2,8 +2,8 @@
   "title": "Toy Defense Codes (August 2026)",
   "gameName": "Toy Defense",
   "description": "Working Toy Defense codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-08",
-  "checkedAt": "2026-08-08",
+  "updatedAt": "2026-08-21",
+  "checkedAt": "2026-08-21",
   "featured": true,
   "cover": "/images/games/card/toy-defense.webp",
   "placeId": 5607971791,
@@ -34,22 +34,12 @@
       "status": "active"
     },
     {
-      "code": "125KYES",
-      "reward": "ten cookies",
-      "status": "active"
-    },
-    {
-      "code": "120KYES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "110KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "80CLIKES",
+      "code": "11KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -59,12 +49,82 @@
       "status": "expired"
     },
     {
-      "code": "KYES",
+      "code": "120KYES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "125KYES",
+      "reward": "ten cookies",
+      "status": "expired"
+    },
+    {
+      "code": "15KWWW",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "60KAYY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "70KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "80CLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "80KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "90KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "codes!",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "KYES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "OMG50K",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TDRELEASE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THXTWENTYFIVE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TOYDEFENSEGIFT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "VG247",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -75,66 +135,6 @@
     },
     {
       "code": "YAY13K",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "80KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "TOYDEFENSEGIFT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "70KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "60KAYY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "OMG50K",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "THXTWENTYFIVE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "15KWWW",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "11KLIKES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "TDRELEASE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "codes!",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "VG247",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "2026",
       "reward": "Expired reward",
       "status": "expired"
     }
