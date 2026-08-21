@@ -2,8 +2,8 @@
   "title": "Lake Sipping Codes (August 2026)",
   "gameName": "Lake Sipping",
   "description": "Working Lake Sipping codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-14",
-  "checkedAt": "2026-08-14",
+  "updatedAt": "2026-08-21",
+  "checkedAt": "2026-08-21",
   "featured": true,
   "cover": "/images/games/card/lake-sipping.webp",
   "placeId": 119715129239364,
@@ -46,6 +46,11 @@
     {
       "code": "Mineral",
       "reward": "2 Class Rerolls",
+      "status": "active"
+    },
+    {
+      "code": "Whirlpool",
+      "reward": "150 Scales",
       "status": "active"
     },
     {

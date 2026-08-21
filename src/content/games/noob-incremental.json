@@ -2,8 +2,8 @@
   "title": "Noob Incremental Codes (August 2026)",
   "gameName": "Noob Incremental",
   "description": "Working Noob Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-18",
-  "checkedAt": "2026-08-18",
+  "updatedAt": "2026-08-21",
+  "checkedAt": "2026-08-21",
   "featured": true,
   "cover": "/images/games/card/noob-incremental.webp",
   "placeId": 76911729991355,
@@ -59,6 +59,11 @@
       "status": "active"
     },
     {
+      "code": "SORRYLONGDELAY",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "SPACEREALMISOUT!",
       "reward": "Free Rewards",
       "status": "active"
@@ -75,6 +80,11 @@
     },
     {
       "code": "YINYANG",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "YINYANGEXPANSION",
       "reward": "Free Rewards",
       "status": "active"
     },
