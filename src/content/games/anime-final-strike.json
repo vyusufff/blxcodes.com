@@ -44,6 +44,11 @@
       "status": "active"
     },
     {
+      "code": "bundlesbroke",
+      "reward": "67 Trait Rerolls",
+      "status": "active"
+    },
+    {
       "code": "choppeddevkeepsrestarting",
       "reward": "75 Rerolls",
       "status": "active"
@@ -61,6 +66,11 @@
     {
       "code": "FyeSavedUs!",
       "reward": "300 Rerolls and 30,000 Pirate Coins",
+      "status": "active"
+    },
+    {
+      "code": "shutdownnumber9jeans",
+      "reward": "20 Trait Rerolls and 2K Gems",
       "status": "active"
     },
     {
