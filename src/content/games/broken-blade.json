@@ -2,8 +2,8 @@
   "title": "Broken Blade Codes (August 2026)",
   "gameName": "Broken Blade",
   "description": "Working Broken Blade codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-07",
-  "checkedAt": "2026-08-07",
+  "updatedAt": "2026-08-21",
+  "checkedAt": "2026-08-21",
   "featured": true,
   "cover": "/images/games/card/broken-blade.webp",
   "placeId": 97387256206808,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "ABYSSSEAL",
+      "reward": "500 Ancient Blade Essence ( , limited to 70k claims)",
+      "status": "active"
+    },
     {
       "code": "BB10KLIKES",
       "reward": "2 Holy Chest",
