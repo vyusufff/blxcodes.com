@@ -2,8 +2,8 @@
   "title": "Anime Squadron Codes (August 2026)",
   "gameName": "Anime Squadron",
   "description": "Working Anime Squadron codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-17",
-  "checkedAt": "2026-08-17",
+  "updatedAt": "2026-08-22",
+  "checkedAt": "2026-08-22",
   "featured": true,
   "cover": "/images/games/card/anime-squadron.webp",
   "placeId": 71132543521245,
@@ -56,6 +56,16 @@
     {
       "code": "FreeTanjiroEvo!",
       "reward": "3 Perfect Prism, and 30 Prism",
+      "status": "active"
+    },
+    {
+      "code": "JJKBugFixes!",
+      "reward": "100 Trait Shards, 3K Gems, and 10 Prism",
+      "status": "active"
+    },
+    {
+      "code": "JJKBugFixes2!",
+      "reward": "100 Trait Shards, 3K Gems, and 10 Prism",
       "status": "active"
     },
     {

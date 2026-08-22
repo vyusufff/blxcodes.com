@@ -2,8 +2,8 @@
   "title": "Racket Rivals Codes (August 2026)",
   "gameName": "Racket Rivals",
   "description": "Working Racket Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-08",
-  "checkedAt": "2026-08-08",
+  "updatedAt": "2026-08-22",
+  "checkedAt": "2026-08-22",
   "featured": true,
   "cover": "/images/games/card/racket-rivals.webp",
   "placeId": 90906407195271,
@@ -39,8 +39,18 @@
       "status": "active"
     },
     {
+      "code": "INPROGRESS",
+      "reward": "2000 Yen",
+      "status": "active"
+    },
+    {
       "code": "LOW",
       "reward": "1500 Yen",
+      "status": "active"
+    },
+    {
+      "code": "RESTRUCTURING",
+      "reward": "2000 Yen",
       "status": "active"
     },
     {
