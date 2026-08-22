@@ -2,8 +2,8 @@
   "title": "Blue Lock Rivals Codes (August 2026)",
   "gameName": "Blue Lock Rivals",
   "description": "Working Blue Lock Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-15",
-  "checkedAt": "2026-08-15",
+  "updatedAt": "2026-08-22",
+  "checkedAt": "2026-08-22",
   "featured": true,
   "cover": "/images/games/card/blue-lock-rivals.webp",
   "placeId": 18668065416,
@@ -29,23 +29,28 @@
   ],
   "codes": [
     {
-      "code": "HALFBAKED",
-      "reward": "5 Lucky Flows",
+      "code": "BIGTRAILERSOON",
+      "reward": "5 Lucky Style Spins",
       "status": "active"
     },
     {
-      "code": "RINSOON",
-      "reward": "5 Lucky Spins and Flows",
+      "code": "DESTROYERMODE",
+      "reward": "5 Lucky Flow Spins",
       "status": "active"
     },
     {
-      "code": "SAEREWORK",
-      "reward": "5 Lucky Spins",
+      "code": "FIXESLATERTODAY",
+      "reward": "5 Lucky Style Spins",
       "status": "active"
     },
     {
-      "code": "SAERRY4DELAY",
-      "reward": "5 Lucky Spins and Lucky Flows",
+      "code": "RINTODAY",
+      "reward": "5 Lucky Style Spins + 5 Lucky Flow Spins",
+      "status": "active"
+    },
+    {
+      "code": "SORRY4DELAY!!",
+      "reward": "5 Lucky Style Spins",
       "status": "active"
     },
     {
@@ -64,11 +69,6 @@
       "status": "expired"
     },
     {
-      "code": "BIGTRAILERSOON",
-      "reward": "5 Lucky Flows",
-      "status": "expired"
-    },
-    {
       "code": "BREAKDANCE",
       "reward": "Expired reward",
       "status": "expired"
@@ -81,6 +81,11 @@
     {
       "code": "GAGAREWORK",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HALFBAKED",
+      "reward": "5 Lucky Flows",
       "status": "expired"
     },
     {
@@ -211,6 +216,21 @@
     {
       "code": "REWORKW",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RINSOON",
+      "reward": "5 Lucky Spins and Flows",
+      "status": "expired"
+    },
+    {
+      "code": "SAEREWORK",
+      "reward": "5 Lucky Spins",
+      "status": "expired"
+    },
+    {
+      "code": "SAERRY4DELAY",
+      "reward": "5 Lucky Spins and Lucky Flows",
       "status": "expired"
     },
     {
