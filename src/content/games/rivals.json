@@ -2,8 +2,8 @@
   "title": "Rivals Codes (August 2026)",
   "gameName": "Rivals",
   "description": "Working Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-20",
-  "checkedAt": "2026-08-20",
+  "updatedAt": "2026-08-22",
+  "checkedAt": "2026-08-22",
   "featured": true,
   "cover": "/images/games/card/rivals.webp",
   "placeId": 17625359962,
@@ -36,6 +36,11 @@
     {
       "code": "BOOST",
       "reward": "1 Key",
+      "status": "active"
+    },
+    {
+      "code": "CANNONBALLLLL",
+      "reward": "5 Goodie Bags",
       "status": "active"
     },
     {

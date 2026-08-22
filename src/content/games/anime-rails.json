@@ -2,8 +2,8 @@
   "title": "Anime Rails Codes (August 2026)",
   "gameName": "Anime Rails",
   "description": "Working Anime Rails codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-01",
-  "checkedAt": "2026-08-01",
+  "updatedAt": "2026-08-22",
+  "checkedAt": "2026-08-22",
   "featured": true,
   "cover": "/images/games/card/anime-rails.webp",
   "placeId": 86628581581863,
@@ -29,12 +29,12 @@
   ],
   "codes": [
     {
-      "code": "ATOMICV2",
+      "code": "EVENTFIX",
       "reward": "Free Cash",
       "status": "active"
     },
     {
-      "code": "MODULO",
+      "code": "JUDGEMENT",
       "reward": "Free Cash",
       "status": "active"
     },
@@ -95,6 +95,11 @@
     },
     {
       "code": "ATOMICDELAY",
+      "reward": "Free Cash",
+      "status": "expired"
+    },
+    {
+      "code": "ATOMICV2",
       "reward": "Free Cash",
       "status": "expired"
     },
@@ -171,6 +176,11 @@
     {
       "code": "MAPREWORK",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MODULO",
+      "reward": "Free Cash",
       "status": "expired"
     },
     {

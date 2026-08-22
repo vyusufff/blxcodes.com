@@ -2,8 +2,8 @@
   "title": "100 Days At Sea Codes (August 2026)",
   "gameName": "100 Days At Sea",
   "description": "Working 100 Days At Sea codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-15",
-  "checkedAt": "2026-08-15",
+  "updatedAt": "2026-08-22",
+  "checkedAt": "2026-08-22",
   "featured": true,
   "cover": "/images/games/card/100-days-at-sea.webp",
   "placeId": 70411440483149,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "CLASSES",
+      "reward": "+20 Pearls",
+      "status": "active"
+    },
     {
       "code": "DECORATE",
       "reward": "+20 Pearls",

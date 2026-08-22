@@ -2,8 +2,8 @@
   "title": "AOPG Codes (August 2026)",
   "gameName": "AOPG",
   "description": "Working AOPG codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-11",
-  "checkedAt": "2026-08-11",
+  "updatedAt": "2026-08-22",
+  "checkedAt": "2026-08-22",
   "featured": true,
   "cover": "/images/games/card/a-one-piece-game-aopg.webp",
   "placeId": 8396586868,
@@ -28,6 +28,21 @@
     }
   ],
   "codes": [
+    {
+      "code": "1kActive",
+      "reward": "200M beli, 15k gems, 30 ponegylphs",
+      "status": "active"
+    },
+    {
+      "code": "1Klikes",
+      "reward": "75M beli and 5k Gems",
+      "status": "active"
+    },
+    {
+      "code": "2kLikes",
+      "reward": "100m Beli and 5k Gems",
+      "status": "active"
+    },
     {
       "code": "AbsoluteDestruction",
       "reward": "1x Saiyan Spirit",
@@ -334,6 +349,11 @@
       "status": "active"
     },
     {
+      "code": "NewInventory",
+      "reward": "25 more inventory space",
+      "status": "active"
+    },
+    {
       "code": "OnePromptMan!",
       "reward": "2x XP",
       "status": "active"
@@ -411,6 +431,16 @@
     {
       "code": "Reinhard",
       "reward": "x50 Poneglyph",
+      "status": "active"
+    },
+    {
+      "code": "ReMultiverseSea",
+      "reward": "150m beli, 8K gems, 20 poneglyphs",
+      "status": "active"
+    },
+    {
+      "code": "ReSea2",
+      "reward": "5k gems, 5 exp tickets, x2 luck for 1hr",
       "status": "active"
     },
     {

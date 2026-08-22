@@ -2,8 +2,8 @@
   "title": "TR Legacy Codes (August 2026) Codes (July 2026)",
   "gameName": "TR Legacy Codes (July 2026)",
   "description": "Working TR Legacy Codes (July 2026) codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-09",
-  "checkedAt": "2026-08-09",
+  "updatedAt": "2026-08-22",
+  "checkedAt": "2026-08-22",
   "featured": true,
   "cover": "/images/games/card/tr-legacy.webp",
   "placeId": 127089247654125,
@@ -29,13 +29,28 @@
   ],
   "codes": [
     {
-      "code": "HOLY10MIL",
-      "reward": "60,000 Cash and 1,500 XP",
+      "code": "JEEZ15MVISITS",
+      "reward": "RM 60,000 + 1,500 XP",
       "status": "active"
     },
     {
-      "code": "HUGEWEEKENDUPDATE",
-      "reward": "45,000 Cash and 1,300 XP",
+      "code": "LOGAN",
+      "reward": "RM 67,676 + 1,676 XP",
+      "status": "active"
+    },
+    {
+      "code": "WEHIT50KLIKES",
+      "reward": "RM 60,000 + 1,500 XP",
+      "status": "active"
+    },
+    {
+      "code": "WOAH2POINT5MIL",
+      "reward": "RM 60,000 + 1,500 XP",
+      "status": "active"
+    },
+    {
+      "code": "WOAH45KTHUMBSUP",
+      "reward": "RM 30,000 + 1,000 XP",
       "status": "active"
     },
     {
@@ -59,8 +74,18 @@
       "status": "expired"
     },
     {
+      "code": "HOLY10MIL",
+      "reward": "60,000 Cash and 1,500 XP",
+      "status": "expired"
+    },
+    {
       "code": "HOLY1MIL",
       "reward": "60,000 Cash and 1,500 XP",
+      "status": "expired"
+    },
+    {
+      "code": "HUGEWEEKENDUPDATE",
+      "reward": "45,000 Cash and 1,300 XP",
       "status": "expired"
     },
     {

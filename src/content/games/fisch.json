@@ -2,7 +2,7 @@
   "title": "Fisch Codes (August 2026)",
   "gameName": "Fisch",
   "description": "Working Fisch Roblox codes for coins, items, skins, and fishing rewards.",
-  "updatedAt": "2026-08-15",
+  "updatedAt": "2026-08-22",
   "featured": true,
   "cover": "/images/games/card/fisch.webp",
   "placeId": 16732694052,
@@ -40,6 +40,11 @@
     {
       "code": "scarlet",
       "reward": "Scarlet skin for Nate's Blade",
+      "status": "active"
+    },
+    {
+      "code": "ShootingStars",
+      "reward": "1000 Coins, XL Meteoric Rod skin, 5x Icy Fisch’n Dots, 5x Coral Pearl, 5x Cotton Candy Pieces, 5x Tropical Fruit mix, and a Random Totem",
       "status": "active"
     },
     {
@@ -593,5 +598,5 @@
       "status": "expired"
     }
   ],
-  "checkedAt": "2026-08-15"
+  "checkedAt": "2026-08-22"
 }

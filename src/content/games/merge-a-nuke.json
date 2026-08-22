@@ -1,9 +1,9 @@
 {
-  "title": "Merge a Nuke Codes (July 2026)",
+  "title": "Merge a Nuke Codes (August 2026)",
   "gameName": "Merge a Nuke",
   "description": "Working Merge a Nuke codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-22",
+  "checkedAt": "2026-08-22",
   "featured": true,
   "cover": "/images/games/card/merge-a-nuke.webp",
   "placeId": 128784467030899,
@@ -36,6 +36,11 @@
     {
       "code": "BOOM",
       "reward": "5k Cash",
+      "status": "active"
+    },
+    {
+      "code": "DELAY",
+      "reward": "300 Nuclear Waste",
       "status": "active"
     },
     {

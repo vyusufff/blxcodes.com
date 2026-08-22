@@ -1,9 +1,9 @@
 {
-  "title": "Boxing Beta Codes (July 2026)",
+  "title": "Boxing Beta Codes (August 2026)",
   "gameName": "Boxing Beta",
   "description": "Working Boxing Beta codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-22",
+  "checkedAt": "2026-08-22",
   "featured": true,
   "cover": "/images/games/card/boxing-beta.webp",
   "placeId": 6804602922,
@@ -31,6 +31,16 @@
     {
       "code": "335K",
       "reward": "Redeem for Free belt",
+      "status": "active"
+    },
+    {
+      "code": "340K",
+      "reward": "Redeem for Free belt",
+      "status": "active"
+    },
+    {
+      "code": "JOHNMACKLEBERRY",
+      "reward": "Redeem for Free rewards",
       "status": "active"
     },
     {
