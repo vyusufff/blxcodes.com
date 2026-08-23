@@ -2,8 +2,8 @@
   "title": "The Time of Ninja Codes (August 2026)",
   "gameName": "The Time of Ninja",
   "description": "Working The Time of Ninja codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-09",
-  "checkedAt": "2026-08-09",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/the-time-of-ninja.webp",
   "placeId": 8075399143,
@@ -104,6 +104,11 @@
       "status": "active"
     },
     {
+      "code": "DroprateTweaks!",
+      "reward": "20 Spins of all types",
+      "status": "active"
+    },
+    {
       "code": "Event!",
       "reward": "15 Spins of all types",
       "status": "active"
@@ -189,6 +194,11 @@
       "status": "active"
     },
     {
+      "code": "Organizations!",
+      "reward": "20 Spins of all types",
+      "status": "active"
+    },
+    {
       "code": "PastOfShuraku!",
       "reward": "15 Spins of all types",
       "status": "active"
@@ -201,6 +211,16 @@
     {
       "code": "QualityOfLife!",
       "reward": "15 Spins of all types",
+      "status": "active"
+    },
+    {
+      "code": "RavensDespair!",
+      "reward": "50 Spins of all types",
+      "status": "active"
+    },
+    {
+      "code": "RavensUltimateEternal!",
+      "reward": "20 Spins of all types",
       "status": "active"
     },
     {
@@ -269,6 +289,16 @@
       "status": "active"
     },
     {
+      "code": "ThanksFor5KInterested!",
+      "reward": "50 Spins of all types",
+      "status": "active"
+    },
+    {
+      "code": "ThankYouFor7KInterested!",
+      "reward": "25 Spins of all types",
+      "status": "active"
+    },
+    {
       "code": "ToadForest!",
       "reward": "15 Spins of all types",
       "status": "active"
@@ -276,6 +306,16 @@
     {
       "code": "ToadSage!",
       "reward": "30 Spins of all types",
+      "status": "active"
+    },
+    {
+      "code": "Totsuka!",
+      "reward": "15 Spins of all types",
+      "status": "active"
+    },
+    {
+      "code": "UltimateRaven!",
+      "reward": "20 Spins of all types",
       "status": "active"
     },
     {
@@ -290,6 +330,11 @@
     },
     {
       "code": "Wired!",
+      "reward": "15 Spins of all types",
+      "status": "active"
+    },
+    {
+      "code": "Yata!",
       "reward": "15 Spins of all types",
       "status": "active"
     },
