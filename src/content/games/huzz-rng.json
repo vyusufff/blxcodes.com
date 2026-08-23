@@ -2,8 +2,8 @@
   "title": "Huzz RNG Codes (August 2026)",
   "gameName": "Huzz RNG",
   "description": "Working Huzz RNG codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/huzz-rng.webp",
   "placeId": 89100823864844,
@@ -29,6 +29,11 @@
   ],
   "codes": [
     {
+      "code": "100KFAV",
+      "reward": "100 Premium Potion Crates and 100 Premium Goodie Crates",
+      "status": "active"
+    },
+    {
       "code": "4KCCU",
       "reward": "75 Premium Potion Crates, 75 Premium Goodie Crates, and 1 Glitched Potion",
       "status": "active"
@@ -36,6 +41,11 @@
     {
       "code": "500HEAVENPOTS",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "70KMEMBERS",
+      "reward": "70 Premium Potion Crates and 70 Premium Goodie Crates",
       "status": "active"
     },
     {
@@ -61,6 +71,11 @@
     {
       "code": "BIGGESTUPDATEYET",
       "reward": "5 Premium Potion Crate, 20 Better Goodie Crate, 10000 Astralis, and 30000 Gold",
+      "status": "active"
+    },
+    {
+      "code": "BLACKCLOVER",
+      "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates",
       "status": "active"
     },
     {
@@ -124,6 +139,16 @@
       "status": "active"
     },
     {
+      "code": "FISH",
+      "reward": "20 Summer Crate, 1 Sovereign Pot, 1 Omega Pot, 1 Glitched Potion, 100 Premium Potion Crate, and 100 Premium Goodie Crate",
+      "status": "active"
+    },
+    {
+      "code": "FIVEHUNDREDHEAVENPOTS",
+      "reward": "500 Heaven Pots",
+      "status": "active"
+    },
+    {
       "code": "GAMBLAPACKYAA!!",
       "reward": "50 Premium Goodie Crate, 50 Premium Potion Crate, and 5 Sovereign Pot",
       "status": "active"
@@ -136,6 +161,11 @@
     {
       "code": "GOALS!!",
       "reward": "3 Premium Potion Crates, 3 Premium Goodie Crates, 10 Better Potion Crates, 10 Better Goodie Crates, and 1 Token of Weekly",
+      "status": "active"
+    },
+    {
+      "code": "GOMENSORRY",
+      "reward": "1 Present 3, 150 Summer Crates, and 150 Halloween Crates",
       "status": "active"
     },
     {
@@ -154,6 +184,16 @@
       "status": "active"
     },
     {
+      "code": "ILIKEPOTIONS",
+      "reward": "50 Summer Crate, 1 Sovereign Pot, 1 Omega Pot, 1 Transcendent Pot, and 1 Glitched Potion",
+      "status": "active"
+    },
+    {
+      "code": "ISWEARITSLAST",
+      "reward": "50 Summer Crate and 50 Premium Crates",
+      "status": "active"
+    },
+    {
       "code": "IWANTMYROLLS",
       "reward": "Free Rewards",
       "status": "active"
@@ -161,6 +201,26 @@
     {
       "code": "KAISERXISAGI",
       "reward": "1 Eternal Pot, 25 Better Potion Crate, and 25 Better Goodie Crate",
+      "status": "active"
+    },
+    {
+      "code": "KILLGRANT",
+      "reward": "100 Premium Potion Crate and 100 Premium Goodie Crate",
+      "status": "active"
+    },
+    {
+      "code": "KILLNIAPLIXPT2",
+      "reward": "1 Holy Grail",
+      "status": "active"
+    },
+    {
+      "code": "KILLPHI",
+      "reward": "1 Elementals Pot, 50 Premium Potion Crate, and 50 Premium Goodie Crate",
+      "status": "active"
+    },
+    {
+      "code": "KILLSEL",
+      "reward": "100 Premium Potion Crates and 100 Premium Goodie Crates",
       "status": "active"
     },
     {
@@ -201,6 +261,16 @@
     {
       "code": "SEASONPASS",
       "reward": "50 Premium Goodie Crates and 50 Premium Potion Crates",
+      "status": "active"
+    },
+    {
+      "code": "SECONDISLAND",
+      "reward": "1 Sovereign Potion, 1 Omega Potion, 1 Glitched Potion, 25 Premium Potion Crates, and 25 Premium Goodie Crates",
+      "status": "active"
+    },
+    {
+      "code": "SLIMENIAPLIX",
+      "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates",
       "status": "active"
     },
     {
@@ -249,6 +319,11 @@
       "status": "active"
     },
     {
+      "code": "THEBIGGESTUPDATEOAT",
+      "reward": "100 Premium Potion Crates and 100 Premium Goodie Crates",
+      "status": "active"
+    },
+    {
       "code": "THECAVES!!",
       "reward": "Free Rewards",
       "status": "active"
@@ -261,6 +336,11 @@
     {
       "code": "THXFORSUPPORT",
       "reward": "25 Premium Crates",
+      "status": "active"
+    },
+    {
+      "code": "TOMATO",
+      "reward": "100 Premium Potion Crate and 100 Premium Goodie Crate",
       "status": "active"
     },
     {

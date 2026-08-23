@@ -1,9 +1,9 @@
 {
-  "title": "Muscle Military Codes (July 2026)",
+  "title": "Muscle Military Codes (August 2026)",
   "gameName": "Muscle Military",
   "description": "Working Muscle Military codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/muscle-military.webp",
   "placeId": 124396690804338,
@@ -41,6 +41,11 @@
     {
       "code": "happysun",
       "reward": "Double Energy for 30 minutes",
+      "status": "active"
+    },
+    {
+      "code": "lastsunshine",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {

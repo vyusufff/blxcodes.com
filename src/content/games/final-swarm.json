@@ -2,8 +2,8 @@
   "title": "Final Swarm Codes (August 2026)",
   "gameName": "Final Swarm",
   "description": "Working Final Swarm codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-01",
-  "checkedAt": "2026-08-01",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/final-swarm.webp",
   "placeId": 99521272836282,
@@ -34,6 +34,11 @@
       "status": "active"
     },
     {
+      "code": "freevoid",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "frosty",
       "reward": "Free Rewards",
       "status": "active"
@@ -54,6 +59,11 @@
       "status": "active"
     },
     {
+      "code": "skillz",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "supdoggy",
       "reward": "100 Keys",
       "status": "active"
@@ -61,6 +71,16 @@
     {
       "code": "Update1",
       "reward": "100 Keys, 5 Rare Chests, and 1 Epic Chest",
+      "status": "active"
+    },
+    {
+      "code": "VoidFix",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "XtraVoid",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {

@@ -2,8 +2,8 @@
   "title": "Dueling Grounds Codes (August 2026)",
   "gameName": "Dueling Grounds",
   "description": "Working Dueling Grounds codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-15",
-  "checkedAt": "2026-08-15",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/dueling-grounds.webp",
   "placeId": 94217045453265,
@@ -45,6 +45,11 @@
     },
     {
       "code": "MidSeasonUpdate",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "Oathbreaker",
       "reward": "Free Rewards",
       "status": "active"
     },

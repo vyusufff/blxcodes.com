@@ -2,8 +2,8 @@
   "title": "Build a Military Base Codes (August 2026)",
   "gameName": "Build a Military Base",
   "description": "Working Build a Military Base codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-17",
-  "checkedAt": "2026-08-17",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/build-a-military-base.webp",
   "placeId": 91440994157417,
@@ -69,11 +69,6 @@
       "status": "active"
     },
     {
-      "code": "ACHIEVEMENTS",
-      "reward": "1 Premium Crate",
-      "status": "active"
-    },
-    {
       "code": "ARCTICFORTRESS",
       "reward": "1 Premium Crate",
       "status": "active"
@@ -89,7 +84,7 @@
       "status": "active"
     },
     {
-      "code": "INDEX",
+      "code": "LIBERATOR",
       "reward": "1 Premium Crate",
       "status": "active"
     },
@@ -104,12 +99,12 @@
       "status": "active"
     },
     {
-      "code": "MARAUDER",
+      "code": "MECHA",
       "reward": "1 Premium Crate",
       "status": "active"
     },
     {
-      "code": "MECHA",
+      "code": "MECHAWORM",
       "reward": "1 Premium Crate",
       "status": "active"
     },
@@ -135,6 +130,11 @@
     },
     {
       "code": "QOL",
+      "reward": "1 Premium Crate",
+      "status": "active"
+    },
+    {
+      "code": "REBIRTH20WOW",
       "reward": "1 Premium Crate",
       "status": "active"
     },
@@ -324,6 +324,11 @@
       "status": "expired"
     },
     {
+      "code": "ACHIEVEMENTS",
+      "reward": "1 Premium Crate",
+      "status": "expired"
+    },
+    {
       "code": "CHIMERA",
       "reward": "1 Premium Crate",
       "status": "expired"
@@ -344,8 +349,18 @@
       "status": "expired"
     },
     {
+      "code": "INDEX",
+      "reward": "1 Premium Crate",
+      "status": "expired"
+    },
+    {
       "code": "KABOOM",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MARAUDER",
+      "reward": "1 Premium Crate",
       "status": "expired"
     },
     {

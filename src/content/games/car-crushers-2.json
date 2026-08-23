@@ -2,8 +2,8 @@
   "title": "Car Crushers 2 Codes (August 2026)",
   "gameName": "Car Crushers 2",
   "description": "Working Car Crushers 2 codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/car-crushers-2.webp",
   "placeId": 654732683,
@@ -65,6 +65,11 @@
     },
     {
       "code": "POWERHOUSE",
+      "reward": "Free Credits",
+      "status": "active"
+    },
+    {
+      "code": "REDLINE",
       "reward": "Free Credits",
       "status": "active"
     },

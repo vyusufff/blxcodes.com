@@ -1,9 +1,9 @@
 {
-  "title": "Anime Power League Codes (July 2026)",
+  "title": "Anime Power League Codes (August 2026)",
   "gameName": "Anime Power League",
   "description": "Working Anime Power League codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/anime-power-league.webp",
   "placeId": 72170565698228,
@@ -59,6 +59,11 @@
       "status": "active"
     },
     {
+      "code": "DemonicDogGuy67",
+      "reward": "2x Training Stats for 60 Minutes",
+      "status": "active"
+    },
+    {
       "code": "Deoxel",
       "reward": "58008 Tokens",
       "status": "active"
@@ -94,8 +99,18 @@
       "status": "active"
     },
     {
+      "code": "MinersGonnaMine",
+      "reward": "2x Training Stats for 60 Minutes",
+      "status": "active"
+    },
+    {
       "code": "MofuMofu",
       "reward": "Double Training Stats for 60 Minutes",
+      "status": "active"
+    },
+    {
+      "code": "NanashiHaveHorns",
+      "reward": "200K Base Tokens",
       "status": "active"
     },
     {

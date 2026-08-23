@@ -2,8 +2,8 @@
   "title": "Ultimate Football Codes (August 2026)",
   "gameName": "Ultimate Football",
   "description": "Working Ultimate Football codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/ultimate-football.webp",
   "placeId": 2338325648,
@@ -180,6 +180,11 @@
     },
     {
       "code": "NFLHYPE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "NFLPLAYERS",
       "reward": "Free Rewards",
       "status": "active"
     },

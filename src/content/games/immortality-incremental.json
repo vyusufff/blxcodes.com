@@ -1,9 +1,9 @@
 {
-  "title": "Immortality Incremental Codes (July 2026)",
+  "title": "Immortality Incremental Codes (August 2026)",
   "gameName": "Immortality Incremental",
   "description": "Working Immortality Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/immortality-incremental.webp",
   "placeId": 75317862071711,
@@ -274,6 +274,11 @@
       "status": "active"
     },
     {
+      "code": "SOULS",
+      "reward": "15 All Potions",
+      "status": "active"
+    },
+    {
       "code": "SOUP",
       "reward": "10 of each potion",
       "status": "active"
@@ -281,6 +286,11 @@
     {
       "code": "UPDATE2",
       "reward": "2 of each potion",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE7",
+      "reward": "30 Jade",
       "status": "active"
     },
     {

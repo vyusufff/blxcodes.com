@@ -2,8 +2,8 @@
   "title": "Roll an Anime Codes (August 2026)",
   "gameName": "Roll an Anime",
   "description": "Working Roll an Anime codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-13",
-  "checkedAt": "2026-08-13",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/roll-an-anime.webp",
   "placeId": 93999763241813,
@@ -71,6 +71,11 @@
     {
       "code": "BUNGFROMONEY",
       "reward": "5 money boost for 2 hours",
+      "status": "active"
+    },
+    {
+      "code": "EIGHTEEN",
+      "reward": "4 times cash boost",
       "status": "active"
     },
     {

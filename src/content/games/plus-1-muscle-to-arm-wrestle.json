@@ -1,9 +1,9 @@
 {
-  "title": "+1 Muscle to Arm Wrestle Codes (July 2026)",
+  "title": "+1 Muscle to Arm Wrestle Codes (August 2026)",
   "gameName": "+1 Muscle to Arm Wrestle",
   "description": "Working +1 Muscle to Arm Wrestle codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/plus-1-muscle-to-arm-wrestle.webp",
   "placeId": 134750648450964,
@@ -31,6 +31,16 @@
     {
       "code": "BUNNYHOP",
       "reward": "1 Basic Bunny",
+      "status": "active"
+    },
+    {
+      "code": "COLISEUMPUSH",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "COMEBACK",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
