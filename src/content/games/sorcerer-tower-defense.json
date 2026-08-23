@@ -1,9 +1,9 @@
 {
-  "title": "Sorcerer Tower Defense Codes (July 2026)",
+  "title": "Sorcerer Tower Defense Codes (August 2026)",
   "gameName": "Sorcerer Tower Defense",
   "description": "Working Sorcerer Tower Defense codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/sorcerer-tower-defense.webp",
   "placeId": 17720162456,
@@ -31,6 +31,11 @@
     {
       "code": "AnniversaryOneMoreDay",
       "reward": "500 Anniversary Coins",
+      "status": "active"
+    },
+    {
+      "code": "BattlepassS8",
+      "reward": "10000 Coins",
       "status": "active"
     },
     {
@@ -94,6 +99,11 @@
       "status": "active"
     },
     {
+      "code": "HeadOfHei",
+      "reward": "3000 Culling Points",
+      "status": "active"
+    },
+    {
       "code": "HelicopterHelicopter",
       "reward": "5000 Coins",
       "status": "active"
@@ -121,6 +131,11 @@
     {
       "code": "Kashimo",
       "reward": "5000 Coins",
+      "status": "active"
+    },
+    {
+      "code": "LuckWorks",
+      "reward": "3000 Gems",
       "status": "active"
     },
     {
