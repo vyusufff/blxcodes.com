@@ -2,8 +2,8 @@
   "title": "Anime Final Quest Codes (August 2026)",
   "gameName": "Anime Final Quest",
   "description": "Working Anime Final Quest codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-08-23",
+  "checkedAt": "2026-08-23",
   "featured": true,
   "cover": "/images/games/card/anime-final-quest.webp",
   "placeId": 100744519298647,
@@ -41,6 +41,11 @@
     {
       "code": "GOKUBLACK",
       "reward": "50 Raid Tickets, 100 Runes, 50 Lucky Weapon Spins, and 500K Gold",
+      "status": "active"
+    },
+    {
+      "code": "GUTSANDDELAY",
+      "reward": "80 Gear Lucky Spin, 100 Weapon Lucky Spin, 1M Gold, 100 Runes, 55 Raid Tickets, and 10 Statue’s Crown",
       "status": "active"
     },
     {
