@@ -104,6 +104,11 @@
       "status": "active"
     },
     {
+      "code": "MONARCHUPDATEPART1!",
+      "reward": "300k Gold, Gold Jiraiya, 25 Trait Shards, Trading Ticket ( , Wave 76)",
+      "status": "active"
+    },
+    {
       "code": "Nebula",
       "reward": "2 Luck",
       "status": "active"
@@ -111,6 +116,11 @@
     {
       "code": "ORIGINAL",
       "reward": "25 times Cash boost",
+      "status": "active"
+    },
+    {
+      "code": "RAIDUPDATE!",
+      "reward": "350k Gold, Mythic Capsule, 25 Trait Shards, 5 Secret Essence ( , Wave 76)",
       "status": "active"
     },
     {
