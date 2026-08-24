@@ -2,8 +2,8 @@
   "title": "Kaizen Codes (August 2026)",
   "gameName": "Kaizen",
   "description": "Working Kaizen codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-08-24",
+  "checkedAt": "2026-08-24",
   "featured": true,
   "cover": "/images/games/card/kaizen.webp",
   "placeId": 17662297954,
@@ -129,6 +129,11 @@
       "status": "active"
     },
     {
+      "code": "MissionBoard!",
+      "reward": "8 Lucky Clan Spins and 8 Binding Vow Spins",
+      "status": "active"
+    },
+    {
       "code": "Naoya!",
       "reward": "7 Lucky Clan Spins, and 7 Binding Vows",
       "status": "active"
@@ -151,6 +156,11 @@
     {
       "code": "SubtoEmsis",
       "reward": "6 Lucky Clan Spins and 45 mins 2x Raid Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SukunaBuff",
+      "reward": "8 Lucky Clan Spins and 8 Binding Vow Spins",
       "status": "active"
     },
     {

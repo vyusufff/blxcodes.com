@@ -2,8 +2,8 @@
   "title": "Unscathed RNG Codes (August 2026) Codes (August 2026)",
   "gameName": "Unscathed RNG Codes (August 2026)",
   "description": "Working Unscathed RNG Codes (August 2026) codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-23",
-  "checkedAt": "2026-08-23",
+  "updatedAt": "2026-08-24",
+  "checkedAt": "2026-08-24",
   "featured": true,
   "cover": "/images/games/card/unscathed.webp",
   "placeId": 122951224417794,
@@ -29,19 +29,19 @@
   ],
   "codes": [
     {
+      "code": "500K",
+      "reward": "3x Fate Potion, 3x Swift Potion, and 1,000 Cash",
+      "status": "active"
+    },
+    {
       "code": "CYBER",
       "reward": "Divine Potion and Lucky Coin",
       "status": "active"
     },
     {
       "code": "WEEK1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "500K",
-      "reward": "Expired reward",
-      "status": "expired"
+      "reward": "1x Twist of Fate, 1x Shard, 3x Fate Potion, 3x Swift Potion, and 2,000 Cash",
+      "status": "active"
     }
   ]
 }

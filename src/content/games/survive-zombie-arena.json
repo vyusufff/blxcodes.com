@@ -2,8 +2,8 @@
   "title": "Survive Zombie Arena Codes (August 2026)",
   "gameName": "Survive Zombie Arena",
   "description": "Working Survive Zombie Arena codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-08-24",
+  "checkedAt": "2026-08-24",
   "featured": true,
   "cover": "/images/games/card/survive-zombie-arena.webp",
   "placeId": 114204398207377,
@@ -59,6 +59,11 @@
       "status": "active"
     },
     {
+      "code": "Iron",
+      "reward": "20 Pirate Wood and 12 Pirate Iron",
+      "status": "active"
+    },
+    {
       "code": "LUVUGUYS",
       "reward": "1 Bloodmoon spin",
       "status": "active"
@@ -71,6 +76,16 @@
     {
       "code": "patchboi",
       "reward": "2x arena credits for 4 hours",
+      "status": "active"
+    },
+    {
+      "code": "Pirate",
+      "reward": "2x Pirate Pass XP for 24 hours",
+      "status": "active"
+    },
+    {
+      "code": "Swaggin",
+      "reward": "2x credits for 12 hours and a Pirate Chest",
       "status": "active"
     },
     {
