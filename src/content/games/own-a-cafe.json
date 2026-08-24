@@ -1,0 +1,52 @@
+{
+  "title": "Own A Cafe Codes (August 2026)",
+  "gameName": "Own A Cafe",
+  "description": "Working Own A Cafe codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-24",
+  "checkedAt": "2026-08-24",
+  "featured": true,
+  "cover": "/images/games/card/own-a-cafe.webp",
+  "placeId": 131906518201863,
+  "howTo": [
+    "Launch Own A Cafe on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Own A Cafe codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Own A Cafe code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Own A Cafe codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "Cafe",
+      "reward": "5k cash",
+      "status": "active"
+    },
+    {
+      "code": "Coffee",
+      "reward": "2x cash multiplier (ten minutes)",
+      "status": "active"
+    },
+    {
+      "code": "2024",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}
