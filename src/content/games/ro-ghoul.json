@@ -2,8 +2,8 @@
   "title": "Ro Ghoul Codes (August 2026)",
   "gameName": "Ro Ghoul",
   "description": "Working Ro Ghoul codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-17",
-  "checkedAt": "2026-08-17",
+  "updatedAt": "2026-08-24",
+  "checkedAt": "2026-08-24",
   "featured": true,
   "cover": "/images/games/card/ro-ghoul.webp",
   "placeId": 914010731,
@@ -111,6 +111,11 @@
     {
       "code": "Ro-Ghoulian",
       "reward": "1M RC, 10M Yen, 20 Hearts, and 30 Color Credits",
+      "status": "active"
+    },
+    {
+      "code": "ServerIssues26",
+      "reward": "40 hearts",
       "status": "active"
     },
     {

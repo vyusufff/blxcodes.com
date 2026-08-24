@@ -2,8 +2,8 @@
   "title": "Blue Lock Rivals Codes (August 2026)",
   "gameName": "Blue Lock Rivals",
   "description": "Working Blue Lock Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-22",
-  "checkedAt": "2026-08-22",
+  "updatedAt": "2026-08-24",
+  "checkedAt": "2026-08-24",
   "featured": true,
   "cover": "/images/games/card/blue-lock-rivals.webp",
   "placeId": 18668065416,
@@ -29,17 +29,17 @@
   ],
   "codes": [
     {
-      "code": "BIGTRAILERSOON",
-      "reward": "5 Lucky Style Spins",
-      "status": "active"
-    },
-    {
       "code": "DESTROYERMODE",
       "reward": "5 Lucky Flow Spins",
       "status": "active"
     },
     {
       "code": "FIXESLATERTODAY",
+      "reward": "5 Lucky Style Spins",
+      "status": "active"
+    },
+    {
+      "code": "INSANETRAILERSOON",
       "reward": "5 Lucky Style Spins",
       "status": "active"
     },
@@ -66,6 +66,11 @@
     {
       "code": "BEARCLAW",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BIGTRAILERSOON",
+      "reward": "5 Lucky Style Spins",
       "status": "expired"
     },
     {

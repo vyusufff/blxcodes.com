@@ -2,8 +2,8 @@
   "title": "Anime Last Stand Codes (August 2026)",
   "gameName": "Anime Last Stand",
   "description": "Working Anime Last Stand codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-12",
-  "checkedAt": "2026-08-12",
+  "updatedAt": "2026-08-24",
+  "checkedAt": "2026-08-24",
   "featured": true,
   "cover": "/images/games/card/anime-last-stand.webp",
   "placeId": 12886143095,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "ALSISBACK!",
+      "reward": "100 Technique Shards, 20K Emeralds, 30 Essence Selectors, and 50K Gold",
+      "status": "active"
+    },
     {
       "code": "ALSREVERT",
       "reward": "100 Technique Shards, 40k Emeralds, 10 Mythic Shards, and 20 Essence Selectors",
@@ -69,6 +74,11 @@
       "status": "active"
     },
     {
+      "code": "FORMYBROTHER!!!",
+      "reward": "50 Rerolls, 15 Perfect Stat Cubes, and 50 Stat Cubes",
+      "status": "active"
+    },
+    {
       "code": "HAPPYVALENTINESDAY",
       "reward": "30 shard locks",
       "status": "active"
@@ -106,6 +116,11 @@
     {
       "code": "ShhhThisIsASecret!",
       "reward": "5 Skill Tree Resets, 30 Technique Shards, and 5,000 Jewels",
+      "status": "active"
+    },
+    {
+      "code": "Shibuya!",
+      "reward": "30 Rerolls, 10 Perfect Stat Cubes, and 5000 Jewels",
       "status": "active"
     },
     {
@@ -156,6 +171,11 @@
     {
       "code": "Update83!",
       "reward": "10 Premium Rerolls",
+      "status": "active"
+    },
+    {
+      "code": "WeeklyReturn!",
+      "reward": "25 Rerolls, and 15 Mythic Shards",
       "status": "active"
     },
     {
