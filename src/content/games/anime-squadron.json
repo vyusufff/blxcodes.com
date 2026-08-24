@@ -2,8 +2,8 @@
   "title": "Anime Squadron Codes (August 2026)",
   "gameName": "Anime Squadron",
   "description": "Working Anime Squadron codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-22",
-  "checkedAt": "2026-08-22",
+  "updatedAt": "2026-08-24",
+  "checkedAt": "2026-08-24",
   "featured": true,
   "cover": "/images/games/card/anime-squadron.webp",
   "placeId": 71132543521245,
@@ -29,54 +29,24 @@
   ],
   "codes": [
     {
-      "code": "1000YearsMaintenance!",
-      "reward": "10 Perfect Cubes",
-      "status": "active"
-    },
-    {
-      "code": "AdminAbuse!",
-      "reward": "50 Trait Shards, 5k Crusader Bill, and 3k Gold",
-      "status": "active"
-    },
-    {
-      "code": "AdminAbuse2!",
-      "reward": "100 Trait Shards",
-      "status": "active"
-    },
-    {
-      "code": "BalanceChangesJJK!",
-      "reward": "100 Trait Shards, 3K Gems, and 10 Prism",
-      "status": "active"
-    },
-    {
-      "code": "COMETOMERIKA!",
-      "reward": "1 Tanjaros Nichirin, 15 Demon Blood Crystal, 7.5k Gold, 200 Warding Mask, 65 Lightning Stone, and 200 Spirit Elixir",
-      "status": "active"
-    },
-    {
-      "code": "FreeTanjiroEvo!",
-      "reward": "3 Perfect Prism, and 30 Prism",
-      "status": "active"
-    },
-    {
-      "code": "JJKBugFixes!",
-      "reward": "100 Trait Shards, 3K Gems, and 10 Prism",
-      "status": "active"
-    },
-    {
-      "code": "JJKBugFixes2!",
-      "reward": "100 Trait Shards, 3K Gems, and 10 Prism",
-      "status": "active"
-    },
-    {
-      "code": "MUDAMUDAMUDA!",
-      "reward": "5k Crusader Bill",
-      "status": "active"
-    },
-    {
-      "code": "SorryForBalancingIssues",
+      "code": "CapsuleEventChanges!",
       "reward": "100 Trait Shards, and 1.5k Gems",
       "status": "active"
+    },
+    {
+      "code": "PowerOfRivals!",
+      "reward": "3 Perfect Cubes, and 500 Yol",
+      "status": "active"
+    },
+    {
+      "code": "RoyalKnights!",
+      "reward": "15 Prism, and 1k Yol",
+      "status": "active"
+    },
+    {
+      "code": "1000YearsMaintenance!",
+      "reward": "10 Perfect Cubes",
+      "status": "expired"
     },
     {
       "code": "100YearsMaintenance!",
@@ -114,8 +84,28 @@
       "status": "expired"
     },
     {
+      "code": "AdminAbuse!",
+      "reward": "50 Trait Shards, 5k Crusader Bill, and 3k Gold",
+      "status": "expired"
+    },
+    {
+      "code": "AdminAbuse2!",
+      "reward": "100 Trait Shards",
+      "status": "expired"
+    },
+    {
       "code": "AdminAbuseSoon!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BalanceChangesJJK!",
+      "reward": "100 Trait Shards, 3K Gems, and 10 Prism",
+      "status": "expired"
+    },
+    {
+      "code": "COMETOMERIKA!",
+      "reward": "1 Tanjaros Nichirin, 15 Demon Blood Crystal, 7.5k Gold, 200 Warding Mask, 65 Lightning Stone, and 200 Spirit Elixir",
       "status": "expired"
     },
     {
@@ -144,6 +134,11 @@
       "status": "expired"
     },
     {
+      "code": "FreeTanjiroEvo!",
+      "reward": "3 Perfect Prism, and 30 Prism",
+      "status": "expired"
+    },
+    {
       "code": "Ghouls!",
       "reward": "Expired reward",
       "status": "expired"
@@ -159,6 +154,16 @@
       "status": "expired"
     },
     {
+      "code": "JJKBugFixes!",
+      "reward": "100 Trait Shards, 3K Gems, and 10 Prism",
+      "status": "expired"
+    },
+    {
+      "code": "JJKBugFixes2!",
+      "reward": "100 Trait Shards, 3K Gems, and 10 Prism",
+      "status": "expired"
+    },
+    {
       "code": "LongMaintenance!",
       "reward": "Expired reward",
       "status": "expired"
@@ -171,6 +176,11 @@
     {
       "code": "MonkeyPower!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MUDAMUDAMUDA!",
+      "reward": "5k Crusader Bill",
       "status": "expired"
     },
     {
@@ -191,6 +201,11 @@
     {
       "code": "SETYOURHEARTABLAZE!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SorryForBalancingIssues",
+      "reward": "100 Trait Shards, and 1.5k Gems",
       "status": "expired"
     },
     {

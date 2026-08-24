@@ -2,8 +2,8 @@
   "title": "Rogue Piece Codes (August 2026)",
   "gameName": "Rogue Piece",
   "description": "Working Rogue Piece codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-17",
-  "checkedAt": "2026-08-17",
+  "updatedAt": "2026-08-24",
+  "checkedAt": "2026-08-24",
   "featured": true,
   "cover": "/images/games/card/rogue-piece.webp",
   "placeId": 84988808589910,
@@ -29,23 +29,23 @@
   ],
   "codes": [
     {
-      "code": "BanishedSaiyan!!",
-      "reward": "15 Rogue’s Blessings, 15 Lucky Boxes, 150 Mythic Chests, 150 Legendary Chests, 250,000 Fragments of Rogue, 6 Triple Legends Box, and 4000 Summon Orbs( , LEVEL 10,000 REQUIREMENT)",
-      "status": "active"
-    },
-    {
       "code": "CatFoodies",
       "reward": "100,000,000 Coins, 1,500,000 Gems, 500,000 Fragments of Rogue, 20 Mystery Crates, 3,000 Summon Orbs, 1,000 Reroll Shards, 10 Luminite Charms, 2 Carrot Cheesecakes, and 2 Carrots",
       "status": "active"
     },
     {
-      "code": "LegendarySuperSaiyan!",
-      "reward": "5x Luck Potions, 5x Gem Potions, and 2x ALL Other Potions ( , LEVEL 10,000 REQUIREMENT)",
+      "code": "Noob",
+      "reward": "10,000,000 Gold, 5,000,000 Gems, and 100 Reroll Shards",
       "status": "active"
     },
     {
-      "code": "Noob",
-      "reward": "10,000,000 Gold, 5,000,000 Gems, and 100 Reroll Shards",
+      "code": "QoL!",
+      "reward": "15 Rogue’s Blessings, 15 Lucky Boxes, 150 Mythic Chests, 150 Legendary Chests, 250,000 Fragments of Rogue, 6 Triple Legends Box, and 4000 Summon Orbs ( , LEVEL 10,000 REQUIREMENT)",
+      "status": "active"
+    },
+    {
+      "code": "RebalanceSoon!",
+      "reward": "5x Luck Potions, 5x Gem Potions, and 2x ALL Other Potions ( , LEVEL 10,000 REQUIREMENT)",
       "status": "active"
     },
     {
@@ -61,6 +61,11 @@
     {
       "code": "BackToTheGrind",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BanishedSaiyan!!",
+      "reward": "15 Rogue’s Blessings, 15 Lucky Boxes, 150 Mythic Chests, 150 Legendary Chests, 250,000 Fragments of Rogue, 6 Triple Legends Box, and 4000 Summon Orbs( , LEVEL 10,000 REQUIREMENT)",
       "status": "expired"
     },
     {
@@ -116,6 +121,11 @@
     {
       "code": "IceQueenRises",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LegendarySuperSaiyan!",
+      "reward": "5x Luck Potions, 5x Gem Potions, and 2x ALL Other Potions ( , LEVEL 10,000 REQUIREMENT)",
       "status": "expired"
     },
     {

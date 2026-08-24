@@ -2,8 +2,8 @@
   "title": "Soccer Zero Codes (August 2026)",
   "gameName": "Soccer Zero",
   "description": "Working Soccer Zero codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-17",
-  "checkedAt": "2026-08-17",
+  "updatedAt": "2026-08-24",
+  "checkedAt": "2026-08-24",
   "featured": true,
   "cover": "/images/games/card/soccer-zero.webp",
   "placeId": 75462869229229,
@@ -29,18 +29,13 @@
   ],
   "codes": [
     {
-      "code": "5KCODE",
-      "reward": "5 Lucky Style & Flow Spins",
+      "code": "CHAMELEONSOON",
+      "reward": "3 Lucky Style & Flow Spins",
       "status": "active"
     },
     {
-      "code": "AIKUDELAY",
+      "code": "CUSTOMISATION",
       "reward": "5 Lucky Style & Flow Spins",
-      "status": "active"
-    },
-    {
-      "code": "SERPENT",
-      "reward": "8 Lucky Style & Flow Spins",
       "status": "active"
     },
     {
@@ -51,6 +46,16 @@
     {
       "code": "30MWILDCARD",
       "reward": "6 Lucky Style and Flow Spins",
+      "status": "expired"
+    },
+    {
+      "code": "5KCODE",
+      "reward": "5 Lucky Style & Flow Spins",
+      "status": "expired"
+    },
+    {
+      "code": "AIKUDELAY",
+      "reward": "5 Lucky Style & Flow Spins",
       "status": "expired"
     },
     {
@@ -131,6 +136,11 @@
     {
       "code": "REWORK",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SERPENT",
+      "reward": "8 Lucky Style & Flow Spins",
       "status": "expired"
     },
     {

@@ -2,8 +2,8 @@
   "title": "The Forge Codes (August 2026)",
   "gameName": "The Forge",
   "description": "Working The Forge codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-08-24",
+  "checkedAt": "2026-08-24",
   "featured": true,
   "cover": "/images/games/card/the-forge.webp",
   "placeId": 76558904092080,
@@ -29,7 +29,7 @@
   ],
   "codes": [
     {
-      "code": "FORGEWEEKENDS14",
+      "code": "RAIDUPDSOON",
       "reward": "15x Rerolls",
       "status": "active"
     },
@@ -110,6 +110,11 @@
     },
     {
       "code": "FORGEWEEKENDS13",
+      "reward": "15x Rerolls",
+      "status": "expired"
+    },
+    {
+      "code": "FORGEWEEKENDS14",
       "reward": "15x Rerolls",
       "status": "expired"
     },
