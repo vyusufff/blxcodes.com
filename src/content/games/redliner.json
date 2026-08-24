@@ -1,9 +1,9 @@
 {
-  "title": "Redliner Codes (July 2026)",
+  "title": "Redliner Codes (August 2026)",
   "gameName": "Redliner",
   "description": "Working Redliner codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-24",
+  "checkedAt": "2026-08-24",
   "featured": true,
   "cover": "/images/games/card/redliner.webp",
   "placeId": 94987506187454,
@@ -29,6 +29,11 @@
   ],
   "codes": [
     {
+      "code": "BLACKHOLE",
+      "reward": "800 Crimson ( , Level 10)",
+      "status": "active"
+    },
+    {
       "code": "IsThisThingOn",
       "reward": "500 Crimson (Level 10)",
       "status": "active"
@@ -36,6 +41,11 @@
     {
       "code": "Spain1",
       "reward": "500 Crimson (Level 10)",
+      "status": "active"
+    },
+    {
+      "code": "SRY4DELAY",
+      "reward": "700 Crimson ( , Level 10)",
       "status": "active"
     },
     {
