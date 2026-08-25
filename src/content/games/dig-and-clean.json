@@ -1,0 +1,47 @@
+{
+  "title": "Dig And Clean Codes (August 2026)",
+  "gameName": "Dig And Clean",
+  "description": "Working Dig And Clean codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-25",
+  "checkedAt": "2026-08-25",
+  "featured": true,
+  "cover": "/images/games/card/dig-and-clean.webp",
+  "placeId": 83038462357724,
+  "howTo": [
+    "Launch Dig And Clean on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Dig And Clean codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Dig And Clean code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Dig And Clean codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "UPDATE3",
+      "reward": "double luck for 30 minutes (!)",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE2",
+      "reward": "five instant cleans",
+      "status": "active"
+    },
+    {
+      "code": "SECRET10",
+      "reward": "10x luck for ten minutes",
+      "status": "active"
+    }
+  ]
+}
