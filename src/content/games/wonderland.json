@@ -1,0 +1,37 @@
+{
+  "title": "Wonderland Codes (August 2026)",
+  "gameName": "Wonderland",
+  "description": "Working Wonderland codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-25",
+  "checkedAt": "2026-08-25",
+  "featured": true,
+  "cover": "/images/games/card/wonderland.webp",
+  "placeId": 13718567207,
+  "howTo": [
+    "Launch Wonderland on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Wonderland codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Wonderland code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Wonderland codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "RELEASE26",
+      "reward": "100 gems",
+      "status": "active"
+    }
+  ]
+}
