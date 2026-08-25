@@ -1,8 +1,8 @@
 {
-  "title": "Grow a Garden 2 Codes (July 2026)",
+  "title": "Grow a Garden 2 Codes (August 2026)",
   "gameName": "Grow a Garden 2",
   "description": "Working Grow a Garden 2 (GaG 2) codes for watering cans, seeds, and free gardening rewards.",
-  "updatedAt": "2026-07-29",
+  "updatedAt": "2026-08-25",
   "featured": true,
   "cover": "/images/games/card/grow-a-garden-2.webp",
   "placeId": 97598239454123,
@@ -28,6 +28,11 @@
   ],
   "codes": [
     {
+      "code": "FREESEED",
+      "reward": "Rewards, invite three players to claim",
+      "status": "active"
+    },
+    {
       "code": "REMEMBERTODRINKWATER",
       "reward": "1x Common Watering Can",
       "status": "active"
@@ -43,5 +48,5 @@
       "status": "active"
     }
   ],
-  "checkedAt": "2026-07-31"
+  "checkedAt": "2026-08-25"
 }
