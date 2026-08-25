@@ -34,21 +34,6 @@
       "status": "active"
     },
     {
-      "code": "TYDONATORS",
-      "reward": "128 money",
-      "status": "active"
-    },
-    {
-      "code": "THEMES",
-      "reward": "750 money",
-      "status": "active"
-    },
-    {
-      "code": "WEARESOBACK",
-      "reward": "200 money",
-      "status": "active"
-    },
-    {
       "code": "KARS",
       "reward": "50 money",
       "status": "active"
@@ -59,17 +44,32 @@
       "status": "active"
     },
     {
-      "code": "MiniUpdateTommorow",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "SORRYFORTHEBUGS",
+      "reward": "350 money",
+      "status": "active"
     },
     {
-      "code": "WALKIETALKIE",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "THEMES",
+      "reward": "750 money",
+      "status": "active"
+    },
+    {
+      "code": "TYDONATORS",
+      "reward": "128 money",
+      "status": "active"
+    },
+    {
+      "code": "WEARESOBACK",
+      "reward": "200 money",
+      "status": "active"
     },
     {
       "code": "1MVISITSYAY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2026",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -79,12 +79,17 @@
       "status": "expired"
     },
     {
+      "code": "MiniUpdateTommorow",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "VG247",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "WALKIETALKIE",
       "reward": "Expired reward",
       "status": "expired"
     }

@@ -2,8 +2,8 @@
   "title": "Anime Waifu Card Collection Codes (August 2026)",
   "gameName": "Anime Waifu Card Collection",
   "description": "Working Anime Waifu Card Collection codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-10",
-  "checkedAt": "2026-08-10",
+  "updatedAt": "2026-08-25",
+  "checkedAt": "2026-08-25",
   "featured": true,
   "cover": "/images/games/card/anime-waifu-card-collection.webp",
   "placeId": 109715918987082,
@@ -79,6 +79,16 @@
       "status": "active"
     },
     {
+      "code": "26M",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "456",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "500K",
       "reward": "30 Grade Tokens",
       "status": "active"
@@ -149,6 +159,11 @@
       "status": "active"
     },
     {
+      "code": "INFINITY",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "ITEMS",
       "reward": "2 Random Item",
       "status": "active"
@@ -171,6 +186,11 @@
     {
       "code": "PITY",
       "reward": "1 S Coin & 50 Grade Coins",
+      "status": "active"
+    },
+    {
+      "code": "PVP",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {

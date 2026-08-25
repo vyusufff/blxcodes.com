@@ -29,26 +29,6 @@
   ],
   "codes": [
     {
-      "code": "Ippo!",
-      "reward": "cash, rerolls, and skip tokens (!)",
-      "status": "active"
-    },
-    {
-      "code": "5MVISITS!",
-      "reward": "cash, rerolls, and skip tokens (!)",
-      "status": "active"
-    },
-    {
-      "code": "Refresh!",
-      "reward": "two skip tokens",
-      "status": "active"
-    },
-    {
-      "code": "Update2!",
-      "reward": "free rewards",
-      "status": "active"
-    },
-    {
       "code": "1MVISITS!",
       "reward": "free rewards",
       "status": "active"
@@ -59,13 +39,38 @@
       "status": "active"
     },
     {
-      "code": "Update1!",
-      "reward": "25k cash, ten real rerolls, and five legend rerolls",
+      "code": "5MVISITS!",
+      "reward": "cash, rerolls, and skip tokens (!)",
+      "status": "active"
+    },
+    {
+      "code": "Ippo!",
+      "reward": "cash, rerolls, and skip tokens (!)",
+      "status": "active"
+    },
+    {
+      "code": "miniupdate!",
+      "reward": "free rewards (!)",
+      "status": "active"
+    },
+    {
+      "code": "Refresh!",
+      "reward": "two skip tokens",
       "status": "active"
     },
     {
       "code": "Release!",
       "reward": "25k cash, ten real rerolls, and five legend rerolls",
+      "status": "active"
+    },
+    {
+      "code": "Update1!",
+      "reward": "25k cash, ten real rerolls, and five legend rerolls",
+      "status": "active"
+    },
+    {
+      "code": "Update2!",
+      "reward": "free rewards",
       "status": "active"
     }
   ]
