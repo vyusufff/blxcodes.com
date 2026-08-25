@@ -1,0 +1,87 @@
+{
+  "title": "Coin Flip Codes (August 2026)",
+  "gameName": "Coin Flip",
+  "description": "Working Coin Flip codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-25",
+  "checkedAt": "2026-08-25",
+  "featured": true,
+  "cover": "/images/games/card/coin-flip.webp",
+  "placeId": 99416896791343,
+  "howTo": [
+    "Launch Coin Flip on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Coin Flip codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Coin Flip code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Coin Flip codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "SORRY4INCONVENIENCE",
+      "reward": "20 matrix chests",
+      "status": "active"
+    },
+    {
+      "code": "SHARDS",
+      "reward": "20 shards, 20 prisms, and 20 cores",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE3",
+      "reward": "ten matrix chests",
+      "status": "active"
+    },
+    {
+      "code": "REFINERY",
+      "reward": "1k shards, 100 prisms, and 100 cores",
+      "status": "active"
+    },
+    {
+      "code": "LDEVS",
+      "reward": "ten matrix chests",
+      "status": "active"
+    },
+    {
+      "code": "BugFix2",
+      "reward": "an exclusive chest",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORDELAY",
+      "reward": "a double coin boost, a double luck boost, a double flip speed boost, a double experience boost, three coin potion Vs, three flip speed potion IIIs, and three lucky potion IIIs",
+      "status": "active"
+    },
+    {
+      "code": "BLACKHOLE",
+      "reward": "two double coin boosts, two double luck boosts, two double flip speed boosts, experience boosts, ten coin potion Vs, ten flip speed potion Vs, and ten lucky potion Vs",
+      "status": "active"
+    },
+    {
+      "code": "CHESTS!",
+      "reward": "five exclusive chests, nine legendary chests, and a double luck boost",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE2",
+      "reward": "two exclusive chest",
+      "status": "active"
+    },
+    {
+      "code": "POTIONS",
+      "reward": "an assortment of lucky, coin, and flip speed potions",
+      "status": "active"
+    }
+  ]
+}
