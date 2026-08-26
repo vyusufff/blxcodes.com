@@ -2,8 +2,8 @@
   "title": "Element Arena Codes (August 2026)",
   "gameName": "Element Arena",
   "description": "Working Element Arena codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-08-26",
+  "checkedAt": "2026-08-26",
   "featured": true,
   "cover": "/images/games/card/element-arena.webp",
   "placeId": 93922097153911,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "95KLIKES",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
     {
       "code": "Bossfight",
       "reward": "3 Tickets",
@@ -66,6 +71,11 @@
     {
       "code": "Update3",
       "reward": "20 Gems",
+      "status": "active"
+    },
+    {
+      "code": "Update4",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {

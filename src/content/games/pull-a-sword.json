@@ -2,8 +2,8 @@
   "title": "Pull a Sword Codes (August 2026)",
   "gameName": "Pull a Sword",
   "description": "Working Pull a Sword codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-17",
-  "checkedAt": "2026-08-17",
+  "updatedAt": "2026-08-26",
+  "checkedAt": "2026-08-26",
   "featured": true,
   "cover": "/images/games/card/pull-a-sword.webp",
   "placeId": 13827198708,
@@ -521,6 +521,11 @@
     {
       "code": "REDLIGHT",
       "reward": "3 Survival Strength Potion",
+      "status": "active"
+    },
+    {
+      "code": "S2ASONXXVII",
+      "reward": "Free Potions",
       "status": "active"
     },
     {

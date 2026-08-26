@@ -2,8 +2,8 @@
   "title": "Card Chronicles Codes (August 2026)",
   "gameName": "Card Chronicles",
   "description": "Working Card Chronicles codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-17",
-  "checkedAt": "2026-08-17",
+  "updatedAt": "2026-08-26",
+  "checkedAt": "2026-08-26",
   "featured": true,
   "cover": "/images/games/card/card-chronicles.webp",
   "placeId": 114758508835875,
@@ -41,6 +41,11 @@
     {
       "code": "BATTLEPASS!",
       "reward": "Free Rewards ( , 50k roll required)",
+      "status": "active"
+    },
+    {
+      "code": "DUNGEONS!",
+      "reward": "Free Rewards ( , 50k Rolls Required)",
       "status": "active"
     },
     {
@@ -86,6 +91,11 @@
     {
       "code": "LARPMONSTER!",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "LONGEVITY!",
+      "reward": "Free Rewards ( , 100k Rolls Required)",
       "status": "active"
     },
     {
@@ -145,6 +155,11 @@
     },
     {
       "code": "Update1!",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE3!",
       "reward": "Free Rewards",
       "status": "active"
     },

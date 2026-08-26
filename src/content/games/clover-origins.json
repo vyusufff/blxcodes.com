@@ -1,9 +1,9 @@
 {
-  "title": "Clover Origins Codes (July 2026)",
+  "title": "Clover Origins Codes (August 2026)",
   "gameName": "Clover Origins",
   "description": "Working Clover Origins codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-26",
+  "checkedAt": "2026-08-26",
   "featured": true,
   "cover": "/images/games/card/clover-origins.webp",
   "placeId": 134963296781989,
@@ -60,6 +60,11 @@
     },
     {
       "code": "170KLIKES!",
+      "reward": "10k Yens, 3 Stat Reset, 10 grimoire spins, 10 Broom Spins, 10 Race Spins, and 25 Trait Spins",
+      "status": "active"
+    },
+    {
+      "code": "175KLIKES!",
       "reward": "10k Yens, 3 Stat Reset, 10 grimoire spins, 10 Broom Spins, 10 Race Spins, and 25 Trait Spins",
       "status": "active"
     },
