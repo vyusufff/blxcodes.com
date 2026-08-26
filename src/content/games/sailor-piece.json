@@ -2,8 +2,8 @@
   "title": "Sailor Piece Codes (August 2026)",
   "gameName": "Sailor Piece",
   "description": "Working Sailor Piece codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-08-26",
+  "checkedAt": "2026-08-26",
   "featured": true,
   "cover": "/images/games/card/sailor-piece.webp",
   "placeId": 77747658251236,
@@ -40,6 +40,16 @@
     },
     {
       "code": "Sorryforthedealy",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "TojiDanteUpdate",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "Weloveyou",
       "reward": "Free Rewards",
       "status": "active"
     },
