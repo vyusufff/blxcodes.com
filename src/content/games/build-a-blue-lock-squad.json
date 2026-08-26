@@ -2,8 +2,8 @@
   "title": "Build A Blue Lock Squad Codes (August 2026)",
   "gameName": "Build A Blue Lock Squad",
   "description": "Working Build A Blue Lock Squad codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-25",
-  "checkedAt": "2026-08-25",
+  "updatedAt": "2026-08-26",
+  "checkedAt": "2026-08-26",
   "featured": true,
   "cover": "/images/games/card/build-a-blue-lock-squad.webp",
   "placeId": 112619156837009,
@@ -29,13 +29,13 @@
   ],
   "codes": [
     {
-      "code": "HOTFIX",
-      "reward": "15 rerolls, eight refreshes, and $12.5k cash (!)",
+      "code": "AWAKENED",
+      "reward": "ten rerolls and five refreshes",
       "status": "active"
     },
     {
-      "code": "REO",
-      "reward": "15 rerolls and eight refreshes (!)",
+      "code": "COINSS",
+      "reward": "50k coins (!)",
       "status": "active"
     },
     {
@@ -44,13 +44,18 @@
       "status": "active"
     },
     {
-      "code": "TROPHIES",
-      "reward": "ten rerolls and five refreshes",
+      "code": "HOTFIX",
+      "reward": "15 rerolls, eight refreshes, and $12.5k cash (!)",
       "status": "active"
     },
     {
-      "code": "AWAKENED",
-      "reward": "ten rerolls and five refreshes",
+      "code": "KUNIGAMI",
+      "reward": "25k coins (!)",
+      "status": "active"
+    },
+    {
+      "code": "NEWELUSIVE",
+      "reward": "15 rerolls (!)",
       "status": "active"
     },
     {
@@ -59,17 +64,32 @@
       "status": "active"
     },
     {
+      "code": "REFRESHH",
+      "reward": "25 rerolls (!)",
+      "status": "active"
+    },
+    {
+      "code": "REO",
+      "reward": "15 rerolls and eight refreshes (!)",
+      "status": "active"
+    },
+    {
+      "code": "TROPHIES",
+      "reward": "ten rerolls and five refreshes",
+      "status": "active"
+    },
+    {
+      "code": "1MILLIONVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "AIKU",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "PURESYNERGY",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "COACHES",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -79,17 +99,32 @@
       "status": "expired"
     },
     {
-      "code": "GAGAMARU",
+      "code": "COACHES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "1MILLIONVISITS",
+      "code": "DUELS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "ELUSIVE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FiveHundredMembers",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FourtyThousandVisits",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GAGAMARU",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -104,27 +139,12 @@
       "status": "expired"
     },
     {
-      "code": "DUELS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FourtyThousandVisits",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FiveHundredMembers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PCGamesN",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "PURESYNERGY",
       "reward": "Expired reward",
       "status": "expired"
     }
