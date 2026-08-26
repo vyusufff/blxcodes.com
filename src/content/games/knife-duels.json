@@ -2,8 +2,8 @@
   "title": "Knife Duels Codes (August 2026)",
   "gameName": "Knife Duels",
   "description": "Working Knife Duels codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-08-26",
+  "checkedAt": "2026-08-26",
   "featured": true,
   "cover": "/images/games/card/knife-duels.webp",
   "placeId": 112731528776884,
@@ -29,8 +29,8 @@
   ],
   "codes": [
     {
-      "code": "SORRYFORBADANTICHEAT",
-      "reward": "3k cash (!)",
+      "code": "LOADING",
+      "reward": "3k cash",
       "status": "active"
     },
     {
@@ -39,22 +39,17 @@
       "status": "active"
     },
     {
-      "code": "RUNE",
-      "reward": "3k cash",
+      "code": "SORRYFORBADANTICHEAT",
+      "reward": "3k cash (!)",
       "status": "active"
     },
     {
-      "code": "LOADING",
-      "reward": "3k cash",
-      "status": "active"
-    },
-    {
-      "code": "DRAGON",
+      "code": "2026",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "DYNAMIC",
+      "code": "3DS",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -69,13 +64,18 @@
       "status": "expired"
     },
     {
-      "code": "3DS",
+      "code": "DRAGON",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "DYNAMIC",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RUNE",
+      "reward": "3k cash",
       "status": "expired"
     }
   ]
