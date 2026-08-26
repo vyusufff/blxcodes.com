@@ -1,0 +1,42 @@
+{
+  "title": "Runaways Codes (August 2026)",
+  "gameName": "Runaways",
+  "description": "Working Runaways codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-08-26",
+  "checkedAt": "2026-08-26",
+  "featured": true,
+  "cover": "/images/games/card/runaways.webp",
+  "placeId": 118418618261207,
+  "howTo": [
+    "Launch Runaways on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Runaways codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Runaways code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Runaways codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "SUPERCAT",
+      "reward": "one pistol",
+      "status": "active"
+    },
+    {
+      "code": "RUN",
+      "reward": "1k credz",
+      "status": "active"
+    }
+  ]
+}

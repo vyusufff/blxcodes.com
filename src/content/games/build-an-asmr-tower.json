@@ -2,8 +2,8 @@
   "title": "Build An Asmr Tower Codes (August 2026)",
   "gameName": "Build An Asmr Tower",
   "description": "Working Build An Asmr Tower codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-25",
-  "checkedAt": "2026-08-25",
+  "updatedAt": "2026-08-26",
+  "checkedAt": "2026-08-26",
   "featured": true,
   "cover": "/images/games/card/build-an-asmr-tower.webp",
   "placeId": 125306084071551,
@@ -29,14 +29,24 @@
   ],
   "codes": [
     {
-      "code": "Version5",
-      "reward": "gems",
+      "code": "QUESTUPDATE",
+      "reward": "ten gems (!)",
       "status": "active"
     },
     {
       "code": "TradeUpdate",
       "reward": "gems",
       "status": "active"
+    },
+    {
+      "code": "VERSION7",
+      "reward": "15 gems (!)",
+      "status": "active"
+    },
+    {
+      "code": "Version5",
+      "reward": "gems",
+      "status": "expired"
     }
   ]
 }
