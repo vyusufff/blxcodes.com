@@ -2,8 +2,8 @@
   "title": "Heavyweight Fishing Codes (August 2026)",
   "gameName": "Heavyweight Fishing",
   "description": "Working Heavyweight Fishing codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-10",
-  "checkedAt": "2026-08-10",
+  "updatedAt": "2026-08-27",
+  "checkedAt": "2026-08-27",
   "featured": true,
   "cover": "/images/games/card/heavyweight-fishing.webp",
   "placeId": 98502499119821,
@@ -29,53 +29,53 @@
   ],
   "codes": [
     {
+      "code": "13KActives",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "22MVisits",
       "reward": "15 Tickets, 25 Crystals ( , level 50)",
       "status": "active"
     },
     {
-      "code": "23MVisits",
-      "reward": "Free Rewards ( , level 50)",
+      "code": "29MVisits",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
-      "code": "24MVisits",
-      "reward": "Free Rewards ( , level 50)",
+      "code": "30MVisits",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
-      "code": "25MVisits",
-      "reward": "Free Rewards ( , level 50)",
+      "code": "31MVisits",
+      "reward": "Free Rewards ( , requier level 50)",
       "status": "active"
     },
     {
-      "code": "26MVisits",
-      "reward": "Free Rewards ( , level 50)",
+      "code": "32MVisits",
+      "reward": "Free Rewards ( , require level 50)",
       "status": "active"
     },
     {
-      "code": "41KLikes",
-      "reward": "10 Tickets, 15 Crystals, 20k Cash ( , level 20)",
+      "code": "46KLikes",
+      "reward": "5 Tickets, 10 Crystals, 5 Trait Rerolls",
       "status": "active"
     },
     {
-      "code": "42KLikes",
-      "reward": "5 Tickets, 10 Crystals, 5 Trait Reroll",
+      "code": "47KLikes",
+      "reward": "5 Tickets, 10 Crystals, 5 Trait Rerolls",
       "status": "active"
     },
     {
-      "code": "43KLikes",
-      "reward": "5 Tickets, 10 Crystals, 5 Trait Reroll",
+      "code": "48KLikes",
+      "reward": "5 Tickets, 10 Crystals, 5 Trait Rerolls",
       "status": "active"
     },
     {
-      "code": "44KLikes",
-      "reward": "5 Tickets, 10 Crystals, 5 Trait Reroll",
-      "status": "active"
-    },
-    {
-      "code": "45KLikes",
-      "reward": "5 Tickets, 10 Crystals, 5 Trait Reroll",
+      "code": "49KLikes",
+      "reward": "5 Tickets, 10 Crystals, 5 Trait Rerolls",
       "status": "active"
     },
     {
@@ -84,8 +84,8 @@
       "status": "active"
     },
     {
-      "code": "UIBUG",
-      "reward": "100 Trait Rerolls",
+      "code": "Taiji",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -189,6 +189,26 @@
       "status": "expired"
     },
     {
+      "code": "23MVisits",
+      "reward": "Free Rewards ( , level 50)",
+      "status": "expired"
+    },
+    {
+      "code": "24MVisits",
+      "reward": "Free Rewards ( , level 50)",
+      "status": "expired"
+    },
+    {
+      "code": "25MVisits",
+      "reward": "Free Rewards ( , level 50)",
+      "status": "expired"
+    },
+    {
+      "code": "26MVisits",
+      "reward": "Free Rewards ( , level 50)",
+      "status": "expired"
+    },
+    {
       "code": "30KLikes",
       "reward": "Expired reward",
       "status": "expired"
@@ -231,6 +251,31 @@
     {
       "code": "40KLikes",
       "reward": "10 Tickets, 15 Crystals, 20k Cash (level 20)",
+      "status": "expired"
+    },
+    {
+      "code": "41KLikes",
+      "reward": "10 Tickets, 15 Crystals, 20k Cash ( , level 20)",
+      "status": "expired"
+    },
+    {
+      "code": "42KLikes",
+      "reward": "5 Tickets, 10 Crystals, 5 Trait Reroll",
+      "status": "expired"
+    },
+    {
+      "code": "43KLikes",
+      "reward": "5 Tickets, 10 Crystals, 5 Trait Reroll",
+      "status": "expired"
+    },
+    {
+      "code": "44KLikes",
+      "reward": "5 Tickets, 10 Crystals, 5 Trait Reroll",
+      "status": "expired"
+    },
+    {
+      "code": "45KLikes",
+      "reward": "5 Tickets, 10 Crystals, 5 Trait Reroll",
       "status": "expired"
     },
     {
@@ -291,6 +336,11 @@
     {
       "code": "ThanksForNitroBoost",
       "reward": "100 Trait Reroll (level 50)",
+      "status": "expired"
+    },
+    {
+      "code": "UIBUG",
+      "reward": "100 Trait Rerolls",
       "status": "expired"
     }
   ]

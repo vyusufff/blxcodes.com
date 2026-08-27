@@ -2,8 +2,8 @@
   "title": "Lineage Piece Codes (August 2026)",
   "gameName": "Lineage Piece",
   "description": "Working Lineage Piece codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-17",
-  "checkedAt": "2026-08-17",
+  "updatedAt": "2026-08-27",
+  "checkedAt": "2026-08-27",
   "featured": true,
   "cover": "/images/games/card/lineage-piece.webp",
   "placeId": 104761395312874,
@@ -29,22 +29,32 @@
   ],
   "codes": [
     {
-      "code": "100KLIKES",
-      "reward": "Rerolls, Coins, and Gems rewards ( , level 1250)",
+      "code": "120KLIKES",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 300)",
       "status": "active"
     },
     {
-      "code": "10KCCULPE",
-      "reward": "Rerolls, Coins, and Gems rewards ( , level 100)",
+      "code": "130KLIKES",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 450)",
       "status": "active"
     },
     {
-      "code": "10MVISITS",
+      "code": "140KLIKES",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 650)",
+      "status": "active"
+    },
+    {
+      "code": "15MVISITS",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 1500)",
+      "status": "active"
+    },
+    {
+      "code": "40KFAV",
       "reward": "Rerolls, Coins, and Gems rewards ( , level 2500)",
       "status": "active"
     },
     {
-      "code": "ICHIGOGOAT",
+      "code": "FRIERENOMG",
       "reward": "Rerolls, Coins, and Gems rewards ( , level 100)",
       "status": "active"
     },
@@ -54,14 +64,24 @@
       "status": "active"
     },
     {
-      "code": "TYFORMUCHCCU",
-      "reward": "Rerolls, Coins, and Gems rewards ( , level 750)",
+      "code": "WAITWEHAVEYUJI",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 800)",
       "status": "active"
     },
     {
-      "code": "ULQUIORRAOMG",
-      "reward": "Rerolls, Coins, and Gems rewards ( , level 500)",
-      "status": "active"
+      "code": "100KLIKES",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 1250)",
+      "status": "expired"
+    },
+    {
+      "code": "10KCCULPE",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 100)",
+      "status": "expired"
+    },
+    {
+      "code": "10MVISITS",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 2500)",
+      "status": "expired"
     },
     {
       "code": "1MVISITS",
@@ -156,6 +176,11 @@
     {
       "code": "GOATJO",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ICHIGOGOAT",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 100)",
       "status": "expired"
     },
     {
@@ -261,6 +286,16 @@
     {
       "code": "TYFOR400KFORVISITS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TYFORMUCHCCU",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 750)",
+      "status": "expired"
+    },
+    {
+      "code": "ULQUIORRAOMG",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 500)",
       "status": "expired"
     },
     {

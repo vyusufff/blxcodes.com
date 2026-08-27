@@ -2,8 +2,8 @@
   "title": "Demon Born Codes (August 2026)",
   "gameName": "Demon Born",
   "description": "Working Demon Born codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-10",
-  "checkedAt": "2026-08-10",
+  "updatedAt": "2026-08-27",
+  "checkedAt": "2026-08-27",
   "featured": true,
   "cover": "/images/games/card/demon-born.webp",
   "placeId": 79833666916700,
@@ -29,53 +29,43 @@
   ],
   "codes": [
     {
-      "code": "20KFAVORITS",
-      "reward": "Free Blood Art Spins and Items ( , level 10)",
-      "status": "active"
-    },
-    {
-      "code": "2KUSESTENGU",
+      "code": "30KFAVORITS",
       "reward": "Free Rewards ( , level 10)",
       "status": "active"
     },
     {
-      "code": "3MVISITS",
-      "reward": "Free Blood Art Spins and Items ( , level 10)",
-      "status": "active"
-    },
-    {
-      "code": "4MVISITS",
-      "reward": "Free Rewards ( , level 10)",
-      "status": "active"
-    },
-    {
-      "code": "4MVISITS2",
-      "reward": "Free Rewards ( , level 10)",
-      "status": "active"
-    },
-    {
-      "code": "BLOODMOON",
-      "reward": "10 Blood Art Spins ( , level 10)",
-      "status": "active"
-    },
-    {
-      "code": "FATHER2026",
-      "reward": "Blood Art Spins ( , level 10)",
-      "status": "active"
-    },
-    {
-      "code": "NOTYBUGSORRY",
-      "reward": "Free clan spins",
-      "status": "active"
-    },
-    {
-      "code": "NOTYSLEEP",
+      "code": "5MVISITS",
       "reward": "Free Rewards ( , level 10)",
       "status": "active"
     },
     {
       "code": "100KTHANKS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "20KFAVORITS",
+      "reward": "Free Blood Art Spins and Items ( , level 10)",
+      "status": "expired"
+    },
+    {
+      "code": "2KUSESTENGU",
+      "reward": "Free Rewards ( , level 10)",
+      "status": "expired"
+    },
+    {
+      "code": "3MVISITS",
+      "reward": "Free Blood Art Spins and Items ( , level 10)",
+      "status": "expired"
+    },
+    {
+      "code": "4MVISITS",
+      "reward": "Free Rewards ( , level 10)",
+      "status": "expired"
+    },
+    {
+      "code": "4MVISITS2",
+      "reward": "Free Rewards ( , level 10)",
       "status": "expired"
     },
     {
@@ -91,6 +81,11 @@
     {
       "code": "Betarelease",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BLOODMOON",
+      "reward": "10 Blood Art Spins ( , level 10)",
       "status": "expired"
     },
     {
@@ -126,6 +121,11 @@
     {
       "code": "FAMILY30",
       "reward": "Free Rewards ( , level 10)",
+      "status": "expired"
+    },
+    {
+      "code": "FATHER2026",
+      "reward": "Blood Art Spins ( , level 10)",
       "status": "expired"
     },
     {
@@ -166,6 +166,16 @@
     {
       "code": "NEWPATH2",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NOTYBUGSORRY",
+      "reward": "Free clan spins",
+      "status": "expired"
+    },
+    {
+      "code": "NOTYSLEEP",
+      "reward": "Free Rewards ( , level 10)",
       "status": "expired"
     },
     {

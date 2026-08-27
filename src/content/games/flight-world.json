@@ -2,8 +2,8 @@
   "title": "Flight World Codes (August 2026)",
   "gameName": "Flight World",
   "description": "Working Flight World codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-05",
-  "checkedAt": "2026-08-05",
+  "updatedAt": "2026-08-27",
+  "checkedAt": "2026-08-27",
   "featured": true,
   "cover": "/images/games/card/flight-world.webp",
   "placeId": 18700851435,
@@ -34,8 +34,8 @@
       "status": "active"
     },
     {
-      "code": "125KLIKES",
-      "reward": "30k cash",
+      "code": "300KLIKES",
+      "reward": "30k cash (!)",
       "status": "active"
     },
     {
@@ -44,7 +44,12 @@
       "status": "active"
     },
     {
-      "code": "THANKSFORSUPPORT",
+      "code": "125KLIKES",
+      "reward": "30k cash",
+      "status": "expired"
+    },
+    {
+      "code": "2026",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -54,7 +59,7 @@
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "THANKSFORSUPPORT",
       "reward": "Expired reward",
       "status": "expired"
     }

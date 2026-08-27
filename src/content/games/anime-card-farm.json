@@ -1,9 +1,9 @@
 {
-  "title": "Anime Card Farm Codes (July 2026)",
+  "title": "Anime Card Farm Codes (August 2026)",
   "gameName": "Anime Card Farm",
   "description": "Working Anime Card Farm codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-27",
+  "checkedAt": "2026-08-27",
   "featured": true,
   "cover": "/images/games/card/anime-card-farm.webp",
   "placeId": 125039473548047,
@@ -41,6 +41,11 @@
     {
       "code": "PRODUCTION!",
       "reward": "3x Production Potions",
+      "status": "active"
+    },
+    {
+      "code": "TRADING!",
+      "reward": "Get Trade Ticket",
       "status": "active"
     },
     {

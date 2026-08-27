@@ -2,8 +2,8 @@
   "title": "Greedy Growers Codes (August 2026) Codes (August 2026)",
   "gameName": "Greedy Growers Codes (August 2026)",
   "description": "Working Greedy Growers Codes (August 2026) codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-22",
-  "checkedAt": "2026-08-22",
+  "updatedAt": "2026-08-27",
+  "checkedAt": "2026-08-27",
   "featured": true,
   "cover": "/images/games/card/greedy-growers.webp",
   "placeId": 74102906764176,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "1MIL",
+      "reward": "250 Tickets",
+      "status": "active"
+    },
     {
       "code": "ILOVECATS",
       "reward": "100 Tickets",
