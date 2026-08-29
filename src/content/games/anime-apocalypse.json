@@ -2,8 +2,8 @@
   "title": "Anime Apocalypse Codes (August 2026)",
   "gameName": "Anime Apocalypse",
   "description": "Working Anime Apocalypse codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-13",
-  "checkedAt": "2026-08-13",
+  "updatedAt": "2026-08-29",
+  "checkedAt": "2026-08-29",
   "featured": true,
   "cover": "/images/games/card/anime-apocalypse.webp",
   "placeId": 140409475718339,
@@ -29,37 +29,12 @@
   ],
   "codes": [
     {
-      "code": "25KINTERESTED",
+      "code": "INTHESHADOWS",
       "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "active"
     },
     {
-      "code": "50KINTERESTED",
-      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
-      "status": "active"
-    },
-    {
-      "code": "EYEPATCH",
-      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
-      "status": "active"
-    },
-    {
-      "code": "PRIMORDIALDEVIL",
-      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
-      "status": "active"
-    },
-    {
-      "code": "REDHAIRED",
-      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
-      "status": "active"
-    },
-    {
-      "code": "SORRYFORARESTART",
-      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
-      "status": "active"
-    },
-    {
-      "code": "WHITEREAPER",
+      "code": "SHADOWMONARCH",
       "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "active"
     },
@@ -71,6 +46,16 @@
     {
       "code": "20KSLURPS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "25KINTERESTED",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
+      "status": "expired"
+    },
+    {
+      "code": "50KINTERESTED",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "expired"
     },
     {
@@ -96,6 +81,11 @@
     {
       "code": "DOMAINEXPANSION",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "EYEPATCH",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "expired"
     },
     {
@@ -184,6 +174,16 @@
       "status": "expired"
     },
     {
+      "code": "PRIMORDIALDEVIL",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
+      "status": "expired"
+    },
+    {
+      "code": "REDHAIRED",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
+      "status": "expired"
+    },
+    {
       "code": "SBRUPDATE",
       "reward": "Expired reward",
       "status": "expired"
@@ -196,6 +196,11 @@
     {
       "code": "SHINOBI",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFORARESTART",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "expired"
     },
     {
@@ -266,6 +271,11 @@
     {
       "code": "WAVEDEFENSE",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WHITEREAPER",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "expired"
     },
     {

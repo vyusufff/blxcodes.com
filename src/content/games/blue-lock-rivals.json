@@ -2,8 +2,8 @@
   "title": "Blue Lock Rivals Codes (August 2026)",
   "gameName": "Blue Lock Rivals",
   "description": "Working Blue Lock Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-08-29",
+  "checkedAt": "2026-08-29",
   "featured": true,
   "cover": "/images/games/card/blue-lock-rivals.webp",
   "placeId": 18668065416,
@@ -29,28 +29,18 @@
   ],
   "codes": [
     {
-      "code": "DESTROYERMODE",
-      "reward": "5 Lucky Flow Spins",
+      "code": "EGODEFENSE",
+      "reward": "5 Lucky Flows",
       "status": "active"
     },
     {
-      "code": "FIXESLATERTODAY",
-      "reward": "5 Lucky Style Spins",
+      "code": "KINGNEXTWEEK",
+      "reward": "5 Lucky Spins",
       "status": "active"
     },
     {
-      "code": "INSANETRAILERSOON",
-      "reward": "5 Lucky Style Spins",
-      "status": "active"
-    },
-    {
-      "code": "RINTODAY",
-      "reward": "5 Lucky Style Spins + 5 Lucky Flow Spins",
-      "status": "active"
-    },
-    {
-      "code": "SORRY4DELAY!!",
-      "reward": "5 Lucky Style Spins",
+      "code": "UBERSTAKEOVER",
+      "reward": "5 Lucky Spins and 5 Lucky Flows",
       "status": "active"
     },
     {
@@ -84,6 +74,16 @@
       "status": "expired"
     },
     {
+      "code": "DESTROYERMODE",
+      "reward": "5 Lucky Flow Spins",
+      "status": "expired"
+    },
+    {
+      "code": "FIXESLATERTODAY",
+      "reward": "5 Lucky Style Spins",
+      "status": "expired"
+    },
+    {
       "code": "GAGAREWORK",
       "reward": "Expired reward",
       "status": "expired"
@@ -106,6 +106,11 @@
     {
       "code": "HIORISOON",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "INSANETRAILERSOON",
+      "reward": "5 Lucky Style Spins",
       "status": "expired"
     },
     {
@@ -229,6 +234,11 @@
       "status": "expired"
     },
     {
+      "code": "RINTODAY",
+      "reward": "5 Lucky Style Spins + 5 Lucky Flow Spins",
+      "status": "expired"
+    },
+    {
       "code": "SAEREWORK",
       "reward": "5 Lucky Spins",
       "status": "expired"
@@ -256,6 +266,11 @@
     {
       "code": "SNOWFLAKE",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY4DELAY!!",
+      "reward": "5 Lucky Style Spins",
       "status": "expired"
     },
     {
