@@ -2,8 +2,8 @@
   "title": "Jujutsu Zero Codes (August 2026)",
   "gameName": "Jujutsu Zero",
   "description": "Working Jujutsu Zero codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-22",
-  "checkedAt": "2026-08-22",
+  "updatedAt": "2026-08-29",
+  "checkedAt": "2026-08-29",
   "featured": true,
   "cover": "/images/games/card/jujutsu-zero.webp",
   "placeId": 128451689942376,
@@ -44,8 +44,8 @@
       "status": "active"
     },
     {
-      "code": "CALAMITY",
-      "reward": "1000 Cursed Crystals, 10000 Lumens, and 50 Clan Rolls",
+      "code": "AWAKENED",
+      "reward": "1000 Cursed Crystals, 5k Lumens, and 50 Clan Rolls",
       "status": "active"
     },
     {
@@ -146,6 +146,11 @@
     {
       "code": "BLOODV2",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CALAMITY",
+      "reward": "1000 Cursed Crystals, 10000 Lumens, and 50 Clan Rolls",
       "status": "expired"
     },
     {

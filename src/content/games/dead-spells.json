@@ -2,8 +2,8 @@
   "title": "Dead Spells Codes (August 2026)",
   "gameName": "Dead Spells",
   "description": "Working Dead Spells codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-08",
-  "checkedAt": "2026-08-08",
+  "updatedAt": "2026-08-29",
+  "checkedAt": "2026-08-29",
   "featured": true,
   "cover": "/images/games/card/dead-spells.webp",
   "placeId": 104770044244450,
@@ -44,8 +44,18 @@
       "status": "active"
     },
     {
+      "code": "33MVISITS",
+      "reward": "75 Burgers",
+      "status": "active"
+    },
+    {
       "code": "70KLIKES",
       "reward": "75 Burgers",
+      "status": "active"
+    },
+    {
+      "code": "NewQuests",
+      "reward": "100 Burgers",
       "status": "active"
     },
     {

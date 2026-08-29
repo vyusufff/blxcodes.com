@@ -2,8 +2,8 @@
   "title": "Basketball Rivals Codes (August 2026)",
   "gameName": "Basketball Rivals",
   "description": "Working Basketball Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-15",
-  "checkedAt": "2026-08-15",
+  "updatedAt": "2026-08-29",
+  "checkedAt": "2026-08-29",
   "featured": true,
   "cover": "/images/games/card/basketball-rivals.webp",
   "placeId": 130739873848552,
@@ -29,13 +29,13 @@
   ],
   "codes": [
     {
-      "code": "15TATLISV2",
-      "reward": "15 Lucky Spins and 50k Cash",
+      "code": "15IZURE",
+      "reward": "15 Lucky Spins",
       "status": "active"
     },
     {
-      "code": "TATLISV2",
-      "reward": "25 Lucky Spins and 100k Cash",
+      "code": "IZURE",
+      "reward": "10 Lucky Spins",
       "status": "active"
     },
     {
@@ -46,6 +46,11 @@
     {
       "code": "15SILVER",
       "reward": "15 Lucky Spins",
+      "status": "expired"
+    },
+    {
+      "code": "15TATLISV2",
+      "reward": "15 Lucky Spins and 50k Cash",
       "status": "expired"
     },
     {
@@ -226,6 +231,11 @@
     {
       "code": "SILVERRETURN",
       "reward": "10 Lucky Spins",
+      "status": "expired"
+    },
+    {
+      "code": "TATLISV2",
+      "reward": "25 Lucky Spins and 100k Cash",
       "status": "expired"
     },
     {

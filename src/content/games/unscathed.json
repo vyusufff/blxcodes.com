@@ -2,8 +2,8 @@
   "title": "Unscathed RNG Codes (August 2026) Codes (August 2026)",
   "gameName": "Unscathed RNG Codes (August 2026)",
   "description": "Working Unscathed RNG Codes (August 2026) codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-08-29",
+  "checkedAt": "2026-08-29",
   "featured": true,
   "cover": "/images/games/card/unscathed.webp",
   "placeId": 122951224417794,
@@ -36,6 +36,11 @@
     {
       "code": "CYBER",
       "reward": "Divine Potion and Lucky Coin",
+      "status": "active"
+    },
+    {
+      "code": "TOWER",
+      "reward": "3 Divine Potions and 50 Lucky Potions",
       "status": "active"
     },
     {

@@ -2,8 +2,8 @@
   "title": "Zombie Island Codes (August 2026)",
   "gameName": "Zombie Island",
   "description": "Working Zombie Island codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-08-29",
+  "checkedAt": "2026-08-29",
   "featured": true,
   "cover": "/images/games/card/zombie-island.webp",
   "placeId": 80610578881227,
@@ -35,6 +35,11 @@
     },
     {
       "code": "ArcSpider",
+      "reward": "1,000 Diamonds",
+      "status": "active"
+    },
+    {
+      "code": "Challenge",
       "reward": "1,000 Diamonds",
       "status": "active"
     },

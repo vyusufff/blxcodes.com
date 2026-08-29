@@ -2,8 +2,8 @@
   "title": "Flashpoint Worlds Collide Codes (August 2026)",
   "gameName": "Flashpoint Worlds Collide",
   "description": "Working Flashpoint Worlds Collide codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-10",
-  "checkedAt": "2026-08-10",
+  "updatedAt": "2026-08-29",
+  "checkedAt": "2026-08-29",
   "featured": true,
   "cover": "/images/games/card/flashpoint-worlds-collide.webp",
   "placeId": 13796645198,
@@ -31,6 +31,11 @@
     {
       "code": "ClicksterYT",
       "reward": "Clickster Suit",
+      "status": "active"
+    },
+    {
+      "code": "happybirthdaykbnonstop!",
+      "reward": "25,000 Exp",
       "status": "active"
     },
     {

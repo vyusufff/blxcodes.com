@@ -2,8 +2,8 @@
   "title": "Anime Squadron Codes (August 2026)",
   "gameName": "Anime Squadron",
   "description": "Working Anime Squadron codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-08-29",
+  "checkedAt": "2026-08-29",
   "featured": true,
   "cover": "/images/games/card/anime-squadron.webp",
   "placeId": 71132543521245,
@@ -29,18 +29,8 @@
   ],
   "codes": [
     {
-      "code": "CapsuleEventChanges!",
+      "code": "ShadowGarden!",
       "reward": "100 Trait Shards, and 1.5k Gems",
-      "status": "active"
-    },
-    {
-      "code": "PowerOfRivals!",
-      "reward": "3 Perfect Cubes, and 500 Yol",
-      "status": "active"
-    },
-    {
-      "code": "RoyalKnights!",
-      "reward": "15 Prism, and 1k Yol",
       "status": "active"
     },
     {
@@ -101,6 +91,11 @@
     {
       "code": "BalanceChangesJJK!",
       "reward": "100 Trait Shards, 3K Gems, and 10 Prism",
+      "status": "expired"
+    },
+    {
+      "code": "CapsuleEventChanges!",
+      "reward": "100 Trait Shards, and 1.5k Gems",
       "status": "expired"
     },
     {
@@ -194,8 +189,18 @@
       "status": "expired"
     },
     {
+      "code": "PowerOfRivals!",
+      "reward": "3 Perfect Cubes, and 500 Yol",
+      "status": "expired"
+    },
+    {
       "code": "Release!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RoyalKnights!",
+      "reward": "15 Prism, and 1k Yol",
       "status": "expired"
     },
     {

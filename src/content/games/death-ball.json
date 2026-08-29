@@ -2,8 +2,8 @@
   "title": "Death Ball Codes (August 2026)",
   "gameName": "Death Ball",
   "description": "Working Death Ball codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-22",
-  "checkedAt": "2026-08-22",
+  "updatedAt": "2026-08-29",
+  "checkedAt": "2026-08-29",
   "featured": true,
   "cover": "/images/games/card/death-ball.webp",
   "placeId": 15002061926,
@@ -130,6 +130,16 @@
     },
     {
       "code": "GREENMAN",
+      "reward": "500 Crystals",
+      "status": "active"
+    },
+    {
+      "code": "IMPROVEMENTS",
+      "reward": "30,000 Gems",
+      "status": "active"
+    },
+    {
+      "code": "INPROGRESS",
       "reward": "500 Crystals",
       "status": "active"
     },
