@@ -2,8 +2,8 @@
   "title": "Hunty Zombie Codes (August 2026)",
   "gameName": "Hunty Zombie",
   "description": "Working Hunty Zombie codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/hunty-zombies.webp",
   "placeId": 103754275310547,
@@ -39,6 +39,21 @@
       "status": "active"
     },
     {
+      "code": "CommunityWeapon!",
+      "reward": "50 Lucky Spins of each, 50 Traits",
+      "status": "active"
+    },
+    {
+      "code": "CrescentMoon!",
+      "reward": "50 Lucky Spins of each, 50 Traits",
+      "status": "active"
+    },
+    {
+      "code": "DevSkins!",
+      "reward": "50 Lucky Spins of each, 50 Traits",
+      "status": "active"
+    },
+    {
       "code": "Dubstep!",
       "reward": "100 Lucky Spins of each, 30 Traits",
       "status": "active"
@@ -50,6 +65,16 @@
     },
     {
       "code": "HZFixes!",
+      "reward": "50 Lucky Spins of each, 50 Traits",
+      "status": "active"
+    },
+    {
+      "code": "HZSaved!",
+      "reward": "50 Lucky Spins of each, 50 Traits",
+      "status": "active"
+    },
+    {
+      "code": "Milestone100k!",
       "reward": "50 Lucky Spins of each, 50 Traits",
       "status": "active"
     },

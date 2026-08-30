@@ -2,8 +2,8 @@
   "title": "Anime Last Stand Codes (August 2026)",
   "gameName": "Anime Last Stand",
   "description": "Working Anime Last Stand codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/anime-last-stand.webp",
   "placeId": 12886143095,
@@ -74,6 +74,11 @@
       "status": "active"
     },
     {
+      "code": "ElfReincarnation!",
+      "reward": "25 Rerolls, 10 Mythic Shards, and 100 Essence Selectors",
+      "status": "active"
+    },
+    {
       "code": "FORMYBROTHER!!!",
       "reward": "50 Rerolls, 15 Perfect Stat Cubes, and 50 Stat Cubes",
       "status": "active"
@@ -96,6 +101,11 @@
     {
       "code": "JoJoCurse",
       "reward": "5,000 Diamonds",
+      "status": "active"
+    },
+    {
+      "code": "MagicKnights!",
+      "reward": "35 Rerolls, 25 Perfect Stat Cubes, and 50 Stat Cubes",
       "status": "active"
     },
     {
