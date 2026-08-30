@@ -2,8 +2,8 @@
   "title": "Huzz RNG Codes (August 2026)",
   "gameName": "Huzz RNG",
   "description": "Working Huzz RNG codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-23",
-  "checkedAt": "2026-08-23",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/huzz-rng.webp",
   "placeId": 89100823864844,
@@ -54,6 +54,11 @@
       "status": "active"
     },
     {
+      "code": "ABILITIES",
+      "reward": "1 Sovereign Potion, 1 Omega Potion, 50 Premium Goodie Crates, and 50 Premium Potion Crates",
+      "status": "active"
+    },
+    {
       "code": "ADMIRINGYOU",
       "reward": "Free Rewards⁨⁨⁨",
       "status": "active"
@@ -61,6 +66,16 @@
     {
       "code": "AIZEN",
       "reward": "3 Command Seals",
+      "status": "active"
+    },
+    {
+      "code": "ALOTNEXTUPD",
+      "reward": "1 Holy Grail and 20 Summer Crate",
+      "status": "active"
+    },
+    {
+      "code": "ATTACK!",
+      "reward": "1 Holy Grail, 1 Elementals Pot, and 20 Summer Crate",
       "status": "active"
     },
     {
@@ -361,6 +376,11 @@
     {
       "code": "UNSEALING",
       "reward": "25 Premium Crates",
+      "status": "active"
+    },
+    {
+      "code": "VERAFREE",
+      "reward": "50 Summer Crate, 2 Sovereign Pot, 2 Omega Pot, 2 Glitched Potion, 2 Elementals Pot, BATTLEPASS2, 50 Premium Goodie Crates, and 50 Premium Potion Crates",
       "status": "active"
     },
     {

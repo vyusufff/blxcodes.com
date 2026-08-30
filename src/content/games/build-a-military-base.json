@@ -2,8 +2,8 @@
   "title": "Build a Military Base Codes (August 2026)",
   "gameName": "Build a Military Base",
   "description": "Working Build a Military Base codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-23",
-  "checkedAt": "2026-08-23",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/build-a-military-base.webp",
   "placeId": 91440994157417,
@@ -64,6 +64,11 @@
       "status": "active"
     },
     {
+      "code": "155000LIKES",
+      "reward": "1 Premium Crate",
+      "status": "active"
+    },
+    {
       "code": "200K",
       "reward": "1 Premium Crate",
       "status": "active"
@@ -84,8 +89,8 @@
       "status": "active"
     },
     {
-      "code": "LIBERATOR",
-      "reward": "1 Premium Crate",
+      "code": "EMERGENCYFIX",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -104,12 +109,12 @@
       "status": "active"
     },
     {
-      "code": "MECHAWORM",
+      "code": "MOREBOSSES",
       "reward": "1 Premium Crate",
       "status": "active"
     },
     {
-      "code": "MOREBOSSES",
+      "code": "MOREROBOTS",
       "reward": "1 Premium Crate",
       "status": "active"
     },
@@ -124,17 +129,22 @@
       "status": "active"
     },
     {
+      "code": "PERFORMANCEOVERHAUL",
+      "reward": "1 Premium Crate",
+      "status": "active"
+    },
+    {
+      "code": "PHANTOMTANK",
+      "reward": "1 Premium Crate",
+      "status": "active"
+    },
+    {
       "code": "PREMIUMDELAY",
       "reward": "Free Rewards",
       "status": "active"
     },
     {
       "code": "QOL",
-      "reward": "1 Premium Crate",
-      "status": "active"
-    },
-    {
-      "code": "REBIRTH20WOW",
       "reward": "1 Premium Crate",
       "status": "active"
     },
@@ -359,7 +369,17 @@
       "status": "expired"
     },
     {
+      "code": "LIBERATOR",
+      "reward": "1 Premium Crate",
+      "status": "expired"
+    },
+    {
       "code": "MARAUDER",
+      "reward": "1 Premium Crate",
+      "status": "expired"
+    },
+    {
+      "code": "MECHAWORM",
       "reward": "1 Premium Crate",
       "status": "expired"
     },
@@ -375,6 +395,11 @@
     },
     {
       "code": "PROWLER",
+      "reward": "1 Premium Crate",
+      "status": "expired"
+    },
+    {
+      "code": "REBIRTH20WOW",
       "reward": "1 Premium Crate",
       "status": "expired"
     },

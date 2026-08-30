@@ -2,8 +2,8 @@
   "title": "Own a Fish Pond Codes (August 2026)",
   "gameName": "Own a Fish Pond",
   "description": "Working Own a Fish Pond codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-09",
-  "checkedAt": "2026-08-09",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/own-a-fish-pond.webp",
   "placeId": 130223052405478,
@@ -36,6 +36,11 @@
     {
       "code": "70MVISITS",
       "reward": "1 Devoted Bucket",
+      "status": "active"
+    },
+    {
+      "code": "AETHER",
+      "reward": "1 LoveLost Bucket",
       "status": "active"
     },
     {

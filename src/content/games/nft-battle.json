@@ -1,9 +1,9 @@
 {
-  "title": "NFT Battle Codes (July 2026)",
+  "title": "NFT Battle Codes (August 2026)",
   "gameName": "NFT Battle",
   "description": "Working NFT Battle codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/nft-battle.webp",
   "placeId": 76603753346534,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "AUTUMN",
+      "reward": "300 Fallen Leaves and 500 Gems",
+      "status": "active"
+    },
     {
       "code": "BUTTERFLY",
       "reward": "1000 Gems",

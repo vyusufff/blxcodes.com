@@ -1,9 +1,9 @@
 {
-  "title": "Mojave Valley Codes (July 2026)",
+  "title": "Mojave Valley Codes (August 2026)",
   "gameName": "Mojave Valley",
   "description": "Working Mojave Valley codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/mojave-valley.webp",
   "placeId": 94539932414164,
@@ -61,6 +61,11 @@
     {
       "code": "LUNARYEAR",
       "reward": "15k Cash",
+      "status": "active"
+    },
+    {
+      "code": "PETALCOVE",
+      "reward": "Free Cash",
       "status": "active"
     },
     {

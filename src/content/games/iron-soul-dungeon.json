@@ -2,8 +2,8 @@
   "title": "Iron Soul Dungeon Codes (August 2026)",
   "gameName": "Iron Soul Dungeon",
   "description": "Working Iron Soul Dungeon codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-26",
-  "checkedAt": "2026-08-26",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/iron-soul-dungeon.webp",
   "placeId": 117533937949084,
@@ -89,6 +89,11 @@
       "status": "active"
     },
     {
+      "code": "IRONSOULWEEKEND22",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "MAP5COMESOON",
       "reward": "Free Rewards",
       "status": "active"
@@ -145,6 +150,11 @@
     },
     {
       "code": "SEASON3EXPAND",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SEASON3EXPANSION",
       "reward": "Free Rewards",
       "status": "active"
     },

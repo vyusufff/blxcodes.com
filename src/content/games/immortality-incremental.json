@@ -2,8 +2,8 @@
   "title": "Immortality Incremental Codes (August 2026)",
   "gameName": "Immortality Incremental",
   "description": "Working Immortality Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-23",
-  "checkedAt": "2026-08-23",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/immortality-incremental.webp",
   "placeId": 75317862071711,
@@ -124,6 +124,11 @@
       "status": "active"
     },
     {
+      "code": "CRYPTDUNGEON",
+      "reward": "5 of all potions",
+      "status": "active"
+    },
+    {
       "code": "DELAY",
       "reward": "10 Tickets and 7 Jade",
       "status": "active"
@@ -231,6 +236,16 @@
     {
       "code": "NERF",
       "reward": "5 Jade",
+      "status": "active"
+    },
+    {
+      "code": "OREPOTIONFIX",
+      "reward": "1 ore potion",
+      "status": "active"
+    },
+    {
+      "code": "ORES",
+      "reward": "20 Jade",
       "status": "active"
     },
     {

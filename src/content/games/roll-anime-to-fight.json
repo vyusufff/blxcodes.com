@@ -2,8 +2,8 @@
   "title": "Roll Anime to Fight Codes (August 2026) Codes (July 2026)",
   "gameName": "Roll Anime to Fight Codes (July 2026)",
   "description": "Working Roll Anime to Fight Codes (July 2026) codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-26",
-  "checkedAt": "2026-08-26",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/roll-anime-to-fight.webp",
   "placeId": 107653945083776,
@@ -31,6 +31,11 @@
     {
       "code": "ADMINABUSE!",
       "reward": "50000 Gold, Diamond Ace, and 15 Trait Shards (reach wave 76)",
+      "status": "active"
+    },
+    {
+      "code": "ANTKINGDOMUPDATE!",
+      "reward": "350k Gold, Gold Kang, 25 Trait Shards, and 5 Secret Essence",
       "status": "active"
     },
     {
@@ -111,6 +116,11 @@
     {
       "code": "SRYFORSHUTDOWN2!",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "TRADINGHUBISHERE!",
+      "reward": "300k Gold, Gold Choi, 25 Trait Shards, and Trading Ticket",
       "status": "active"
     },
     {

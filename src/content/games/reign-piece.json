@@ -2,8 +2,8 @@
   "title": "Reign Piece Codes (August 2026)",
   "gameName": "Reign Piece",
   "description": "Working Reign Piece codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-26",
-  "checkedAt": "2026-08-26",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/reign-piece.webp",
   "placeId": 78466992256287,
@@ -110,6 +110,11 @@
     },
     {
       "code": "SHADOWSARISE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SINBADTHEGOAT",
       "reward": "Free Rewards",
       "status": "active"
     },

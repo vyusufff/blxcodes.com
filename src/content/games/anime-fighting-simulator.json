@@ -2,8 +2,8 @@
   "title": "Anime Fighting Simulator Codes (August 2026)",
   "gameName": "Anime Fighting Simulator",
   "description": "Working Anime Fighting Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-23",
-  "checkedAt": "2026-08-23",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/anime-fighting-simulator.webp",
   "placeId": 100429474155186,
@@ -61,6 +61,16 @@
     {
       "code": "DIMENSION2",
       "reward": "500 Tensei Shards, 2 Yen Boosts, 2 Stat Boosts, and 2 Speed Training Boosts",
+      "status": "active"
+    },
+    {
+      "code": "FASTFIX",
+      "reward": "1 Server Boost",
+      "status": "active"
+    },
+    {
+      "code": "FIGHT",
+      "reward": "2000 Tensei, 4 Speed, 4 Stat, and 10 Trait Rerolls",
       "status": "active"
     },
     {
@@ -146,6 +156,11 @@
     {
       "code": "TOURNEY",
       "reward": "1500 Chikara, 1500 Tensei Shards, 4 Training Speed Boost, 4 Stat Boost, and 4 Yen Boost",
+      "status": "active"
+    },
+    {
+      "code": "TOURNEYFIX",
+      "reward": "1 Temporary Server Boost, 4 Stat Boosts, 4 Chikara Boosts, and 2 Tensei Shard Boosts",
       "status": "active"
     },
     {

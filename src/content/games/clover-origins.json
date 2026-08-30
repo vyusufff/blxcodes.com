@@ -2,8 +2,8 @@
   "title": "Clover Origins Codes (August 2026)",
   "gameName": "Clover Origins",
   "description": "Working Clover Origins codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-26",
-  "checkedAt": "2026-08-26",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/clover-origins.webp",
   "placeId": 134963296781989,
@@ -69,6 +69,11 @@
       "status": "active"
     },
     {
+      "code": "180KLIKES!",
+      "reward": "3 Reset Stats",
+      "status": "active"
+    },
+    {
       "code": "20MVISITS!",
       "reward": "10k Yens, 3 Stat Reset, 10 grimoire spins, 10 Broom Spins, 10 Race Spins, and 25 Trait Spins",
       "status": "active"
@@ -76,6 +81,11 @@
     {
       "code": "22MILLIONVISITS!",
       "reward": "10k Yens, 3 Stat Reset, 10 grimoire spins, 10 Broom Spins, 10 Race Spins, and 25 Trait Spins",
+      "status": "active"
+    },
+    {
+      "code": "23MVISITS!",
+      "reward": "50K Yen and 50 Grimoire Spins",
       "status": "active"
     },
     {
@@ -91,6 +101,26 @@
     {
       "code": "BUGFIXES17!",
       "reward": "150 Spins",
+      "status": "active"
+    },
+    {
+      "code": "CLASHWAR!",
+      "reward": "100K Yen and 500 Grimoire Spins",
+      "status": "active"
+    },
+    {
+      "code": "GAMERELEASE!",
+      "reward": "150K Yen and 150 Grimoire Spins",
+      "status": "active"
+    },
+    {
+      "code": "INEMAFOO!",
+      "reward": "30 Minute Double EXP and Double Yen",
+      "status": "active"
+    },
+    {
+      "code": "RACESPIN!",
+      "reward": "100 RACE Spins",
       "status": "active"
     },
     {

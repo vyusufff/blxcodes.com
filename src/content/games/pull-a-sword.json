@@ -2,8 +2,8 @@
   "title": "Pull a Sword Codes (August 2026)",
   "gameName": "Pull a Sword",
   "description": "Working Pull a Sword codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-26",
-  "checkedAt": "2026-08-26",
+  "updatedAt": "2026-08-30",
+  "checkedAt": "2026-08-30",
   "featured": true,
   "cover": "/images/games/card/pull-a-sword.webp",
   "placeId": 13827198708,
@@ -31,6 +31,11 @@
     {
       "code": "2026",
       "reward": "5 Ice Strength Potion and 3 EXP Boost",
+      "status": "active"
+    },
+    {
+      "code": "ABYSS",
+      "reward": "Free Potions",
       "status": "active"
     },
     {
