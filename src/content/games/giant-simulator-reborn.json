@@ -1,9 +1,9 @@
 {
-  "title": "Giant Simulator Reborn Codes (July 2026)",
+  "title": "Giant Simulator Reborn Codes (August 2026)",
   "gameName": "Giant Simulator Reborn",
   "description": "Working Giant Simulator Reborn codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-31",
+  "checkedAt": "2026-08-31",
   "featured": true,
   "cover": "/images/games/card/giant-simulator-reborn.webp",
   "placeId": 12645083079,
@@ -28,6 +28,21 @@
     }
   ],
   "codes": [
+    {
+      "code": "CLANS",
+      "reward": "Free potions",
+      "status": "active"
+    },
+    {
+      "code": "EMBERS",
+      "reward": "500 embers",
+      "status": "active"
+    },
+    {
+      "code": "LAVA",
+      "reward": "500 embers",
+      "status": "active"
+    },
     {
       "code": "SUMMERGEM",
       "reward": "Soul Gem Potion 2",

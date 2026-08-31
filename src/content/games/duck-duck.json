@@ -1,9 +1,9 @@
 {
-  "title": "Duck Duck Codes (July 2026)",
+  "title": "Duck Duck Codes (August 2026)",
   "gameName": "Duck Duck",
   "description": "Working Duck Duck codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-31",
+  "checkedAt": "2026-08-31",
   "featured": true,
   "cover": "/images/games/card/duck-duck.webp",
   "placeId": 135486323963203,
@@ -29,13 +29,13 @@
   ],
   "codes": [
     {
-      "code": "DailyGrind",
-      "reward": "Get a free egg",
+      "code": "COMMUNITYUPD",
+      "reward": "Get 1 Community Egg and 50% Bread Boost",
       "status": "active"
     },
     {
-      "code": "QUACKEDEGGS",
-      "reward": "Get a free Gnome egg",
+      "code": "DailyGrind",
+      "reward": "Get a free egg",
       "status": "active"
     },
     {
@@ -51,6 +51,11 @@
     {
       "code": "Quack",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "QUACKEDEGGS",
+      "reward": "Get a free Gnome egg",
       "status": "expired"
     },
     {

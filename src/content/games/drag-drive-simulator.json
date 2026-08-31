@@ -2,8 +2,8 @@
   "title": "Drag Drive Simulator Codes (August 2026)",
   "gameName": "Drag Drive Simulator",
   "description": "Working Drag Drive Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-01",
-  "checkedAt": "2026-08-01",
+  "updatedAt": "2026-08-31",
+  "checkedAt": "2026-08-31",
   "featured": true,
   "cover": "/images/games/card/drag-drive-simulator.webp",
   "placeId": 131378148336503,
@@ -29,28 +29,28 @@
   ],
   "codes": [
     {
-      "code": "DDSDRIVERTAXIONLINEUPDATE",
+      "code": "DDSSPECIALMERDEKA2026",
       "reward": "30M Cash",
       "status": "active"
     },
     {
-      "code": "DDSTHX150KROADTO175KLIKES",
-      "reward": "30M Cash",
-      "status": "active"
-    },
-    {
-      "code": "DELAYXIXIORDERANDOUBLE",
+      "code": "DDSTHX175KROADTO200KLIKES",
       "reward": "25M Cash",
       "status": "active"
     },
     {
-      "code": "DRAGDRIVESIMULATORJULY26",
+      "code": "DELAYDIKITBARULOMBA",
       "reward": "35M Cash",
       "status": "active"
     },
     {
-      "code": "HAPPYSCHOOLHOLIDAYS26",
+      "code": "DRAGDRIVESIMULATORAUGUST26",
       "reward": "35M Cash",
+      "status": "active"
+    },
+    {
+      "code": "NEWLIGHTSMODIFICATION",
+      "reward": "30M Cash",
       "status": "active"
     },
     {
@@ -79,6 +79,11 @@
       "status": "expired"
     },
     {
+      "code": "DDSDRIVERTAXIONLINEUPDATE",
+      "reward": "30M Cash",
+      "status": "expired"
+    },
+    {
       "code": "DDSEIDADHAMUBARAK26",
       "reward": "Expired reward",
       "status": "expired"
@@ -99,6 +104,11 @@
       "status": "expired"
     },
     {
+      "code": "DDSTHX150KROADTO175KLIKES",
+      "reward": "30M Cash",
+      "status": "expired"
+    },
+    {
       "code": "DELAYDIKITADASAPINGAMUK",
       "reward": "Expired reward",
       "status": "expired"
@@ -111,6 +121,11 @@
     {
       "code": "DELAYDIKITKICAU",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DELAYXIXIORDERANDOUBLE",
+      "reward": "25M Cash",
       "status": "expired"
     },
     {
@@ -131,6 +146,11 @@
     {
       "code": "DRAGDRIVESIMULATORJANUARY26",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DRAGDRIVESIMULATORJULY26",
+      "reward": "35M Cash",
       "status": "expired"
     },
     {
@@ -156,6 +176,11 @@
     {
       "code": "HAPPYEIDMUBARAK2026",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPYSCHOOLHOLIDAYS26",
+      "reward": "35M Cash",
       "status": "expired"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "title": "Neighbors Codes (July 2026)",
+  "title": "Neighbors Codes (August 2026)",
   "gameName": "Neighbors",
   "description": "Working Neighbors codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-08-31",
+  "checkedAt": "2026-08-31",
   "featured": true,
   "cover": "/images/games/card/neighbors.webp",
   "placeId": 12699642568,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "BTS",
+      "reward": "50 Credits",
+      "status": "active"
+    },
     {
       "code": "SPLASH",
       "reward": "Water Gun",
