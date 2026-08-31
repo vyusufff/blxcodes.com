@@ -2,8 +2,8 @@
   "title": "Be the Final Boss Codes (August 2026)",
   "gameName": "Be the Final Boss",
   "description": "Working Be the Final Boss codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-08-31",
+  "checkedAt": "2026-08-31",
   "featured": true,
   "cover": "/images/games/card/be-the-final-boss.webp",
   "placeId": 140302982046391,
@@ -56,6 +56,11 @@
     {
       "code": "bossmodeon",
       "reward": "6k Coins and 2 Forge Stones",
+      "status": "active"
+    },
+    {
+      "code": "bowtotheboss",
+      "reward": "1 Rare Fusion Shards, 7500 Coins, and Boost",
       "status": "active"
     },
     {

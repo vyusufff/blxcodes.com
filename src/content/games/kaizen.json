@@ -2,8 +2,8 @@
   "title": "Kaizen Codes (August 2026)",
   "gameName": "Kaizen",
   "description": "Working Kaizen codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-08-31",
+  "checkedAt": "2026-08-31",
   "featured": true,
   "cover": "/images/games/card/kaizen.webp",
   "placeId": 17662297954,
@@ -31,6 +31,11 @@
     {
       "code": "2xRewards",
       "reward": "5 Lucky Spins and 5 Binding Vows",
+      "status": "active"
+    },
+    {
+      "code": "Bird!",
+      "reward": "8 Lucky Clan Spins and 10 Binding Vow Spins",
       "status": "active"
     },
     {
