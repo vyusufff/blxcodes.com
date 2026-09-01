@@ -1,9 +1,9 @@
 {
-  "title": "World Zero Codes (August 2026)",
+  "title": "World Zero Codes (September 2026)",
   "gameName": "World Zero",
   "description": "Working World Zero codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-15",
-  "checkedAt": "2026-08-15",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/world-zero.webp",
   "placeId": 2727067538,
@@ -51,6 +51,16 @@
     {
       "code": "SEASON22",
       "reward": "50 Guild coins",
+      "status": "active"
+    },
+    {
+      "code": "SUMMER26",
+      "reward": "25 Kraken Coins and 1 Sea Present",
+      "status": "active"
+    },
+    {
+      "code": "SUMMERHYPE",
+      "reward": "random color Beach Ball Mount",
       "status": "active"
     },
     {

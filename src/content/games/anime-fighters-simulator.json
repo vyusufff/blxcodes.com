@@ -1,9 +1,9 @@
 {
-  "title": "Anime Fighters Codes (August 2026)",
+  "title": "Anime Fighters Codes (September 2026)",
   "gameName": "Anime Fighters",
   "description": "Working Anime Fighters codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-10",
-  "checkedAt": "2026-08-10",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/anime-fighters-simulator.webp",
   "placeId": 6299805723,
@@ -194,6 +194,11 @@
       "status": "active"
     },
     {
+      "code": "SHINYSBACK",
+      "reward": "20x Shiny Boost, 20x Mega Boosts (all types), 1.970 Heavenly Fruit, 1.970 Cursed Orbs",
+      "status": "active"
+    },
+    {
       "code": "SHOPFIXED",
       "reward": "5 Mega Luck Boost, 5 Mega Drops Boost",
       "status": "active"
@@ -236,6 +241,16 @@
     {
       "code": "UPD_UPD!",
       "reward": "200 Cursed Orbs",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE100",
+      "reward": "100x Mega Boosts (all types), 100x Shiny Boost, 2,000 Heavenly Fruit, 2,000 Cursed Orb",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE101",
+      "reward": "3k Cursed Orbs, 3k Heavenly Fruits, and 50x of every boost",
       "status": "active"
     },
     {
