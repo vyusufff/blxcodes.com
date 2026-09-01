@@ -1,9 +1,9 @@
 {
-  "title": "Death Order Simon Says Codes (August 2026)",
+  "title": "Death Order Simon Says Codes (September 2026)",
   "gameName": "Death Order Simon Says",
   "description": "Working Death Order Simon Says codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-25",
-  "checkedAt": "2026-08-25",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/death-order-simon-says.webp",
   "placeId": 18666738837,
@@ -29,7 +29,22 @@
   ],
   "codes": [
     {
-      "code": "MIRSANDLIFE",
+      "code": "DRAKE",
+      "reward": "1k cash",
+      "status": "active"
+    },
+    {
+      "code": "FARTS",
+      "reward": "1k cash",
+      "status": "active"
+    },
+    {
+      "code": "FRAGMENTS",
+      "reward": "1k cash",
+      "status": "active"
+    },
+    {
+      "code": "GIORGIAURA67",
       "reward": "1k cash (!)",
       "status": "active"
     },
@@ -44,12 +59,17 @@
       "status": "active"
     },
     {
-      "code": "YASO",
-      "reward": "1k cash",
+      "code": "MIRSANDLIFE",
+      "reward": "1k cash (!)",
       "status": "active"
     },
     {
       "code": "TERRVR",
+      "reward": "1k cash",
+      "status": "active"
+    },
+    {
+      "code": "YASO",
       "reward": "1k cash",
       "status": "active"
     },
@@ -59,27 +79,12 @@
       "status": "active"
     },
     {
-      "code": "DRAKE",
-      "reward": "1k cash",
-      "status": "active"
-    },
-    {
-      "code": "FRAGMENTS",
-      "reward": "1k cash",
-      "status": "active"
-    },
-    {
-      "code": "FARTS",
-      "reward": "1k cash",
-      "status": "active"
-    },
-    {
-      "code": "EliteIsntGC2",
+      "code": "2026",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "SimonIsHomeless",
+      "code": "EliteIsntGC2",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -94,7 +99,7 @@
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "SimonIsHomeless",
       "reward": "Expired reward",
       "status": "expired"
     }

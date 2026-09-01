@@ -1,9 +1,9 @@
 {
-  "title": "Brainrot Evolution Codes (August 2026)",
+  "title": "Brainrot Evolution Codes (September 2026)",
   "gameName": "Brainrot Evolution",
   "description": "Working Brainrot Evolution codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-22",
-  "checkedAt": "2026-08-22",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/brainrot-evolution.webp",
   "placeId": 111989938562194,
@@ -376,6 +376,11 @@
     {
       "code": "TriTriTri",
       "reward": "2x Mega EXP Potions",
+      "status": "active"
+    },
+    {
+      "code": "TRULIMERO",
+      "reward": "2x EXP Potions",
       "status": "active"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "title": "Peroxide Codes (July 2026)",
+  "title": "Peroxide Codes (September 2026)",
   "gameName": "Peroxide",
   "description": "Working Peroxide codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/peroxide.webp",
   "placeId": 9096881148,
@@ -29,13 +29,8 @@
   ],
   "codes": [
     {
-      "code": "445kLikesYipee",
-      "reward": "20 Product Essence and 1 slot",
-      "status": "active"
-    },
-    {
-      "code": "4thJuly2026",
-      "reward": "15 Product Essence",
+      "code": "JesterMiniUpdate",
+      "reward": "40 Product Essence, + 1 Slot",
       "status": "active"
     },
     {
@@ -114,8 +109,18 @@
       "status": "expired"
     },
     {
+      "code": "445kLikesYipee",
+      "reward": "20 Product Essence and 1 slot",
+      "status": "expired"
+    },
+    {
       "code": "4thJuly2025",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "4thJuly2026",
+      "reward": "15 Product Essence",
       "status": "expired"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "title": "Murder Duels Codes (August 2026)",
+  "title": "Murder Duels Codes (September 2026)",
   "gameName": "Murder Duels",
   "description": "Working Murder Duels codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-03",
-  "checkedAt": "2026-08-03",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/murder-duels.webp",
   "placeId": 120851538706364,
@@ -36,6 +36,11 @@
     {
       "code": "20KLIKES",
       "reward": "Recruit Case",
+      "status": "active"
+    },
+    {
+      "code": "LATE",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "title": "JoJo&#8217;s Bizarre Incremental Codes (July 2026)",
+  "title": "JoJo&#8217;s Bizarre Incremental Codes (September 2026)",
   "gameName": "JoJo&#8217;s Bizarre Incremental",
   "description": "Working JoJo&#8217;s Bizarre Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/jojos-bizarre-incremental.webp",
   "placeId": 106022825094913,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "1666",
+      "reward": "Amsterdam Early Access Impressions - Loved Brotherhood? It's Time to Join Sisterhood",
+      "status": "active"
+    },
     {
       "code": "1MVISITS",
       "reward": "111x Rokakaka, 111x Stand Arrow, and 111x Saint Corpse Part, 111x Mythical Giftbox",

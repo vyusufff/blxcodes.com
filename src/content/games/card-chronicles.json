@@ -1,9 +1,9 @@
 {
-  "title": "Card Chronicles Codes (August 2026)",
+  "title": "Card Chronicles Codes (September 2026)",
   "gameName": "Card Chronicles",
   "description": "Working Card Chronicles codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-30",
-  "checkedAt": "2026-08-30",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/card-chronicles.webp",
   "placeId": 114758508835875,
@@ -124,6 +124,11 @@
       "status": "active"
     },
     {
+      "code": "POTENTIAL!",
+      "reward": "Free Rewards ( , 50k Rolls Required)",
+      "status": "active"
+    },
+    {
       "code": "RAIDS!",
       "reward": "Free Rewards",
       "status": "active"
@@ -146,6 +151,16 @@
     {
       "code": "SORRYFORMAINTENANCE!",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORMAINTENANCE2!",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "TEMPEST!",
+      "reward": "Free Rewards ( , 100k Rolls Required)",
       "status": "active"
     },
     {

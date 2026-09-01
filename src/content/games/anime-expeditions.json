@@ -1,8 +1,8 @@
 {
-  "title": "Anime Expeditions Codes (August 2026)",
+  "title": "Anime Expeditions Codes (September 2026)",
   "gameName": "Anime Expeditions",
   "description": "Working Anime Expeditions codes for Trait Crystals, Gems-related rewards, rerolls, and Villain Coins.",
-  "updatedAt": "2026-08-22",
+  "updatedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/anime-expeditions.webp",
   "placeId": 84515722934860,
@@ -33,8 +33,28 @@
       "status": "active"
     },
     {
-      "code": "update1",
-      "reward": "100 Trait Crystals, 25 Equipment Locks, 25 Equipment Rerolls, 25 Stat Rerolls",
+      "code": "EclipseSoon",
+      "reward": "50 Trait Crystals",
+      "status": "active"
+    },
+    {
+      "code": "LighthingGod",
+      "reward": "20 Trait Crystals, 500 Sand Dollars (need to be at least level 25 to redeem code)",
+      "status": "active"
+    },
+    {
+      "code": "QuickRestart!",
+      "reward": "25 Trait Crystals",
+      "status": "active"
+    },
+    {
+      "code": "SummerSiege",
+      "reward": "50 Equipment Rerolls, 800 Sand Dollars (need to be at least level 25 to redeem code)",
+      "status": "active"
+    },
+    {
+      "code": "Update2",
+      "reward": "50 Stat Rerolls, 20 Trait Crystals",
       "status": "active"
     },
     {
@@ -178,6 +198,11 @@
       "status": "expired"
     },
     {
+      "code": "update1",
+      "reward": "100 Trait Crystals, 25 Equipment Locks, 25 Equipment Rerolls, 25 Stat Rerolls",
+      "status": "expired"
+    },
+    {
       "code": "VillainInvasion",
       "reward": "50 Trait Crystals, 1,000 Villain Coins",
       "status": "expired"
@@ -198,5 +223,5 @@
       "status": "expired"
     }
   ],
-  "checkedAt": "2026-08-22"
+  "checkedAt": "2026-09-01"
 }

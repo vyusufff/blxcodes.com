@@ -1,9 +1,9 @@
 {
-  "title": "Your Bizzare Adventure Codes (July 2026)",
+  "title": "Your Bizzare Adventure Codes (September 2026)",
   "gameName": "Your Bizzare Adventure",
   "description": "Working Your Bizzare Adventure codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/yba.webp",
   "placeId": 2809202155,
@@ -46,6 +46,11 @@
     {
       "code": "HALLOWEEN2025",
       "reward": "Redeem for a Lucky Arrow, Requiem Arrow, and 25 Minutes of 2x EXP",
+      "status": "active"
+    },
+    {
+      "code": "MORECODESTOCOME",
+      "reward": "1 Lucky Arrow",
       "status": "active"
     },
     {

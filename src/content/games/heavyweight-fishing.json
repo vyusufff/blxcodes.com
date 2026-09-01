@@ -1,9 +1,9 @@
 {
-  "title": "Heavyweight Fishing Codes (August 2026)",
+  "title": "Heavyweight Fishing Codes (September 2026)",
   "gameName": "Heavyweight Fishing",
   "description": "Working Heavyweight Fishing codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-27",
-  "checkedAt": "2026-08-27",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/heavyweight-fishing.webp",
   "placeId": 98502499119821,
@@ -39,11 +39,6 @@
       "status": "active"
     },
     {
-      "code": "29MVisits",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
       "code": "30MVisits",
       "reward": "Free Rewards",
       "status": "active"
@@ -55,6 +50,11 @@
     },
     {
       "code": "32MVisits",
+      "reward": "Free Rewards ( , require level 50)",
+      "status": "active"
+    },
+    {
+      "code": "33MVisits",
       "reward": "Free Rewards ( , require level 50)",
       "status": "active"
     },
@@ -76,6 +76,11 @@
     {
       "code": "49KLikes",
       "reward": "5 Tickets, 10 Crystals, 5 Trait Rerolls",
+      "status": "active"
+    },
+    {
+      "code": "AXO",
+      "reward": "Free Rewards ( , require level 50)",
       "status": "active"
     },
     {
@@ -206,6 +211,11 @@
     {
       "code": "26MVisits",
       "reward": "Free Rewards ( , level 50)",
+      "status": "expired"
+    },
+    {
+      "code": "29MVisits",
+      "reward": "Free Rewards",
       "status": "expired"
     },
     {

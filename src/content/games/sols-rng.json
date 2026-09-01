@@ -1,9 +1,9 @@
 {
-  "title": "Sol&#8217;s RNG Codes (August 2026)",
+  "title": "Sol&#8217;s RNG Codes (September 2026)",
   "gameName": "Sol&#8217;s RNG",
   "description": "Working Sol&#8217;s RNG codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-15",
-  "checkedAt": "2026-08-15",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/sols-rng.webp",
   "placeId": 15532962292,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "1666",
+      "reward": "Amsterdam Early Access Impressions - Loved Brotherhood? It's Time to Join Sisterhood",
+      "status": "active"
+    },
     {
       "code": "20260627UPD",
       "reward": "20 Potion and 5 Rare Potion Chests",

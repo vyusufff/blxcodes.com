@@ -1,9 +1,9 @@
 {
-  "title": "Rh2 The Journey Codes (August 2026)",
+  "title": "Rh2 The Journey Codes (September 2026)",
   "gameName": "Rh2 The Journey",
   "description": "Working Rh2 The Journey codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-20",
-  "checkedAt": "2026-08-20",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/rh2-the-journey.webp",
   "placeId": 6549794549,
@@ -29,299 +29,34 @@
   ],
   "codes": [
     {
-      "code": "freeRHC_7",
-      "reward": "5k RHC (!)",
+      "code": "thanksfor75milvisits_RHC",
+      "reward": "1.5k RHC (!)",
       "status": "active"
     },
     {
-      "code": "freeRT_7",
-      "reward": "one reset token",
+      "code": "thanksfor75milvisits_RT",
+      "reward": "two reset tokens (!)",
       "status": "active"
     },
     {
-      "code": "laborday2025_RT",
-      "reward": "one reset token",
-      "status": "active"
-    },
-    {
-      "code": "laborday2025_RHC",
-      "reward": "8k RHC",
-      "status": "active"
-    },
-    {
-      "code": "happy4thofjuly_2025_RHC",
-      "reward": "8k RHC",
-      "status": "active"
-    },
-    {
-      "code": "happy4thofjuly_2025_RT",
-      "reward": "reset token",
-      "status": "active"
-    },
-    {
-      "code": "freeRHC_6",
+      "code": "thankyoufors5_RHC",
       "reward": "5k RHC",
       "status": "active"
     },
     {
-      "code": "freeRT_6",
-      "reward": "one reset token",
-      "status": "active"
-    },
-    {
-      "code": "MemorialDayRHC",
-      "reward": "8k RHC",
-      "status": "active"
-    },
-    {
-      "code": "MemorialDayRT",
-      "reward": "one reset token",
-      "status": "active"
-    },
-    {
-      "code": "MemorialDayJPBoost",
-      "reward": "one journey pass token",
-      "status": "active"
-    },
-    {
-      "code": "freeRHC_5",
-      "reward": "5k RHC",
-      "status": "active"
-    },
-    {
-      "code": "freeRT_5",
-      "reward": "one reset token",
-      "status": "active"
-    },
-    {
-      "code": "happymothersday2025_RHC",
-      "reward": "8k RHC",
-      "status": "active"
-    },
-    {
-      "code": "happymothersday2025_RT",
+      "code": "thankyoufors5_RT",
       "reward": "two reset tokens",
       "status": "active"
     },
     {
-      "code": "RelComeHome_RHC",
-      "reward": "20k RHC",
+      "code": "welcometoseason5_RHC",
+      "reward": "10k RHC",
       "status": "active"
     },
     {
-      "code": "RelComeHome_RT",
-      "reward": "five reset tokens",
+      "code": "welcometoseason5_RT",
+      "reward": "three reset tokens",
       "status": "active"
-    },
-    {
-      "code": "RelComeHomeTee",
-      "reward": "'Welcome, Come Home' shirt",
-      "status": "active"
-    },
-    {
-      "code": "thanksfor60milvisits_RHC",
-      "reward": "7.5k RHC",
-      "status": "active"
-    },
-    {
-      "code": "thanksfor100klikes_RHC",
-      "reward": "5k RHC",
-      "status": "active"
-    },
-    {
-      "code": "thanksfor195kfavs",
-      "reward": "two reset tokens",
-      "status": "active"
-    },
-    {
-      "code": "thanksFor80KLikes_RHC",
-      "reward": "3k RHC",
-      "status": "active"
-    },
-    {
-      "code": "thanksfor50mvisits_RHC",
-      "reward": "5k RHC",
-      "status": "active"
-    },
-    {
-      "code": "thanksfor50mvisits_RT",
-      "reward": "one reset token",
-      "status": "active"
-    },
-    {
-      "code": "thanksfor160kFavs_RHC",
-      "reward": "2k RHC",
-      "status": "active"
-    },
-    {
-      "code": "welcometoseason4_RHC",
-      "reward": "4k RHC",
-      "status": "active"
-    },
-    {
-      "code": "welcometoseason4_RT",
-      "reward": "one reset token",
-      "status": "active"
-    },
-    {
-      "code": "LABORDAY100K_RHC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "LABORDAY100K_RT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksfor40mil_RHC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksfor40mil_RT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksfor10k_RHC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksfor10k_RT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RH2UPD_ResetToken",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RH2UPD_RHC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksFor80KFavs_RHC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "happyEaster_rhc",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanks100kfavorites_RHC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "happyEaster_reset",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SaintPatricksDay_rhc",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SaintPatricksDay_reset",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "twitterCode_rhc6",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "twitterCode_reset6",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksFor30Mil_RHC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksFor30Mil_reset",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksFor20Mil",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksFor40KMembers",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksFor60KFavs",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "happyMLKDay_RHC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "happyMLKDay_ResetToken",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "randomRHC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "thanksgiving_rhc",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "twitterCode_rhc5",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "twitterCode_rhc4",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "twitterCode_reset4",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SavFree_RHC",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "twitterCode_rhc3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "twitterCode_reset3",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "backtoschool_RHC",
-      "reward": "Expired reward",
-      "status": "expired"
     },
     {
       "code": "backtoschool_Reset",
@@ -329,7 +64,7 @@
       "status": "expired"
     },
     {
-      "code": "thanksFor18Mil",
+      "code": "backtoschool_RHC",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -344,12 +79,52 @@
       "status": "expired"
     },
     {
-      "code": "twitterCode_rhc2",
+      "code": "freeRHC_5",
+      "reward": "5k RHC",
+      "status": "expired"
+    },
+    {
+      "code": "freeRHC_6",
+      "reward": "5k RHC",
+      "status": "expired"
+    },
+    {
+      "code": "freeRHC_7",
+      "reward": "5k RHC (!)",
+      "status": "expired"
+    },
+    {
+      "code": "freeRT_5",
+      "reward": "one reset token",
+      "status": "expired"
+    },
+    {
+      "code": "freeRT_6",
+      "reward": "one reset token",
+      "status": "expired"
+    },
+    {
+      "code": "freeRT_7",
+      "reward": "one reset token",
+      "status": "expired"
+    },
+    {
+      "code": "happy4thofjuly_2025_RHC",
+      "reward": "8k RHC",
+      "status": "expired"
+    },
+    {
+      "code": "happy4thofjuly_2025_RT",
+      "reward": "reset token",
+      "status": "expired"
+    },
+    {
+      "code": "happyEaster_reset",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "twitterCode_reset2",
+      "code": "happyEaster_rhc",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -359,8 +134,263 @@
       "status": "expired"
     },
     {
+      "code": "happyMLKDay_ResetToken",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "happyMLKDay_RHC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "happymothersday2025_RHC",
+      "reward": "8k RHC",
+      "status": "expired"
+    },
+    {
+      "code": "happymothersday2025_RT",
+      "reward": "two reset tokens",
+      "status": "expired"
+    },
+    {
+      "code": "LABORDAY100K_RHC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LABORDAY100K_RT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "laborday2025_RHC",
+      "reward": "8k RHC",
+      "status": "expired"
+    },
+    {
+      "code": "laborday2025_RT",
+      "reward": "one reset token",
+      "status": "expired"
+    },
+    {
+      "code": "MemorialDayJPBoost",
+      "reward": "one journey pass token",
+      "status": "expired"
+    },
+    {
+      "code": "MemorialDayRHC",
+      "reward": "8k RHC",
+      "status": "expired"
+    },
+    {
+      "code": "MemorialDayRT",
+      "reward": "one reset token",
+      "status": "expired"
+    },
+    {
+      "code": "randomRHC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RelComeHome_RHC",
+      "reward": "20k RHC",
+      "status": "expired"
+    },
+    {
+      "code": "RelComeHome_RT",
+      "reward": "five reset tokens",
+      "status": "expired"
+    },
+    {
+      "code": "RelComeHomeTee",
+      "reward": "'Welcome, Come Home' shirt",
+      "status": "expired"
+    },
+    {
+      "code": "RH2UPD_ResetToken",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RH2UPD_RHC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SaintPatricksDay_reset",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SaintPatricksDay_rhc",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SavFree_RHC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanks100kfavorites_RHC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor100klikes_RHC",
+      "reward": "5k RHC",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor10k_RHC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor10k_RT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor160kFavs_RHC",
+      "reward": "2k RHC",
+      "status": "expired"
+    },
+    {
+      "code": "thanksFor18Mil",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor195kfavs",
+      "reward": "two reset tokens",
+      "status": "expired"
+    },
+    {
+      "code": "thanksFor20Mil",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksFor30Mil_reset",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksFor30Mil_RHC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksFor40KMembers",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor40mil_RHC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor40mil_RT",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor50mvisits_RHC",
+      "reward": "5k RHC",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor50mvisits_RT",
+      "reward": "one reset token",
+      "status": "expired"
+    },
+    {
+      "code": "thanksFor60KFavs",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksfor60milvisits_RHC",
+      "reward": "7.5k RHC",
+      "status": "expired"
+    },
+    {
+      "code": "thanksFor80KFavs_RHC",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "thanksFor80KLikes_RHC",
+      "reward": "3k RHC",
+      "status": "expired"
+    },
+    {
+      "code": "thanksgiving_rhc",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "twitterCode_reset2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "twitterCode_reset3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "twitterCode_reset4",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "twitterCode_reset6",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "twitterCode_rhc",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "twitterCode_rhc2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "twitterCode_rhc3",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "twitterCode_rhc4",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "twitterCode_rhc5",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "twitterCode_rhc6",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "welcometoseason4_RHC",
+      "reward": "4k RHC",
+      "status": "expired"
+    },
+    {
+      "code": "welcometoseason4_RT",
+      "reward": "one reset token",
       "status": "expired"
     }
   ]

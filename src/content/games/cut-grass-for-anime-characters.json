@@ -1,9 +1,9 @@
 {
-  "title": "Cut Grass for Anime Characters Codes (August 2026)",
+  "title": "Cut Grass for Anime Characters Codes (September 2026)",
   "gameName": "Cut Grass for Anime Characters",
   "description": "Working Cut Grass for Anime Characters codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-02",
-  "checkedAt": "2026-08-02",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/cut-grass-for-anime-characters.webp",
   "placeId": 137422980844414,
@@ -56,6 +56,11 @@
     {
       "code": "SHOPSTOCK!!!",
       "reward": "3x Big Blue Shard",
+      "status": "active"
+    },
+    {
+      "code": "StarryBoost2026",
+      "reward": "5x 24-hour Speed-ups",
       "status": "active"
     },
     {

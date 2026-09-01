@@ -1,9 +1,9 @@
 {
-  "title": "The Time of Ninja Codes (August 2026)",
+  "title": "The Time of Ninja Codes (September 2026)",
   "gameName": "The Time of Ninja",
   "description": "Working The Time of Ninja codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-23",
-  "checkedAt": "2026-08-23",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/the-time-of-ninja.webp",
   "placeId": 8075399143,
@@ -184,8 +184,18 @@
       "status": "active"
     },
     {
+      "code": "NewGuildsHunting!",
+      "reward": "15 Spins",
+      "status": "active"
+    },
+    {
       "code": "NewSandMissions!",
       "reward": "15 Spins of all types",
+      "status": "active"
+    },
+    {
+      "code": "NewSpinFocus!",
+      "reward": "15 Spins",
       "status": "active"
     },
     {
@@ -289,8 +299,18 @@
       "status": "active"
     },
     {
+      "code": "ThanksFor5KCCU!",
+      "reward": "50 Spins",
+      "status": "active"
+    },
+    {
       "code": "ThanksFor5KInterested!",
       "reward": "50 Spins of all types",
+      "status": "active"
+    },
+    {
+      "code": "ThankYouFor30KInterested!",
+      "reward": "30 Spins",
       "status": "active"
     },
     {

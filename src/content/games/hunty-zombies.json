@@ -1,9 +1,9 @@
 {
-  "title": "Hunty Zombie Codes (August 2026)",
+  "title": "Hunty Zombie Codes (September 2026)",
   "gameName": "Hunty Zombie",
   "description": "Working Hunty Zombie codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-30",
-  "checkedAt": "2026-08-30",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/hunty-zombies.webp",
   "placeId": 103754275310547,
@@ -75,6 +75,11 @@
     },
     {
       "code": "Milestone100k!",
+      "reward": "50 Lucky Spins of each, 50 Traits",
+      "status": "active"
+    },
+    {
+      "code": "MunSavedUs",
       "reward": "50 Lucky Spins of each, 50 Traits",
       "status": "active"
     },

@@ -1,9 +1,9 @@
 {
-  "title": "Anime Vanguards Codes (August 2026)",
+  "title": "Anime Vanguards Codes (September 2026)",
   "gameName": "Anime Vanguards",
   "description": "Working Anime Vanguards codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/anime-vanguards.webp",
   "placeId": 16146832113,
@@ -54,6 +54,11 @@
       "status": "active"
     },
     {
+      "code": "MiniUpd2",
+      "reward": "200 Trait Rerolls and 50,000 Gems ( , Level 30)",
+      "status": "active"
+    },
+    {
       "code": "Miniupdate1",
       "reward": "50 Trait Rerolls, 50 Mem Shards",
       "status": "active"
@@ -61,6 +66,16 @@
     {
       "code": "Prepare",
       "reward": "Red Key",
+      "status": "active"
+    },
+    {
+      "code": "Retribution",
+      "reward": "20,000 Gems, 50 Trait Rerolls, and 50 Memoria Shards ( , Level 10)",
+      "status": "active"
+    },
+    {
+      "code": "Wrath",
+      "reward": "200 Memoria Shards and 50,000 Gems ( , Level 30)",
       "status": "active"
     },
     {

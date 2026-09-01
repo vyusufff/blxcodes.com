@@ -1,9 +1,9 @@
 {
-  "title": "Doodle World Codes (July 2026)",
+  "title": "Doodle World Codes (September 2026)",
   "gameName": "Doodle World",
   "description": "Working Doodle World codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/doodle-world.webp",
   "placeId": 5116869569,
@@ -44,8 +44,18 @@
       "status": "active"
     },
     {
+      "code": "ItsStillSummer",
+      "reward": "Free Junipyro",
+      "status": "active"
+    },
+    {
       "code": "LastWeekJune",
       "reward": "Free Klydaskunk",
+      "status": "active"
+    },
+    {
+      "code": "Passion",
+      "reward": "Free seeds",
       "status": "active"
     },
     {
@@ -64,8 +74,18 @@
       "status": "active"
     },
     {
+      "code": "SUMMERFUN",
+      "reward": "500 Carnival Tickets",
+      "status": "active"
+    },
+    {
       "code": "ThankYouSoMuch",
       "reward": "Chain Booster for 2 hours",
+      "status": "active"
+    },
+    {
+      "code": "ThreadtheNeedle",
+      "reward": "Free Threasant",
       "status": "active"
     },
     {

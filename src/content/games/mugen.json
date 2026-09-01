@@ -1,9 +1,9 @@
 {
-  "title": "Mugen Codes (July 2026)",
+  "title": "Mugen Codes (September 2026)",
   "gameName": "Mugen",
   "description": "Working Mugen codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/mugen.webp",
   "placeId": 139598620873181,
@@ -34,12 +34,7 @@
       "status": "active"
     },
     {
-      "code": "MUGENHUB",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "MUGENISCOMINGBACK",
+      "code": "JAPANDAYZ2",
       "reward": "Free Rewards",
       "status": "active"
     },
@@ -171,6 +166,16 @@
     {
       "code": "Mugen",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MUGENHUB",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "MUGENISCOMINGBACK",
+      "reward": "Free Rewards",
       "status": "expired"
     },
     {

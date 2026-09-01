@@ -1,9 +1,9 @@
 {
-  "title": "Basketball Legends Codes (August 2026)",
+  "title": "Basketball Legends Codes (September 2026)",
   "gameName": "Basketball Legends",
   "description": "Working Basketball Legends codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-15",
-  "checkedAt": "2026-08-15",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/basketball-legends.webp",
   "placeId": 14259168147,
@@ -29,28 +29,18 @@
   ],
   "codes": [
     {
-      "code": "580KLIKES",
+      "code": "620KLIKES",
       "reward": "1K Coins",
       "status": "active"
     },
     {
-      "code": "590KLIKES",
+      "code": "630KLIKES",
       "reward": "1K Coins",
       "status": "active"
     },
     {
-      "code": "600KLIKES",
+      "code": "640KLIKES",
       "reward": "1K Coins",
-      "status": "active"
-    },
-    {
-      "code": "610KLIKES",
-      "reward": "1K Coins",
-      "status": "active"
-    },
-    {
-      "code": "BLOCKS",
-      "reward": "Summer Effect Case",
       "status": "active"
     },
     {
@@ -59,43 +49,13 @@
       "status": "active"
     },
     {
-      "code": "CLANREWORK",
-      "reward": "5K Coins",
-      "status": "active"
-    },
-    {
       "code": "COINBOOST",
       "reward": "2x Coin Boost for 30 minutes",
       "status": "active"
     },
     {
-      "code": "GREEN",
-      "reward": "Summer Skin Case",
-      "status": "active"
-    },
-    {
-      "code": "HELMET",
-      "reward": "Summer Skin Case",
-      "status": "active"
-    },
-    {
-      "code": "HURDLE",
-      "reward": "5K Coins",
-      "status": "active"
-    },
-    {
       "code": "MAGIC",
       "reward": "Summer Skin Case",
-      "status": "active"
-    },
-    {
-      "code": "PASSES",
-      "reward": "Summer Skin Case",
-      "status": "active"
-    },
-    {
-      "code": "SUMMER",
-      "reward": "Summer Effect Case",
       "status": "active"
     },
     {
@@ -129,6 +89,26 @@
       "status": "expired"
     },
     {
+      "code": "580KLIKES",
+      "reward": "1K Coins",
+      "status": "expired"
+    },
+    {
+      "code": "590KLIKES",
+      "reward": "1K Coins",
+      "status": "expired"
+    },
+    {
+      "code": "600KLIKES",
+      "reward": "1K Coins",
+      "status": "expired"
+    },
+    {
+      "code": "610KLIKES",
+      "reward": "1K Coins",
+      "status": "expired"
+    },
+    {
       "code": "700MVISITS",
       "reward": "Expired reward",
       "status": "expired"
@@ -139,8 +119,18 @@
       "status": "expired"
     },
     {
+      "code": "BLOCKS",
+      "reward": "Summer Effect Case",
+      "status": "expired"
+    },
+    {
       "code": "CHAMPIONS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CLANREWORK",
+      "reward": "5K Coins",
       "status": "expired"
     },
     {
@@ -189,8 +179,23 @@
       "status": "expired"
     },
     {
+      "code": "GREEN",
+      "reward": "Summer Skin Case",
+      "status": "expired"
+    },
+    {
       "code": "HEARTBURST",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HELMET",
+      "reward": "Summer Skin Case",
+      "status": "expired"
+    },
+    {
+      "code": "HURDLE",
+      "reward": "5K Coins",
       "status": "expired"
     },
     {
@@ -211,6 +216,11 @@
     {
       "code": "MOBILE",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PASSES",
+      "reward": "Summer Skin Case",
       "status": "expired"
     },
     {
@@ -251,6 +261,11 @@
     {
       "code": "SPRINGSKINS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SUMMER",
+      "reward": "Summer Effect Case",
       "status": "expired"
     },
     {

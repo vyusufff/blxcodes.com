@@ -1,9 +1,9 @@
 {
-  "title": "Sell Ores Codes (August 2026)",
+  "title": "Sell Ores Codes (September 2026)",
   "gameName": "Sell Ores",
   "description": "Working Sell Ores codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-30",
-  "checkedAt": "2026-08-30",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/sell-ores.webp",
   "placeId": 122572082932179,
@@ -31,11 +31,6 @@
     {
       "code": "ALMIGHTY",
       "reward": "six-hour time skip (!)",
-      "status": "active"
-    },
-    {
-      "code": "ANOTHERONE",
-      "reward": "one-hour time skip (!)",
       "status": "active"
     },
     {
@@ -71,6 +66,11 @@
     {
       "code": "3DS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ANOTHERONE",
+      "reward": "one-hour time skip (!)",
       "status": "expired"
     }
   ]

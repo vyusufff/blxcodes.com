@@ -1,9 +1,9 @@
 {
-  "title": "Rintama High Codes (August 2026)",
+  "title": "Rintama High Codes (September 2026)",
   "gameName": "Rintama High",
   "description": "Working Rintama High codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-28",
-  "checkedAt": "2026-08-28",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/rintama-high.webp",
   "placeId": 131031240633619,
@@ -29,11 +29,6 @@
   ],
   "codes": [
     {
-      "code": "AGERATING",
-      "reward": "500 yen and five reroll tokens (expires August 30, 2026)",
-      "status": "active"
-    },
-    {
       "code": "DOWNTAMA",
       "reward": "2.5k yen and ten reroll tokens",
       "status": "active"
@@ -44,22 +39,42 @@
       "status": "active"
     },
     {
-      "code": "WHYISTHEGAMESOLAGGY",
-      "reward": "three reroll tokens",
-      "status": "active"
-    },
-    {
       "code": "WEARENOTPAYTOWIN",
       "reward": "three reroll tokens",
       "status": "active"
     },
     {
-      "code": "ROLEPLAYSERVERS",
+      "code": "WHYISTHEGAMESOLAGGY",
+      "reward": "three reroll tokens",
+      "status": "active"
+    },
+    {
+      "code": "2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "AGERATING",
+      "reward": "500 yen and five reroll tokens (expires August 30, 2026)",
+      "status": "expired"
+    },
+    {
+      "code": "CREEPERMAN",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GETACAMCORDER",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "HAPPYBIRTHDAYLUCIA",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HEIGHTWILLALWAYSBESCALETO",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -74,37 +89,7 @@
       "status": "expired"
     },
     {
-      "code": "WELCOMEBACKRINTAMA",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "GETACAMCORDER",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "CREEPERMAN",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "THANKSFORYOURPATIENCE",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "STYLEJOBMONEYFIXES",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "NOMORETOOLREQUESTSEXPLOIT",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "HEIGHTWILLALWAYSBESCALETO",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -114,7 +99,22 @@
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "ROLEPLAYSERVERS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "STYLEJOBMONEYFIXES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THANKSFORYOURPATIENCE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WELCOMEBACKRINTAMA",
       "reward": "Expired reward",
       "status": "expired"
     }

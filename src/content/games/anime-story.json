@@ -1,9 +1,9 @@
 {
-  "title": "Anime Story Codes (July 2026)",
+  "title": "Anime Story Codes (September 2026)",
   "gameName": "Anime Story",
   "description": "Working Anime Story codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/anime-story.webp",
   "placeId": 116766451305209,
@@ -84,8 +84,18 @@
       "status": "active"
     },
     {
+      "code": "kleinsoon",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "kyzoisgoated",
       "reward": "20 Ascended Orb and 250 Trait Tokens",
+      "status": "active"
+    },
+    {
+      "code": "marinefordpeak",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -109,8 +119,23 @@
       "status": "active"
     },
     {
+      "code": "parallelpain",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "penalties",
       "reward": "1 Swiss Cheese, 200 Trait Tokens, 50k Summer Tokens, 20 Summer Treasure Chests, and 1 Coal",
+      "status": "active"
+    },
+    {
+      "code": "reallysorryfordelay",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "realm2real",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -161,6 +186,11 @@
     {
       "code": "summersoon",
       "reward": "200 Trait Tokens and 10 Secret Orb",
+      "status": "active"
+    },
+    {
+      "code": "thanksforwaiting",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
