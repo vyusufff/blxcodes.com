@@ -29,6 +29,11 @@
   ],
   "codes": [
     {
+      "code": "ADMINMUTATION",
+      "reward": "adminite coating spray (!)",
+      "status": "active"
+    },
+    {
       "code": "ALMIGHTY",
       "reward": "six-hour time skip (!)",
       "status": "active"
@@ -41,6 +46,11 @@
     {
       "code": "EXPANSION",
       "reward": "a Small Growth gem",
+      "status": "active"
+    },
+    {
+      "code": "FRAGMENTS",
+      "reward": "25 adminite fragments (!)",
       "status": "active"
     },
     {
