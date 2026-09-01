@@ -1,9 +1,9 @@
 {
-  "title": "Emote Rng Codes (August 2026)",
+  "title": "Emote Rng Codes (September 2026)",
   "gameName": "Emote Rng",
   "description": "Working Emote Rng codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-05",
-  "checkedAt": "2026-08-05",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/emote-rng.webp",
   "placeId": 132768306953643,
@@ -29,13 +29,8 @@
   ],
   "codes": [
     {
-      "code": "EXPEDITIONS",
-      "reward": "30 minutes of double luck boost",
-      "status": "active"
-    },
-    {
-      "code": "UPDATE29",
-      "reward": "one hour of double luck boost",
+      "code": "56709",
+      "reward": "three times cash boost for 30 minutes (!)",
       "status": "active"
     },
     {
@@ -49,72 +44,27 @@
       "status": "active"
     },
     {
-      "code": "LUCKYBLOCKS",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "EXPEDITIONS",
+      "reward": "30 minutes of double luck boost",
+      "status": "active"
     },
     {
-      "code": "IMNOTHACKED",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "LLJ",
+      "reward": "mutation luck (!)",
+      "status": "active"
     },
     {
-      "code": "SORRYFORDELAY",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "THUNDERSTORMS",
+      "reward": "mutation luck (!)",
+      "status": "active"
     },
     {
-      "code": "16MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "UPDATE29",
+      "reward": "one hour of double luck boost",
+      "status": "active"
     },
     {
-      "code": "400KFANS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "14MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "13MVISITS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "200KFANS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bread2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "bread1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "SecretButtonCode",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "300KFANS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "LATELUNARNEWYEAR",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "STPATRICKS",
+      "code": "100KFANS",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -124,47 +74,32 @@
       "status": "expired"
     },
     {
-      "code": "100KFANS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "12MVISITS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "VALENTINES",
+      "code": "13MVISITS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "8MVISITS",
+      "code": "14MVISITS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "7MVISITS",
+      "code": "16MVISITS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "BugFixes1",
+      "code": "200KFANS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "5MVisits",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "NEWYEARS",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "FirstAdminAbuse",
+      "code": "2026",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -174,12 +109,92 @@
       "status": "expired"
     },
     {
+      "code": "300KFANS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "400KFANS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "5MVisits",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "7MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "8MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "bread1",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "bread2",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BugFixes1",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FirstAdminAbuse",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "IMNOTHACKED",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LATELUNARNEWYEAR",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LUCKYBLOCKS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NEWYEARS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "PCGamesN",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "SecretButtonCode",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFORDELAY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "STPATRICKS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "VALENTINES",
       "reward": "Expired reward",
       "status": "expired"
     }

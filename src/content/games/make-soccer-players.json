@@ -1,9 +1,9 @@
 {
-  "title": "Make Soccer Players Codes (August 2026)",
+  "title": "Make Soccer Players Codes (September 2026)",
   "gameName": "Make Soccer Players",
   "description": "Working Make Soccer Players codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-25",
-  "checkedAt": "2026-08-25",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/make-soccer-players.webp",
   "placeId": 78053126230950,
@@ -29,8 +29,8 @@
   ],
   "codes": [
     {
-      "code": "PREMIERRRR",
-      "reward": "five Premier League players (!)",
+      "code": "ANOTHERUPDATE",
+      "reward": "five super Ballon D'Or players (!)",
       "status": "active"
     },
     {
@@ -39,27 +39,47 @@
       "status": "active"
     },
     {
-      "code": "thanksforparticipating67",
-      "reward": "one Ballon D'Or player",
-      "status": "active"
-    },
-    {
       "code": "BEGINNER",
       "reward": "two Belgian Pro League players",
       "status": "active"
     },
     {
-      "code": "DICTATORGIVEAWAY",
+      "code": "NEWUPDATE",
+      "reward": "five Ballon D'Or players (!)",
+      "status": "active"
+    },
+    {
+      "code": "PREMIERRRR",
+      "reward": "five Premier League players (!)",
+      "status": "active"
+    },
+    {
+      "code": "thanksforparticipating67",
+      "reward": "one Ballon D'Or player",
+      "status": "active"
+    },
+    {
+      "code": "1000MEMBERS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "UPD1YAY",
+      "code": "2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "776",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
       "code": "ARIGATO",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "DICTATORGIVEAWAY",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -74,22 +94,12 @@
       "status": "expired"
     },
     {
-      "code": "GOAT2000SNIPE67",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "G1VEM3M0R3C0DESCUB1EM",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "776",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "1000MEMBERS",
+      "code": "GOAT2000SNIPE67",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -99,7 +109,7 @@
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "UPD1YAY",
       "reward": "Expired reward",
       "status": "expired"
     }

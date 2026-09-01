@@ -1,9 +1,9 @@
 {
-  "title": "Snipers Vs Runners Codes (August 2026)",
+  "title": "Snipers Vs Runners Codes (September 2026)",
   "gameName": "Snipers Vs Runners",
   "description": "Working Snipers Vs Runners codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/snipers-vs-runners.webp",
   "placeId": 133609054222738,
@@ -29,8 +29,28 @@
   ],
   "codes": [
     {
-      "code": "TRADINGHUB",
-      "reward": "5k cash (!)",
+      "code": "BATTLEPASS",
+      "reward": "free rewards (!)",
+      "status": "active"
+    },
+    {
+      "code": "COOLUPDATE",
+      "reward": "free rewards (!)",
+      "status": "active"
+    },
+    {
+      "code": "DiscordSkin",
+      "reward": "free rewards (!)",
+      "status": "active"
+    },
+    {
+      "code": "FFA",
+      "reward": "five basic melee cases and 5k cash (must redeem while in FFA mode)",
+      "status": "active"
+    },
+    {
+      "code": "LIMCRATE",
+      "reward": "free rewards (!)",
       "status": "active"
     },
     {
@@ -39,8 +59,8 @@
       "status": "active"
     },
     {
-      "code": "UPDATE3",
-      "reward": "5k cash",
+      "code": "Sorry150",
+      "reward": "free rewards (!)",
       "status": "active"
     },
     {
@@ -49,8 +69,8 @@
       "status": "active"
     },
     {
-      "code": "UPDATE2",
-      "reward": "5k cash",
+      "code": "TRADINGHUB",
+      "reward": "5k cash (!)",
       "status": "active"
     },
     {
@@ -59,8 +79,13 @@
       "status": "active"
     },
     {
-      "code": "FFA",
-      "reward": "five basic melee cases and 5k cash (must redeem while in FFA mode)",
+      "code": "UPDATE2",
+      "reward": "5k cash",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE3",
+      "reward": "5k cash",
       "status": "active"
     }
   ]
