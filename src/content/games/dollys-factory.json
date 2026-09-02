@@ -1,9 +1,9 @@
 {
-  "title": "Dolly&#8217;s Factory Codes (July 2026)",
+  "title": "Dolly&#8217;s Factory Codes (September 2026)",
   "gameName": "Dolly&#8217;s Factory",
   "description": "Working Dolly&#8217;s Factory codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-01",
+  "checkedAt": "2026-09-01",
   "featured": true,
   "cover": "/images/games/card/dollys-factory.webp",
   "placeId": 99146394215857,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "1666",
+      "reward": "Amsterdam Early Access Impressions - Loved Brotherhood? It's Time to Join Sisterhood",
+      "status": "active"
+    },
     {
       "code": "IAMPROUD",
       "reward": "Get Nametags",
