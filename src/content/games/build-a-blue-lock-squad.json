@@ -1,9 +1,9 @@
 {
-  "title": "Build A Blue Lock Squad Codes (August 2026)",
+  "title": "Build A Blue Lock Squad Codes (September 2026)",
   "gameName": "Build A Blue Lock Squad",
   "description": "Working Build A Blue Lock Squad codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-26",
-  "checkedAt": "2026-08-26",
+  "updatedAt": "2026-09-02",
+  "checkedAt": "2026-09-02",
   "featured": true,
   "cover": "/images/games/card/build-a-blue-lock-squad.webp",
   "placeId": 112619156837009,
@@ -29,8 +29,18 @@
   ],
   "codes": [
     {
+      "code": "10KMEMBERS",
+      "reward": "100 rerolls and 100 refreshes (!)",
+      "status": "active"
+    },
+    {
       "code": "AWAKENED",
       "reward": "ten rerolls and five refreshes",
+      "status": "active"
+    },
+    {
+      "code": "BAROUUPD",
+      "reward": "50 rerolls (!)",
       "status": "active"
     },
     {
@@ -54,6 +64,11 @@
       "status": "active"
     },
     {
+      "code": "MBFORDELAY",
+      "reward": "100k cash (!)",
+      "status": "active"
+    },
+    {
       "code": "NEWELUSIVE",
       "reward": "15 rerolls (!)",
       "status": "active"
@@ -71,6 +86,11 @@
     {
       "code": "REO",
       "reward": "15 rerolls and eight refreshes (!)",
+      "status": "active"
+    },
+    {
+      "code": "SHIDOUUPD",
+      "reward": "50 refreshes (!)",
       "status": "active"
     },
     {

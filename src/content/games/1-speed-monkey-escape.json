@@ -1,9 +1,9 @@
 {
-  "title": "1 Speed Monkey Escape Codes (August 2026)",
+  "title": "1 Speed Monkey Escape Codes (September 2026)",
   "gameName": "1 Speed Monkey Escape",
   "description": "Working 1 Speed Monkey Escape codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-09-02",
+  "checkedAt": "2026-09-02",
   "featured": true,
   "cover": "/images/games/card/1-speed-monkey-escape.webp",
   "placeId": 114697347887839,
@@ -29,34 +29,49 @@
   ],
   "codes": [
     {
-      "code": "250KCCU",
-      "reward": "a one-hour double speed potion (!)",
-      "status": "active"
-    },
-    {
       "code": "100MVISITS",
       "reward": "30-minute double win potion",
       "status": "active"
     },
     {
-      "code": "50MVISITS",
-      "reward": "potions",
+      "code": "1MCCU",
+      "reward": "one double win potion",
       "status": "active"
     },
     {
-      "code": "CODESYAY",
-      "reward": "potions",
+      "code": "250KCCU",
+      "reward": "a one-hour double speed potion (!)",
       "status": "active"
+    },
+    {
+      "code": "300MVISITS",
+      "reward": "one double speed potion",
+      "status": "active"
+    },
+    {
+      "code": "PULSEISANOOB",
+      "reward": "one-hour speed potion (!)",
+      "status": "active"
+    },
+    {
+      "code": "50MVISITS",
+      "reward": "potions",
+      "status": "expired"
     },
     {
       "code": "80MVISITS",
       "reward": "potions",
-      "status": "active"
+      "status": "expired"
+    },
+    {
+      "code": "CODESYAY",
+      "reward": "potions",
+      "status": "expired"
     },
     {
       "code": "STREAK",
       "reward": "potions",
-      "status": "active"
+      "status": "expired"
     }
   ]
 }
