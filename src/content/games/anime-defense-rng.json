@@ -1,9 +1,9 @@
 {
-  "title": "Anime RNG Defense Codes (August 2026)",
+  "title": "Anime RNG Defense Codes (September 2026)",
   "gameName": "Anime RNG Defense",
   "description": "Working Anime RNG Defense codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-09-02",
+  "checkedAt": "2026-09-02",
   "featured": true,
   "howTo": [
     "Launch Anime RNG Defense on Roblox.",
@@ -27,6 +27,16 @@
   ],
   "codes": [
     {
+      "code": "10MVISITS",
+      "reward": "Cursed Fingers and Divine Rerolls",
+      "status": "active"
+    },
+    {
+      "code": "AWAKENEDSLIME",
+      "reward": "Cursed Fingers and Divine Rerolls ( , requires 10K Rolls to redeem)",
+      "status": "active"
+    },
+    {
       "code": "BATTLEPASS",
       "reward": "Cursed Fingers and Divine Rerolls ( , requires 100K Rolls to redeem)",
       "status": "active"
@@ -44,6 +54,11 @@
     {
       "code": "CURSEDHIGHSCHOOL",
       "reward": "200 Crystals and 3 Cursed Fingers",
+      "status": "active"
+    },
+    {
+      "code": "DAILYCHALLENGE",
+      "reward": "Cursed Fingers and Divine Rerolls ( , requires 50K Rolls to redeem)",
       "status": "active"
     },
     {
@@ -67,8 +82,18 @@
       "status": "active"
     },
     {
+      "code": "PAUSEPOTIONS",
+      "reward": "Cursed Fingers and Divine Rerolls ( , requires 25K Rolls to redeem)",
+      "status": "active"
+    },
+    {
       "code": "PUBLICSAFETYHQ",
       "reward": "Cursed Fingers and Divine Rerolls ( , requires 10K Rolls to redeem)",
+      "status": "active"
+    },
+    {
+      "code": "SLIMEEVENT",
+      "reward": "Cursed Fingers and Divine Rerolls ( , requires 100K Rolls to redeem)",
       "status": "active"
     },
     {
@@ -134,6 +159,11 @@
     {
       "code": "UPDATE1",
       "reward": "250 Crystals",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE10",
+      "reward": "Cursed Fingers and Divine Rerolls",
       "status": "active"
     },
     {
