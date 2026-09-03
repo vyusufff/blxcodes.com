@@ -1,9 +1,9 @@
 {
-  "title": "San Diego Border Roleplay Codes (August 2026)",
+  "title": "San Diego Border Roleplay Codes (September 2026)",
   "gameName": "San Diego Border Roleplay",
   "description": "Working San Diego Border Roleplay codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-26",
-  "checkedAt": "2026-08-26",
+  "updatedAt": "2026-09-03",
+  "checkedAt": "2026-09-03",
   "featured": true,
   "cover": "/images/games/card/san-diego-border-roleplay.webp",
   "placeId": 136020512003847,
@@ -29,9 +29,14 @@
   ],
   "codes": [
     {
+      "code": "VEHICLETRADING25",
+      "reward": "20k cash (!)",
+      "status": "active"
+    },
+    {
       "code": "ElDiabloIsntGettingBuffed",
       "reward": "$10k (!)",
-      "status": "active"
+      "status": "expired"
     }
   ]
 }

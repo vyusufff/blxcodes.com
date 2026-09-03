@@ -1,9 +1,9 @@
 {
-  "title": "Excuse Me Sir Codes (August 2026)",
+  "title": "Excuse Me Sir Codes (September 2026)",
   "gameName": "Excuse Me Sir",
   "description": "Working Excuse Me Sir codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-27",
-  "checkedAt": "2026-08-27",
+  "updatedAt": "2026-09-03",
+  "checkedAt": "2026-09-03",
   "featured": true,
   "cover": "/images/games/card/excuse-me-sir.webp",
   "placeId": 136101424666302,
@@ -29,8 +29,18 @@
   ],
   "codes": [
     {
+      "code": "CURSED",
+      "reward": "one void potion (!)",
+      "status": "active"
+    },
+    {
       "code": "GRADER",
       "reward": "ten lucky rolls (!)",
+      "status": "active"
+    },
+    {
+      "code": "THANKS",
+      "reward": "30 lucky rolls (!)",
       "status": "active"
     },
     {
