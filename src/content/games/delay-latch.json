@@ -1,9 +1,9 @@
 {
-  "title": "Delay Latch Codes (August 2026)",
+  "title": "Delay Latch Codes (September 2026)",
   "gameName": "Delay Latch",
   "description": "Working Delay Latch codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-09-03",
+  "checkedAt": "2026-09-03",
   "featured": true,
   "cover": "/images/games/card/delay-latch.webp",
   "placeId": 94647229517154,
@@ -29,48 +29,23 @@
   ],
   "codes": [
     {
-      "code": "AIKUANDGOALKEEPERCHANGES",
-      "reward": "2.5k Style coins and 3.4k Cash",
-      "status": "active"
-    },
-    {
       "code": "KAISERISNEXTWEEKNOWORRIES",
       "reward": "Free Rewards",
       "status": "active"
     },
     {
-      "code": "LATE60KCCUCODE",
-      "reward": "SSJ4 MVP",
-      "status": "active"
-    },
-    {
-      "code": "MASTERYKAISER",
+      "code": "MKAISERISBALANCEDNOW",
       "reward": "Free Yen",
-      "status": "active"
-    },
-    {
-      "code": "PINGOVERHAUL",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "SORRYFORLATERELEASE",
-      "reward": "Free Explosion",
-      "status": "active"
-    },
-    {
-      "code": "SORRYFORSHUTDOWN",
-      "reward": "Aizen",
-      "status": "active"
-    },
-    {
-      "code": "TIMOTHYTHESEAL",
-      "reward": "2.5k Style coins and 3.4k Cash",
       "status": "active"
     },
     {
       "code": "ADDITIONALTIME",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "AIKUANDGOALKEEPERCHANGES",
+      "reward": "2.5k Style coins and 3.4k Cash",
       "status": "expired"
     },
     {
@@ -179,8 +154,18 @@
       "status": "expired"
     },
     {
+      "code": "LATE60KCCUCODE",
+      "reward": "SSJ4 MVP",
+      "status": "expired"
+    },
+    {
       "code": "LetsGoUbers",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MASTERYKAISER",
+      "reward": "Free Yen",
       "status": "expired"
     },
     {
@@ -196,6 +181,11 @@
     {
       "code": "OOPS!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PINGOVERHAUL",
+      "reward": "Free Rewards",
       "status": "expired"
     },
     {
@@ -234,8 +224,18 @@
       "status": "expired"
     },
     {
+      "code": "SORRYFORLATERELEASE",
+      "reward": "Free Explosion",
+      "status": "expired"
+    },
+    {
       "code": "SORRYFORMISTAKEONMAINTENANCE",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYFORSHUTDOWN",
+      "reward": "Aizen",
       "status": "expired"
     },
     {
@@ -246,6 +246,11 @@
     {
       "code": "THOSEWHOSPIN",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TIMOTHYTHESEAL",
+      "reward": "2.5k Style coins and 3.4k Cash",
       "status": "expired"
     },
     {

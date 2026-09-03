@@ -1,9 +1,9 @@
 {
-  "title": "Immortality Incremental Codes (August 2026)",
+  "title": "Immortality Incremental Codes (September 2026)",
   "gameName": "Immortality Incremental",
   "description": "Working Immortality Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-30",
-  "checkedAt": "2026-08-30",
+  "updatedAt": "2026-09-03",
+  "checkedAt": "2026-09-03",
   "featured": true,
   "cover": "/images/games/card/immortality-incremental.webp",
   "placeId": 75317862071711,
@@ -139,6 +139,11 @@
       "status": "active"
     },
     {
+      "code": "DUNGEON2",
+      "reward": "10 Jade",
+      "status": "active"
+    },
+    {
       "code": "DurpJade",
       "reward": "5 Jade",
       "status": "active"
@@ -266,6 +271,11 @@
     {
       "code": "PURPY",
       "reward": "5 of each potion and 5 tickets",
+      "status": "active"
+    },
+    {
+      "code": "QIFIX",
+      "reward": "10 Jade and 1 pot of Ore",
       "status": "active"
     },
     {

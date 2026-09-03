@@ -1,9 +1,9 @@
 {
-  "title": "Ultimate Tower Defense Simulator Codes (August 2026)",
+  "title": "Ultimate Tower Defense Simulator Codes (September 2026)",
   "gameName": "Ultimate Tower Defense Simulator",
   "description": "Working Ultimate Tower Defense Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-13",
-  "checkedAt": "2026-08-13",
+  "updatedAt": "2026-09-03",
+  "checkedAt": "2026-09-03",
   "featured": true,
   "cover": "/images/games/card/ultimate-tower-defense-simulator.webp",
   "placeId": 5902977746,
@@ -59,6 +59,11 @@
       "status": "active"
     },
     {
+      "code": "ExtraCodeSummer2026",
+      "reward": "50 perk rerolls, 50 trait rerolls, and a pure soul (!)",
+      "status": "active"
+    },
+    {
       "code": "ijoinedthegroup",
       "reward": "rewards",
       "status": "active"
@@ -86,6 +91,11 @@
     {
       "code": "subtokhaostv",
       "reward": "a KhaosTV unit",
+      "status": "active"
+    },
+    {
+      "code": "Summer2026QoLUpdate",
+      "reward": "three hours of 2x shells boost (!)",
       "status": "active"
     },
     {

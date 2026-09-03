@@ -1,326 +1,276 @@
 {
-  "title": "Ghoul Re Codes (September 2026)",
-  "gameName": "Ghoul Re",
-  "description": "Working Ghoul Re codes for free in-game rewards. Updated regularly.",
+  "title": "Anime Ascendants Codes (September 2026)",
+  "gameName": "Anime Ascendants",
+  "description": "Working Anime Ascendants codes for free in-game rewards. Updated regularly.",
   "updatedAt": "2026-09-03",
   "checkedAt": "2026-09-03",
   "featured": true,
-  "cover": "/images/games/card/ghoul-re.webp",
-  "placeId": 72368345999613,
+  "cover": "/images/games/card/anime-ascendants.webp",
+  "placeId": 15601725874,
   "howTo": [
-    "Launch Ghoul Re on Roblox.",
+    "Launch Anime Ascendants on Roblox.",
     "Open the codes or redeem menu in the game UI.",
     "Paste a working code exactly as shown.",
     "Confirm to claim your rewards."
   ],
   "faq": [
     {
-      "q": "Are these Ghoul Re codes free?",
+      "q": "Are these Anime Ascendants codes free?",
       "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
     },
     {
-      "q": "Why did a Ghoul Re code not work?",
+      "q": "Why did a Anime Ascendants code not work?",
       "a": "It is usually expired, mistyped, or already redeemed on your account."
     },
     {
-      "q": "How often are Ghoul Re codes updated?",
+      "q": "How often are Anime Ascendants codes updated?",
       "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
     }
   ],
   "codes": [
     {
-      "code": "Databug",
-      "reward": "1000 Ghoul Points",
+      "code": "BLUEBERRY!",
+      "reward": "25k coins, 5k gems, and 125 trait rerolls (must be level three)",
       "status": "active"
     },
     {
-      "code": "firstbiweekly",
-      "reward": "1000 Ghoul Points and 5 Clan Rerolls",
+      "code": "ApologyTripleCode",
+      "reward": "10k gems, 10k coins, 50 magic tokens, five stat cubes, and five perfect stat cubes",
       "status": "active"
     },
     {
-      "code": "FRICKGRANPA",
-      "reward": "650 Ghoul Points",
+      "code": "AscDropUpdateBro",
+      "reward": "10k gems, 10k coins, 100 magic tokens, ten stat cubes, and ten perfect stat cubes",
       "status": "active"
     },
     {
-      "code": "Ginkui",
-      "reward": "2000 Ghoul Points",
+      "code": "BLEACHCOMINGTOYOUSOON!",
+      "reward": "40 magic tokens, 5k gems, five stat cubes, and five perfect stat cubes",
       "status": "active"
     },
     {
-      "code": "giveghoulssomelove",
-      "reward": "5 Kagune Rerolls",
+      "code": "YAYEASTER2026",
+      "reward": "25 magic tokens and 2.5k gems",
       "status": "active"
     },
     {
-      "code": "GPCAPREMOVAL",
-      "reward": "750 GP",
+      "code": "AprilFools",
+      "reward": "15k April Fools Coins and 25 magic tokens (must be level three)",
       "status": "active"
     },
     {
-      "code": "GREBUGFIXES",
-      "reward": "500 GP",
+      "code": "BuggyTheClown",
+      "reward": "15k April Fools Coins and 25 magic tokens (must be level three)",
       "status": "active"
     },
     {
-      "code": "HBDSIN20",
-      "reward": "650 Ghoul Points",
+      "code": "SORRY4PORTALHPBUG",
+      "reward": "25 Magic Tokens and 2.5k gems (must be level four)",
       "status": "active"
     },
     {
-      "code": "HTH",
-      "reward": "1000 GP",
+      "code": "SORRY4PORTALBUG",
+      "reward": "50 magic tokens and 20k grief seeds (must be level five)",
       "status": "active"
     },
     {
-      "code": "HTHGAMES",
-      "reward": "500 GP",
-      "status": "active"
-    },
-    {
-      "code": "HTHGames2",
-      "reward": "1000 Ghoul Points",
-      "status": "active"
-    },
-    {
-      "code": "KenRework",
-      "reward": "1000 Ghoul Points",
-      "status": "active"
-    },
-    {
-      "code": "PointLimit",
-      "reward": "1500 Ghoul Points",
-      "status": "active"
-    },
-    {
-      "code": "sneakcode",
-      "reward": "1000 Ghoul Points",
-      "status": "active"
-    },
-    {
-      "code": "SORRYFOR3HOURDELAY",
-      "reward": "900 Ghoul Points",
-      "status": "active"
-    },
-    {
-      "code": "yomohalfkakuja",
-      "reward": "1000 Ghoul Points and 10 Kagune Rerolls",
-      "status": "active"
-    },
-    {
-      "code": "Zebizu",
-      "reward": "5 Clan Rerolls",
-      "status": "active"
-    },
-    {
-      "code": "AbSaveGRE",
+      "code": "30KINTERESTED!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "AMATSUBONUS",
+      "code": "DELAY!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "AmonKagune",
+      "code": "HOMURUUPDATE!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "APRILFOOLS",
+      "code": "SORRYFORWAIT!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "EidMubark",
+      "code": "EvniiIsTuff",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "GHOULRETWITTER",
+      "code": "GUNSANDMAGICCOMINGSOON",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "GRETRAILER1",
+      "code": "WeAreSorry",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "grewillbegreatagain",
-      "reward": "300 GP",
-      "status": "expired"
-    },
-    {
-      "code": "HAPPYEASTER",
+      "code": "BIGTHINGSCOMING",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "IllyIsTheGoat",
+      "code": "BIGSORRY!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "MAPBONUS1",
+      "code": "1INFINITYTOWER!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "MOREMAPSNEAKS",
+      "code": "80KMEMBERS!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "MORESNEAKSCOMING",
+      "code": "20KINTERESTED!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "NEWDEVS",
+      "code": "3KCCU!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "NEWTEAM",
+      "code": "30KFAVS",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "NEWWEEKENDCODE1",
+      "code": "50KLIKES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "NEWWEEKNDCODE2",
+      "code": "TYFOR2KCCU!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "NOROV1BONUS",
+      "code": "JJKPART2!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "PHASE1",
+      "code": "TYFORSUPPORT!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "PROJECT",
+      "code": "ASC!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "PROJECTRESOON",
+      "code": "10KInterested!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "PUZZLE1",
+      "code": "WINTERLEAVING",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "QNA1",
+      "code": "JJKCOMINGSOON!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "QNADELAY",
+      "code": "1KCCU!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "QOLUPD",
+      "code": "750Interested",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "QOLUPDATE!",
+      "code": "5SOON!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "rerererelease",
-      "reward": "300 GP",
-      "status": "expired"
-    },
-    {
-      "code": "RESONANCETRAILERHYPE",
+      "code": "ByeByeExploiters!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "SHIZARUKAGUNE",
+      "code": "RamadanKareem26",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "SMALLQOL",
+      "code": "SorryForBugs",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "SNEAKSWEEK1",
+      "code": "BuffSorryForShutdown",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "SorryForDelay",
+      "code": "March18th!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "TRAILER1THISWEEK",
+      "code": "Berserk500CCU",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "Update7",
+      "code": "BERSERK",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "UPDATE8",
+      "code": "BERSERKDELAY",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "UPDATE9",
+      "code": "WINTEREVENT!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "WEBSITE",
+      "code": "Ascendant!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "WEEKENDCODE1",
+      "code": "Capsules!",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "WEEKENDCODE2",
+      "code": "PITYLAGFIX",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "WEEKENDCODE3",
+      "code": "WINTERSOON",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "WEEKENDCODE4",
+      "code": "ASCENDANTS26",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "welcomehomelorn",
-      "reward": "500 GP",
+      "code": "COMEBACKISREAL!!!",
+      "reward": "Expired reward",
       "status": "expired"
     }
   ]
