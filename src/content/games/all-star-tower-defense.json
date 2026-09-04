@@ -1,9 +1,9 @@
 {
-  "title": "All Star Tower Defense X Codes (August 2026)",
+  "title": "All Star Tower Defense X Codes (September 2026)",
   "gameName": "All Star Tower Defense X",
   "description": "Working All Star Tower Defense X codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-09",
-  "checkedAt": "2026-08-09",
+  "updatedAt": "2026-09-04",
+  "checkedAt": "2026-09-04",
   "featured": true,
   "cover": "/images/games/card/all-star-tower-defense.webp",
   "placeId": 4996049426,
@@ -28,6 +28,16 @@
     }
   ],
   "codes": [
+    {
+      "code": "ALateSummerAwaits",
+      "reward": "4000 Gems and 100 Stardust",
+      "status": "active"
+    },
+    {
+      "code": "AwesomeBeginnerCode",
+      "reward": "4000 Gems, 50 Stardust, and Otherworldly Pickle",
+      "status": "active"
+    },
     {
       "code": "cosmicrebel",
       "reward": "2700 Gems, and 170 Stardust",
@@ -56,6 +66,11 @@
     {
       "code": "omgupdate2026",
       "reward": "2700 Gems, and 170 Stardust (LVL 50+)",
+      "status": "active"
+    },
+    {
+      "code": "ReturnOfTheLobbies",
+      "reward": "4000 Gems and 150 Stardust",
       "status": "active"
     },
     {

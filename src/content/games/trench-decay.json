@@ -1,9 +1,9 @@
 {
-  "title": "Trench Decay Codes (August 2026)",
+  "title": "Trench Decay Codes (September 2026)",
   "gameName": "Trench Decay",
   "description": "Working Trench Decay codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-25",
-  "checkedAt": "2026-08-25",
+  "updatedAt": "2026-09-04",
+  "checkedAt": "2026-09-04",
   "featured": true,
   "cover": "/images/games/card/trench-decay.webp",
   "placeId": 127608823846098,
@@ -29,49 +29,89 @@
   ],
   "codes": [
     {
-      "code": "FRONTPAGEREWARD",
-      "reward": "two crates, 400 medals, and one fire and melee crate",
+      "code": "2KCCU",
+      "reward": "400 medals",
       "status": "active"
     },
     {
-      "code": "1MVISITS",
-      "reward": "rewards",
+      "code": "3MVISITS",
+      "reward": "800 medals",
+      "status": "active"
+    },
+    {
+      "code": "DEFENSEWEEKENDBASH",
+      "reward": "400 medals",
+      "status": "active"
+    },
+    {
+      "code": "HERETICHAT",
+      "reward": "free heretic helmet",
+      "status": "active"
+    },
+    {
+      "code": "HIDDENCODELOLUFOUNDME",
+      "reward": "400 medals",
+      "status": "active"
+    },
+    {
+      "code": "JMTDECAYERS",
+      "reward": "400 medals and a JMT supporter hat",
+      "status": "active"
+    },
+    {
+      "code": "STEELBOUNDSET",
+      "reward": "free steelbound helmet and visor",
+      "status": "active"
+    },
+    {
+      "code": "THETRENCHLIFE",
+      "reward": "free remnant of the keeper mask",
       "status": "active"
     },
     {
       "code": "1KCCUREWARD",
       "reward": "rewards",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "MERCILESSWARBOND",
-      "reward": "two cosmetic crates and 300 medals",
-      "status": "active"
-    },
-    {
-      "code": "MAJORUPDATEPUSHOUTLETSGO",
-      "reward": "two cosmetic crates",
-      "status": "active"
-    },
-    {
-      "code": "MajorDefenseBackUp",
+      "code": "1MVISITS",
       "reward": "rewards",
-      "status": "active"
-    },
-    {
-      "code": "MeleeCrateFreebie1",
-      "reward": "rewards",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "CosmeticCrateTryMeOut",
       "reward": "rewards",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "FirearmsMoreLikeArmFire",
       "reward": "rewards",
-      "status": "active"
+      "status": "expired"
+    },
+    {
+      "code": "FRONTPAGEREWARD",
+      "reward": "two crates, 400 medals, and one fire and melee crate",
+      "status": "expired"
+    },
+    {
+      "code": "MajorDefenseBackUp",
+      "reward": "rewards",
+      "status": "expired"
+    },
+    {
+      "code": "MAJORUPDATEPUSHOUTLETSGO",
+      "reward": "two cosmetic crates",
+      "status": "expired"
+    },
+    {
+      "code": "MeleeCrateFreebie1",
+      "reward": "rewards",
+      "status": "expired"
+    },
+    {
+      "code": "MERCILESSWARBOND",
+      "reward": "two cosmetic crates and 300 medals",
+      "status": "expired"
     }
   ]
 }
