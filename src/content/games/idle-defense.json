@@ -1,9 +1,9 @@
 {
-  "title": "Idle Defense Codes (August 2026)",
+  "title": "Idle Defense Codes (September 2026)",
   "gameName": "Idle Defense",
   "description": "Working Idle Defense codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-07",
-  "checkedAt": "2026-08-07",
+  "updatedAt": "2026-09-04",
+  "checkedAt": "2026-09-04",
   "featured": true,
   "cover": "/images/games/card/idle-defense.webp",
   "placeId": 81505591700031,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "25OLYMPUSEVENT25",
+      "reward": "25 olympus presents",
+      "status": "active"
+    },
     {
       "code": "LONELYTREE25",
       "reward": "25 dark aura",
