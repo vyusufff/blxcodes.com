@@ -2,8 +2,8 @@
   "title": "Heavyweight Fishing Codes (September 2026)",
   "gameName": "Heavyweight Fishing",
   "description": "Working Heavyweight Fishing codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-01",
-  "checkedAt": "2026-09-01",
+  "updatedAt": "2026-09-04",
+  "checkedAt": "2026-09-04",
   "featured": true,
   "cover": "/images/games/card/heavyweight-fishing.webp",
   "placeId": 98502499119821,
@@ -39,11 +39,6 @@
       "status": "active"
     },
     {
-      "code": "30MVisits",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
       "code": "31MVisits",
       "reward": "Free Rewards ( , requier level 50)",
       "status": "active"
@@ -59,22 +54,27 @@
       "status": "active"
     },
     {
-      "code": "46KLikes",
+      "code": "34MVisits",
+      "reward": "Free Rewards ( , requie level 50)",
+      "status": "active"
+    },
+    {
+      "code": "35MVisits",
+      "reward": "Free Rewards ( , require level 50)",
+      "status": "active"
+    },
+    {
+      "code": "36MVisits",
+      "reward": "Free Rewards ( , require level 50)",
+      "status": "active"
+    },
+    {
+      "code": "50KLikes",
       "reward": "5 Tickets, 10 Crystals, 5 Trait Rerolls",
       "status": "active"
     },
     {
-      "code": "47KLikes",
-      "reward": "5 Tickets, 10 Crystals, 5 Trait Rerolls",
-      "status": "active"
-    },
-    {
-      "code": "48KLikes",
-      "reward": "5 Tickets, 10 Crystals, 5 Trait Rerolls",
-      "status": "active"
-    },
-    {
-      "code": "49KLikes",
+      "code": "60KLikes",
       "reward": "5 Tickets, 10 Crystals, 5 Trait Rerolls",
       "status": "active"
     },
@@ -224,6 +224,11 @@
       "status": "expired"
     },
     {
+      "code": "30MVisits",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "31KLikes",
       "reward": "Expired reward",
       "status": "expired"
@@ -286,6 +291,26 @@
     {
       "code": "45KLikes",
       "reward": "5 Tickets, 10 Crystals, 5 Trait Reroll",
+      "status": "expired"
+    },
+    {
+      "code": "46KLikes",
+      "reward": "5 Tickets, 10 Crystals, 5 Trait Rerolls",
+      "status": "expired"
+    },
+    {
+      "code": "47KLikes",
+      "reward": "5 Tickets, 10 Crystals, 5 Trait Rerolls",
+      "status": "expired"
+    },
+    {
+      "code": "48KLikes",
+      "reward": "5 Tickets, 10 Crystals, 5 Trait Rerolls",
+      "status": "expired"
+    },
+    {
+      "code": "49KLikes",
+      "reward": "5 Tickets, 10 Crystals, 5 Trait Rerolls",
       "status": "expired"
     },
     {
