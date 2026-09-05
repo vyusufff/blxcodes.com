@@ -1,9 +1,9 @@
 {
-  "title": "Magic Loot Codes (August 2026)",
+  "title": "Magic Loot Codes (September 2026)",
   "gameName": "Magic Loot",
   "description": "Working Magic Loot codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-29",
-  "checkedAt": "2026-08-29",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/magic-loot.webp",
   "placeId": 133188236593503,
@@ -29,13 +29,18 @@
   ],
   "codes": [
     {
+      "code": "CAT",
+      "reward": "one Clever Cat (!)",
+      "status": "active"
+    },
+    {
       "code": "DRAGONROAR",
       "reward": "30 dragon scales",
       "status": "active"
     },
     {
-      "code": "TRAININGFIX",
-      "reward": "one training potion and one super training potion",
+      "code": "LAPIS",
+      "reward": "one lapis (!)",
       "status": "active"
     },
     {
@@ -44,17 +49,17 @@
       "status": "active"
     },
     {
+      "code": "TRAININGFIX",
+      "reward": "one training potion and one super training potion",
+      "status": "active"
+    },
+    {
+      "code": "2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "abuse1",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "UPD2",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "RE-9284-1000",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -64,7 +69,12 @@
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "RE-9284-1000",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPD2",
       "reward": "Expired reward",
       "status": "expired"
     }
