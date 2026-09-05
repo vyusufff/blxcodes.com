@@ -1,9 +1,9 @@
 {
-  "title": "Anime Rails Codes (August 2026)",
+  "title": "Anime Rails Codes (September 2026)",
   "gameName": "Anime Rails",
   "description": "Working Anime Rails codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-30",
-  "checkedAt": "2026-08-30",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/anime-rails.webp",
   "placeId": 86628581581863,
@@ -34,17 +34,12 @@
       "status": "active"
     },
     {
-      "code": "EVENTFIX",
-      "reward": "Free Cash",
-      "status": "active"
-    },
-    {
       "code": "FUSE",
       "reward": "Free Cash",
       "status": "active"
     },
     {
-      "code": "JUDGEMENT",
+      "code": "FUTURERAID",
       "reward": "Free Cash",
       "status": "active"
     },
@@ -154,6 +149,11 @@
       "status": "expired"
     },
     {
+      "code": "EVENTFIX",
+      "reward": "Free Cash",
+      "status": "expired"
+    },
+    {
       "code": "FULLDRAGON",
       "reward": "Expired reward",
       "status": "expired"
@@ -171,6 +171,11 @@
     {
       "code": "GATE",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "JUDGEMENT",
+      "reward": "Free Cash",
       "status": "expired"
     },
     {

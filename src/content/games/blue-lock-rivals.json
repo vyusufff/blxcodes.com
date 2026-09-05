@@ -1,9 +1,9 @@
 {
-  "title": "Blue Lock Rivals Codes (August 2026)",
+  "title": "Blue Lock Rivals Codes (September 2026)",
   "gameName": "Blue Lock Rivals",
   "description": "Working Blue Lock Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-29",
-  "checkedAt": "2026-08-29",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/blue-lock-rivals.webp",
   "placeId": 18668065416,
@@ -29,18 +29,23 @@
   ],
   "codes": [
     {
-      "code": "EGODEFENSE",
+      "code": "NELKING",
+      "reward": "5 Lucky Spins and 5 Lucky Flows",
+      "status": "active"
+    },
+    {
+      "code": "NIKOSOON",
       "reward": "5 Lucky Flows",
       "status": "active"
     },
     {
-      "code": "KINGNEXTWEEK",
+      "code": "SORRYLOADING",
       "reward": "5 Lucky Spins",
       "status": "active"
     },
     {
-      "code": "UBERSTAKEOVER",
-      "reward": "5 Lucky Spins and 5 Lucky Flows",
+      "code": "UBERSMONTH",
+      "reward": "5 Lucky Spins",
       "status": "active"
     },
     {
@@ -79,6 +84,11 @@
       "status": "expired"
     },
     {
+      "code": "EGODEFENSE",
+      "reward": "5 Lucky Flows",
+      "status": "expired"
+    },
+    {
       "code": "FIXESLATERTODAY",
       "reward": "5 Lucky Style Spins",
       "status": "expired"
@@ -111,6 +121,11 @@
     {
       "code": "INSANETRAILERSOON",
       "reward": "5 Lucky Style Spins",
+      "status": "expired"
+    },
+    {
+      "code": "KINGNEXTWEEK",
+      "reward": "5 Lucky Spins",
       "status": "expired"
     },
     {
@@ -296,6 +311,11 @@
     {
       "code": "U20CUP",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UBERSTAKEOVER",
+      "reward": "5 Lucky Spins and 5 Lucky Flows",
       "status": "expired"
     },
     {

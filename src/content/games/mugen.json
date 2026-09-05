@@ -2,8 +2,8 @@
   "title": "Mugen Codes (September 2026)",
   "gameName": "Mugen",
   "description": "Working Mugen codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-01",
-  "checkedAt": "2026-09-01",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/mugen.webp",
   "placeId": 139598620873181,
@@ -29,6 +29,11 @@
   ],
   "codes": [
     {
+      "code": "500KLIKES",
+      "reward": "5 Lucky Spins and 50k yen",
+      "status": "active"
+    },
+    {
       "code": "CHASE",
       "reward": "Free Rewards",
       "status": "active"
@@ -36,6 +41,26 @@
     {
       "code": "JAPANDAYZ2",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "REAWAKENED",
+      "reward": "3 Free Wheel Spins",
+      "status": "active"
+    },
+    {
+      "code": "THANKYOUFORWAITING",
+      "reward": "15 Lucky Spins and 50k",
+      "status": "active"
+    },
+    {
+      "code": "UPDATEOUTNOW",
+      "reward": "7 Lucky Spins and 70k",
+      "status": "active"
+    },
+    {
+      "code": "WINDISNEXT",
+      "reward": "10 Lucky Spins and 100k",
       "status": "active"
     },
     {

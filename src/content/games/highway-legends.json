@@ -1,9 +1,9 @@
 {
-  "title": "Highway Legends Codes (August 2026)",
+  "title": "Highway Legends Codes (September 2026)",
   "gameName": "Highway Legends",
   "description": "Working Highway Legends codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-23",
-  "checkedAt": "2026-08-23",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/highway-legends.webp",
   "placeId": 15288629078,
@@ -71,6 +71,11 @@
     {
       "code": "20mvisits",
       "reward": "Redeem for 27k Cash",
+      "status": "active"
+    },
+    {
+      "code": "225klikes",
+      "reward": "Free Cash",
       "status": "active"
     },
     {

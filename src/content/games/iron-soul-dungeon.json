@@ -1,9 +1,9 @@
 {
-  "title": "Iron Soul Dungeon Codes (August 2026)",
+  "title": "Iron Soul Dungeon Codes (September 2026)",
   "gameName": "Iron Soul Dungeon",
   "description": "Working Iron Soul Dungeon codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-30",
-  "checkedAt": "2026-08-30",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/iron-soul-dungeon.webp",
   "placeId": 117533937949084,
@@ -69,21 +69,6 @@
       "status": "active"
     },
     {
-      "code": "IRONSOULWEEKEND18",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "IRONSOULWEEKEND19",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "IRONSOULWEEKEND20",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
       "code": "IRONSOULWEEKEND21",
       "reward": "Free Rewards",
       "status": "active"
@@ -94,8 +79,13 @@
       "status": "active"
     },
     {
-      "code": "MAP5COMESOON",
-      "reward": "Free Rewards",
+      "code": "IRONSOULWEEKEND23",
+      "reward": "3 Race Reroll",
+      "status": "active"
+    },
+    {
+      "code": "MAP5COMING",
+      "reward": "300 Origin",
       "status": "active"
     },
     {
@@ -104,33 +94,13 @@
       "status": "active"
     },
     {
-      "code": "NEWMAPCOMESOON",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
       "code": "NEWMAPEXPAND",
       "reward": "2 Race Reroll and 200 Origin Shards",
       "status": "active"
     },
     {
-      "code": "ODYSSEY",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "ROYALCIRCUS",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
       "code": "SCYTHEWEAPON",
       "reward": "200 Origin Shards and 2 Race Reroll",
-      "status": "active"
-    },
-    {
-      "code": "SEASON2ENDING",
-      "reward": "Free Rewards",
       "status": "active"
     },
     {
@@ -149,17 +119,7 @@
       "status": "active"
     },
     {
-      "code": "SEASON3EXPAND",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
       "code": "SEASON3EXPANSION",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "SEASON3LIMITED",
       "reward": "Free Rewards",
       "status": "active"
     },
@@ -249,8 +209,23 @@
       "status": "expired"
     },
     {
+      "code": "IRONSOULWEEKEND18",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "IRONSOULWEEKEND19",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "IRONSOULWEEKEND2",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "IRONSOULWEEKEND20",
+      "reward": "Free Rewards",
       "status": "expired"
     },
     {
@@ -289,6 +264,11 @@
       "status": "expired"
     },
     {
+      "code": "MAP5COMESOON",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "MEMBER100",
       "reward": "Expired reward",
       "status": "expired"
@@ -324,13 +304,43 @@
       "status": "expired"
     },
     {
+      "code": "NEWMAPCOMESOON",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "NEWRELEASE",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
+      "code": "ODYSSEY",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "ReWritten",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ROYALCIRCUS",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "SEASON2ENDING",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "SEASON3EXPAND",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "SEASON3LIMITED",
+      "reward": "Free Rewards",
       "status": "expired"
     },
     {

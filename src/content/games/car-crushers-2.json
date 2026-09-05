@@ -1,9 +1,9 @@
 {
-  "title": "Car Crushers 2 Codes (August 2026)",
+  "title": "Car Crushers 2 Codes (September 2026)",
   "gameName": "Car Crushers 2",
   "description": "Working Car Crushers 2 codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-23",
-  "checkedAt": "2026-08-23",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/car-crushers-2.webp",
   "placeId": 654732683,
@@ -121,6 +121,11 @@
     {
       "code": "VOLCANICSKILL",
       "reward": "300 Credits",
+      "status": "active"
+    },
+    {
+      "code": "WPOWER",
+      "reward": "Free Credits",
       "status": "active"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "title": "Wanted Codes (August 2026)",
+  "title": "Wanted Codes (September 2026)",
   "gameName": "Wanted",
   "description": "Working Wanted codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-16",
-  "checkedAt": "2026-08-16",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/wanted.webp",
   "placeId": 14438406081,
@@ -61,6 +61,11 @@
     {
       "code": "FREECRATE",
       "reward": "Vehicle Crate",
+      "status": "active"
+    },
+    {
+      "code": "MOTORCYCLE",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {
