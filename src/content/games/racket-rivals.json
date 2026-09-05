@@ -2,8 +2,8 @@
   "title": "Racket Rivals Codes (September 2026)",
   "gameName": "Racket Rivals",
   "description": "Working Racket Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-01",
-  "checkedAt": "2026-09-01",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/racket-rivals.webp",
   "placeId": 90906407195271,
@@ -29,18 +29,18 @@
   ],
   "codes": [
     {
-      "code": "CASTLE",
-      "reward": "1500 Yen",
-      "status": "active"
-    },
-    {
       "code": "LOW",
       "reward": "1500 Yen",
       "status": "active"
     },
     {
-      "code": "RACE",
-      "reward": "1500 Yen",
+      "code": "RANKED5",
+      "reward": "750 Yen",
+      "status": "active"
+    },
+    {
+      "code": "SEASON5",
+      "reward": "750 Yen",
       "status": "active"
     },
     {
@@ -65,6 +65,11 @@
     },
     {
       "code": "CARD",
+      "reward": "1500 Yen",
+      "status": "expired"
+    },
+    {
+      "code": "CASTLE",
       "reward": "1500 Yen",
       "status": "expired"
     },
@@ -156,6 +161,11 @@
     {
       "code": "PHARAOH",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RACE",
+      "reward": "1500 Yen",
       "status": "expired"
     },
     {

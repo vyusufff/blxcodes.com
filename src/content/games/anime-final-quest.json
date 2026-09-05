@@ -2,8 +2,8 @@
   "title": "Anime Final Quest Codes (September 2026)",
   "gameName": "Anime Final Quest",
   "description": "Working Anime Final Quest codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-01",
-  "checkedAt": "2026-09-01",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/anime-final-quest.webp",
   "placeId": 100744519298647,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "BIGBUGFIXUPDATE",
+      "reward": "100 Gear Lucky Spins, 100 Weapon Lucky Spins, 1.5M Gold, 150 Runes, 20 Raid Tickets, 10 Statue Crowns",
+      "status": "active"
+    },
     {
       "code": "NEWTRAITRARITY",
       "reward": "300 Runes",

@@ -1,9 +1,9 @@
 {
-  "title": "Death Ball Codes (August 2026)",
+  "title": "Death Ball Codes (September 2026)",
   "gameName": "Death Ball",
   "description": "Working Death Ball codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-29",
-  "checkedAt": "2026-08-29",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/death-ball.webp",
   "placeId": 15002061926,
@@ -46,6 +46,11 @@
     {
       "code": "ASCEND",
       "reward": "50,000 Gems",
+      "status": "active"
+    },
+    {
+      "code": "AXLE",
+      "reward": "30,000 Gems",
       "status": "active"
     },
     {
@@ -241,6 +246,11 @@
     {
       "code": "SUPERNOVASOON",
       "reward": "25,000 Gems",
+      "status": "active"
+    },
+    {
+      "code": "TIMELESS",
+      "reward": "500 Crystals",
       "status": "active"
     },
     {

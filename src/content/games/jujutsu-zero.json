@@ -1,9 +1,9 @@
 {
-  "title": "Jujutsu Zero Codes (August 2026)",
+  "title": "Jujutsu Zero Codes (September 2026)",
   "gameName": "Jujutsu Zero",
   "description": "Working Jujutsu Zero codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-29",
-  "checkedAt": "2026-08-29",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/jujutsu-zero.webp",
   "placeId": 128451689942376,
@@ -29,13 +29,13 @@
   ],
   "codes": [
     {
-      "code": "190KLIKES",
-      "reward": "3500 Lumens, 250 Cursed Crystals, and 35 Clan Rolls",
+      "code": "200KLIKES",
+      "reward": "500 Cursed Crystals, 3.5k Lumens, and 50 Clan Rolls",
       "status": "active"
     },
     {
-      "code": "200KLIKES",
-      "reward": "500 Cursed Crystals, 3.5k Lumens, and 50 Clan Rolls",
+      "code": "210KLIKES",
+      "reward": "3.5k Lumens, 300 Crystals, and 35 Clan Rolls",
       "status": "active"
     },
     {
@@ -44,13 +44,13 @@
       "status": "active"
     },
     {
-      "code": "AWAKENED",
-      "reward": "1000 Cursed Crystals, 5k Lumens, and 50 Clan Rolls",
+      "code": "CODE_LIMITED_EVENT!!",
+      "reward": "500 Cursed Crystals and 6 Shadow Essence",
       "status": "active"
     },
     {
-      "code": "CODE_LIMITED_EVENT!!",
-      "reward": "500 Cursed Crystals and 6 Shadow Essence",
+      "code": "INFINITEVOID",
+      "reward": "1k Crystals, 5k Lumens, and 50 Clan Rolls",
       "status": "active"
     },
     {
@@ -104,6 +104,11 @@
       "status": "expired"
     },
     {
+      "code": "190KLIKES",
+      "reward": "3500 Lumens, 250 Cursed Crystals, and 35 Clan Rolls",
+      "status": "expired"
+    },
+    {
       "code": "20KLIKES",
       "reward": "Expired reward",
       "status": "expired"
@@ -131,6 +136,11 @@
     {
       "code": "90smthKmembersYAY",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "AWAKENED",
+      "reward": "1000 Cursed Crystals, 5k Lumens, and 50 Clan Rolls",
       "status": "expired"
     },
     {

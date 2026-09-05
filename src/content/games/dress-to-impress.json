@@ -1,9 +1,9 @@
 {
-  "title": "Dress to Impress Codes (July 2026)",
+  "title": "Dress to Impress Codes (September 2026)",
   "gameName": "Dress to Impress",
   "description": "Working Dress to Impress codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/dress-to-impress.webp",
   "placeId": 15101393044,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "10BILLION",
+      "reward": "Heart Fork item",
+      "status": "active"
+    },
     {
       "code": "1CON1CF4TMA",
       "reward": "School uniform",

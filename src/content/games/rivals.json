@@ -2,8 +2,8 @@
   "title": "Rivals Codes (September 2026)",
   "gameName": "Rivals",
   "description": "Working Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-01",
-  "checkedAt": "2026-09-01",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/rivals.webp",
   "placeId": 17625359962,
@@ -49,8 +49,8 @@
       "status": "active"
     },
     {
-      "code": "COMMUNITY24",
-      "reward": "1 Community Wrap",
+      "code": "COMMUNITY25",
+      "reward": "x1 Community Wrap",
       "status": "active"
     },
     {
@@ -126,6 +126,11 @@
     {
       "code": "COMMUNITY23",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "COMMUNITY24",
+      "reward": "1 Community Wrap",
       "status": "expired"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "title": "Anime Apocalypse Codes (August 2026)",
+  "title": "Anime Apocalypse Codes (September 2026)",
   "gameName": "Anime Apocalypse",
   "description": "Working Anime Apocalypse codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-29",
-  "checkedAt": "2026-08-29",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/anime-apocalypse.webp",
   "placeId": 140409475718339,
@@ -29,12 +29,37 @@
   ],
   "codes": [
     {
+      "code": "GUILDBATTLES",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
+      "status": "active"
+    },
+    {
+      "code": "GUILDWARS",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
+      "status": "active"
+    },
+    {
       "code": "INTHESHADOWS",
       "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "active"
     },
     {
       "code": "SHADOWMONARCH",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
+      "status": "active"
+    },
+    {
+      "code": "SUBARU",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
+      "status": "active"
+    },
+    {
+      "code": "WORLDBOSS",
+      "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
+      "status": "active"
+    },
+    {
+      "code": "ZOLTRAAK",
       "reward": "Coins, Raid tickets, Trait rerolls, Lucky ability spins, Lucky gadget spins, and Double drops and Double coins boosts",
       "status": "active"
     },
