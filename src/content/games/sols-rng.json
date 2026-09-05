@@ -2,8 +2,8 @@
   "title": "Sol&#8217;s RNG Codes (September 2026)",
   "gameName": "Sol&#8217;s RNG",
   "description": "Working Sol&#8217;s RNG codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-01",
-  "checkedAt": "2026-09-01",
+  "updatedAt": "2026-09-05",
+  "checkedAt": "2026-09-05",
   "featured": true,
   "cover": "/images/games/card/sols-rng.webp",
   "placeId": 15532962292,
@@ -54,7 +54,17 @@
       "status": "active"
     },
     {
+      "code": "SRY4DEALY",
+      "reward": "20 Potion and 5 Rare Potion Chests",
+      "status": "active"
+    },
+    {
       "code": "SUMMER2026",
+      "reward": "20 Potion and 5 Rare Potion Chests",
+      "status": "active"
+    },
+    {
+      "code": "UPD20260905",
       "reward": "20 Potion and 5 Rare Potion Chests",
       "status": "active"
     },
