@@ -1,9 +1,9 @@
 {
-  "title": "Survive Zombie Arena Codes (August 2026)",
+  "title": "Survive Zombie Arena Codes (September 2026)",
   "gameName": "Survive Zombie Arena",
   "description": "Working Survive Zombie Arena codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-09-06",
+  "checkedAt": "2026-09-06",
   "featured": true,
   "cover": "/images/games/card/survive-zombie-arena.webp",
   "placeId": 114204398207377,
@@ -84,6 +84,11 @@
       "status": "active"
     },
     {
+      "code": "QolSwag",
+      "reward": "2x Pirate Pass XP for 24 hours",
+      "status": "active"
+    },
+    {
       "code": "Swaggin",
       "reward": "2x credits for 12 hours and a Pirate Chest",
       "status": "active"
@@ -101,6 +106,11 @@
     {
       "code": "UPDATEDAYSWAG",
       "reward": "1,069 Credits and 1 Bloodmoon Crate",
+      "status": "active"
+    },
+    {
+      "code": "Viciboy",
+      "reward": "2x Pirate Pass XP for 24 hours",
       "status": "active"
     },
     {
