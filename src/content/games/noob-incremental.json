@@ -1,9 +1,9 @@
 {
-  "title": "Noob Incremental Codes (August 2026)",
+  "title": "Noob Incremental Codes (September 2026)",
   "gameName": "Noob Incremental",
   "description": "Working Noob Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-21",
-  "checkedAt": "2026-08-21",
+  "updatedAt": "2026-09-06",
+  "checkedAt": "2026-09-06",
   "featured": true,
   "cover": "/images/games/card/noob-incremental.webp",
   "placeId": 76911729991355,
@@ -71,6 +71,11 @@
     {
       "code": "SUPERLITTLEUPDATE",
       "reward": "45 Card Token",
+      "status": "active"
+    },
+    {
+      "code": "UNDERWATERCOMINGSOON",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {

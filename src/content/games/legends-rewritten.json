@@ -1,9 +1,9 @@
 {
-  "title": "Legends Re:Written Codes (July 2026)",
+  "title": "Legends Re:Written Codes (September 2026)",
   "gameName": "Legends Re:Written",
   "description": "Working Legends Re:Written codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-06",
+  "checkedAt": "2026-09-06",
   "featured": true,
   "cover": "/images/games/card/legends-rewritten.webp",
   "placeId": 6198225400,
@@ -156,6 +156,11 @@
     {
       "code": "SUMMER2K16",
       "reward": "20 blessing rolls",
+      "status": "active"
+    },
+    {
+      "code": "WORLD3RELEASE",
+      "reward": "15 Blessing Rolls",
       "status": "active"
     },
     {

@@ -2,8 +2,8 @@
   "title": "Immortality Incremental Codes (September 2026)",
   "gameName": "Immortality Incremental",
   "description": "Working Immortality Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-03",
-  "checkedAt": "2026-09-03",
+  "updatedAt": "2026-09-06",
+  "checkedAt": "2026-09-06",
   "featured": true,
   "cover": "/images/games/card/immortality-incremental.webp",
   "placeId": 75317862071711,
@@ -126,6 +126,11 @@
     {
       "code": "CRYPTDUNGEON",
       "reward": "5 of all potions",
+      "status": "active"
+    },
+    {
+      "code": "DAOPATH",
+      "reward": "25 Tickets and 1 Potion of everything",
       "status": "active"
     },
     {
@@ -314,6 +319,11 @@
       "status": "active"
     },
     {
+      "code": "UPDATE6",
+      "reward": "20 Tickets and 5 of each Potion",
+      "status": "active"
+    },
+    {
       "code": "UPDATE7",
       "reward": "30 Jade",
       "status": "active"
@@ -324,6 +334,11 @@
       "status": "active"
     },
     {
+      "code": "WEAREBACK",
+      "reward": "20 Jade",
+      "status": "active"
+    },
+    {
       "code": "WORLD4",
       "reward": "4 tickets, 4 Jade, and 4 of each potion",
       "status": "active"
@@ -331,6 +346,11 @@
     {
       "code": "WORLD5",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "WORLD7",
+      "reward": "20 Jades",
       "status": "active"
     },
     {

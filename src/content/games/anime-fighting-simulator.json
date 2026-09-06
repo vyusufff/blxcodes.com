@@ -1,9 +1,9 @@
 {
-  "title": "Anime Fighting Simulator Codes (August 2026)",
+  "title": "Anime Fighting Simulator Codes (September 2026)",
   "gameName": "Anime Fighting Simulator",
   "description": "Working Anime Fighting Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-30",
-  "checkedAt": "2026-08-30",
+  "updatedAt": "2026-09-06",
+  "checkedAt": "2026-09-06",
   "featured": true,
   "cover": "/images/games/card/anime-fighting-simulator.webp",
   "placeId": 100429474155186,
@@ -161,6 +161,11 @@
     {
       "code": "TOURNEYFIX",
       "reward": "1 Temporary Server Boost, 4 Stat Boosts, 4 Chikara Boosts, and 2 Tensei Shard Boosts",
+      "status": "active"
+    },
+    {
+      "code": "TRIPLET",
+      "reward": "1000 Tower Tokens, 2 Shifting Serums, 4 Training Speed Boost, 4 Stat Boost, and 2000 Tensei Shards",
       "status": "active"
     },
     {
