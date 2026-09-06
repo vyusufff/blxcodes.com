@@ -1,9 +1,9 @@
 {
-  "title": "Fish An Anime Rng Codes (August 2026)",
+  "title": "Fish An Anime Rng Codes (September 2026)",
   "gameName": "Fish An Anime Rng",
   "description": "Working Fish An Anime Rng codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-25",
-  "checkedAt": "2026-08-25",
+  "updatedAt": "2026-09-06",
+  "checkedAt": "2026-09-06",
   "featured": true,
   "cover": "/images/games/card/fish-an-anime-rng.webp",
   "placeId": 74729868188364,
@@ -29,43 +29,58 @@
   ],
   "codes": [
     {
-      "code": "ECLIPSE",
-      "reward": "5k gems and potions (!)",
+      "code": "10KCCU",
+      "reward": "one potion pack I",
       "status": "active"
     },
     {
-      "code": "SACRIFICE",
-      "reward": "5k gems and potions (!)",
+      "code": "10KMEMBERS",
+      "reward": "one potion pack I",
       "status": "active"
     },
     {
-      "code": "2kCCU",
-      "reward": "5k gems and five cosmic boxes",
+      "code": "20KLIKES",
+      "reward": "five cosmic boxes and three potion pack I",
+      "status": "active"
+    },
+    {
+      "code": "Forgotten",
+      "reward": "five potion pack I",
+      "status": "active"
+    },
+    {
+      "code": "THANKYOUEVERYONE",
+      "reward": "three potion pack II",
       "status": "active"
     },
     {
       "code": "1000MEMBERS",
       "reward": "5k gems and five cosmic boxes",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "1kLIKES",
       "reward": "5k gems and five cosmic boxes",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "ANGELIA",
-      "reward": "5k gems and five cosmic boxes",
-      "status": "active"
+      "code": "2026",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
-      "code": "EXODIA",
+      "code": "2kCCU",
       "reward": "5k gems and five cosmic boxes",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "500MEMBERS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "ANGELIA",
+      "reward": "5k gems and five cosmic boxes",
       "status": "expired"
     },
     {
@@ -74,13 +89,23 @@
       "status": "expired"
     },
     {
+      "code": "ECLIPSE",
+      "reward": "5k gems and potions (!)",
+      "status": "expired"
+    },
+    {
+      "code": "EXODIA",
+      "reward": "5k gems and five cosmic boxes",
+      "status": "expired"
+    },
+    {
       "code": "PCGamesN",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "2026",
-      "reward": "Expired reward",
+      "code": "SACRIFICE",
+      "reward": "5k gems and potions (!)",
       "status": "expired"
     }
   ]
