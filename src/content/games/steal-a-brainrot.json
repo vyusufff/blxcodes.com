@@ -1,8 +1,8 @@
 {
-  "title": "Steal a Brainrot Codes (July 2026)",
+  "title": "Steal a Brainrot Codes (September 2026)",
   "gameName": "Steal a Brainrot",
   "description": "Working Steal a Brainrot (SAB) codes for brainrots, luck boosts, and limited rewards.",
-  "updatedAt": "2026-07-29",
+  "updatedAt": "2026-09-06",
   "featured": true,
   "cover": "/images/games/card/steal-a-brainrot.webp",
   "placeId": 109983668079237,
@@ -27,25 +27,111 @@
     }
   ],
   "codes": [
-    { "code": "BESTBRAINROTEVER", "reward": "La Vacca Saturno Saturnita (spawns near Red Carpet — bring cash)", "status": "active" },
-    { "code": "MAYMEOWLJANDEL", "reward": "Meowl (riddle / limited stock)", "status": "active" },
-    { "code": "CANDY24SAMMY", "reward": "Strawberry Elephant (riddle / limited stock)", "status": "active" },
-    { "code": "DIVINECURSED", "reward": "Strawberry Elephant (riddle / limited stock)", "status": "active" },
-    { "code": "ILOVEFOOD123", "reward": "Kraken (limited stock — exclusive)", "status": "expired" },
-    { "code": "SUMMERUPD3", "reward": "Rocketini Frostini (75%) / Frullato Framingo (25%) — limited stock", "status": "expired" },
-    { "code": "NEEDTHIS4CRAFT333", "reward": "Chicleteira Surfeiteira (limited stock)", "status": "expired" },
-    { "code": "OCTOBLOCK555", "reward": "Octo Lucky Block (limited stock)", "status": "expired" },
-    { "code": "FREEOCTOBLOCK777", "reward": "Octo Lucky Block (limited stock)", "status": "expired" },
-    { "code": "FREEOCTO555", "reward": "Octo Lucky Block (limited stock)", "status": "expired" },
-    { "code": "FREEPREMIUMOCTO777", "reward": "Premium Octo Lucky Block (limited stock)", "status": "expired" },
-    { "code": "WSUMMERUPD1", "reward": "Premium Octo Lucky Block (limited stock)", "status": "expired" },
-    { "code": "FREEOCTOBASE333W", "reward": "Octo Base (limited stock)", "status": "expired" },
-    { "code": "WAVERIDER4FREELOL", "reward": "Waverider (limited stock)", "status": "expired" },
-    { "code": "FREE500DRAGS", "reward": "Dragon Cannelloni (limited stock)", "status": "expired" },
-    { "code": "JOHNPORKDAPIGGY", "reward": "John Pork (limited stock)", "status": "expired" },
-    { "code": "CODESAREREAL321", "reward": "John Pork (limited stock)", "status": "expired" },
-    { "code": "L2EXPLOITERS", "reward": "John Pork (limited stock)", "status": "expired" },
-    { "code": "IMANEGG", "reward": "Strawberry Elephant (limited stock)", "status": "expired" },
-    { "code": "PIZZAISYUM", "reward": "Pizza And Ranch (limited stock)", "status": "expired" }
-  ]
+    {
+      "code": "BESTBRAINROTEVER",
+      "reward": "La Vacca Saturno Saturnita (spawns near Red Carpet — bring cash)",
+      "status": "active"
+    },
+    {
+      "code": "CANDY24SAMMY",
+      "reward": "Strawberry Elephant (riddle / limited stock)",
+      "status": "active"
+    },
+    {
+      "code": "DIVINECURSED",
+      "reward": "Strawberry Elephant (riddle / limited stock)",
+      "status": "active"
+    },
+    {
+      "code": "Halloween",
+      "reward": "The Game requires PlayStation Plus for online multiplayer on PS5, while the game itself is sold separately.",
+      "status": "active"
+    },
+    {
+      "code": "MAYMEOWLJANDEL",
+      "reward": "Meowl (riddle / limited stock)",
+      "status": "active"
+    },
+    {
+      "code": "CODESAREREAL321",
+      "reward": "John Pork (limited stock)",
+      "status": "expired"
+    },
+    {
+      "code": "FREE500DRAGS",
+      "reward": "Dragon Cannelloni (limited stock)",
+      "status": "expired"
+    },
+    {
+      "code": "FREEOCTO555",
+      "reward": "Octo Lucky Block (limited stock)",
+      "status": "expired"
+    },
+    {
+      "code": "FREEOCTOBASE333W",
+      "reward": "Octo Base (limited stock)",
+      "status": "expired"
+    },
+    {
+      "code": "FREEOCTOBLOCK777",
+      "reward": "Octo Lucky Block (limited stock)",
+      "status": "expired"
+    },
+    {
+      "code": "FREEPREMIUMOCTO777",
+      "reward": "Premium Octo Lucky Block (limited stock)",
+      "status": "expired"
+    },
+    {
+      "code": "ILOVEFOOD123",
+      "reward": "Kraken (limited stock — exclusive)",
+      "status": "expired"
+    },
+    {
+      "code": "IMANEGG",
+      "reward": "Strawberry Elephant (limited stock)",
+      "status": "expired"
+    },
+    {
+      "code": "JOHNPORKDAPIGGY",
+      "reward": "John Pork (limited stock)",
+      "status": "expired"
+    },
+    {
+      "code": "L2EXPLOITERS",
+      "reward": "John Pork (limited stock)",
+      "status": "expired"
+    },
+    {
+      "code": "NEEDTHIS4CRAFT333",
+      "reward": "Chicleteira Surfeiteira (limited stock)",
+      "status": "expired"
+    },
+    {
+      "code": "OCTOBLOCK555",
+      "reward": "Octo Lucky Block (limited stock)",
+      "status": "expired"
+    },
+    {
+      "code": "PIZZAISYUM",
+      "reward": "Pizza And Ranch (limited stock)",
+      "status": "expired"
+    },
+    {
+      "code": "SUMMERUPD3",
+      "reward": "Rocketini Frostini (75%) / Frullato Framingo (25%) — limited stock",
+      "status": "expired"
+    },
+    {
+      "code": "WAVERIDER4FREELOL",
+      "reward": "Waverider (limited stock)",
+      "status": "expired"
+    },
+    {
+      "code": "WSUMMERUPD1",
+      "reward": "Premium Octo Lucky Block (limited stock)",
+      "status": "expired"
+    }
+  ],
+  "checkedAt": "2026-09-06"
 }

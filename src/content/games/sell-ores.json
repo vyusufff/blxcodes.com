@@ -2,8 +2,8 @@
   "title": "Sell Ores Codes (September 2026)",
   "gameName": "Sell Ores",
   "description": "Working Sell Ores codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-01",
-  "checkedAt": "2026-09-01",
+  "updatedAt": "2026-09-06",
+  "checkedAt": "2026-09-06",
   "featured": true,
   "cover": "/images/games/card/sell-ores.webp",
   "placeId": 122572082932179,
@@ -46,6 +46,11 @@
     {
       "code": "EXPANSION",
       "reward": "a Small Growth gem",
+      "status": "active"
+    },
+    {
+      "code": "FINALE",
+      "reward": "an hour time skip (!)",
       "status": "active"
     },
     {
