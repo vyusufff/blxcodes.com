@@ -2,8 +2,8 @@
   "title": "Ride Storm Codes (September 2026)",
   "gameName": "Ride Storm",
   "description": "Working Ride Storm codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-03",
-  "checkedAt": "2026-09-03",
+  "updatedAt": "2026-09-07",
+  "checkedAt": "2026-09-07",
   "featured": true,
   "cover": "/images/games/card/ride-storm.webp",
   "placeId": 12593620250,
@@ -29,28 +29,8 @@
   ],
   "codes": [
     {
-      "code": "BIGUPDATE",
-      "reward": "5k cash",
-      "status": "active"
-    },
-    {
-      "code": "CUSTOMIZATION",
-      "reward": "10k cash (!)",
-      "status": "active"
-    },
-    {
       "code": "MOTOGP",
       "reward": "free cash (!)",
-      "status": "active"
-    },
-    {
-      "code": "REVAMP2026",
-      "reward": "15k cash",
-      "status": "active"
-    },
-    {
-      "code": "TUNING",
-      "reward": "10k cash (!)",
       "status": "active"
     },
     {
@@ -159,8 +139,18 @@
       "status": "expired"
     },
     {
+      "code": "BIGUPDATE",
+      "reward": "5k cash",
+      "status": "expired"
+    },
+    {
       "code": "BUGSFIXED",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CUSTOMIZATION",
+      "reward": "10k cash (!)",
       "status": "expired"
     },
     {
@@ -191,6 +181,11 @@
     {
       "code": "REPORTBUGS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "REVAMP2026",
+      "reward": "15k cash",
       "status": "expired"
     },
     {
@@ -226,6 +221,11 @@
     {
       "code": "THANKSFORPLAYING",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "TUNING",
+      "reward": "10k cash (!)",
       "status": "expired"
     },
     {

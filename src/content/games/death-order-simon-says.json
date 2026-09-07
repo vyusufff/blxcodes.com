@@ -2,8 +2,8 @@
   "title": "Death Order Simon Says Codes (September 2026)",
   "gameName": "Death Order Simon Says",
   "description": "Working Death Order Simon Says codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-01",
-  "checkedAt": "2026-09-01",
+  "updatedAt": "2026-09-07",
+  "checkedAt": "2026-09-07",
   "featured": true,
   "cover": "/images/games/card/death-order-simon-says.webp",
   "placeId": 18666738837,
@@ -66,6 +66,11 @@
     {
       "code": "TERRVR",
       "reward": "1k cash",
+      "status": "active"
+    },
+    {
+      "code": "VOIDAPOP",
+      "reward": "1k cash (!)",
       "status": "active"
     },
     {
