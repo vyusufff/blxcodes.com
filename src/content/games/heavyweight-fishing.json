@@ -2,8 +2,8 @@
   "title": "Heavyweight Fishing Codes (September 2026)",
   "gameName": "Heavyweight Fishing",
   "description": "Working Heavyweight Fishing codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-06",
-  "checkedAt": "2026-09-06",
+  "updatedAt": "2026-09-07",
+  "checkedAt": "2026-09-07",
   "featured": true,
   "cover": "/images/games/card/heavyweight-fishing.webp",
   "placeId": 98502499119821,
@@ -34,8 +34,8 @@
       "status": "active"
     },
     {
-      "code": "17KActives",
-      "reward": "Free Rewards ( , require level 50)",
+      "code": "19KActives",
+      "reward": "Free Rewards ( , require level 200)",
       "status": "active"
     },
     {
@@ -86,6 +86,11 @@
     {
       "code": "Enzo",
       "reward": "100 Trait Reroll (level 50)",
+      "status": "active"
+    },
+    {
+      "code": "PVP",
+      "reward": "Free Rewards ( , require level 100)",
       "status": "active"
     },
     {
@@ -146,6 +151,11 @@
     {
       "code": "16MVisits",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "17KActives",
+      "reward": "Free Rewards ( , require level 50)",
       "status": "expired"
     },
     {

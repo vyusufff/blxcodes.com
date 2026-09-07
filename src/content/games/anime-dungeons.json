@@ -1,9 +1,9 @@
 {
-  "title": "Anime Dungeons Codes (August 2026)",
+  "title": "Anime Dungeons Codes (September 2026)",
   "gameName": "Anime Dungeons",
   "description": "Working Anime Dungeons codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-19",
-  "checkedAt": "2026-08-19",
+  "updatedAt": "2026-09-07",
+  "checkedAt": "2026-09-07",
   "featured": true,
   "cover": "/images/games/card/anime-dungeons.webp",
   "placeId": 70863683083739,
@@ -29,8 +29,8 @@
   ],
   "codes": [
     {
-      "code": "15KLIKES",
-      "reward": "ten trait rerolls, ten stat rerolls, and 500 gems",
+      "code": "30KLIKES",
+      "reward": "25 trait rolls, 2k gems, and ten stat rolls (!)",
       "status": "active"
     },
     {
@@ -39,29 +39,49 @@
       "status": "active"
     },
     {
+      "code": "5MVISITS",
+      "reward": "20 trait rolls and 2.5k gems",
+      "status": "active"
+    },
+    {
+      "code": "DUNGEON5",
+      "reward": "20 trait rolls and 2k gems",
+      "status": "active"
+    },
+    {
+      "code": "JJKTRIAL",
+      "reward": "free rerolls and gems",
+      "status": "active"
+    },
+    {
+      "code": "SAO",
+      "reward": "15 trait rolls, 500 gems, and three wheel spins (!)",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE2",
+      "reward": "20 trait rolls, 2k gems, and five wheel spins",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE3",
+      "reward": "free rerolls and gems (!)",
+      "status": "active"
+    },
+    {
+      "code": "15KLIKES",
+      "reward": "ten trait rerolls, ten stat rerolls, and 500 gems",
+      "status": "expired"
+    },
+    {
       "code": "1MVISITS",
       "reward": "50 trait rerolls and 2.5k gems",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "DELAY",
-      "reward": "2.5k gems, 30 trait rerolls, and 20 stat rerolls",
-      "status": "active"
-    },
-    {
-      "code": "UPDATE1",
-      "reward": "2k gems, 20 trait rerolls, and 20 stat rerolls",
-      "status": "active"
-    },
-    {
-      "code": "5KLIKES",
-      "reward": "500 gems, ten trait rerolls, and ten stat rerolls",
-      "status": "active"
-    },
-    {
-      "code": "800KVISITS",
-      "reward": "500 gems, ten trait rerolls, and ten stat rerolls",
-      "status": "active"
+      "code": "2026",
+      "reward": "Expired reward",
+      "status": "expired"
     },
     {
       "code": "300KVISITS",
@@ -74,13 +94,23 @@
       "status": "expired"
     },
     {
+      "code": "5KLIKES",
+      "reward": "500 gems, ten trait rerolls, and ten stat rerolls",
+      "status": "expired"
+    },
+    {
+      "code": "800KVISITS",
+      "reward": "500 gems, ten trait rerolls, and ten stat rerolls",
+      "status": "expired"
+    },
+    {
       "code": "ALLAGES",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "THANKYOU",
-      "reward": "Expired reward",
+      "code": "DELAY",
+      "reward": "2.5k gems, 30 trait rerolls, and 20 stat rerolls",
       "status": "expired"
     },
     {
@@ -94,8 +124,13 @@
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "THANKYOU",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE1",
+      "reward": "2k gems, 20 trait rerolls, and 20 stat rerolls",
       "status": "expired"
     }
   ]
