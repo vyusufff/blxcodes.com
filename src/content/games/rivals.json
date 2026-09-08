@@ -2,8 +2,8 @@
   "title": "Rivals Codes (September 2026)",
   "gameName": "Rivals",
   "description": "Working Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-05",
-  "checkedAt": "2026-09-05",
+  "updatedAt": "2026-09-08",
+  "checkedAt": "2026-09-08",
   "featured": true,
   "cover": "/images/games/card/rivals.webp",
   "placeId": 17625359962,
@@ -39,16 +39,6 @@
       "status": "active"
     },
     {
-      "code": "CANNONBALLLLL",
-      "reward": "5 Goodie Bags",
-      "status": "active"
-    },
-    {
-      "code": "COCONUTBONK",
-      "reward": "250 Pearls",
-      "status": "active"
-    },
-    {
       "code": "COMMUNITY25",
       "reward": "x1 Community Wrap",
       "status": "active"
@@ -59,18 +49,8 @@
       "status": "active"
     },
     {
-      "code": "FREE196",
+      "code": "FREE197",
       "reward": "3 Keys",
-      "status": "active"
-    },
-    {
-      "code": "IMMELTINGHELP",
-      "reward": "2 Keys",
-      "status": "active"
-    },
-    {
-      "code": "RIVALSSUMMER",
-      "reward": "3 Tropical Chests",
       "status": "active"
     },
     {
@@ -81,6 +61,16 @@
     {
       "code": "BESTSHOOTERGAME",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "CANNONBALLLLL",
+      "reward": "5 Goodie Bags",
+      "status": "expired"
+    },
+    {
+      "code": "COCONUTBONK",
+      "reward": "250 Pearls",
       "status": "expired"
     },
     {
@@ -279,8 +269,18 @@
       "status": "expired"
     },
     {
+      "code": "FREE196",
+      "reward": "3 Keys",
+      "status": "expired"
+    },
+    {
       "code": "HAPPYRIVALSWEEN",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "IMMELTINGHELP",
+      "reward": "2 Keys",
       "status": "expired"
     },
     {
@@ -291,6 +291,11 @@
     {
       "code": "RIVALS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "RIVALSSUMMER",
+      "reward": "3 Tropical Chests",
       "status": "expired"
     },
     {

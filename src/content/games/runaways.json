@@ -1,9 +1,9 @@
 {
-  "title": "Runaways Codes (August 2026)",
+  "title": "Runaways Codes (September 2026)",
   "gameName": "Runaways",
   "description": "Working Runaways codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-26",
-  "checkedAt": "2026-08-26",
+  "updatedAt": "2026-09-08",
+  "checkedAt": "2026-09-08",
   "featured": true,
   "cover": "/images/games/card/runaways.webp",
   "placeId": 118418618261207,
@@ -29,13 +29,18 @@
   ],
   "codes": [
     {
-      "code": "SUPERCAT",
-      "reward": "one pistol",
+      "code": "BOTCHER",
+      "reward": "2.5k credz (!)",
       "status": "active"
     },
     {
       "code": "RUN",
       "reward": "1k credz",
+      "status": "active"
+    },
+    {
+      "code": "SUPERCAT",
+      "reward": "one pistol",
       "status": "active"
     }
   ]
