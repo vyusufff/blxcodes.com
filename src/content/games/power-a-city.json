@@ -2,8 +2,8 @@
   "title": "Power A City Codes (September 2026)",
   "gameName": "Power A City",
   "description": "Working Power A City codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-02",
-  "checkedAt": "2026-09-02",
+  "updatedAt": "2026-09-09",
+  "checkedAt": "2026-09-09",
   "featured": true,
   "cover": "/images/games/card/power-a-city.webp",
   "placeId": 127475054933484,
@@ -29,7 +29,7 @@
   ],
   "codes": [
     {
-      "code": "67BLACK67",
+      "code": "6DOCKS",
       "reward": "cash and power ups (!)",
       "status": "active"
     },
@@ -46,6 +46,11 @@
     {
       "code": "3DS",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "67BLACK67",
+      "reward": "cash and power ups (!)",
       "status": "expired"
     }
   ]
