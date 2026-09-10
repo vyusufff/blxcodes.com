@@ -1,9 +1,9 @@
 {
-  "title": "Wonderland Codes (August 2026)",
+  "title": "Wonderland Codes (September 2026)",
   "gameName": "Wonderland",
   "description": "Working Wonderland codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-25",
-  "checkedAt": "2026-08-25",
+  "updatedAt": "2026-09-10",
+  "checkedAt": "2026-09-10",
   "featured": true,
   "cover": "/images/games/card/wonderland.webp",
   "placeId": 13718567207,
@@ -31,6 +31,11 @@
     {
       "code": "RELEASE26",
       "reward": "100 gems",
+      "status": "active"
+    },
+    {
+      "code": "WORMYGOOD",
+      "reward": "150 gems (!)",
       "status": "active"
     }
   ]
