@@ -1,0 +1,117 @@
+{
+  "title": "Killstreak Codes (September 2026)",
+  "gameName": "Killstreak",
+  "description": "Working Killstreak codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-09-10",
+  "checkedAt": "2026-09-10",
+  "featured": true,
+  "cover": "/images/games/card/killstreak.webp",
+  "placeId": 104856666707760,
+  "howTo": [
+    "Launch Killstreak on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Killstreak codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Killstreak code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Killstreak codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "Roblox20",
+      "reward": "a foundry crate",
+      "status": "active"
+    },
+    {
+      "code": "35KLIKES",
+      "reward": "a foundry crate",
+      "status": "active"
+    },
+    {
+      "code": "EA_CC",
+      "reward": "1.5k shards and five cases (must be registered as a content creator)",
+      "status": "active"
+    },
+    {
+      "code": "EA_GOLD",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "EA_SILVER",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "EA_BRONZE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "30KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "20MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "15MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "25KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "LATESTRIX",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "10MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "10KLIKES",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SEASON1",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "5MVISITS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "3DS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}
