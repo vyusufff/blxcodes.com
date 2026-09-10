@@ -1,9 +1,9 @@
 {
-  "title": "Rng Heroes Codes (August 2026)",
+  "title": "Rng Heroes Codes (September 2026)",
   "gameName": "Rng Heroes",
   "description": "Working Rng Heroes codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-25",
-  "checkedAt": "2026-08-25",
+  "updatedAt": "2026-09-10",
+  "checkedAt": "2026-09-10",
   "featured": true,
   "cover": "/images/games/card/rng-heroes.webp",
   "placeId": 108307565942574,
@@ -29,36 +29,6 @@
   ],
   "codes": [
     {
-      "code": "MYSERVERLUCK",
-      "reward": "2x server luck for ten minutes (!)",
-      "status": "active"
-    },
-    {
-      "code": "LUCK4ALL",
-      "reward": "4x server luck for 15 minutes (!)",
-      "status": "active"
-    },
-    {
-      "code": "VOODOO",
-      "reward": "three tower keys (!)",
-      "status": "active"
-    },
-    {
-      "code": "Icecave",
-      "reward": "one inferno battery",
-      "status": "active"
-    },
-    {
-      "code": "GUILDSUPDATE",
-      "reward": "three golden batteries and two inferno batteries",
-      "status": "active"
-    },
-    {
-      "code": "CERBERUS",
-      "reward": "two XP potions",
-      "status": "active"
-    },
-    {
       "code": "30Thousand",
       "reward": "three gold potions",
       "status": "active"
@@ -69,17 +39,82 @@
       "status": "active"
     },
     {
-      "code": "EasyPotions",
-      "reward": "one roll speed potion, one size luck potion, one gold potion, and one XP potion",
-      "status": "active"
-    },
-    {
       "code": "Beginnings",
       "reward": "10k gold and one Assassin hero",
       "status": "active"
     },
     {
-      "code": "SPIDEYBOSS",
+      "code": "CERBERUS",
+      "reward": "two XP potions",
+      "status": "active"
+    },
+    {
+      "code": "EasyPotions",
+      "reward": "one roll speed potion, one size luck potion, one gold potion, and one XP potion",
+      "status": "active"
+    },
+    {
+      "code": "GUILDSUPDATE",
+      "reward": "three golden batteries and two inferno batteries",
+      "status": "active"
+    },
+    {
+      "code": "Icecave",
+      "reward": "one inferno battery",
+      "status": "active"
+    },
+    {
+      "code": "iiiiiinfinite",
+      "reward": "ten infinity chests (!)",
+      "status": "active"
+    },
+    {
+      "code": "Ilovebeans",
+      "reward": "5k beans (!)",
+      "status": "active"
+    },
+    {
+      "code": "LUCK4ALL",
+      "reward": "4x server luck for 15 minutes (!)",
+      "status": "active"
+    },
+    {
+      "code": "MYSERVERLUCK",
+      "reward": "2x server luck for ten minutes (!)",
+      "status": "active"
+    },
+    {
+      "code": "potiliIillIIlions",
+      "reward": "five gold potions, three size luck potions, and three XP potions (!)",
+      "status": "active"
+    },
+    {
+      "code": "siiilver",
+      "reward": "ten silver (!)",
+      "status": "active"
+    },
+    {
+      "code": "superamped",
+      "reward": "ten amped batteries (!)",
+      "status": "active"
+    },
+    {
+      "code": "TRAININGMANUAL",
+      "reward": "one training manual III (!)",
+      "status": "active"
+    },
+    {
+      "code": "UPDATEFIVEPOTIONS",
+      "reward": "two size luck potions and two gold potions (!)",
+      "status": "active"
+    },
+    {
+      "code": "VOODOO",
+      "reward": "three tower keys (!)",
+      "status": "active"
+    },
+    {
+      "code": "2026",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -94,17 +129,17 @@
       "status": "expired"
     },
     {
-      "code": "UPDATE4",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
       "code": "PCGamesN",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "SPIDEYBOSS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE4",
       "reward": "Expired reward",
       "status": "expired"
     }
