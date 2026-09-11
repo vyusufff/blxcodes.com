@@ -1,9 +1,9 @@
 {
-  "title": "Elemental Magic Arena Codes (July 2026)",
+  "title": "Elemental Magic Arena Codes (September 2026)",
   "gameName": "Elemental Magic Arena",
   "description": "Working Elemental Magic Arena codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-11",
+  "checkedAt": "2026-09-11",
   "featured": true,
   "cover": "/images/games/card/elemental-magic-arena.webp",
   "placeId": 7243409883,
@@ -29,18 +29,13 @@
   ],
   "codes": [
     {
-      "code": "110KLIKES",
+      "code": "100MVISITS",
+      "reward": "100 Diamonds",
+      "status": "active"
+    },
+    {
+      "code": "140KLIKES",
       "reward": "3 Souls",
-      "status": "active"
-    },
-    {
-      "code": "15KLIKES",
-      "reward": "50 Diamonds",
-      "status": "active"
-    },
-    {
-      "code": "20MVISITS",
-      "reward": "35 Diamonds",
       "status": "active"
     },
     {
@@ -51,6 +46,21 @@
     {
       "code": "100KLIKES",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "110KLIKES",
+      "reward": "3 Souls",
+      "status": "expired"
+    },
+    {
+      "code": "15KLIKES",
+      "reward": "50 Diamonds",
+      "status": "expired"
+    },
+    {
+      "code": "20MVISITS",
+      "reward": "35 Diamonds",
       "status": "expired"
     },
     {
