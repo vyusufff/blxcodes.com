@@ -2,8 +2,8 @@
   "title": "Trench Decay Codes (September 2026)",
   "gameName": "Trench Decay",
   "description": "Working Trench Decay codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-04",
-  "checkedAt": "2026-09-04",
+  "updatedAt": "2026-09-11",
+  "checkedAt": "2026-09-11",
   "featured": true,
   "cover": "/images/games/card/trench-decay.webp",
   "placeId": 127608823846098,
@@ -39,8 +39,18 @@
       "status": "active"
     },
     {
+      "code": "BRAZILINDEP",
+      "reward": "free Ordem independence dragoon and Ordem independence gas mask (!)",
+      "status": "active"
+    },
+    {
       "code": "DEFENSEWEEKENDBASH",
       "reward": "400 medals",
+      "status": "active"
+    },
+    {
+      "code": "FINALPUSHUPDATE",
+      "reward": "2k medals and two cosmetic crates (!)",
       "status": "active"
     },
     {

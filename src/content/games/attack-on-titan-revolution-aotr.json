@@ -1,9 +1,9 @@
 {
-  "title": "Attack on Titan Revolution Codes (August 2026)",
+  "title": "Attack on Titan Revolution Codes (September 2026)",
   "gameName": "Attack on Titan Revolution",
   "description": "Working Attack on Titan Revolution codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-25",
-  "checkedAt": "2026-08-25",
+  "updatedAt": "2026-09-11",
+  "checkedAt": "2026-09-11",
   "featured": true,
   "cover": "/images/games/card/attack-on-titan-revolution-aotr.webp",
   "placeId": 13379208636,
@@ -29,18 +29,8 @@
   ],
   "codes": [
     {
-      "code": "LIKES1M350K",
+      "code": "LIKES1M400K",
       "reward": "300 Spins, 1 2x Luck Potion [1H], 1 2x Gold Potion [1H], 1 2x XP Potion [1H], and 10 Emperor Keys",
-      "status": "active"
-    },
-    {
-      "code": "UPDATE5SOON",
-      "reward": "200 Spins",
-      "status": "active"
-    },
-    {
-      "code": "WEBSITE",
-      "reward": "200 Spins, 5 Emperor Keys, 1 2x Luck Potion [30M], 1 2x Gold Potion [30M], and 1 2x XP Potion [30M]",
       "status": "active"
     },
     {
@@ -129,6 +119,11 @@
       "status": "expired"
     },
     {
+      "code": "LIKES1M350K",
+      "reward": "300 Spins, 1 2x Luck Potion [1H], 1 2x Gold Potion [1H], 1 2x XP Potion [1H], and 10 Emperor Keys",
+      "status": "expired"
+    },
+    {
       "code": "LIKES675K",
       "reward": "Expired reward",
       "status": "expired"
@@ -204,6 +199,11 @@
       "status": "expired"
     },
     {
+      "code": "UPDATE5SOON",
+      "reward": "200 Spins",
+      "status": "expired"
+    },
+    {
       "code": "VISITS1B",
       "reward": "Expired reward",
       "status": "expired"
@@ -231,6 +231,11 @@
     {
       "code": "VISITS900M",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WEBSITE",
+      "reward": "200 Spins, 5 Emperor Keys, 1 2x Luck Potion [30M], 1 2x Gold Potion [30M], and 1 2x XP Potion [30M]",
       "status": "expired"
     },
     {
