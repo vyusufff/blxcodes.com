@@ -1,9 +1,9 @@
 {
-  "title": "Sniper Arena Codes (July 2026)",
+  "title": "Sniper Arena Codes (September 2026)",
   "gameName": "Sniper Arena",
   "description": "Working Sniper Arena codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-11",
+  "checkedAt": "2026-09-11",
   "featured": true,
   "cover": "/images/games/card/sniper-arena.webp",
   "placeId": 122446657157717,
@@ -34,7 +34,7 @@
       "status": "active"
     },
     {
-      "code": "FREELIKE4",
+      "code": "FREELIKE5",
       "reward": "1 Mystic Knife",
       "status": "active"
     },
@@ -91,6 +91,11 @@
     {
       "code": "FREELIKE3",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FREELIKE4",
+      "reward": "1 Mystic Knife",
       "status": "expired"
     },
     {
