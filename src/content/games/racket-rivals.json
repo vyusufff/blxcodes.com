@@ -2,8 +2,8 @@
   "title": "Racket Rivals Codes (September 2026)",
   "gameName": "Racket Rivals",
   "description": "Working Racket Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-05",
-  "checkedAt": "2026-09-05",
+  "updatedAt": "2026-09-12",
+  "checkedAt": "2026-09-12",
   "featured": true,
   "cover": "/images/games/card/racket-rivals.webp",
   "placeId": 90906407195271,
@@ -29,17 +29,17 @@
   ],
   "codes": [
     {
+      "code": "COSMIC",
+      "reward": "750 Yen",
+      "status": "active"
+    },
+    {
       "code": "LOW",
       "reward": "1500 Yen",
       "status": "active"
     },
     {
-      "code": "RANKED5",
-      "reward": "750 Yen",
-      "status": "active"
-    },
-    {
-      "code": "SEASON5",
+      "code": "SPACE",
       "reward": "750 Yen",
       "status": "active"
     },
@@ -184,6 +184,11 @@
       "status": "expired"
     },
     {
+      "code": "RANKED5",
+      "reward": "750 Yen",
+      "status": "expired"
+    },
+    {
       "code": "REDENVELOPE",
       "reward": "Expired reward",
       "status": "expired"
@@ -211,6 +216,11 @@
     {
       "code": "SEASON2BP",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SEASON5",
+      "reward": "750 Yen",
       "status": "expired"
     },
     {

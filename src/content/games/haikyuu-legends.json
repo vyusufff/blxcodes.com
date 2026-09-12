@@ -2,8 +2,8 @@
   "title": "Haikyuu Legends Codes (September 2026)",
   "gameName": "Haikyuu Legends",
   "description": "Working Haikyuu Legends codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-05",
-  "checkedAt": "2026-09-05",
+  "updatedAt": "2026-09-12",
+  "checkedAt": "2026-09-12",
   "featured": true,
   "cover": "/images/games/card/haikyuu-legends.webp",
   "placeId": 73956553001240,
@@ -29,17 +29,17 @@
   ],
   "codes": [
     {
-      "code": "HAKKA_RETURN",
-      "reward": "5 Lucky Style Spins",
-      "status": "active"
-    },
-    {
-      "code": "SPIKER",
+      "code": "KATANA",
       "reward": "5 Lucky Ability Spins",
       "status": "active"
     },
     {
-      "code": "UPDATE_86",
+      "code": "RONIN_RETURN",
+      "reward": "5 Lucky Style Spins",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE_87",
       "reward": "5 Lucky Style Spins",
       "status": "active"
     },
@@ -86,6 +86,11 @@
     {
       "code": "FESTIVAL_UPD",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "HAKKA_RETURN",
+      "reward": "5 Lucky Style Spins",
       "status": "expired"
     },
     {
@@ -219,6 +224,11 @@
       "status": "expired"
     },
     {
+      "code": "SPIKER",
+      "reward": "5 Lucky Ability Spins",
+      "status": "expired"
+    },
+    {
       "code": "SUMMER_DELUXE",
       "reward": "Expired reward",
       "status": "expired"
@@ -315,6 +325,11 @@
     },
     {
       "code": "UPDATE_85",
+      "reward": "5 Lucky Style Spins",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE_86",
       "reward": "5 Lucky Style Spins",
       "status": "expired"
     },

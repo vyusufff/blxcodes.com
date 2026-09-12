@@ -2,8 +2,8 @@
   "title": "Death Ball Codes (September 2026)",
   "gameName": "Death Ball",
   "description": "Working Death Ball codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-05",
-  "checkedAt": "2026-09-05",
+  "updatedAt": "2026-09-12",
+  "checkedAt": "2026-09-12",
   "featured": true,
   "cover": "/images/games/card/death-ball.webp",
   "placeId": 15002061926,
@@ -194,6 +194,11 @@
       "status": "active"
     },
     {
+      "code": "PIXELATED",
+      "reward": "500 Crystals",
+      "status": "active"
+    },
+    {
       "code": "RANKEDFFA",
       "reward": "500 Crystals",
       "status": "active"
@@ -255,6 +260,11 @@
     },
     {
       "code": "VELVET",
+      "reward": "30,000 Gems",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMEBP",
       "reward": "30,000 Gems",
       "status": "active"
     },

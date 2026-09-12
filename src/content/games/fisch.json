@@ -2,7 +2,7 @@
   "title": "Fisch Codes (September 2026)",
   "gameName": "Fisch",
   "description": "Working Fisch Roblox codes for coins, items, skins, and fishing rewards.",
-  "updatedAt": "2026-09-05",
+  "updatedAt": "2026-09-12",
   "featured": true,
   "cover": "/images/games/card/fisch.webp",
   "placeId": 16732694052,
@@ -33,6 +33,16 @@
       "status": "active"
     },
     {
+      "code": "LittleBudlingUpdate",
+      "reward": "1000 Coins, Walrus boat, 5x Icy Fisch’n Dots, 5x Coral Pearl, 5x Cotton Candy Pieces, 5x Tropical Fruit mix, and a Random Totem",
+      "status": "active"
+    },
+    {
+      "code": "PeaceLoveUnityRespect",
+      "reward": "Retraxx Noiseform rod skin",
+      "status": "active"
+    },
+    {
       "code": "scarlet",
       "reward": "Scarlet skin for Nate's Blade",
       "status": "active"
@@ -40,16 +50,6 @@
     {
       "code": "ShootingStars",
       "reward": "1000 Coins, XL Meteoric Rod skin, 5x Icy Fisch’n Dots, 5x Coral Pearl, 5x Cotton Candy Pieces, 5x Tropical Fruit mix, and a Random Totem",
-      "status": "active"
-    },
-    {
-      "code": "SkycrestIsInTheSky",
-      "reward": "1000 Coins, Banana boat, 5x Icy Fisch’n Dots, 5x Coral Pearl, 5x Cotton Candy Pieces, 5x Tropical Fruit mix, and a Random Totem",
-      "status": "active"
-    },
-    {
-      "code": "SkycrestNextWeek",
-      "reward": "1000 Coins, Little Sei Whale boat, 5x Icy Fisch’n Dots, 5x Coral Pearl, 5x Cotton Candy Pieces, 5x Tropical Fruit mix, and a Random Totem",
       "status": "active"
     },
     {
@@ -458,6 +458,16 @@
       "status": "expired"
     },
     {
+      "code": "SkycrestIsInTheSky",
+      "reward": "1000 Coins, Banana boat, 5x Icy Fisch’n Dots, 5x Coral Pearl, 5x Cotton Candy Pieces, 5x Tropical Fruit mix, and a Random Totem",
+      "status": "expired"
+    },
+    {
+      "code": "SkycrestNextWeek",
+      "reward": "1000 Coins, Little Sei Whale boat, 5x Icy Fisch’n Dots, 5x Coral Pearl, 5x Cotton Candy Pieces, 5x Tropical Fruit mix, and a Random Totem",
+      "status": "expired"
+    },
+    {
       "code": "SLOPSKINSFORMIGUROD",
       "reward": "Event reward",
       "status": "expired"
@@ -608,5 +618,5 @@
       "status": "expired"
     }
   ],
-  "checkedAt": "2026-09-05"
+  "checkedAt": "2026-09-12"
 }

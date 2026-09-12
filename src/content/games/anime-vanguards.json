@@ -2,8 +2,8 @@
   "title": "Anime Vanguards Codes (September 2026)",
   "gameName": "Anime Vanguards",
   "description": "Working Anime Vanguards codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-01",
-  "checkedAt": "2026-09-01",
+  "updatedAt": "2026-09-12",
+  "checkedAt": "2026-09-12",
   "featured": true,
   "cover": "/images/games/card/anime-vanguards.webp",
   "placeId": 16146832113,
@@ -44,6 +44,16 @@
       "status": "active"
     },
     {
+      "code": "AnniNextHopefully",
+      "reward": "100 Trait Rerolls, 100 Memoria Shards, and 5,000 Gems ( , requires Level 30)",
+      "status": "active"
+    },
+    {
+      "code": "Assault",
+      "reward": "100 Trait Rerolls",
+      "status": "active"
+    },
+    {
       "code": "HeavyEyes",
       "reward": "50 Memoria Shards and 50 Extermination Tokens ( , Requires Level 30)",
       "status": "active"
@@ -71,6 +81,11 @@
     {
       "code": "Retribution",
       "reward": "20,000 Gems, 50 Trait Rerolls, and 50 Memoria Shards ( , Level 10)",
+      "status": "active"
+    },
+    {
+      "code": "SummerLeaving",
+      "reward": "100 Memoria Shards",
       "status": "active"
     },
     {
