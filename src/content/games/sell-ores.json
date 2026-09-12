@@ -2,8 +2,8 @@
   "title": "Sell Ores Codes (September 2026)",
   "gameName": "Sell Ores",
   "description": "Working Sell Ores codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-06",
-  "checkedAt": "2026-09-06",
+  "updatedAt": "2026-09-12",
+  "checkedAt": "2026-09-12",
   "featured": true,
   "cover": "/images/games/card/sell-ores.webp",
   "placeId": 122572082932179,
@@ -49,11 +49,6 @@
       "status": "active"
     },
     {
-      "code": "FINALE",
-      "reward": "an hour time skip (!)",
-      "status": "active"
-    },
-    {
       "code": "FRAGMENTS",
       "reward": "25 adminite fragments (!)",
       "status": "active"
@@ -86,6 +81,11 @@
     {
       "code": "ANOTHERONE",
       "reward": "one-hour time skip (!)",
+      "status": "expired"
+    },
+    {
+      "code": "FINALE",
+      "reward": "an hour time skip (!)",
       "status": "expired"
     }
   ]
