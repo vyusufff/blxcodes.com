@@ -2,8 +2,8 @@
   "title": "Anime Rails Codes (September 2026)",
   "gameName": "Anime Rails",
   "description": "Working Anime Rails codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-05",
-  "checkedAt": "2026-09-05",
+  "updatedAt": "2026-09-12",
+  "checkedAt": "2026-09-12",
   "featured": true,
   "cover": "/images/games/card/anime-rails.webp",
   "placeId": 86628581581863,
@@ -40,6 +40,11 @@
     },
     {
       "code": "FUTURERAID",
+      "reward": "Free Cash",
+      "status": "active"
+    },
+    {
+      "code": "JANKEN",
       "reward": "Free Cash",
       "status": "active"
     },

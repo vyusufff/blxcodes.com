@@ -2,7 +2,7 @@
   "title": "Steal a Brainrot Codes (September 2026)",
   "gameName": "Steal a Brainrot",
   "description": "Working Steal a Brainrot (SAB) codes for brainrots, luck boosts, and limited rewards.",
-  "updatedAt": "2026-09-06",
+  "updatedAt": "2026-09-12",
   "featured": true,
   "cover": "/images/games/card/steal-a-brainrot.webp",
   "placeId": 109983668079237,
@@ -50,6 +50,11 @@
     {
       "code": "MAYMEOWLJANDEL",
       "reward": "Meowl (riddle / limited stock)",
+      "status": "active"
+    },
+    {
+      "code": "Watchpoint",
+      "reward": "Grímsvötn is a Season 5 Escort map set inside a remote Icelandic prison built around the volcano Grímsvötn.",
       "status": "active"
     },
     {
@@ -133,5 +138,5 @@
       "status": "expired"
     }
   ],
-  "checkedAt": "2026-09-06"
+  "checkedAt": "2026-09-12"
 }
