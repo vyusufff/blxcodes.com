@@ -1,0 +1,62 @@
+{
+  "title": "Warden Codes (September 2026)",
+  "gameName": "Warden",
+  "description": "Working Warden codes for free in-game rewards. Updated regularly.",
+  "updatedAt": "2026-09-13",
+  "checkedAt": "2026-09-13",
+  "featured": true,
+  "cover": "/images/games/card/warden.webp",
+  "placeId": 130929507719087,
+  "howTo": [
+    "Launch Warden on Roblox.",
+    "Open the codes or redeem menu in the game UI.",
+    "Paste a working code exactly as shown.",
+    "Confirm to claim your rewards."
+  ],
+  "faq": [
+    {
+      "q": "Are these Warden codes free?",
+      "a": "Yes. Promo codes unlock free in-game rewards when they are still active."
+    },
+    {
+      "q": "Why did a Warden code not work?",
+      "a": "It is usually expired, mistyped, or already redeemed on your account."
+    },
+    {
+      "q": "How often are Warden codes updated?",
+      "a": "We refresh this page when new codes drop or old ones expire. Check the Updated date above."
+    }
+  ],
+  "codes": [
+    {
+      "code": "WARDEN17",
+      "reward": "50 shrooms (!)",
+      "status": "active"
+    },
+    {
+      "code": "WARDEN11",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WARDEN7",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WARDEN9",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "3DS",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    }
+  ]
+}
