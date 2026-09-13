@@ -1,9 +1,9 @@
 {
-  "title": "Muscle Legends Codes (July 2026)",
+  "title": "Muscle Legends Codes (September 2026)",
   "gameName": "Muscle Legends",
   "description": "Working Muscle Legends codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-13",
+  "checkedAt": "2026-09-13",
   "featured": true,
   "cover": "/images/games/card/muscle-legends.webp",
   "placeId": 3623096087,
@@ -28,6 +28,16 @@
     }
   ],
   "codes": [
+    {
+      "code": "bossguard",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "bossstrike",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
     {
       "code": "epicreward500",
       "reward": "500 Gems",

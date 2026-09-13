@@ -2,8 +2,8 @@
   "title": "Anime Final Quest Codes (September 2026)",
   "gameName": "Anime Final Quest",
   "description": "Working Anime Final Quest codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-05",
-  "checkedAt": "2026-09-05",
+  "updatedAt": "2026-09-13",
+  "checkedAt": "2026-09-13",
   "featured": true,
   "cover": "/images/games/card/anime-final-quest.webp",
   "placeId": 100744519298647,
@@ -29,18 +29,13 @@
   ],
   "codes": [
     {
-      "code": "BIGBUGFIXUPDATE",
-      "reward": "100 Gear Lucky Spins, 100 Weapon Lucky Spins, 1.5M Gold, 150 Runes, 20 Raid Tickets, 10 Statue Crowns",
+      "code": "DELAYAPOLOGYEVOLVE",
+      "reward": "1 Free Blood Chain, 3M Gold, 200 Runes",
       "status": "active"
     },
     {
-      "code": "NEWTRAITRARITY",
-      "reward": "300 Runes",
-      "status": "active"
-    },
-    {
-      "code": "SPIDER",
-      "reward": "80 Gear Lucky Spins, 100 Weapon Lucky Spins, 2M Gold, 75 Runes, and 25 Raid Tickets",
+      "code": "SOULREAPEREVOLUTION",
+      "reward": "85 Gear Lucky Spins, 80 Weapon Lucky Spins, 1.5M Gold, 100 Runes, 50 Raid Tickets",
       "status": "active"
     },
     {
@@ -61,6 +56,11 @@
     {
       "code": "BEAST",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "BIGBUGFIXUPDATE",
+      "reward": "100 Gear Lucky Spins, 100 Weapon Lucky Spins, 1.5M Gold, 150 Runes, 20 Raid Tickets, 10 Statue Crowns",
       "status": "expired"
     },
     {
@@ -174,6 +174,11 @@
       "status": "expired"
     },
     {
+      "code": "NEWTRAITRARITY",
+      "reward": "300 Runes",
+      "status": "expired"
+    },
+    {
       "code": "NEWULTIMATESKILL",
       "reward": "Expired reward",
       "status": "expired"
@@ -271,6 +276,11 @@
     {
       "code": "SORRYFORDELAY2",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SPIDER",
+      "reward": "80 Gear Lucky Spins, 100 Weapon Lucky Spins, 2M Gold, 75 Runes, and 25 Raid Tickets",
       "status": "expired"
     },
     {

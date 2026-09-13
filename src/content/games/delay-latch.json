@@ -2,8 +2,8 @@
   "title": "Delay Latch Codes (September 2026)",
   "gameName": "Delay Latch",
   "description": "Working Delay Latch codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-12",
-  "checkedAt": "2026-09-12",
+  "updatedAt": "2026-09-13",
+  "checkedAt": "2026-09-13",
   "featured": true,
   "cover": "/images/games/card/delay-latch.webp",
   "placeId": 94647229517154,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "ELGOALBOXCHANGE",
+      "reward": "Free Yen",
+      "status": "active"
+    },
     {
       "code": "KAISERISNEXTWEEKNOWORRIES",
       "reward": "Free Rewards",

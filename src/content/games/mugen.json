@@ -2,8 +2,8 @@
   "title": "Mugen Codes (September 2026)",
   "gameName": "Mugen",
   "description": "Working Mugen codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-05",
-  "checkedAt": "2026-09-05",
+  "updatedAt": "2026-09-13",
+  "checkedAt": "2026-09-13",
   "featured": true,
   "cover": "/images/games/card/mugen.webp",
   "placeId": 139598620873181,
@@ -29,38 +29,23 @@
   ],
   "codes": [
     {
-      "code": "500KLIKES",
-      "reward": "5 Lucky Spins and 50k yen",
-      "status": "active"
-    },
-    {
       "code": "CHASE",
       "reward": "Free Rewards",
       "status": "active"
     },
     {
-      "code": "JAPANDAYZ2",
-      "reward": "Free Rewards",
+      "code": "MUGENHUB",
+      "reward": "5 Lucky Spins and 50k yen",
       "status": "active"
     },
     {
-      "code": "REAWAKENED",
-      "reward": "3 Free Wheel Spins",
-      "status": "active"
-    },
-    {
-      "code": "THANKYOUFORWAITING",
-      "reward": "15 Lucky Spins and 50k",
-      "status": "active"
-    },
-    {
-      "code": "UPDATEOUTNOW",
-      "reward": "7 Lucky Spins and 70k",
-      "status": "active"
-    },
-    {
-      "code": "WINDISNEXT",
+      "code": "PATCHONE",
       "reward": "10 Lucky Spins and 100k",
+      "status": "active"
+    },
+    {
+      "code": "RDC2026",
+      "reward": "3 Free Wheel Spins",
       "status": "active"
     },
     {
@@ -96,6 +81,11 @@
     {
       "code": "4THJULY",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "500KLIKES",
+      "reward": "5 Lucky Spins and 50k yen",
       "status": "expired"
     },
     {
@@ -154,6 +144,11 @@
       "status": "expired"
     },
     {
+      "code": "JAPANDAYZ2",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "JAPANGEN1",
       "reward": "Expired reward",
       "status": "expired"
@@ -194,11 +189,6 @@
       "status": "expired"
     },
     {
-      "code": "MUGENHUB",
-      "reward": "Free Rewards",
-      "status": "expired"
-    },
-    {
       "code": "MUGENISCOMINGBACK",
       "reward": "Free Rewards",
       "status": "expired"
@@ -229,6 +219,11 @@
       "status": "expired"
     },
     {
+      "code": "REAWAKENED",
+      "reward": "3 Free Wheel Spins",
+      "status": "expired"
+    },
+    {
       "code": "REBALANCING",
       "reward": "Expired reward",
       "status": "expired"
@@ -249,6 +244,16 @@
       "status": "expired"
     },
     {
+      "code": "THANKYOUFORWAITING",
+      "reward": "15 Lucky Spins and 50k",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATEOUTNOW",
+      "reward": "7 Lucky Spins and 70k",
+      "status": "expired"
+    },
+    {
       "code": "VALENTINES",
       "reward": "Expired reward",
       "status": "expired"
@@ -261,6 +266,11 @@
     {
       "code": "WeBack2",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WINDISNEXT",
+      "reward": "10 Lucky Spins and 100k",
       "status": "expired"
     },
     {

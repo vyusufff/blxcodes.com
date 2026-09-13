@@ -1,9 +1,9 @@
 {
-  "title": "Flashpoint Worlds Collide Codes (August 2026)",
+  "title": "Flashpoint Worlds Collide Codes (September 2026)",
   "gameName": "Flashpoint Worlds Collide",
   "description": "Working Flashpoint Worlds Collide codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-29",
-  "checkedAt": "2026-08-29",
+  "updatedAt": "2026-09-13",
+  "checkedAt": "2026-09-13",
   "featured": true,
   "cover": "/images/games/card/flashpoint-worlds-collide.webp",
   "placeId": 13796645198,
@@ -34,11 +34,6 @@
       "status": "active"
     },
     {
-      "code": "happybirthdaykbnonstop!",
-      "reward": "25,000 Exp",
-      "status": "active"
-    },
-    {
       "code": "jldownfall",
       "reward": "The Flash [SSKTJL] Suit",
       "status": "active"
@@ -61,11 +56,6 @@
     {
       "code": "nonstoptt",
       "reward": "Kbnonstop Suit",
-      "status": "active"
-    },
-    {
-      "code": "UnityMind!",
-      "reward": "50K Cash and 50K EXP",
       "status": "active"
     },
     {
@@ -131,6 +121,11 @@
     {
       "code": "HAPPY4THOFJULY!",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "happybirthdaykbnonstop!",
+      "reward": "25,000 Exp",
       "status": "expired"
     },
     {
@@ -236,6 +231,11 @@
     {
       "code": "unctommy",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UnityMind!",
+      "reward": "50K Cash and 50K EXP",
       "status": "expired"
     },
     {

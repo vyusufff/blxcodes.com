@@ -1,9 +1,9 @@
 {
-  "title": "Dragon Blox Codes (August 2026)",
+  "title": "Dragon Blox Codes (September 2026)",
   "gameName": "Dragon Blox",
   "description": "Working Dragon Blox codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-17",
-  "checkedAt": "2026-08-17",
+  "updatedAt": "2026-09-13",
+  "checkedAt": "2026-09-13",
   "featured": true,
   "cover": "/images/games/card/dragon-blox.webp",
   "placeId": 3177438863,
@@ -29,13 +29,18 @@
   ],
   "codes": [
     {
-      "code": "FIXESNSTUFF",
-      "reward": "5x Premium Wish Token, and 5x Race Spins",
+      "code": "FEWMORE",
+      "reward": "10x Premium Wish Token, 10x Race Spins, and 50x Raid Tickets",
       "status": "active"
     },
     {
-      "code": "MORETICKETS",
-      "reward": "10x Premium Wish Token, 10x Race Spins, and 50x Raid Tickets",
+      "code": "RICE",
+      "reward": "20x Premium Wish Token, and 5x Race Spins",
+      "status": "active"
+    },
+    {
+      "code": "WELOVECOMBAT",
+      "reward": "5x Premium Wish Token, and 5x Race Spins",
       "status": "active"
     },
     {
@@ -94,6 +99,11 @@
       "status": "expired"
     },
     {
+      "code": "FIXESNSTUFF",
+      "reward": "5x Premium Wish Token, and 5x Race Spins",
+      "status": "expired"
+    },
+    {
       "code": "GARRIOTHIDEOUT",
       "reward": "Expired reward",
       "status": "expired"
@@ -136,6 +146,11 @@
     {
       "code": "MOREQOL",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MORETICKETS",
+      "reward": "10x Premium Wish Token, 10x Race Spins, and 50x Raid Tickets",
       "status": "expired"
     },
     {

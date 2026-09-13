@@ -2,8 +2,8 @@
   "title": "Blue Lock Rivals Codes (September 2026)",
   "gameName": "Blue Lock Rivals",
   "description": "Working Blue Lock Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-05",
-  "checkedAt": "2026-09-05",
+  "updatedAt": "2026-09-13",
+  "checkedAt": "2026-09-13",
   "featured": true,
   "cover": "/images/games/card/blue-lock-rivals.webp",
   "placeId": 18668065416,
@@ -29,22 +29,17 @@
   ],
   "codes": [
     {
-      "code": "NELKING",
-      "reward": "5 Lucky Spins and 5 Lucky Flows",
-      "status": "active"
-    },
-    {
-      "code": "NIKOSOON",
+      "code": "GATEKEEPOVER",
       "reward": "5 Lucky Flows",
       "status": "active"
     },
     {
-      "code": "SORRYLOADING",
-      "reward": "5 Lucky Spins",
+      "code": "NIKOHERE",
+      "reward": "5 Lucky Spins and 5 Lucky Flows",
       "status": "active"
     },
     {
-      "code": "UBERSMONTH",
+      "code": "QOLNEXTWEEK!",
       "reward": "5 Lucky Spins",
       "status": "active"
     },
@@ -184,6 +179,11 @@
       "status": "expired"
     },
     {
+      "code": "NELKING",
+      "reward": "5 Lucky Spins and 5 Lucky Flows",
+      "status": "expired"
+    },
+    {
       "code": "NELTEAMSHYPE",
       "reward": "Expired reward",
       "status": "expired"
@@ -205,6 +205,11 @@
     },
     {
       "code": "NEWMAP",
+      "reward": "5 Lucky Flows",
+      "status": "expired"
+    },
+    {
+      "code": "NIKOSOON",
       "reward": "5 Lucky Flows",
       "status": "expired"
     },
@@ -289,6 +294,11 @@
       "status": "expired"
     },
     {
+      "code": "SORRYLOADING",
+      "reward": "5 Lucky Spins",
+      "status": "expired"
+    },
+    {
       "code": "SUMMERUPDATE",
       "reward": "Expired reward",
       "status": "expired"
@@ -311,6 +321,11 @@
     {
       "code": "U20CUP",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "UBERSMONTH",
+      "reward": "5 Lucky Spins",
       "status": "expired"
     },
     {
