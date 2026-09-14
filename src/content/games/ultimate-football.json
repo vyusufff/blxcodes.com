@@ -2,8 +2,8 @@
   "title": "Ultimate Football Codes (September 2026)",
   "gameName": "Ultimate Football",
   "description": "Working Ultimate Football codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-06",
-  "checkedAt": "2026-09-06",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/ultimate-football.webp",
   "placeId": 2338325648,
@@ -65,6 +65,11 @@
     },
     {
       "code": "CHAMPIONSUNDAY",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "CHAPTER3",
       "reward": "Free Rewards",
       "status": "active"
     },

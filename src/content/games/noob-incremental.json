@@ -2,8 +2,8 @@
   "title": "Noob Incremental Codes (September 2026)",
   "gameName": "Noob Incremental",
   "description": "Working Noob Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-06",
-  "checkedAt": "2026-09-06",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/noob-incremental.webp",
   "placeId": 76911729991355,
@@ -75,6 +75,11 @@
     },
     {
       "code": "UNDERWATERCOMINGSOON",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "UNDERWATERISFINALLYHERE",
       "reward": "Free Rewards",
       "status": "active"
     },

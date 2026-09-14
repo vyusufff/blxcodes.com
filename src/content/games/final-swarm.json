@@ -1,9 +1,9 @@
 {
-  "title": "Final Swarm Codes (August 2026)",
+  "title": "Final Swarm Codes (September 2026)",
   "gameName": "Final Swarm",
   "description": "Working Final Swarm codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-30",
-  "checkedAt": "2026-08-30",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/final-swarm.webp",
   "placeId": 99521272836282,
@@ -44,13 +44,8 @@
       "status": "active"
     },
     {
-      "code": "H4MM3RT1M3",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
-      "code": "Jungl3",
-      "reward": "3 Epic Chests",
+      "code": "INF3RNO",
+      "reward": "3 Inferno Chests",
       "status": "active"
     },
     {
@@ -59,8 +54,8 @@
       "status": "active"
     },
     {
-      "code": "R41D5",
-      "reward": "Free Rewards",
+      "code": "QOL2",
+      "reward": "10 Raid Chests and 150 Keys",
       "status": "active"
     },
     {
@@ -71,11 +66,6 @@
     {
       "code": "supdoggy",
       "reward": "100 Keys",
-      "status": "active"
-    },
-    {
-      "code": "Update1",
-      "reward": "100 Keys, 5 Rare Chests, and 1 Epic Chest",
       "status": "active"
     },
     {
@@ -94,6 +84,21 @@
       "status": "active"
     },
     {
+      "code": "H4MM3RT1M3",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
+      "code": "Jungl3",
+      "reward": "3 Epic Chests",
+      "status": "expired"
+    },
+    {
+      "code": "R41D5",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "Slayerbound",
       "reward": "Expired reward",
       "status": "expired"
@@ -101,6 +106,11 @@
     {
       "code": "strategies",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "Update1",
+      "reward": "100 Keys, 5 Rare Chests, and 1 Epic Chest",
       "status": "expired"
     }
   ]

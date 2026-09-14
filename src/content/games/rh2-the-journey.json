@@ -2,8 +2,8 @@
   "title": "Rh2 The Journey Codes (September 2026)",
   "gameName": "Rh2 The Journey",
   "description": "Working Rh2 The Journey codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-01",
-  "checkedAt": "2026-09-01",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/rh2-the-journey.webp",
   "placeId": 6549794549,
@@ -28,6 +28,16 @@
     }
   ],
   "codes": [
+    {
+      "code": "labordaywknd_2026_RHC",
+      "reward": "6k RHC",
+      "status": "active"
+    },
+    {
+      "code": "labordaywknd_2026_RT",
+      "reward": "one reset token",
+      "status": "active"
+    },
     {
       "code": "thanksfor75milvisits_RHC",
       "reward": "1.5k RHC (!)",

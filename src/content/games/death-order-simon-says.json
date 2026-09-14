@@ -2,8 +2,8 @@
   "title": "Death Order Simon Says Codes (September 2026)",
   "gameName": "Death Order Simon Says",
   "description": "Working Death Order Simon Says codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-07",
-  "checkedAt": "2026-09-07",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/death-order-simon-says.webp",
   "placeId": 18666738837,
@@ -28,6 +28,11 @@
     }
   ],
   "codes": [
+    {
+      "code": "CHACHING",
+      "reward": "5k cash (!)",
+      "status": "active"
+    },
     {
       "code": "DRAKE",
       "reward": "1k cash",

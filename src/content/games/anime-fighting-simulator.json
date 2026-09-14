@@ -2,8 +2,8 @@
   "title": "Anime Fighting Simulator Codes (September 2026)",
   "gameName": "Anime Fighting Simulator",
   "description": "Working Anime Fighting Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-06",
-  "checkedAt": "2026-09-06",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/anime-fighting-simulator.webp",
   "placeId": 100429474155186,
@@ -36,6 +36,11 @@
     {
       "code": "100THOUSANDLIKES",
       "reward": "1000 Chikara, 3 Stat boosts, and 3 Fruit rolls",
+      "status": "active"
+    },
+    {
+      "code": "400KMEMBERS",
+      "reward": "2000 TenseiShards, 5 FruitRolls, 4 YenBoosts, and 1000 TowerTokens",
       "status": "active"
     },
     {
@@ -186,6 +191,11 @@
     {
       "code": "UPDATE2PLAY",
       "reward": "3 Yen Boost, 3 Stat Boost, 3 Fruit Rolls, 12 Trait Rerolls, and 1000 Chikara Shards",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE9",
+      "reward": "5000 Chikaras, 3000 TenseiShards, 12 TraitRerolls, 4 StatBoosts, and 4 TrainingSpeedBoosts",
       "status": "active"
     },
     {

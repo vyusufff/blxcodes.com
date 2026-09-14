@@ -1,9 +1,9 @@
 {
-  "title": "Football Legends Codes (August 2026)",
+  "title": "Football Legends Codes (September 2026)",
   "gameName": "Football Legends",
   "description": "Working Football Legends codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-30",
-  "checkedAt": "2026-08-30",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/football-legends.webp",
   "placeId": 90913221847091,
@@ -129,6 +129,11 @@
       "status": "active"
     },
     {
+      "code": "NEWSZN",
+      "reward": "Summer Trail Case",
+      "status": "active"
+    },
+    {
       "code": "PARKHELMETS",
       "reward": "1 Summer Trail Case",
       "status": "active"
@@ -166,6 +171,11 @@
     {
       "code": "SPRINGSKINS",
       "reward": "Spring Skin Case",
+      "status": "active"
+    },
+    {
+      "code": "STADIUMS",
+      "reward": "Summer Skin Case",
       "status": "active"
     },
     {

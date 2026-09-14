@@ -2,8 +2,8 @@
   "title": "Build a Military Base Codes (September 2026)",
   "gameName": "Build a Military Base",
   "description": "Working Build a Military Base codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-06",
-  "checkedAt": "2026-09-06",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/build-a-military-base.webp",
   "placeId": 91440994157417,
@@ -64,12 +64,12 @@
       "status": "active"
     },
     {
-      "code": "155000LIKES",
+      "code": "200K",
       "reward": "1 Premium Crate",
       "status": "active"
     },
     {
-      "code": "200K",
+      "code": "2500hours",
       "reward": "1 Premium Crate",
       "status": "active"
     },
@@ -89,7 +89,12 @@
       "status": "active"
     },
     {
-      "code": "DAWG",
+      "code": "CONSOLE",
+      "reward": "1 Premium Crate",
+      "status": "active"
+    },
+    {
+      "code": "LANCER",
       "reward": "1 Premium Crate",
       "status": "active"
     },
@@ -139,6 +144,11 @@
       "status": "active"
     },
     {
+      "code": "SECTORAUTHORITY",
+      "reward": "1 Premium Crate",
+      "status": "active"
+    },
+    {
       "code": "SNUGASABUG",
       "reward": "Free Rewards",
       "status": "active"
@@ -149,23 +159,13 @@
       "status": "active"
     },
     {
-      "code": "TEAMCOLORS",
-      "reward": "1 Premium Crate",
-      "status": "active"
-    },
-    {
-      "code": "TITLES",
+      "code": "WELOVEMORECODES",
       "reward": "1 Premium Crate",
       "status": "active"
     },
     {
       "code": "WOWPREMIUM",
       "reward": "1 Research Lab",
-      "status": "active"
-    },
-    {
-      "code": "ZUMWALT",
-      "reward": "1 Premium Crate",
       "status": "active"
     },
     {
@@ -211,6 +211,11 @@
     {
       "code": "15000LIKES",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "155000LIKES",
+      "reward": "1 Premium Crate",
       "status": "expired"
     },
     {
@@ -354,6 +359,11 @@
       "status": "expired"
     },
     {
+      "code": "DAWG",
+      "reward": "1 Premium Crate",
+      "status": "expired"
+    },
+    {
       "code": "EMERGENCYFIX",
       "reward": "Free Rewards",
       "status": "expired"
@@ -429,7 +439,17 @@
       "status": "expired"
     },
     {
+      "code": "TEAMCOLORS",
+      "reward": "1 Premium Crate",
+      "status": "expired"
+    },
+    {
       "code": "TEAMWORKMAKESTHEDREAMWORK",
+      "reward": "1 Premium Crate",
+      "status": "expired"
+    },
+    {
+      "code": "TITLES",
       "reward": "1 Premium Crate",
       "status": "expired"
     },
@@ -450,6 +470,11 @@
     },
     {
       "code": "YAYMORECRATES",
+      "reward": "1 Premium Crate",
+      "status": "expired"
+    },
+    {
+      "code": "ZUMWALT",
       "reward": "1 Premium Crate",
       "status": "expired"
     }

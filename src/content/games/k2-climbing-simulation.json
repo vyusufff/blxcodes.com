@@ -1,9 +1,9 @@
 {
-  "title": "K2 Climbing Simulation Codes (July 2026)",
+  "title": "K2 Climbing Simulation Codes (September 2026)",
   "gameName": "K2 Climbing Simulation",
   "description": "Working K2 Climbing Simulation codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/k2-climbing-simulation.webp",
   "placeId": 124853293317687,
@@ -36,6 +36,11 @@
     {
       "code": "BETA",
       "reward": "50 Points",
+      "status": "active"
+    },
+    {
+      "code": "FINALLY",
+      "reward": "Free Points",
       "status": "active"
     },
     {

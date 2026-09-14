@@ -2,8 +2,8 @@
   "title": "Anime Story Codes (September 2026)",
   "gameName": "Anime Story",
   "description": "Working Anime Story codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-01",
-  "checkedAt": "2026-09-01",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/anime-story.webp",
   "placeId": 116766451305209,
@@ -54,6 +54,11 @@
       "status": "active"
     },
     {
+      "code": "BigUpdateSoon",
+      "reward": "500 RRs, 50 Fate tokens, 1 Skill tree reset, 750 Stat chips (Both elite and normal), and 25 Meta orbs",
+      "status": "active"
+    },
+    {
       "code": "blackcloveromg",
       "reward": "100 Trait Tokens, ten Secret Orbs, and 15k Gems",
       "status": "active"
@@ -76,6 +81,11 @@
     {
       "code": "denjiishere",
       "reward": "10000 Gems and 200 Trait Tokens",
+      "status": "active"
+    },
+    {
+      "code": "HuntEvent",
+      "reward": "1k RRs, 50 Fate tokens, 25 Skill orbs, 1000 Stat chips (Both elite and normal), and 1 artifact ticket",
       "status": "active"
     },
     {
@@ -116,6 +126,11 @@
     {
       "code": "naturetower",
       "reward": "100 Trait Tokens, five Secret Orbs, and 15k Gems",
+      "status": "active"
+    },
+    {
+      "code": "NoMoreSummer!",
+      "reward": "1000 RRS, 75 Skill orbs, 1000 Stat chips (Both elite and normal), and 25 Meta orbs",
       "status": "active"
     },
     {

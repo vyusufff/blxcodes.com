@@ -1,9 +1,9 @@
 {
-  "title": "Grow a Chicken Fighter Codes (August 2026) Codes (August 2026)",
+  "title": "Grow a Chicken Fighter Codes (September 2026) Codes (August 2026)",
   "gameName": "Grow a Chicken Fighter Codes (August 2026)",
   "description": "Working Grow a Chicken Fighter Codes (August 2026) codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-14",
-  "checkedAt": "2026-08-14",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/grow-a-chicken-fighter.webp",
   "placeId": 94640181989498,
@@ -29,8 +29,28 @@
   ],
   "codes": [
     {
-      "code": "40KCCU",
+      "code": "ASCEND",
+      "reward": "48 Coins, 1 Thunder Egg, and Double Money for 30 minutes",
+      "status": "active"
+    },
+    {
+      "code": "BATTLEREADY",
+      "reward": "200 Charm Dust, Double Hatch Luck for 15 minutes, and 1 Royal Egg",
+      "status": "active"
+    },
+    {
+      "code": "CHICKENCLASH",
+      "reward": "100 Arena Medals, 200 Charm Dust, and Double Hatch Luck for 15 minutes",
+      "status": "active"
+    },
+    {
+      "code": "DINOCHICKEN",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "EGGSCELLENT",
+      "reward": "48 Coins, 1 Thunder Egg, and Double Money for 30 minutes",
       "status": "active"
     },
     {
@@ -39,14 +59,19 @@
       "status": "active"
     },
     {
+      "code": "SERGIOVERSE",
+      "reward": "50 Cash, 1 Scratch Egg, and Double Coins for 30 minutes",
+      "status": "active"
+    },
+    {
       "code": "WELCOME",
       "reward": "2 Nest Eggs and 50 Coins",
       "status": "active"
     },
     {
-      "code": "SERGIOVERSE",
-      "reward": "50 Cash, 1 Scratch Egg, and Double Coins for 30 minutes",
-      "status": "active"
+      "code": "40KCCU",
+      "reward": "Free Rewards",
+      "status": "expired"
     }
   ]
 }

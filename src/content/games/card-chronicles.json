@@ -2,8 +2,8 @@
   "title": "Card Chronicles Codes (September 2026)",
   "gameName": "Card Chronicles",
   "description": "Working Card Chronicles codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-01",
-  "checkedAt": "2026-09-01",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/card-chronicles.webp",
   "placeId": 114758508835875,
@@ -41,6 +41,11 @@
     {
       "code": "BATTLEPASS!",
       "reward": "Free Rewards ( , 50k roll required)",
+      "status": "active"
+    },
+    {
+      "code": "CHRONICLE!",
+      "reward": "Free Rewards ( , 50k Rolls Required)",
       "status": "active"
     },
     {
@@ -131,6 +136,11 @@
     {
       "code": "RAIDS!",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "RANKED!",
+      "reward": "Free Rewards ( , 100k Rolls Required)",
       "status": "active"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "title": "Unscathed RNG Codes (August 2026) Codes (August 2026)",
+  "title": "Unscathed RNG Codes (September 2026) Codes (August 2026)",
   "gameName": "Unscathed RNG Codes (August 2026)",
   "description": "Working Unscathed RNG Codes (August 2026) codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-29",
-  "checkedAt": "2026-08-29",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/unscathed.webp",
   "placeId": 122951224417794,
@@ -46,6 +46,11 @@
     {
       "code": "WEEK1",
       "reward": "1x Twist of Fate, 1x Shard, 3x Fate Potion, 3x Swift Potion, and 2,000 Cash",
+      "status": "active"
+    },
+    {
+      "code": "WHERESOUND",
+      "reward": "Free rewards",
       "status": "active"
     }
   ]

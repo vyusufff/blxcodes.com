@@ -2,8 +2,8 @@
   "title": "Wheelie District Codes (September 2026)",
   "gameName": "Wheelie District",
   "description": "Working Wheelie District codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-06",
-  "checkedAt": "2026-09-06",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/wheelie-district.webp",
   "placeId": 89490838554710,
@@ -31,6 +31,11 @@
     {
       "code": "QOL_0",
       "reward": "Free Rewards (limited to 250 uses)",
+      "status": "active"
+    },
+    {
+      "code": "TUNESKI70",
+      "reward": "Free Rewards",
       "status": "active"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "title": "Hide From The Villain Codes (July 2026)",
+  "title": "Hide From The Villain Codes (September 2026)",
   "gameName": "Hide From The Villain",
   "description": "Working Hide From The Villain codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/hide-from-the-villain.webp",
   "placeId": 97463774278378,
@@ -29,23 +29,23 @@
   ],
   "codes": [
     {
-      "code": "AUG1ST",
-      "reward": "Free Rewards",
-      "status": "active"
-    },
-    {
       "code": "BYESUKUNA",
       "reward": "Free Rewards",
       "status": "active"
     },
     {
-      "code": "July4th",
-      "reward": "Free Rewards",
+      "code": "ONEMONTH",
+      "reward": "200 VC and 10 Temp V",
       "status": "active"
     },
     {
       "code": "SEALORD",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "STORMFRONT",
+      "reward": "1000 VC and 1 Temp V",
       "status": "active"
     },
     {
@@ -104,6 +104,11 @@
       "status": "expired"
     },
     {
+      "code": "AUG1ST",
+      "reward": "Free Rewards",
+      "status": "expired"
+    },
+    {
       "code": "bugcompensation",
       "reward": "Expired reward",
       "status": "expired"
@@ -131,6 +136,11 @@
     {
       "code": "Homelander",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "July4th",
+      "reward": "Free Rewards",
       "status": "expired"
     },
     {

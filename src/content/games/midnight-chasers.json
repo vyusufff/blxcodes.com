@@ -1,9 +1,9 @@
 {
-  "title": "Midnight Chasers Codes (August 2026)",
+  "title": "Midnight Chasers Codes (September 2026)",
   "gameName": "Midnight Chasers",
   "description": "Working Midnight Chasers codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-30",
-  "checkedAt": "2026-08-30",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/midnight-chasers.webp",
   "placeId": 13822562292,
@@ -75,6 +75,11 @@
     },
     {
       "code": "ThanksFor960k",
+      "reward": "30k Cash",
+      "status": "active"
+    },
+    {
+      "code": "ThanksFor970k",
       "reward": "30k Cash",
       "status": "active"
     },

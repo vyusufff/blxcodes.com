@@ -2,8 +2,8 @@
   "title": "Hunt Giant Fish Codes (September 2026)",
   "gameName": "Hunt Giant Fish",
   "description": "Working Hunt Giant Fish codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-06",
-  "checkedAt": "2026-09-06",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/hunt-giant-fish.webp",
   "placeId": 115511501544785,
@@ -129,6 +129,11 @@
       "status": "active"
     },
     {
+      "code": "LAVAENDS",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
       "code": "LOSTCITY50K",
       "reward": "Free Rewards",
       "status": "active"
@@ -140,6 +145,11 @@
     },
     {
       "code": "MAGMARISE",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "NAGAFINALE",
       "reward": "Free Rewards",
       "status": "active"
     },

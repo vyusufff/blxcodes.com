@@ -2,8 +2,8 @@
   "title": "Immortality Incremental Codes (September 2026)",
   "gameName": "Immortality Incremental",
   "description": "Working Immortality Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-06",
-  "checkedAt": "2026-09-06",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/immortality-incremental.webp",
   "placeId": 75317862071711,
@@ -114,6 +114,11 @@
       "status": "active"
     },
     {
+      "code": "BRONZE",
+      "reward": "5 Jades",
+      "status": "active"
+    },
+    {
       "code": "COOLBEANS",
       "reward": "5 of each potion",
       "status": "active"
@@ -146,6 +151,11 @@
     {
       "code": "DUNGEON2",
       "reward": "10 Jade",
+      "status": "active"
+    },
+    {
+      "code": "DUNGEON3",
+      "reward": "10 Jades and 1 Ore Pot",
       "status": "active"
     },
     {

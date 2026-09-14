@@ -2,8 +2,8 @@
   "title": "Huzz RNG Codes (September 2026)",
   "gameName": "Huzz RNG",
   "description": "Working Huzz RNG codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-06",
-  "checkedAt": "2026-09-06",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/huzz-rng.webp",
   "placeId": 89100823864844,
@@ -436,6 +436,11 @@
     {
       "code": "YOKOSO",
       "reward": "1 Sovereign Pot, 25 Premium Potion Crates, and 25 Premium Goodie Crates",
+      "status": "active"
+    },
+    {
+      "code": "ZZZUPDATE",
+      "reward": "50 Premium Potion Crates and 50 Premium Goodie Crates",
       "status": "active"
     },
     {

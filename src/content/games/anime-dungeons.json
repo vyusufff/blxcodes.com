@@ -2,8 +2,8 @@
   "title": "Anime Dungeons Codes (September 2026)",
   "gameName": "Anime Dungeons",
   "description": "Working Anime Dungeons codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-07",
-  "checkedAt": "2026-09-07",
+  "updatedAt": "2026-09-14",
+  "checkedAt": "2026-09-14",
   "featured": true,
   "cover": "/images/games/card/anime-dungeons.webp",
   "placeId": 70863683083739,
@@ -46,6 +46,11 @@
     {
       "code": "DUNGEON5",
       "reward": "20 trait rolls and 2k gems",
+      "status": "active"
+    },
+    {
+      "code": "INFINITY",
+      "reward": "15 trait rolls, 500 gems, and three wheel spins (!)",
       "status": "active"
     },
     {
