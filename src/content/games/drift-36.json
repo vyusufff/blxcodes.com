@@ -1,9 +1,9 @@
 {
-  "title": "Drift 36 Codes (August 2026)",
+  "title": "Drift 36 Codes (September 2026)",
   "gameName": "Drift 36",
   "description": "Working Drift 36 codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-09",
-  "checkedAt": "2026-08-09",
+  "updatedAt": "2026-09-15",
+  "checkedAt": "2026-09-15",
   "featured": true,
   "cover": "/images/games/card/drift-36.webp",
   "placeId": 109170650911069,
@@ -46,6 +46,11 @@
     {
       "code": "120KLIKES",
       "reward": "35k cash",
+      "status": "active"
+    },
+    {
+      "code": "1MGROUPMEMBER",
+      "reward": "50k cash (!)",
       "status": "active"
     },
     {
