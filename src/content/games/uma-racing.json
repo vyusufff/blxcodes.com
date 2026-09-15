@@ -1,9 +1,9 @@
 {
-  "title": "Uma Racing Codes (July 2026)",
+  "title": "Uma Racing Codes (September 2026)",
   "gameName": "Uma Racing",
   "description": "Working Uma Racing codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-15",
+  "checkedAt": "2026-09-15",
   "featured": true,
   "cover": "/images/games/card/uma-racing.webp",
   "placeId": 94101948530988,
@@ -29,13 +29,13 @@
   ],
   "codes": [
     {
-      "code": "FREEFORTICKETORPULL",
-      "reward": "3750 Cash",
+      "code": "LONGHIATUS",
+      "reward": "Free rewards",
       "status": "active"
     },
     {
-      "code": "NEOGALAXY",
-      "reward": "2500 Cash",
+      "code": "OPERAREVAMP",
+      "reward": "Free rewards",
       "status": "active"
     },
     {
@@ -76,6 +76,11 @@
     {
       "code": "FOLLOWMEME",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FREEFORTICKETORPULL",
+      "reward": "3750 Cash",
       "status": "expired"
     },
     {
@@ -121,6 +126,11 @@
     {
       "code": "MOBILEFIXES",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "NEOGALAXY",
+      "reward": "2500 Cash",
       "status": "expired"
     },
     {
