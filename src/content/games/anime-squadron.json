@@ -2,8 +2,8 @@
   "title": "Anime Squadron Codes (September 2026)",
   "gameName": "Anime Squadron",
   "description": "Working Anime Squadron codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-05",
-  "checkedAt": "2026-09-05",
+  "updatedAt": "2026-09-16",
+  "checkedAt": "2026-09-16",
   "featured": true,
   "cover": "/images/games/card/anime-squadron.webp",
   "placeId": 71132543521245,
@@ -29,6 +29,11 @@
   ],
   "codes": [
     {
+      "code": "10KCCUTHANKS!",
+      "reward": "5K Reijatsu Crystal, and 100 Trait Shards",
+      "status": "active"
+    },
+    {
       "code": "CrystalCompensation",
       "reward": "50 Trait Shards, 10 Devil Capsules, 25 Reroll Cubes, and 1.5K Gems",
       "status": "active"
@@ -51,6 +56,11 @@
     {
       "code": "ThePowerToProtect!",
       "reward": "50 Trait Shards, 10 Devil Capsules, 25 Reroll Cubes, and 1.5K Gems",
+      "status": "active"
+    },
+    {
+      "code": "WAdminAbuse!",
+      "reward": "50 Trait Shards, 25 Crusader Capsule and Devil Capsule",
       "status": "active"
     },
     {
