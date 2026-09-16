@@ -1,9 +1,9 @@
 {
-  "title": "Horse Racing Legends Codes (August 2026)",
+  "title": "Horse Racing Legends Codes (September 2026)",
   "gameName": "Horse Racing Legends",
   "description": "Working Horse Racing Legends codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-25",
-  "checkedAt": "2026-08-25",
+  "updatedAt": "2026-09-16",
+  "checkedAt": "2026-09-16",
   "featured": true,
   "cover": "/images/games/card/horse-racing-legends.webp",
   "placeId": 86544322519715,
@@ -29,33 +29,8 @@
   ],
   "codes": [
     {
-      "code": "MAPEXPANSION",
-      "reward": "500 coins and five lucky spins",
-      "status": "active"
-    },
-    {
-      "code": "thunderbolt",
-      "reward": "500 coins and five lucky spins",
-      "status": "active"
-    },
-    {
-      "code": "5KLIKESFORMORE",
-      "reward": "100 coins and 25 normal spins",
-      "status": "active"
-    },
-    {
-      "code": "PROSERVERS",
-      "reward": "five lucky spins",
-      "status": "active"
-    },
-    {
       "code": "20KLIKESFORMORE",
       "reward": "100 coins and 25 normal spins",
-      "status": "active"
-    },
-    {
-      "code": "HORSESARECOOL",
-      "reward": "250 coins and an accessory",
       "status": "active"
     },
     {
@@ -64,8 +39,38 @@
       "status": "active"
     },
     {
-      "code": "THUNDERBOLT",
+      "code": "HORSESARECOOL",
+      "reward": "250 coins and an accessory",
+      "status": "active"
+    },
+    {
+      "code": "MAPEXPANSION",
+      "reward": "500 coins and five lucky spins",
+      "status": "active"
+    },
+    {
+      "code": "PRIVATESERVER",
+      "reward": "25 lucky spins and 1k coins (!)",
+      "status": "active"
+    },
+    {
+      "code": "PROSERVERS",
+      "reward": "five lucky spins",
+      "status": "active"
+    },
+    {
+      "code": "thunderbolt",
+      "reward": "500 coins and five lucky spins",
+      "status": "active"
+    },
+    {
+      "code": "2026",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "5KLIKESFORMORE",
+      "reward": "100 coins and 25 normal spins",
       "status": "expired"
     },
     {
@@ -74,12 +79,12 @@
       "status": "expired"
     },
     {
-      "code": "VG247",
+      "code": "THUNDERBOLT",
       "reward": "Expired reward",
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "VG247",
       "reward": "Expired reward",
       "status": "expired"
     }
