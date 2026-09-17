@@ -1,9 +1,9 @@
 {
-  "title": "Da Hood Codes (July 2026)",
+  "title": "Da Hood Codes (September 2026)",
   "gameName": "Da Hood",
   "description": "Working Da Hood codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-17",
+  "checkedAt": "2026-09-17",
   "featured": true,
   "cover": "/images/games/card/da-hood.webp",
   "placeId": 2788229376,
@@ -39,6 +39,11 @@
       "status": "active"
     },
     {
+      "code": "BUFF",
+      "reward": "Redeem for 500,000 DHC",
+      "status": "active"
+    },
+    {
       "code": "BUILD",
       "reward": "Redeem for 1M DHC",
       "status": "active"
@@ -49,6 +54,11 @@
       "status": "active"
     },
     {
+      "code": "DOG",
+      "reward": "Redeem for 300,000 DHC",
+      "status": "active"
+    },
+    {
       "code": "EASTER26",
       "reward": "Redeem for 867,000 DHC",
       "status": "active"
@@ -56,6 +66,16 @@
     {
       "code": "FOURTH26",
       "reward": "Redeem for 2,444,444 DHC",
+      "status": "active"
+    },
+    {
+      "code": "PVP",
+      "reward": "Redeem for 500,000 DHC",
+      "status": "active"
+    },
+    {
+      "code": "SHARK",
+      "reward": "Redeem for 300,000 DHC",
       "status": "active"
     },
     {
