@@ -2,8 +2,8 @@
   "title": "Ultimate Tower Defense Simulator Codes (September 2026)",
   "gameName": "Ultimate Tower Defense Simulator",
   "description": "Working Ultimate Tower Defense Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-03",
-  "checkedAt": "2026-09-03",
+  "updatedAt": "2026-09-17",
+  "checkedAt": "2026-09-17",
   "featured": true,
   "cover": "/images/games/card/ultimate-tower-defense-simulator.webp",
   "placeId": 5902977746,
@@ -74,6 +74,11 @@
       "status": "active"
     },
     {
+      "code": "kenpachirework",
+      "reward": "75 perk rerolls, 75 trait rerolls, 12 impure souls, and ten lost chests (!)",
+      "status": "active"
+    },
+    {
       "code": "ll_lounter",
       "reward": "a shiny CC Counter unit",
       "status": "active"
@@ -106,6 +111,11 @@
     {
       "code": "ThankYouForFeedback2026",
       "reward": "106 perk rerolls, 106 trait rerolls, 20 impure souls, and five lost chests",
+      "status": "active"
+    },
+    {
+      "code": "TUNG",
+      "reward": "25 perk rerolls and 50 trait rerolls (!)",
       "status": "active"
     },
     {
