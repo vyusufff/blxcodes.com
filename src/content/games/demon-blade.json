@@ -1,9 +1,9 @@
 {
-  "title": "Demon Blade Codes (August 2026) Codes (July 2026)",
+  "title": "Demon Blade Codes (September 2026) Codes (July 2026)",
   "gameName": "Demon Blade Codes (July 2026)",
   "description": "Working Demon Blade Codes (July 2026) codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-14",
-  "checkedAt": "2026-08-14",
+  "updatedAt": "2026-09-18",
+  "checkedAt": "2026-09-18",
   "featured": true,
   "cover": "/images/games/card/demon-blade.webp",
   "placeId": 15014439457,
@@ -36,6 +36,11 @@
     {
       "code": "FLAMEV2RELEASE",
       "reward": "10 Race SPIN, 5 Epic egg, 1 Mythical egg, 100000 Money, and Double EXP for 60 minutes",
+      "status": "active"
+    },
+    {
+      "code": "FLOWERREWORK",
+      "reward": "10 Race Spin, 5 Epic Egg, 1 Mythical Egg, and 100k Money, and Double EXP for 60 mins",
       "status": "active"
     },
     {

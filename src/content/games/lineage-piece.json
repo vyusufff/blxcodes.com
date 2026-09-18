@@ -1,9 +1,9 @@
 {
-  "title": "Lineage Piece Codes (August 2026)",
+  "title": "Lineage Piece Codes (September 2026)",
   "gameName": "Lineage Piece",
   "description": "Working Lineage Piece codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-27",
-  "checkedAt": "2026-08-27",
+  "updatedAt": "2026-09-18",
+  "checkedAt": "2026-09-18",
   "featured": true,
   "cover": "/images/games/card/lineage-piece.webp",
   "placeId": 104761395312874,
@@ -29,33 +29,33 @@
   ],
   "codes": [
     {
-      "code": "120KLIKES",
-      "reward": "Rerolls, Coins, and Gems rewards ( , level 300)",
-      "status": "active"
-    },
-    {
-      "code": "130KLIKES",
-      "reward": "Rerolls, Coins, and Gems rewards ( , level 450)",
-      "status": "active"
-    },
-    {
-      "code": "140KLIKES",
-      "reward": "Rerolls, Coins, and Gems rewards ( , level 650)",
-      "status": "active"
-    },
-    {
-      "code": "15MVISITS",
+      "code": "240KLIKES",
       "reward": "Rerolls, Coins, and Gems rewards ( , level 1500)",
       "status": "active"
     },
     {
-      "code": "40KFAV",
-      "reward": "Rerolls, Coins, and Gems rewards ( , level 2500)",
+      "code": "250KLIKES",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 1500)",
       "status": "active"
     },
     {
-      "code": "FRIERENOMG",
+      "code": "30MVISITS",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 1750)",
+      "status": "active"
+    },
+    {
+      "code": "MCJJKOMG",
       "reward": "Rerolls, Coins, and Gems rewards ( , level 100)",
+      "status": "active"
+    },
+    {
+      "code": "NARUTONOWAY",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 250)",
+      "status": "active"
+    },
+    {
+      "code": "OMGELYSIA",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 1000)",
       "status": "active"
     },
     {
@@ -64,8 +64,13 @@
       "status": "active"
     },
     {
-      "code": "WAITWEHAVEYUJI",
-      "reward": "Rerolls, Coins, and Gems rewards ( , level 800)",
+      "code": "SORRYSLOWUPD",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 1500)",
+      "status": "active"
+    },
+    {
+      "code": "YUTAWOW",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 750)",
       "status": "active"
     },
     {
@@ -81,6 +86,26 @@
     {
       "code": "10MVISITS",
       "reward": "Rerolls, Coins, and Gems rewards ( , level 2500)",
+      "status": "expired"
+    },
+    {
+      "code": "120KLIKES",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 300)",
+      "status": "expired"
+    },
+    {
+      "code": "130KLIKES",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 450)",
+      "status": "expired"
+    },
+    {
+      "code": "140KLIKES",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 650)",
+      "status": "expired"
+    },
+    {
+      "code": "15MVISITS",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 1500)",
       "status": "expired"
     },
     {
@@ -111,6 +136,11 @@
     {
       "code": "35KLIKES",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "40KFAV",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 2500)",
       "status": "expired"
     },
     {
@@ -166,6 +196,11 @@
     {
       "code": "FIREFLYSAM",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "FRIERENOMG",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 100)",
       "status": "expired"
     },
     {
@@ -301,6 +336,11 @@
     {
       "code": "UPDATE10",
       "reward": "Rerolls, Coins, and Gems rewards ( , level 500)",
+      "status": "expired"
+    },
+    {
+      "code": "WAITWEHAVEYUJI",
+      "reward": "Rerolls, Coins, and Gems rewards ( , level 800)",
       "status": "expired"
     },
     {

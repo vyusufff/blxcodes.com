@@ -2,8 +2,8 @@
   "title": "Immortality Incremental Codes (September 2026)",
   "gameName": "Immortality Incremental",
   "description": "Working Immortality Incremental codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-14",
-  "checkedAt": "2026-09-14",
+  "updatedAt": "2026-09-18",
+  "checkedAt": "2026-09-18",
   "featured": true,
   "cover": "/images/games/card/immortality-incremental.webp",
   "placeId": 75317862071711,
@@ -134,6 +134,11 @@
       "status": "active"
     },
     {
+      "code": "DAOCORE",
+      "reward": "15 Jades",
+      "status": "active"
+    },
+    {
       "code": "DAOPATH",
       "reward": "25 Tickets and 1 Potion of everything",
       "status": "active"
@@ -156,6 +161,11 @@
     {
       "code": "DUNGEON3",
       "reward": "10 Jades and 1 Ore Pot",
+      "status": "active"
+    },
+    {
+      "code": "DUNGEON4",
+      "reward": "15 Jades and 1 potion of everything",
       "status": "active"
     },
     {
@@ -269,6 +279,16 @@
       "status": "active"
     },
     {
+      "code": "ORIGINBALANCE",
+      "reward": "20 Jades",
+      "status": "active"
+    },
+    {
+      "code": "ORIGINSECRETS",
+      "reward": "1 Ore Potion and 15 Tickets",
+      "status": "active"
+    },
+    {
       "code": "PART1",
       "reward": "5 Tickets and 5 of each potion",
       "status": "active"
@@ -341,6 +361,11 @@
     {
       "code": "VITALITY",
       "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "W7PT2",
+      "reward": "10 Tickets and 1 of each Path Potion",
       "status": "active"
     },
     {

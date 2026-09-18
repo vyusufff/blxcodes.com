@@ -1,9 +1,9 @@
 {
-  "title": "Roll Anime to Fight Codes (August 2026) Codes (July 2026)",
+  "title": "Roll Anime to Fight Codes (September 2026) Codes (July 2026)",
   "gameName": "Roll Anime to Fight Codes (July 2026)",
   "description": "Working Roll Anime to Fight Codes (July 2026) codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-30",
-  "checkedAt": "2026-08-30",
+  "updatedAt": "2026-09-18",
+  "checkedAt": "2026-09-18",
   "featured": true,
   "cover": "/images/games/card/roll-anime-to-fight.webp",
   "placeId": 107653945083776,
@@ -100,6 +100,11 @@
     },
     {
       "code": "SORRYFORSHUTDOWN",
+      "reward": "Free Rewards",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORSHUTDOWN!!",
       "reward": "Free Rewards",
       "status": "active"
     },

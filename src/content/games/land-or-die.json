@@ -1,9 +1,9 @@
 {
-  "title": "Land Or Die Codes (August 2026)",
+  "title": "Land Or Die Codes (September 2026)",
   "gameName": "Land Or Die",
   "description": "Working Land Or Die codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-24",
-  "checkedAt": "2026-08-24",
+  "updatedAt": "2026-09-18",
+  "checkedAt": "2026-09-18",
   "featured": true,
   "cover": "/images/games/card/land-or-die.webp",
   "placeId": 75547400568620,
@@ -29,23 +29,13 @@
   ],
   "codes": [
     {
+      "code": "AGENTBACON",
+      "reward": "get an Access Denied message (requires a special role)",
+      "status": "active"
+    },
+    {
       "code": "CARGO",
       "reward": "free rewards (!)",
-      "status": "active"
-    },
-    {
-      "code": "THECRACK",
-      "reward": "1k miles",
-      "status": "active"
-    },
-    {
-      "code": "SUPERNOVA",
-      "reward": "free rewards",
-      "status": "active"
-    },
-    {
-      "code": "GOOSE",
-      "reward": "free rewards",
       "status": "active"
     },
     {
@@ -59,34 +49,24 @@
       "status": "active"
     },
     {
-      "code": "AGENTBACON",
-      "reward": "get an Access Denied message (requires a special role)",
+      "code": "GOOSE",
+      "reward": "free rewards",
       "status": "active"
     },
     {
-      "code": "MAYDAY",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "SUPERNOVA",
+      "reward": "free rewards",
+      "status": "active"
     },
     {
-      "code": "THEYAREHERE",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "THECRACK",
+      "reward": "1k miles",
+      "status": "active"
     },
     {
-      "code": "THANKS50M",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "WELCOMEABOARD",
-      "reward": "Expired reward",
-      "status": "expired"
-    },
-    {
-      "code": "PCGamesInsider",
-      "reward": "Expired reward",
-      "status": "expired"
+      "code": "TSUNAMI",
+      "reward": "free citrus plane skin (!)",
+      "status": "active"
     },
     {
       "code": "2021",
@@ -99,7 +79,22 @@
       "status": "expired"
     },
     {
+      "code": "2026",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
       "code": "FNAF",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "MAYDAY",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "PCGamesInsider",
       "reward": "Expired reward",
       "status": "expired"
     },
@@ -109,7 +104,17 @@
       "status": "expired"
     },
     {
-      "code": "2026",
+      "code": "THANKS50M",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "THEYAREHERE",
+      "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "WELCOMEABOARD",
       "reward": "Expired reward",
       "status": "expired"
     }
