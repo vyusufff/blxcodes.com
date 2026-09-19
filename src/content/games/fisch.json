@@ -2,7 +2,7 @@
   "title": "Fisch Codes (September 2026)",
   "gameName": "Fisch",
   "description": "Working Fisch Roblox codes for coins, items, skins, and fishing rewards.",
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-19",
   "featured": true,
   "cover": "/images/games/card/fisch.webp",
   "placeId": 16732694052,
@@ -35,6 +35,11 @@
     {
       "code": "LittleBudlingUpdate",
       "reward": "1000 Coins, Walrus boat, 5x Icy Fisch’n Dots, 5x Coral Pearl, 5x Cotton Candy Pieces, 5x Tropical Fruit mix, and a Random Totem",
+      "status": "active"
+    },
+    {
+      "code": "MarianaIsGoingCrazy",
+      "reward": "1000 Coins, 10x Instant Catcher, 5x Luminous Larva, Him companion, and a Random item",
       "status": "active"
     },
     {
@@ -618,5 +623,5 @@
       "status": "expired"
     }
   ],
-  "checkedAt": "2026-09-12"
+  "checkedAt": "2026-09-19"
 }

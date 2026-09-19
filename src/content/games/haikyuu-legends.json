@@ -2,8 +2,8 @@
   "title": "Haikyuu Legends Codes (September 2026)",
   "gameName": "Haikyuu Legends",
   "description": "Working Haikyuu Legends codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-12",
-  "checkedAt": "2026-09-12",
+  "updatedAt": "2026-09-19",
+  "checkedAt": "2026-09-19",
   "featured": true,
   "cover": "/images/games/card/haikyuu-legends.webp",
   "placeId": 73956553001240,
@@ -29,18 +29,18 @@
   ],
   "codes": [
     {
-      "code": "KATANA",
-      "reward": "5 Lucky Ability Spins",
-      "status": "active"
-    },
-    {
-      "code": "RONIN_RETURN",
+      "code": "GET_SLIMED",
       "reward": "5 Lucky Style Spins",
       "status": "active"
     },
     {
-      "code": "UPDATE_87",
+      "code": "UPDATE_88",
       "reward": "5 Lucky Style Spins",
+      "status": "active"
+    },
+    {
+      "code": "XP_BOOST",
+      "reward": "2x XP Potion",
       "status": "active"
     },
     {
@@ -124,6 +124,11 @@
       "status": "expired"
     },
     {
+      "code": "KATANA",
+      "reward": "5 Lucky Ability Spins",
+      "status": "expired"
+    },
+    {
       "code": "KNEE_SLIDE",
       "reward": "5 Lucky Ability Spins",
       "status": "expired"
@@ -181,6 +186,11 @@
     {
       "code": "ROKETTO",
       "reward": "5 Lucky Style Spin",
+      "status": "expired"
+    },
+    {
+      "code": "RONIN_RETURN",
+      "reward": "5 Lucky Style Spins",
       "status": "expired"
     },
     {
@@ -330,6 +340,11 @@
     },
     {
       "code": "UPDATE_86",
+      "reward": "5 Lucky Style Spins",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE_87",
       "reward": "5 Lucky Style Spins",
       "status": "expired"
     },

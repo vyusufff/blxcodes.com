@@ -1,9 +1,9 @@
 {
-  "title": "Arm Wrestle Simulator Codes (August 2026)",
+  "title": "Arm Wrestle Simulator Codes (September 2026)",
   "gameName": "Arm Wrestle Simulator",
   "description": "Working Arm Wrestle Simulator codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-08-15",
-  "checkedAt": "2026-08-15",
+  "updatedAt": "2026-09-19",
+  "checkedAt": "2026-09-19",
   "featured": true,
   "cover": "/images/games/card/arm-wrestle-simulator.webp",
   "placeId": 13127800756,
@@ -239,6 +239,11 @@
       "status": "active"
     },
     {
+      "code": "hellogarden",
+      "reward": "Use for 3x stat boost for 72 hours",
+      "status": "active"
+    },
+    {
       "code": "hideout",
       "reward": "Use for 3x stat boost for 48 hours and 2500 Prison Coins",
       "status": "active"
@@ -251,6 +256,16 @@
     {
       "code": "icecold",
       "reward": "Use for 3x boost for 24 hours of 3x multiplier",
+      "status": "active"
+    },
+    {
+      "code": "itsaquatime",
+      "reward": "Use for 3x stat boost for 72 hours",
+      "status": "active"
+    },
+    {
+      "code": "majorpane",
+      "reward": "Use for 3x stat boost for 72 hours",
       "status": "active"
     },
     {
@@ -421,6 +436,11 @@
     {
       "code": "timetravel",
       "reward": "Use for 48 hours of 3x strength and +5% boost on all stats",
+      "status": "active"
+    },
+    {
+      "code": "timetrialtime",
+      "reward": "Use for 3x stat boost for 72 hours",
       "status": "active"
     },
     {

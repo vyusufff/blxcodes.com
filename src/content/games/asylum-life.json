@@ -2,8 +2,8 @@
   "title": "Asylum Life Codes (September 2026)",
   "gameName": "Asylum Life",
   "description": "Working Asylum Life codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-05",
-  "checkedAt": "2026-09-05",
+  "updatedAt": "2026-09-19",
+  "checkedAt": "2026-09-19",
   "featured": true,
   "cover": "/images/games/card/asylum-life.webp",
   "placeId": 132352755769957,
@@ -70,6 +70,11 @@
     },
     {
       "code": "FAMILIARPLACE",
+      "reward": "3x EXP Booster",
+      "status": "active"
+    },
+    {
+      "code": "FORKLIFTCERTIFIED",
       "reward": "3x EXP Booster",
       "status": "active"
     },

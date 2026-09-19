@@ -2,8 +2,8 @@
   "title": "Emote Rng Codes (September 2026)",
   "gameName": "Emote Rng",
   "description": "Working Emote Rng codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-01",
-  "checkedAt": "2026-09-01",
+  "updatedAt": "2026-09-19",
+  "checkedAt": "2026-09-19",
   "featured": true,
   "cover": "/images/games/card/emote-rng.webp",
   "placeId": 132768306953643,
@@ -39,6 +39,11 @@
       "status": "active"
     },
     {
+      "code": "ANNIVERSARY",
+      "reward": "10M cash and two of each consumable (!)",
+      "status": "active"
+    },
+    {
       "code": "BULKDELETE",
       "reward": "two 15-minute double luck boosts",
       "status": "active"
@@ -49,6 +54,11 @@
       "status": "active"
     },
     {
+      "code": "LEVELUP",
+      "reward": "50k cash and one 15-minute double luck boost (!)",
+      "status": "active"
+    },
+    {
       "code": "LLJ",
       "reward": "mutation luck (!)",
       "status": "active"
@@ -56,6 +66,11 @@
     {
       "code": "THUNDERSTORMS",
       "reward": "mutation luck (!)",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE28",
+      "reward": "two 15-minute double luck boosts (!)",
       "status": "active"
     },
     {

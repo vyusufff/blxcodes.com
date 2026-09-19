@@ -2,8 +2,8 @@
   "title": "Flashpoint Worlds Collide Codes (September 2026)",
   "gameName": "Flashpoint Worlds Collide",
   "description": "Working Flashpoint Worlds Collide codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-13",
-  "checkedAt": "2026-09-13",
+  "updatedAt": "2026-09-19",
+  "checkedAt": "2026-09-19",
   "featured": true,
   "cover": "/images/games/card/flashpoint-worlds-collide.webp",
   "placeId": 13796645198,
@@ -34,6 +34,16 @@
       "status": "active"
     },
     {
+      "code": "finallyicanrunwithfriends",
+      "reward": "50,000 Cash and 50,000 Exp",
+      "status": "active"
+    },
+    {
+      "code": "flashburstability!",
+      "reward": "50,000 Cash and 50,000 Exp",
+      "status": "active"
+    },
+    {
       "code": "jldownfall",
       "reward": "The Flash [SSKTJL] Suit",
       "status": "active"
@@ -56,6 +66,11 @@
     {
       "code": "nonstoptt",
       "reward": "Kbnonstop Suit",
+      "status": "active"
+    },
+    {
+      "code": "sososomanynewsuits",
+      "reward": "50,000 Cash and 50,000 Exp",
       "status": "active"
     },
     {

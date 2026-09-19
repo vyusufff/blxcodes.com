@@ -1,9 +1,9 @@
 {
-  "title": "Gym League Codes (July 2026)",
+  "title": "Gym League Codes (September 2026)",
   "gameName": "Gym League",
   "description": "Working Gym League codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-19",
+  "checkedAt": "2026-09-19",
   "featured": true,
   "cover": "/images/games/card/gym-league.webp",
   "placeId": 17450551531,
@@ -54,6 +54,11 @@
       "status": "active"
     },
     {
+      "code": "ASCENSION",
+      "reward": "500 Cash and 3 Breakfast of Champions",
+      "status": "active"
+    },
+    {
       "code": "BALANCE",
       "reward": "3 Cosmic Potions, 3 Mega Potions, and 3 Power Potions",
       "status": "active"
@@ -99,6 +104,11 @@
       "status": "active"
     },
     {
+      "code": "DIVINE",
+      "reward": "20 minutes of 1.25x Muscle Gain Buff",
+      "status": "active"
+    },
+    {
       "code": "DUNGEONGYM",
       "reward": "5 Mega Potions and 5 Power Potions",
       "status": "active"
@@ -121,6 +131,11 @@
     {
       "code": "FOLLOWGYMLEAGUERBLX",
       "reward": "3x Small Speed Potions",
+      "status": "active"
+    },
+    {
+      "code": "FRESHSTART",
+      "reward": "20 minutes of 1.25x Cash Gain Buff",
       "status": "active"
     },
     {
@@ -301,6 +316,11 @@
     {
       "code": "update31",
       "reward": "5 Breakfast of champions, 5 Warriors Lunch, 5 Dinner of Legends",
+      "status": "active"
+    },
+    {
+      "code": "WORLD10",
+      "reward": "20 minutes of 1.25x Cash Gain Buff",
       "status": "active"
     },
     {

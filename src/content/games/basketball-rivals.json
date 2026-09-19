@@ -2,8 +2,8 @@
   "title": "Basketball Rivals Codes (September 2026)",
   "gameName": "Basketball Rivals",
   "description": "Working Basketball Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-12",
-  "checkedAt": "2026-09-12",
+  "updatedAt": "2026-09-19",
+  "checkedAt": "2026-09-19",
   "featured": true,
   "cover": "/images/games/card/basketball-rivals.webp",
   "placeId": 130739873848552,
@@ -29,13 +29,18 @@
   ],
   "codes": [
     {
-      "code": "15SCARYMONSTER",
-      "reward": "15 Lucky Spins",
+      "code": "15KIRA",
+      "reward": "7 Lucky Spins and 50,000",
       "status": "active"
     },
     {
-      "code": "SCARYMONSTER",
-      "reward": "10 Lucky Spins",
+      "code": "CHROLLOBDAY",
+      "reward": "10 Lucky Spins and 100,000",
+      "status": "active"
+    },
+    {
+      "code": "KIRA",
+      "reward": "5 Lucky Spins and 10,000",
       "status": "active"
     },
     {
@@ -45,6 +50,11 @@
     },
     {
       "code": "15IZURE",
+      "reward": "15 Lucky Spins",
+      "status": "expired"
+    },
+    {
+      "code": "15SCARYMONSTER",
       "reward": "15 Lucky Spins",
       "status": "expired"
     },
@@ -231,6 +241,11 @@
     {
       "code": "riftkuro-serverfix-sorryjofu",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "SCARYMONSTER",
+      "reward": "10 Lucky Spins",
       "status": "expired"
     },
     {
