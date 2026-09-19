@@ -2,8 +2,8 @@
   "title": "Blue Lock Rivals Codes (September 2026)",
   "gameName": "Blue Lock Rivals",
   "description": "Working Blue Lock Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-13",
-  "checkedAt": "2026-09-13",
+  "updatedAt": "2026-09-19",
+  "checkedAt": "2026-09-19",
   "featured": true,
   "cover": "/images/games/card/blue-lock-rivals.webp",
   "placeId": 18668065416,
@@ -29,17 +29,17 @@
   ],
   "codes": [
     {
-      "code": "GATEKEEPOVER",
+      "code": "BUGFIXES",
       "reward": "5 Lucky Flows",
       "status": "active"
     },
     {
-      "code": "NIKOHERE",
+      "code": "SNUFFYSOON",
       "reward": "5 Lucky Spins and 5 Lucky Flows",
       "status": "active"
     },
     {
-      "code": "QOLNEXTWEEK!",
+      "code": "UBERSCONTINUES",
       "reward": "5 Lucky Spins",
       "status": "active"
     },
@@ -91,6 +91,11 @@
     {
       "code": "GAGAREWORK",
       "reward": "Expired reward",
+      "status": "expired"
+    },
+    {
+      "code": "GATEKEEPOVER",
+      "reward": "5 Lucky Flows",
       "status": "expired"
     },
     {
@@ -209,8 +214,18 @@
       "status": "expired"
     },
     {
+      "code": "NIKOHERE",
+      "reward": "5 Lucky Spins and 5 Lucky Flows",
+      "status": "expired"
+    },
+    {
       "code": "NIKOSOON",
       "reward": "5 Lucky Flows",
+      "status": "expired"
+    },
+    {
+      "code": "QOLNEXTWEEK!",
+      "reward": "5 Lucky Spins",
       "status": "expired"
     },
     {
