@@ -2,8 +2,8 @@
   "title": "Rivals Codes (September 2026)",
   "gameName": "Rivals",
   "description": "Working Rivals codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-09-08",
-  "checkedAt": "2026-09-08",
+  "updatedAt": "2026-09-19",
+  "checkedAt": "2026-09-19",
   "featured": true,
   "cover": "/images/games/card/rivals.webp",
   "placeId": 17625359962,
@@ -29,6 +29,11 @@
   ],
   "codes": [
     {
+      "code": "BACK2BACK",
+      "reward": "RIA26 Best Shooter Charm (All Weapons, )",
+      "status": "active"
+    },
+    {
       "code": "BONUS",
       "reward": "1 Key",
       "status": "active"
@@ -44,13 +49,23 @@
       "status": "active"
     },
     {
+      "code": "COMMUNITY26",
+      "reward": "x1 Community Wrap",
+      "status": "active"
+    },
+    {
       "code": "ELBILLUG",
       "reward": "Nothing (joke code, it&#8217;s GULLIBLE spelled backwards)",
       "status": "active"
     },
     {
-      "code": "FREE197",
+      "code": "FREE198",
       "reward": "3 Keys",
+      "status": "active"
+    },
+    {
+      "code": "NOSNIYGAMESONTOP",
+      "reward": "RIA26 Best Studio Emote",
       "status": "active"
     },
     {
@@ -270,6 +285,11 @@
     },
     {
       "code": "FREE196",
+      "reward": "3 Keys",
+      "status": "expired"
+    },
+    {
+      "code": "FREE197",
       "reward": "3 Keys",
       "status": "expired"
     },

@@ -1,9 +1,9 @@
 {
-  "title": "Clover Retribution Codes (July 2026)",
+  "title": "Clover Retribution Codes (September 2026)",
   "gameName": "Clover Retribution",
   "description": "Working Clover Retribution codes for free in-game rewards. Updated regularly.",
-  "updatedAt": "2026-07-31",
-  "checkedAt": "2026-07-31",
+  "updatedAt": "2026-09-19",
+  "checkedAt": "2026-09-19",
   "featured": true,
   "cover": "/images/games/card/clover-retribution.webp",
   "placeId": 10912405603,
@@ -39,6 +39,11 @@
       "status": "active"
     },
     {
+      "code": "!DOUBLEUP",
+      "reward": "Trait spins, three hours of double EXP boost, and three hours of double drop boost",
+      "status": "active"
+    },
+    {
       "code": "!earlybirdgetsdaspins",
       "reward": "250 spins of all types",
       "status": "active"
@@ -71,6 +76,11 @@
     {
       "code": "!snowmagic",
       "reward": "300 race spins and one trait storage slot",
+      "status": "active"
+    },
+    {
+      "code": "!SPINS200",
+      "reward": "200 Spins of all types",
       "status": "active"
     },
     {
